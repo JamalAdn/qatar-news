@@ -1,6 +1,25 @@
 {
  "editions": [
   {
+   "id": "2026-10-11-pm",
+   "runAt": "2026-10-11T19:45:00Z",
+   "label": "Sun 11 Oct · Evening",
+   "brief": "Only one tracked outlet story about Qatar could be confirmed in this window. The Jerusalem Post covered a think tank ranking of states most likely to join the Abraham Accords, in which Qatar was assessed as unlikely to normalize soon. No US outlet items were confirmed, so no difference in framing could be drawn.",
+   "stories": [
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Kuwait, Lebanon, Syria leading options for Abraham Accords expansion, CSA report assesses",
+     "url": "https://www.jpost.com/middle-east/abraham-accords/article-911306",
+     "published": "2026-10-11T00:00:00Z",
+     "dateOnly": true,
+     "summary": "A Council for a Secure America report ranks nine states for possible normalization with Israel and judges Qatar unlikely to join soon because of its ties to Iran and the Muslim Brotherhood.",
+     "major": false
+    }
+   ]
+  },
+  {
    "id": "2026-10-11-am",
    "runAt": "2026-10-11T07:45:00Z",
    "label": "Sun 11 Oct · Morning",
