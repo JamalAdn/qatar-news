@@ -29,6 +29,7 @@ jobs:
           # Set ONE of these two secrets in Settings > Secrets and variables > Actions.
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          show_full_output: "true"
           claude_args: |
             --allowedTools "WebSearch,WebFetch,Read,Edit,Write,Bash(date:*),Bash(python3:*)"
           prompt: |
