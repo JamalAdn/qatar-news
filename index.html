@@ -13,21 +13,15 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Libre+Franklin:wght@500;600&display=swap">
 <style>
-html{-webkit-text-size-adjust:100%}*,*::before,*::after{box-sizing:border-box}body{margin:0}img{max-width:100%}[hidden]{display:none!important}
+html{-webkit-text-size-adjust:100%;color-scheme:light}*,*::before,*::after{box-sizing:border-box}body{margin:0}img{max-width:100%}[hidden]{display:none!important}
 /* Layout: a broadsheet front page. Folio strip, masthead, date bar between rules, then lead / second column / sidebar boxes, then the rest of the wire in newspaper columns. */
 :root{
-  --paper:#F1EDE4; --box:#E9E3D6; --ink:#1A1915; --muted:#6B665B; --rule:#1A1915; --hair:#CFC7B6;
+  --paper:#FFFFFF; --box:#F6F4EF; --ink:#1A1915; --muted:#6B665B; --rule:#1A1915; --hair:#DDD8CE;
   --kicker:#8A1538; --major:#8A1538;
   --masthead:"Libre Caslon Text", "Baskerville", Georgia, serif;
   --serif:"Source Serif 4", Georgia, "Times New Roman", serif;
   --sans:"Libre Franklin", "Helvetica Neue", Arial, sans-serif;
 }
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
-  --paper:#171612; --box:#211F1A; --ink:#ECE6D8; --muted:#A39C8C; --rule:#ECE6D8; --hair:#3A3730;
-  --kicker:#E2768F; --major:#E2768F; color-scheme:dark}}
-:root[data-theme="dark"]{
-  --paper:#171612; --box:#211F1A; --ink:#ECE6D8; --muted:#A39C8C; --rule:#ECE6D8; --hair:#3A3730;
-  --kicker:#E2768F; --major:#E2768F; color-scheme:dark}
 body{background:var(--paper);color:var(--ink);font-family:var(--serif);font-size:16px;line-height:1.6}
 a{color:inherit}
 .paper{max-width:1180px;margin:0 auto;padding-inline:clamp(16px,4vw,48px);padding-block:22px 64px}
@@ -145,10 +139,10 @@ details.desk summary{cursor:pointer}
   <details class="desk">
     <summary class="caps">The Desk: outlets scanned</summary>
     <div class="deskgrid">
-      <div><span class="kicker">United States</span><ul><li>The New York Times</li><li>The Wall Street Journal</li><li>The Washington Post</li><li>Bloomberg</li><li>Politico</li><li>CNN</li><li>Axios</li><li>Fox News</li></ul></div>
+      <div><span class="kicker">USA</span><ul><li>The New York Times</li><li>The Wall Street Journal</li><li>The Washington Post</li><li>Bloomberg</li><li>Politico</li><li>CNN</li><li>Axios</li><li>Fox News</li></ul></div>
       <div><span class="kicker">Israel</span><ul><li>Haaretz</li><li>The Times of Israel</li><li>The Jerusalem Post</li><li>Ynet / Yedioth Ahronoth</li><li>Israel Hayom</li><li>Maariv</li><li>Globes</li><li>i24NEWS</li><li>N12 (Channel 12)</li><li>Kan</li></ul></div>
       <div><span class="kicker">Wires</span><ul><li>Associated Press</li><li>Reuters</li><li>AFP</li></ul></div>
-      <div><span class="kicker">United Kingdom</span><ul><li>Financial Times</li><li>The Guardian</li><li>BBC</li><li>The Economist</li></ul></div>
+      <div><span class="kicker">UK</span><ul><li>Financial Times</li><li>The Guardian</li><li>BBC</li><li>The Economist</li></ul></div>
     </div>
   </details>
   <p class="note">Headlines and articles belong to their publishers; every story links to the original. Summaries are written by Qatar News. Paywalled outlets carry headline, link and a one-line summary. Hebrew-only stories run with a translated headline and the original beneath it.</p>
@@ -156,8 +150,8 @@ details.desk summary{cursor:pointer}
 
 <script>
 (function(){
-  const REGIONS=[["All","All Coverage"],["US","United States"],["Israel","Israel"],["Wire","Wires"],["UK","United Kingdom"]];
-  const RNAME={US:"United States",Israel:"Israel",Wire:"Wires",UK:"United Kingdom"};
+  const REGIONS=[["All","All Coverage"],["US","USA"],["Israel","Israel"],["Wire","Wires"],["UK","UK"]];
+  const RNAME={US:"USA",Israel:"Israel",Wire:"Wires",UK:"UK"};
   let editions=[], current=null, region="All";
   const $=id=>document.getElementById(id);
   const el=(t,c,x)=>{const n=document.createElement(t);if(c)n.className=c;if(x!=null)n.textContent=x;return n};
@@ -196,7 +190,6 @@ details.desk summary{cursor:pointer}
     if(current){const f=editions.find(e=>e.id===current.id);if(f)current=f}
     const ed=current?current.data:null;
     const all=ed?(ed.stories||[]):[];
-    if(region!=="All"&&!all.some(s=>s.region===region))region="All";
     const stories=all.filter(s=>region==="All"||s.region===region)
       .slice().sort((a,b)=>(b.major?1:0)-(a.major?1:0)||String(b.published||"").localeCompare(String(a.published||"")));
 
@@ -212,7 +205,6 @@ details.desk summary{cursor:pointer}
     const nav=$("sections");nav.replaceChildren();
     REGIONS.forEach(([k,label])=>{
       const n=k==="All"?all.length:all.filter(s=>s.region===k).length;
-      if(k!=="All"&&!n)return;
       const b=el("button",null,label+" ("+n+")");b.type="button";b.setAttribute("aria-pressed",String(region===k));
       b.onclick=()=>{region=k;render()};nav.append(b);
     });
@@ -220,7 +212,7 @@ details.desk summary{cursor:pointer}
     // front page
     const lead=$("leadCol"), second=$("secondCol"); lead.replaceChildren(); second.replaceChildren();
     if(!stories.length){
-      const e=el("div","empty");e.append(el("b",null,editions.length?"A quiet edition":"Setting the type"),document.createTextNode(editions.length?"No roster outlet wrote about Qatar in this window.":"The front page fills in from the latest 12-hour scan."));
+      const e=el("div","empty");e.append(el("b",null,!editions.length?"Setting the type":(region!=="All"?"Nothing from "+RNAME[region]+" this edition":"A quiet edition")),document.createTextNode(!editions.length?"The front page fills in from the latest 12-hour scan.":(region!=="All"?"None of the tracked "+RNAME[region]+" outlets wrote about Qatar in this window.":"No tracked outlet wrote about Qatar in this window.")));
       lead.append(e);
     } else {
       lead.append(storyEl(stories[0],"lead"));
@@ -238,7 +230,7 @@ details.desk summary{cursor:pointer}
     const row=(k,v)=>{const d=el("div","row");d.append(el("span",null,k),el("span","v",v));return d};
     if(!all.length)cov.append(row("Stories","0"));
     else{
-      ["US","Israel","Wire","UK"].forEach(k=>{const n=all.filter(s=>s.region===k).length;if(n)cov.append(row(RNAME[k],String(n)))});
+      ["US","Israel","Wire","UK"].forEach(k=>{const n=all.filter(s=>s.region===k).length;cov.append(row(RNAME[k],String(n)))});
       cov.append(row("Outlets",String(new Set(all.map(s=>s.outlet)).size)));
       const m=all.filter(s=>s.major).length; if(m)cov.append(row("Major stories",String(m)));
     }
