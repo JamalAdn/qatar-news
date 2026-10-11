@@ -1,0 +1,68 @@
+{
+ "editions": [
+  {
+   "brief": "Our first edition looks back over the past ten days. Gulf security dominated coverage: a tanker hit by projectiles off Qatar's north coast, US Patriot batteries sent to protect Gulf energy sites, and a US senator saying the Pentagon kept him out of Al Udeid. Israeli papers also covered the World Bank's forecast of a 4.3% contraction across Gulf economies this year.",
+   "label": "Launch · 1–11 Oct",
+   "runAt": "2026-10-11T04:12:00Z",
+   "stories": [
+    {
+     "dateOnly": true,
+     "headline": "Tanker off Qatar reports hits from multiple projectiles, says maritime agency",
+     "lang": "en",
+     "major": true,
+     "outlet": "The Times of Israel",
+     "published": "2026-10-07T09:00:00Z",
+     "region": "Israel",
+     "summary": "UKMTO reported a tanker struck by several projectiles north of Madinat ash Shamal, with casualties reported. Lead item on the Oct. 7 live blog.",
+     "url": "https://www.timesofisrael.com/liveblog-october-07-2026/"
+    },
+    {
+     "dateOnly": true,
+     "headline": "Middle East economy to shrink 2.1% in 2026, Gulf economies by 4.3%, World Bank forecasts",
+     "lang": "en",
+     "major": false,
+     "outlet": "The Jerusalem Post",
+     "published": "2026-10-08T09:00:00Z",
+     "region": "Israel",
+     "summary": "World Bank projects the Gulf's deepest contraction in years as the Iran war disrupts energy exports.",
+     "url": "https://www.jpost.com/middle-east/article-911069"
+    },
+    {
+     "dateOnly": true,
+     "headline": "RFK Jr. deletes post claiming Israel accusations stem from Qatar-funded Muslim Brotherhood campaign",
+     "lang": "en",
+     "major": false,
+     "outlet": "The Jerusalem Post",
+     "published": "2026-10-08T08:00:00Z",
+     "region": "Israel",
+     "summary": "The HHS secretary removed a social media post blaming criticism of Israel on a Qatar-funded campaign.",
+     "url": "https://www.jpost.com/international/article-910995"
+    },
+    {
+     "dateOnly": true,
+     "headline": "US Senator Murphy says Pentagon denied him access to US base in Qatar",
+     "lang": "en",
+     "major": true,
+     "outlet": "The Jerusalem Post (Reuters)",
+     "published": "2026-10-06T15:00:00Z",
+     "region": "Wire",
+     "summary": "Sen. Chris Murphy says the Pentagon refused him a visit to Al Udeid and a war briefing while he was in the region.",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-910845"
+    },
+    {
+     "dateOnly": true,
+     "headline": "US sends Patriot missile batteries to Saudi Arabia, Qatar to protect oil, gas facilities - report",
+     "lang": "en",
+     "major": true,
+     "outlet": "The Jerusalem Post",
+     "published": "2026-10-02T09:00:00Z",
+     "region": "Israel",
+     "summary": "Report says Washington is deploying additional Patriot batteries to shield Gulf energy infrastructure from Iranian strikes.",
+     "url": "https://www.jpost.com/middle-east/article-910394"
+    }
+   ],
+   "window": "2026-10-01 to 2026-10-11",
+   "id": "2026-10-11-launch"
+  }
+ ]
+}
