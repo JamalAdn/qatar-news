@@ -1,6 +1,24 @@
 {
  "editions": [
   {
+   "id": "2026-10-11-am",
+   "runAt": "2026-10-11T07:45:00Z",
+   "label": "Sun 11 Oct · Morning",
+   "brief": "Qatar coverage in this window was light. The one qualifying story, from an Israeli outlet, covered the Red Cross president's account of meeting Hamas's Ismail Haniyeh in Qatar to seek access to hostages in Gaza. No US outlets or wires with a confirmed timestamp in this window were found.",
+   "stories": [
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Red Cross chief says she tried to arrange Gaza hostage visits through talks with Hamas's Haniyeh",
+     "url": "https://www.jpost.com/middle-east/article-911238",
+     "published": "2026-10-10T18:12:00Z",
+     "summary": "The Red Cross president said in a New York Times interview that she met Ismail Haniyeh twice in Qatar to try to arrange visits to hostages in Gaza, and that the organization still has no access to them.",
+     "major": false
+    }
+   ]
+  },
+  {
    "brief": "Our first edition looks back over the past ten days. Gulf security dominated coverage: a tanker hit by projectiles off Qatar's north coast, US Patriot batteries sent to protect Gulf energy sites, and a US senator saying the Pentagon kept him out of Al Udeid. Israeli papers also covered the World Bank's forecast of a 4.3% contraction across Gulf economies this year.",
    "label": "Launch · 1–11 Oct",
    "runAt": "2026-10-11T04:12:00Z",
