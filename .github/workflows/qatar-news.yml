@@ -1,5 +1,5 @@
 name: Qatar News edition
-
+ 
 on:
   schedule:
     # GitHub cron runs in UTC. 03:45 UTC = 06:45 Doha, 15:45 UTC = 18:45 Doha.
@@ -7,29 +7,28 @@ on:
     - cron: "45 3 * * *"
     - cron: "45 15 * * *"
   workflow_dispatch: {}
-
+ 
 permissions:
   contents: write
   id-token: write
-
+ 
 concurrency:
   group: qatar-news-edition
   cancel-in-progress: false
-
+ 
 jobs:
   edition:
     runs-on: ubuntu-latest
     timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
-
+ 
       - name: Write the new edition with Claude
         uses: anthropics/claude-code-action@v1
         with:
           # Set ONE of these two secrets in Settings > Secrets and variables > Actions.
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          show_full_output: "true"
           claude_args: |
             --allowedTools "WebSearch,WebFetch,Read,Edit,Write,Bash(date:*),Bash(python3:*)"
           prompt: |
@@ -37,13 +36,13 @@ jobs:
             {"editions":[ {edition}, ... ]}, newest first. Your job: find every Qatar-related story published
             by the outlets below in the last 12 hours and add ONE new edition to the top of that array.
             Only edit editions.json. Do not touch any other file.
-
+ 
             SOURCE ROSTER (only these outlets count)
             US: New York Times, Wall Street Journal, Washington Post, Bloomberg, Politico, CNN, Axios, Fox News
             Israel: Haaretz, Times of Israel, Jerusalem Post, Ynet / Yedioth Ahronoth, Israel Hayom, Maariv, Globes, i24NEWS, N12 (Channel 12 / mako), Kan
             Wires: AP, Reuters, AFP
             UK: Financial Times, The Guardian, BBC, The Economist
-
+ 
             HOW TO SEARCH
             1. Get the current time with `date -u`.
             2. WebSearch per outlet group: "Qatar <outlet> <today's date>", "Doha <outlet>", plus topical queries for
@@ -56,7 +55,7 @@ jobs:
             6. Include a story ONLY if you have its real URL and can confirm it was published in the last ~12 hours
                (allow up to 14h overlap). Never invent URLs, headlines, times or summaries. If you know the date but not
                the time, set "dateOnly": true. Drop any story whose URL already appears in the 3 newest editions.
-
+ 
             EDITION FORMAT (keys exactly as below)
             {
               "id": "YYYY-MM-DD-am" or "YYYY-MM-DD-pm" (Doha date; am for the morning run, pm for the evening run),
@@ -74,10 +73,10 @@ jobs:
             If nothing qualifies, still add the edition with "stories": [] and a brief saying no tracked outlet covered
             Qatar in this window. If an edition with the same id already exists, replace it instead of adding a duplicate.
             Keep at most 120 editions (drop the oldest). The file must stay valid JSON, UTF-8, Hebrew unescaped.
-
+ 
       - name: Check the file is valid
         run: python3 -c "import json; d=json.load(open('editions.json')); assert isinstance(d['editions'], list) and d['editions']; print(len(d['editions']), 'editions; newest:', d['editions'][0]['id'])"
-
+ 
       - name: Publish
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -89,5 +88,3 @@ jobs:
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
           git commit -m "Edition $(date -u +%Y-%m-%dT%H:%MZ)"
           git push
-
-          
