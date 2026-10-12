@@ -1,6 +1,58 @@
 {
  "editions": [
   {
+   "id": "2026-10-13-am",
+   "runAt": "2026-10-12T23:09:40Z",
+   "label": "Tue 13 Oct · Morning",
+   "brief": "Qatar coverage was dominated by the Israeli domestic Qatargate affair, with reports that a Netanyahu aide used ChatGPT to shape pro-Qatar messaging and Naftali Bennett attacking the prime minister over Qatar-linked aides. Israeli outlets framed Qatar mainly as a political scandal at home, while US outlets carried little Qatar-specific news in this window.",
+   "stories": [
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "PM's aide Urich used ChatGPT to create pro-Qatar messaging campaign, report says",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPamRiSGptbFFjUnE5NzRNRTdCVk9ERlpVX2staHVsR1RBd2JCVFdSS1Y3S01QdFN2clE0VmR3ZkJWeWlRUDVDcHBKTmp1TDIwbWl5aHNKajg1MDNUeW5JRW5YeWZwSENxMURkSTZGU3JJYzFqWGhaZDRzOEhJZ3BuRWdYRFJaME5CNVpBUjNMVm1LREgtck5maEstX0wtYmQxY1pXdWxBVdIBrAFBVV95cUxQcWhJempEdURDNjVyUHptR000b29RMEhTdjNaSFlNSEo1M0VHRng1d1M0ZjQySUhSUjBFaEZKSDYwY1BLUUJYMTZpbDdoMV9KNDYxVmtxeWVJdjRyU29tNEV0LXVwR0RNTjBlY1AtOE9MOWpqMmtTdE9wZVFqR1JQYVc0VjkzclRnMWRFN2U4ZDAwMmU2Qm94Y3VvUEwwLVNUbGNOSDhVTS01eUM2?oc=5",
+     "published": "2026-10-12T20:47:38Z",
+     "summary": "A report says Netanyahu aide Jonatan Urich used an AI chatbot to draft messaging that cast Qatar favorably, a detail tied to the ongoing Qatargate inquiry.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Haaretz",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Report: Netanyahu aide used ChatGPT to devise strategy to boost Qatar's image",
+     "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQUjluY1paeG5Vc0xNOWFEdmg3UmdxcHdpWGw0SHYtQzZuYUdBTlRRN042SURJTnF6RURhcWRRYVdjNkZYZy1pOU5JVGN4bW44ZE4ya3hxRFlzenNxQ1p2MHFVT09GODRPaHRyckh2WEVlaS02Y1dnVVZOdHU1ZEZ6VmxiV0ZPYU51UjlFaDI1ay1NSmdBbHQtR3RITnE2TUU5MmhqaXJ0ZlVpSmhQdG01QW9EUjlEU19Fdkgta0JKVHd0YW4tMkJ6OFUtLS1yb1lnd0NxYXRFVnVmNUdTcjl2ajh1NUhta2pialBEOGtyby1RMTFDRFE1ZFU2SGJsZWIzOG5sQnlWLWhXaWpmVVFpRUJyQXNTNkZZUk94N29RRFE?oc=5",
+     "published": "2026-10-12T19:54:00Z",
+     "summary": "Haaretz relays the report that the prime minister's aide turned to ChatGPT while planning how to improve Qatar's public image in Israel.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Bennett slams PM for keeping Qatar-linked aides, says he cannot remain in government",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTWlXdG9VSEE3WlFGNE4zVXRYQVVYRF9pWV9DOGVRazZiODlWYlBPOS1yc2tCVHoxREJLUDhqNzZPeU93MWtTRy1rOXhIWWpXc3JLWVZhbkNrR19haU8tVm9wVlNHWmpfNjZOdV9zanZLcHBIRXVNOHM3aFJONDZ6WU9HbFZsNC1oVFFVdkNDekxoSGlsSC1vV3M2eWZZaldaejdlaTFlampUZmFBQXFoeHVCV3RtUGVHc3FKMzdEMHRhS1hldm55Qw?oc=5",
+     "published": "2026-10-12T09:45:10Z",
+     "summary": "Opposition figure Naftali Bennett attacked Netanyahu for keeping aides tied to the Qatar affair and said he could not sit in a government that does so.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "The Blogs: Shadows in Doha",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xeVFNUlh1U3BHbVB2OERFYmJlSUtqVk4zczVyajJjMnNHbXNJOC1Da0tTdkdWNFRCY3oyV3BNRE9jSVhkSVF5Z3dWcmZxMHRyRkJ6dC1NcWVNckgw?oc=5",
+     "published": "2026-10-12T20:21:00Z",
+     "summary": "A blog post reflects on Qatar's hidden influence and its dealings with Israel.",
+     "kind": "opinion",
+     "major": false
+    }
+   ]
+  },
+  {
    "id": "2026-10-12-am",
    "runAt": "2026-10-12T08:45:00Z",
    "label": "Mon 12 Oct · Morning",
