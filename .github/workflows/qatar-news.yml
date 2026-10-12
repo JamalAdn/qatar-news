@@ -1,28 +1,93 @@
 name: Qatar News edition
- 
+
 on:
   schedule:
     # GitHub cron runs in UTC. 03:45 UTC = 06:45 Doha, 15:45 UTC = 18:45 Doha.
-    # GitHub can start scheduled runs a few minutes late, so we start early.
+    # GitHub often starts scheduled runs late; the scan covers everything since the last edition, so nothing is missed.
     - cron: "45 3 * * *"
     - cron: "45 15 * * *"
   workflow_dispatch: {}
- 
+
 permissions:
   contents: write
   id-token: write
- 
+
 concurrency:
   group: qatar-news-edition
   cancel-in-progress: false
- 
+
 jobs:
   edition:
     runs-on: ubuntu-latest
     timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
- 
+
+      - name: Gather candidate stories (Google News feeds per outlet)
+        run: |
+          python3 - <<'PY'
+          import json, time, urllib.parse, urllib.request, xml.etree.ElementTree as ET
+          from email.utils import parsedate_to_datetime
+          from datetime import datetime, timedelta, timezone
+
+          OUTLETS = [
+            ("The New York Times","US","nytimes.com"), ("The Wall Street Journal","US","wsj.com"),
+            ("The Washington Post","US","washingtonpost.com"), ("Bloomberg","US","bloomberg.com"),
+            ("Politico","US","politico.com"), ("CNN","US","cnn.com"), ("Axios","US","axios.com"),
+            ("Fox News","US","foxnews.com"),
+            ("Haaretz","Israel","haaretz.com"), ("The Times of Israel","Israel","timesofisrael.com"),
+            ("The Jerusalem Post","Israel","jpost.com"), ("Ynet","Israel","ynetnews.com"),
+            ("Israel Hayom","Israel","israelhayom.com"), ("Globes","Israel","globes.co.il"),
+            ("i24NEWS","Israel","i24news.tv"),
+            ("Associated Press","Wire","apnews.com"), ("Reuters","Wire","reuters.com"),
+            ("Financial Times","UK","ft.com"), ("The Guardian","UK","theguardian.com"),
+            ("BBC","UK","bbc.com"), ("BBC","UK","bbc.co.uk"), ("The Economist","UK","economist.com"),
+          ]
+          HEBREW = [("Ynet","ynet.co.il"),("Maariv","maariv.co.il"),("Israel Hayom","israelhayom.co.il"),
+                    ("N12","mako.co.il"),("Kan","kan.org.il"),("Haaretz","haaretz.co.il")]
+
+          ed = json.load(open("editions.json"))["editions"]
+          last = max((e.get("runAt","") for e in ed), default="")
+          since = datetime.fromisoformat(last.replace("Z","+00:00")) - timedelta(hours=1) if last else datetime.now(timezone.utc) - timedelta(hours=24)
+          since = max(since, datetime.now(timezone.utc) - timedelta(hours=36))
+          seen = {s.get("url") for e in ed[:6] for s in e.get("stories",[])}
+
+          def feed(q, hl, gl, ceid):
+              url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": q, "hl": hl, "gl": gl, "ceid": ceid})
+              req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (QatarNewsDesk)"})
+              try:
+                  return ET.fromstring(urllib.request.urlopen(req, timeout=20).read())
+              except Exception as ex:
+                  print("feed failed:", q, ex); return None
+
+          out = []
+          def collect(root, outlet, region, lang):
+              if root is None: return
+              for it in root.iter("item"):
+                  try: pub = parsedate_to_datetime(it.findtext("pubDate"))
+                  except Exception: continue
+                  if pub < since: continue
+                  src = it.find("source")
+                  out.append({"outlet": outlet, "region": region, "lang": lang,
+                              "title": it.findtext("title"), "google_link": it.findtext("link"),
+                              "source_site": src.get("url") if src is not None else "",
+                              "published": pub.astimezone(timezone.utc).isoformat().replace("+00:00","Z")})
+
+          for name, region, dom in OUTLETS:
+              collect(feed(f"(Qatar OR Doha OR Qatari) site:{dom} when:2d", "en-US", "US", "US:en"), name, region, "en")
+              time.sleep(1)
+          for name, dom in HEBREW:
+              collect(feed(f"(קטאר OR קטר OR דוחא) site:{dom} when:2d", "iw", "IL", "IL:iw"), name, "Israel", "he")
+              time.sleep(1)
+
+          uniq = {}
+          for c in out: uniq.setdefault(c["title"], c)
+          cands = sorted(uniq.values(), key=lambda c: c["published"], reverse=True)
+          json.dump({"since": since.isoformat(), "already_published_urls": sorted(u for u in seen if u),
+                     "candidates": cands}, open("/tmp/candidates.json","w"), ensure_ascii=False, indent=1)
+          print(len(cands), "candidates since", since.isoformat())
+          PY
+
       - name: Write the new edition with Claude
         uses: anthropics/claude-code-action@v1
         with:
@@ -33,50 +98,46 @@ jobs:
             --allowedTools "WebSearch,WebFetch,Read,Edit,Write,Bash(date:*),Bash(python3:*)"
           prompt: |
             You maintain the public site qatarnewstoday.date. Its stories live in editions.json in this repo:
-            {"editions":[ {edition}, ... ]}, newest first. Your job: find every Qatar-related story published
-            by the outlets below in the last 12 hours and add ONE new edition to the top of that array.
-            Only edit editions.json. Do not touch any other file.
- 
-            SOURCE ROSTER (only these outlets count)
-            US: New York Times, Wall Street Journal, Washington Post, Bloomberg, Politico, CNN, Axios, Fox News
-            Israel: Haaretz, Times of Israel, Jerusalem Post, Ynet / Yedioth Ahronoth, Israel Hayom, Maariv, Globes, i24NEWS, N12 (Channel 12 / mako), Kan
-            Wires: AP, Reuters, AFP
-            UK: Financial Times, The Guardian, BBC, The Economist
- 
-            HOW TO SEARCH
-            1. Get the current time with `date -u`.
-            2. WebSearch per outlet group: "Qatar <outlet> <today's date>", "Doha <outlet>", plus topical queries for
-               live Qatar stories (mediation, LNG / Ras Laffan, Al Udeid, Iran / Hormuz, QIA investments, Hamas / Gaza, sport).
-            3. WebFetch these dated topic pages: https://www.jpost.com/tags/qatar ,
-               https://www.timesofisrael.com/topic/qatar/ , https://www.ynet.co.il/topics/%D7%A7%D7%98%D7%90%D7%A8 .
-               Try other outlets' Qatar tag pages too and skip any that are blocked.
-            4. Also search in Hebrew ("קטאר") for Hebrew-only Israeli stories.
-            5. A wire story republished by a roster outlet counts: outlet like "The Jerusalem Post (Reuters)", region "Wire".
-            6. Include a story ONLY if you have its real URL and can confirm it was published in the last ~12 hours
-               (allow up to 14h overlap). Never invent URLs, headlines, times or summaries. If you know the date but not
-               the time, set "dateOnly": true. Drop any story whose URL already appears in the 3 newest editions.
- 
+            {"editions":[ {edition}, ... ]}, newest first. Add ONE new edition to the top with every story about Qatar
+            published by the tracked outlets since the previous edition. Only edit editions.json.
+
+            STEP 1. Read /tmp/candidates.json. It lists headlines from Google News feeds for each tracked outlet since
+            the last edition ("since"), with outlet, region, lang, title, publish time and a Google News link.
+            These are your main source. For each candidate:
+              - Keep it only if the story is genuinely about Qatar (Qatari policy, mediation, economy, LNG, QIA, Al Udeid,
+                Qatari officials, sport hosted in Qatar, etc.). Drop passing mentions.
+              - Drop it if its URL or the same story is in "already_published_urls".
+              - Merge duplicates (same story from the same outlet).
+              - Get the real article URL: search the headline with WebSearch and take the outlet's own URL. If you
+                cannot find it, use the google_link as the url. Never invent a URL.
+              - Titles from Google News end with " - Outlet name"; remove that suffix.
+            STEP 2. Then run a few extra WebSearch queries for Qatar news from the last day (mediation, LNG / Ras Laffan,
+            Al Udeid, Iran / Hormuz, QIA, Gaza) to catch anything the feeds missed, from tracked outlets only:
+            NYT, WSJ, Washington Post, Bloomberg, Politico, CNN, Axios, Fox News, Haaretz, Times of Israel, Jerusalem Post,
+            Ynet / Yedioth, Israel Hayom, Maariv, Globes, i24NEWS, N12, Kan, AP, Reuters, AFP, FT, Guardian, BBC, Economist.
+            A wire story republished by a tracked outlet: outlet like "The Jerusalem Post (Reuters)", region "Wire".
+
             EDITION FORMAT (keys exactly as below)
             {
-              "id": "YYYY-MM-DD-am" or "YYYY-MM-DD-pm" (Doha date; am for the morning run, pm for the evening run),
-              "runAt": current time, ISO 8601 UTC,
-              "label": e.g. "Sun 11 Oct · Morning" or "Sun 11 Oct · Evening",
-              "brief": 2-3 plain sentences for public readers on what Qatar coverage was about in this window, noting any
-                       difference in framing between US and Israeli outlets. No em dashes. No internal jargon.
+              "id": "YYYY-MM-DD-am" or "YYYY-MM-DD-pm" (Doha date, UTC+3; am if the Doha time now is before 15:00, else pm),
+              "runAt": current time from `date -u`, ISO 8601 UTC,
+              "label": e.g. "Mon 12 Oct · Morning" or "Mon 12 Oct · Evening",
+              "brief": 2-3 plain sentences for public readers on what the Qatar coverage was about, noting any difference
+                       in framing between US and Israeli outlets. No em dashes. Never mention feeds, tools or this process.
               "stories": [ { "outlet", "region": "US"|"Israel"|"Wire"|"UK", "lang": "en"|"he",
                              "headline" (English; translate Hebrew), "original_headline" (Hebrew original, only if lang is "he"),
-                             "url", "published" (ISO UTC), "dateOnly" (optional bool),
+                             "url", "published" (ISO UTC, from the candidate),
                              "summary" (one factual sentence in your own words, never copied article text, no em dashes),
                              "major" (true only for significant developments: security incidents, mediation breakthroughs,
                                       major deals, diplomatic ruptures) } ]
             }
-            If nothing qualifies, still add the edition with "stories": [] and a brief saying no tracked outlet covered
-            Qatar in this window. If an edition with the same id already exists, replace it instead of adding a duplicate.
+            If nothing qualifies, still add the edition with "stories": [] and a short brief saying coverage was quiet.
+            If an edition with the same id already exists, replace it instead of adding a duplicate.
             Keep at most 120 editions (drop the oldest). The file must stay valid JSON, UTF-8, Hebrew unescaped.
- 
+
       - name: Check the file is valid
-        run: python3 -c "import json; d=json.load(open('editions.json')); assert isinstance(d['editions'], list) and d['editions']; print(len(d['editions']), 'editions; newest:', d['editions'][0]['id'])"
- 
+        run: python3 -c "import json; d=json.load(open('editions.json')); assert isinstance(d['editions'], list) and d['editions']; print(len(d['editions']), 'editions; newest:', d['editions'][0]['id'], 'stories:', len(d['editions'][0]['stories']))"
+
       - name: Publish
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -87,4 +148,5 @@ jobs:
           git add editions.json
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
           git commit -m "Edition $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin main
           git push
