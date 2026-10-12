@@ -48,8 +48,8 @@ jobs:
 
           ed = json.load(open("editions.json"))["editions"]
           last = max((e.get("runAt","") for e in ed), default="")
-          since = datetime.fromisoformat(last.replace("Z","+00:00")) - timedelta(hours=1) if last else datetime.now(timezone.utc) - timedelta(hours=24)
-          since = max(since, datetime.now(timezone.utc) - timedelta(hours=36))
+          # Always look back 24 hours; stories already published in recent editions are filtered out below.
+          since = datetime.now(timezone.utc) - timedelta(hours=24)
           seen = {s.get("url") for e in ed[:6] for s in e.get("stories",[])}
 
           def feed(q, hl, gl, ceid):
@@ -84,7 +84,7 @@ jobs:
           for c in out: uniq.setdefault(c["title"], c)
           cands = sorted(uniq.values(), key=lambda c: c["published"], reverse=True)
           json.dump({"since": since.isoformat(), "already_published_urls": sorted(u for u in seen if u),
-                     "candidates": cands}, open("/tmp/candidates.json","w"), ensure_ascii=False, indent=1)
+                     "candidates": cands}, open("candidates.json","w"), ensure_ascii=False, indent=1)
           print(len(cands), "candidates since", since.isoformat())
           PY
 
@@ -99,10 +99,10 @@ jobs:
           prompt: |
             You maintain the public site qatarnewstoday.date. Its stories live in editions.json in this repo:
             {"editions":[ {edition}, ... ]}, newest first. Add ONE new edition to the top with every story about Qatar
-            published by the tracked outlets since the previous edition. Only edit editions.json.
+            published by the tracked outlets that is not already in a recent edition. Only edit editions.json.
 
-            STEP 1. Read /tmp/candidates.json. It lists headlines from Google News feeds for each tracked outlet since
-            the last edition ("since"), with outlet, region, lang, title, publish time and a Google News link.
+            STEP 1. Read candidates.json (in the current folder; do not edit or commit it). It lists headlines from Google News feeds for each tracked outlet since
+            the last 24 hours ("since"), with outlet, region, lang, title, publish time and a Google News link.
             These are your main source. For each candidate:
               - Keep it only if the story is genuinely about Qatar (Qatari policy, mediation, economy, LNG, QIA, Al Udeid,
                 Qatari officials, sport hosted in Qatar, etc.). Drop passing mentions.
@@ -133,6 +133,7 @@ jobs:
             }
             If nothing qualifies, still add the edition with "stories": [] and a short brief saying coverage was quiet.
             If an edition with the same id already exists, replace it instead of adding a duplicate.
+            Each story should appear in only one edition: skip anything whose URL is in "already_published_urls".
             Keep at most 120 editions (drop the oldest). The file must stay valid JSON, UTF-8, Hebrew unescaped.
 
       - name: Check the file is valid
