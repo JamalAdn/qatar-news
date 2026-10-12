@@ -1,105 +1,112 @@
 {
- "editions": [
-  {
-   "id": "2026-10-11-pm",
-   "runAt": "2026-10-11T19:45:00Z",
-   "label": "Sun 11 Oct · Evening",
-   "brief": "Only one tracked outlet story about Qatar could be confirmed in this window. The Jerusalem Post covered a think tank ranking of states most likely to join the Abraham Accords, in which Qatar was assessed as unlikely to normalize soon. No US outlet items were confirmed, so no difference in framing could be drawn.",
-   "stories": [
+  "editions": [
     {
-     "outlet": "The Jerusalem Post",
-     "region": "Israel",
-     "lang": "en",
-     "headline": "Kuwait, Lebanon, Syria leading options for Abraham Accords expansion, CSA report assesses",
-     "url": "https://www.jpost.com/middle-east/abraham-accords/article-911306",
-     "published": "2026-10-11T00:00:00Z",
-     "dateOnly": true,
-     "summary": "A Council for a Secure America report ranks nine states for possible normalization with Israel and judges Qatar unlikely to join soon because of its ties to Iran and the Muslim Brotherhood.",
-     "major": false
+      "id": "2026-10-12-am",
+      "runAt": "2026-10-12T04:25:00Z",
+      "label": "Mon 12 Oct · Morning",
+      "brief": "No tracked outlet was confirmed to have covered Qatar in this window. The latest Qatar-tagged pages at the Jerusalem Post, Times of Israel and Ynet showed no new items with verifiable publication times in the last 12 hours.",
+      "stories": []
+    },
+    {
+      "id": "2026-10-11-pm",
+      "runAt": "2026-10-11T19:45:00Z",
+      "label": "Sun 11 Oct · Evening",
+      "brief": "Only one tracked outlet story about Qatar could be confirmed in this window. The Jerusalem Post covered a think tank ranking of states most likely to join the Abraham Accords, in which Qatar was assessed as unlikely to normalize soon. No US outlet items were confirmed, so no difference in framing could be drawn.",
+      "stories": [
+        {
+          "outlet": "The Jerusalem Post",
+          "region": "Israel",
+          "lang": "en",
+          "headline": "Kuwait, Lebanon, Syria leading options for Abraham Accords expansion, CSA report assesses",
+          "url": "https://www.jpost.com/middle-east/abraham-accords/article-911306",
+          "published": "2026-10-11T00:00:00Z",
+          "dateOnly": true,
+          "summary": "A Council for a Secure America report ranks nine states for possible normalization with Israel and judges Qatar unlikely to join soon because of its ties to Iran and the Muslim Brotherhood.",
+          "major": false
+        }
+      ]
+    },
+    {
+      "id": "2026-10-11-am",
+      "runAt": "2026-10-11T07:45:00Z",
+      "label": "Sun 11 Oct · Morning",
+      "brief": "Qatar coverage in this window was light. The one qualifying story, from an Israeli outlet, covered the Red Cross president's account of meeting Hamas's Ismail Haniyeh in Qatar to seek access to hostages in Gaza. No US outlets or wires with a confirmed timestamp in this window were found.",
+      "stories": [
+        {
+          "outlet": "The Jerusalem Post",
+          "region": "Israel",
+          "lang": "en",
+          "headline": "Red Cross chief says she tried to arrange Gaza hostage visits through talks with Hamas's Haniyeh",
+          "url": "https://www.jpost.com/middle-east/article-911238",
+          "published": "2026-10-10T18:12:00Z",
+          "summary": "The Red Cross president said in a New York Times interview that she met Ismail Haniyeh twice in Qatar to try to arrange visits to hostages in Gaza, and that the organization still has no access to them.",
+          "major": false
+        }
+      ]
+    },
+    {
+      "brief": "Our first edition looks back over the past ten days. Gulf security dominated coverage: a tanker hit by projectiles off Qatar's north coast, US Patriot batteries sent to protect Gulf energy sites, and a US senator saying the Pentagon kept him out of Al Udeid. Israeli papers also covered the World Bank's forecast of a 4.3% contraction across Gulf economies this year.",
+      "label": "Launch · 1–11 Oct",
+      "runAt": "2026-10-11T04:12:00Z",
+      "stories": [
+        {
+          "dateOnly": true,
+          "headline": "Tanker off Qatar reports hits from multiple projectiles, says maritime agency",
+          "lang": "en",
+          "major": true,
+          "outlet": "The Times of Israel",
+          "published": "2026-10-07T09:00:00Z",
+          "region": "Israel",
+          "summary": "UKMTO reported a tanker struck by several projectiles north of Madinat ash Shamal, with casualties reported. Lead item on the Oct. 7 live blog.",
+          "url": "https://www.timesofisrael.com/liveblog-october-07-2026/"
+        },
+        {
+          "dateOnly": true,
+          "headline": "Middle East economy to shrink 2.1% in 2026, Gulf economies by 4.3%, World Bank forecasts",
+          "lang": "en",
+          "major": false,
+          "outlet": "The Jerusalem Post",
+          "published": "2026-10-08T09:00:00Z",
+          "region": "Israel",
+          "summary": "World Bank projects the Gulf's deepest contraction in years as the Iran war disrupts energy exports.",
+          "url": "https://www.jpost.com/middle-east/article-911069"
+        },
+        {
+          "dateOnly": true,
+          "headline": "RFK Jr. deletes post claiming Israel accusations stem from Qatar-funded Muslim Brotherhood campaign",
+          "lang": "en",
+          "major": false,
+          "outlet": "The Jerusalem Post",
+          "published": "2026-10-08T08:00:00Z",
+          "region": "Israel",
+          "summary": "The HHS secretary removed a social media post blaming criticism of Israel on a Qatar-funded campaign.",
+          "url": "https://www.jpost.com/international/article-910995"
+        },
+        {
+          "dateOnly": true,
+          "headline": "US Senator Murphy says Pentagon denied him access to US base in Qatar",
+          "lang": "en",
+          "major": true,
+          "outlet": "The Jerusalem Post (Reuters)",
+          "published": "2026-10-06T15:00:00Z",
+          "region": "Wire",
+          "summary": "Sen. Chris Murphy says the Pentagon refused him a visit to Al Udeid and a war briefing while he was in the region.",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-910845"
+        },
+        {
+          "dateOnly": true,
+          "headline": "US sends Patriot missile batteries to Saudi Arabia, Qatar to protect oil, gas facilities - report",
+          "lang": "en",
+          "major": true,
+          "outlet": "The Jerusalem Post",
+          "published": "2026-10-02T09:00:00Z",
+          "region": "Israel",
+          "summary": "Report says Washington is deploying additional Patriot batteries to shield Gulf energy infrastructure from Iranian strikes.",
+          "url": "https://www.jpost.com/middle-east/article-910394"
+        }
+      ],
+      "window": "2026-10-01 to 2026-10-11",
+      "id": "2026-10-11-launch"
     }
-   ]
-  },
-  {
-   "id": "2026-10-11-am",
-   "runAt": "2026-10-11T07:45:00Z",
-   "label": "Sun 11 Oct · Morning",
-   "brief": "Qatar coverage in this window was light. The one qualifying story, from an Israeli outlet, covered the Red Cross president's account of meeting Hamas's Ismail Haniyeh in Qatar to seek access to hostages in Gaza. No US outlets or wires with a confirmed timestamp in this window were found.",
-   "stories": [
-    {
-     "outlet": "The Jerusalem Post",
-     "region": "Israel",
-     "lang": "en",
-     "headline": "Red Cross chief says she tried to arrange Gaza hostage visits through talks with Hamas's Haniyeh",
-     "url": "https://www.jpost.com/middle-east/article-911238",
-     "published": "2026-10-10T18:12:00Z",
-     "summary": "The Red Cross president said in a New York Times interview that she met Ismail Haniyeh twice in Qatar to try to arrange visits to hostages in Gaza, and that the organization still has no access to them.",
-     "major": false
-    }
-   ]
-  },
-  {
-   "brief": "Our first edition looks back over the past ten days. Gulf security dominated coverage: a tanker hit by projectiles off Qatar's north coast, US Patriot batteries sent to protect Gulf energy sites, and a US senator saying the Pentagon kept him out of Al Udeid. Israeli papers also covered the World Bank's forecast of a 4.3% contraction across Gulf economies this year.",
-   "label": "Launch · 1–11 Oct",
-   "runAt": "2026-10-11T04:12:00Z",
-   "stories": [
-    {
-     "dateOnly": true,
-     "headline": "Tanker off Qatar reports hits from multiple projectiles, says maritime agency",
-     "lang": "en",
-     "major": true,
-     "outlet": "The Times of Israel",
-     "published": "2026-10-07T09:00:00Z",
-     "region": "Israel",
-     "summary": "UKMTO reported a tanker struck by several projectiles north of Madinat ash Shamal, with casualties reported. Lead item on the Oct. 7 live blog.",
-     "url": "https://www.timesofisrael.com/liveblog-october-07-2026/"
-    },
-    {
-     "dateOnly": true,
-     "headline": "Middle East economy to shrink 2.1% in 2026, Gulf economies by 4.3%, World Bank forecasts",
-     "lang": "en",
-     "major": false,
-     "outlet": "The Jerusalem Post",
-     "published": "2026-10-08T09:00:00Z",
-     "region": "Israel",
-     "summary": "World Bank projects the Gulf's deepest contraction in years as the Iran war disrupts energy exports.",
-     "url": "https://www.jpost.com/middle-east/article-911069"
-    },
-    {
-     "dateOnly": true,
-     "headline": "RFK Jr. deletes post claiming Israel accusations stem from Qatar-funded Muslim Brotherhood campaign",
-     "lang": "en",
-     "major": false,
-     "outlet": "The Jerusalem Post",
-     "published": "2026-10-08T08:00:00Z",
-     "region": "Israel",
-     "summary": "The HHS secretary removed a social media post blaming criticism of Israel on a Qatar-funded campaign.",
-     "url": "https://www.jpost.com/international/article-910995"
-    },
-    {
-     "dateOnly": true,
-     "headline": "US Senator Murphy says Pentagon denied him access to US base in Qatar",
-     "lang": "en",
-     "major": true,
-     "outlet": "The Jerusalem Post (Reuters)",
-     "published": "2026-10-06T15:00:00Z",
-     "region": "Wire",
-     "summary": "Sen. Chris Murphy says the Pentagon refused him a visit to Al Udeid and a war briefing while he was in the region.",
-     "url": "https://www.jpost.com/middle-east/iran-news/article-910845"
-    },
-    {
-     "dateOnly": true,
-     "headline": "US sends Patriot missile batteries to Saudi Arabia, Qatar to protect oil, gas facilities - report",
-     "lang": "en",
-     "major": true,
-     "outlet": "The Jerusalem Post",
-     "published": "2026-10-02T09:00:00Z",
-     "region": "Israel",
-     "summary": "Report says Washington is deploying additional Patriot batteries to shield Gulf energy infrastructure from Iranian strikes.",
-     "url": "https://www.jpost.com/middle-east/article-910394"
-    }
-   ],
-   "window": "2026-10-01 to 2026-10-11",
-   "id": "2026-10-11-launch"
-  }
- ]
+  ]
 }
