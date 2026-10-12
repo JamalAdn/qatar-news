@@ -2,10 +2,61 @@
  "editions": [
   {
    "id": "2026-10-12-am",
-   "runAt": "2026-10-12T04:45:17Z",
+   "runAt": "2026-10-12T04:55:00Z",
    "label": "Mon 12 Oct · Morning",
-   "brief": "Coverage of Qatar was quiet in the hours since the previous edition, with no new stories from the tracked US, Israeli, UK or wire outlets focused on Doha. Wider regional coverage continued to centre on Iran and the Gulf, where Qatar's mediation role remains a background theme.",
-   "stories": []
+   "brief": "Qatar coverage centred on Israeli outlets revisiting the Qatargate affair, with opinion and investigative pieces on alleged Qatari influence in Israel and on Qatari aid to Gaza. US outlets carried little Qatar-specific news, with Iran and Hormuz diplomacy dominating the wider regional picture. Qatar Stars League football also featured briefly in UK coverage.",
+   "stories": [
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "The Blogs: How Doha Bought Its Influence in Jerusalem",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVXRNQ0o1eGpCNVA5OWJqOGFWaVkxNllmbVBreWtkWFd1YUtSU2FTeGxsTTFNMDF0d1Z2OHZ3QWgtWVJ0N2ZfSGF1cjBjeHc1bE5kX1FMOXlkcnA1U0h2M09xbjJMay1scFR3NjNlU0REWDJqckxFWktMNFpRallmMQ?oc=5",
+     "published": "2026-10-11T21:13:00Z",
+     "summary": "Blog post argues Qatar built political and media influence in Israel over the years through money and access.",
+     "major": false
+    },
+    {
+     "outlet": "i24NEWS",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Exclusive: New Evidence Links Netanyahu Aide Yonatan Urich To Qatar Influence Campaign",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa0w3YkVndkVZTGk1Ykc1bVhxcV9UZEZTNl9ueTBzMjRpUUVNVmtjc2VHVUVwcXhYWjhfYVo5Y2pQN3o4WFlrUlJpOXdiUUFQa19TNmRKQUdKX21rR2xtMUR4TE5DaHdERmwtVXdBbDlnb1ZaZThuUmh5bUdNb1RqTWJtUDRPWWhqeUZtUU5PeFdlTUFhRHJTSDlKQ2NoQkdobm5KN3l4X29mWVc5dGp6ejBaS0R4TUZHZVlFcTR3UjVsX2tiLUw2RXJOdlpYY05CUEc4?oc=5",
+     "published": "2026-10-11T18:36:00Z",
+     "summary": "An investigation reports new evidence linking a Netanyahu aide to an alleged Qatari influence campaign in Israeli media, as part of the Qatargate affair.",
+     "major": false
+    },
+    {
+     "outlet": "BBC",
+     "region": "UK",
+     "lang": "en",
+     "headline": "Qatar Stars League: Oussama Tannane scores for Al-Arabi",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rZXN0NTFKTWVoNUliOXkxWTJvX2dabnoyX0dxazZHM3QwQ0l4STZkV2ZRcDIwa0NkZDhhek1KMWRObDEtcmI0T19EcUxzTlc1MGtUeFA3Z2pxblhWc1o2R28xbXJpZw?oc=5",
+     "published": "2026-10-11T16:48:09Z",
+     "summary": "Al-Arabi forward Oussama Tannane scored in a Qatar Stars League match.",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Netanyahu evades responsibility on Qatar and Oct. 7",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdV9yUFRhUGdfWWVvWFJCZWtlSy1wQW9mN0lWQkR6R3U2eU95R00xN1VjUHJWQXpJcXl2cERQbzh4SVF2dm1pdVdlZG1PRFg3RTJrRDREUTUwLVJWUEhreEZ5RGZoZ2ZHWThibjVlZEFyTGM2dW9qM24xT0llcHlCNzBwbEd0LTFsUWdkY3NkeEw2WTFFTmJmUmtVdw?oc=5",
+     "published": "2026-10-11T13:51:36Z",
+     "summary": "Opinion piece argues Netanyahu is dodging accountability over Qatari funding and the October 7 attack.",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar’s $100M Gaza Aid Exposed",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IWWg0RndzeVQ4YUNVbEIzZzg2Y0FoMVZwSDdoT2ZvQXI0N0diNC1JRm9YZUJValdwb29hOHBMQXk1dHVuM3NKVXpnZ1Vsenp1Z3I2dmZyNlhzbkd3Sm5TY3NLNGszUHRndGgzNXlzUGs4Rno2bjZvdkNDa1drNnc?oc=5",
+     "published": "2026-10-11T05:39:48Z",
+     "summary": "Report examines about $100 million in Qatari aid to Gaza and how it was used.",
+     "major": false
+    }
+   ]
   },
   {
    "id": "2026-10-11-pm",
