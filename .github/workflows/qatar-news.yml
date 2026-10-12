@@ -2,10 +2,10 @@ name: Qatar News edition
 
 on:
   schedule:
-    # GitHub cron runs in UTC. 03:45 UTC = 06:45 Doha, 15:45 UTC = 18:45 Doha.
-    # GitHub often starts scheduled runs late; the scan covers everything since the last edition, so nothing is missed.
-    - cron: "45 3 * * *"
-    - cron: "45 15 * * *"
+    # Main trigger is the Cloudflare scheduler (exactly 06:45 and 18:45 Doha).
+    # These GitHub schedules are a backup; they skip themselves if a fresh edition already exists.
+    - cron: "30 4 * * *"
+    - cron: "30 16 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -23,7 +23,28 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Skip if a fresh edition already exists (backup schedule only)
+        id: fresh
+        run: |
+          python3 - <<'PY'
+          import json, os
+          from datetime import datetime, timezone
+          ed = json.load(open("editions.json"))["editions"]
+          last = max((e.get("runAt","") for e in ed), default="")
+          age_h = (datetime.now(timezone.utc) - datetime.fromisoformat(last.replace("Z","+00:00"))).total_seconds()/3600 if last else 99
+          skip = os.environ.get("EVENT") == "schedule" and age_h < 3
+          print(f"newest edition is {age_h:.1f}h old; skip={skip}")
+          open(os.environ["GITHUB_OUTPUT"],"a").write(f"skip={'true' if skip else 'false'}\n")
+          PY
+        env:
+          EVENT: ${{ github.event_name }}
+
+      - name: Install link resolver
+        if: steps.fresh.outputs.skip != 'true'
+        run: pip install --quiet googlenewsdecoder "selectolax<1" || true
+
       - name: Gather candidate stories (Google News feeds per outlet)
+        if: steps.fresh.outputs.skip != 'true'
         run: |
           python3 - <<'PY'
           import json, time, urllib.parse, urllib.request, xml.etree.ElementTree as ET
@@ -74,7 +95,7 @@ jobs:
                               "published": pub.astimezone(timezone.utc).isoformat().replace("+00:00","Z")})
 
           for name, region, dom in OUTLETS:
-              collect(feed(f"(Qatar OR Doha OR Qatari) site:{dom} when:2d", "en-US", "US", "US:en"), name, region, "en")
+              collect(feed(f"(Qatar OR Doha OR Qatari OR \"Al Thani\" OR \"Al Udeid\" OR QatarEnergy) site:{dom} when:2d", "en-US", "US", "US:en"), name, region, "en")
               time.sleep(1)
           for name, dom in HEBREW:
               collect(feed(f"(קטאר OR קטר OR דוחא) site:{dom} when:2d", "iw", "IL", "IL:iw"), name, "Israel", "he")
@@ -83,12 +104,28 @@ jobs:
           uniq = {}
           for c in out: uniq.setdefault(c["title"], c)
           cands = sorted(uniq.values(), key=lambda c: c["published"], reverse=True)
+          try:
+              from googlenewsdecoder import gnewsdecoder
+          except Exception:
+              gnewsdecoder = None
+          resolved = 0
+          for c in cands[:80]:
+              c["url"] = ""
+              if gnewsdecoder and c.get("google_link"):
+                  try:
+                      r = gnewsdecoder(c["google_link"], interval=1)
+                      if r.get("status") and r.get("decoded_url","").startswith("http"):
+                          c["url"] = r["decoded_url"]; resolved += 1
+                  except Exception as ex:
+                      print("decode failed:", ex)
+          print(resolved, "links resolved to the original article")
           json.dump({"since": since.isoformat(), "already_published_urls": sorted(u for u in seen if u),
                      "candidates": cands}, open("candidates.json","w"), ensure_ascii=False, indent=1)
           print(len(cands), "candidates since", since.isoformat())
           PY
 
       - name: Write the new edition with Claude
+        if: steps.fresh.outputs.skip != 'true'
         uses: anthropics/claude-code-action@v1
         with:
           # Set ONE of these two secrets in Settings > Secrets and variables > Actions.
@@ -104,12 +141,16 @@ jobs:
             STEP 1. Read candidates.json (in the current folder; do not edit or commit it). It lists headlines from Google News feeds for each tracked outlet since
             the last 24 hours ("since"), with outlet, region, lang, title, publish time and a Google News link.
             These are your main source. For each candidate:
-              - Keep it only if the story is genuinely about Qatar (Qatari policy, mediation, economy, LNG, QIA, Al Udeid,
-                Qatari officials, sport hosted in Qatar, etc.). Drop passing mentions.
+              - Keep it only if Qatar is central to the story: Qatari diplomacy and mediation, security, energy / LNG,
+                QIA and investments, Al Udeid, Qatari officials, Qatar's role in Gaza, Iran or Israeli politics, and major
+                events hosted in Qatar. Drop stories where Qatar is only a passing mention.
+              - Drop routine sports items (match reports, transfers, league results). Keep sport only if it is a major
+                international story (e.g. a World Cup or a political controversy).
+              - Drop listicles, travel, lifestyle and promotional content.
               - Drop it if its URL or the same story is in "already_published_urls".
               - Merge duplicates (same story from the same outlet).
-              - Get the real article URL: search the headline with WebSearch and take the outlet's own URL. If you
-                cannot find it, use the google_link as the url. Never invent a URL.
+              - Use the candidate's "url" (the original article). If it is empty, search the headline with WebSearch and
+                take the outlet's own URL. Only if that fails, use the google_link. Never invent a URL.
               - Titles from Google News end with " - Outlet name"; remove that suffix.
             STEP 2. Then run a few extra WebSearch queries for Qatar news from the last day (mediation, LNG / Ras Laffan,
             Al Udeid, Iran / Hormuz, QIA, Gaza) to catch anything the feeds missed, from tracked outlets only:
@@ -128,8 +169,10 @@ jobs:
                              "headline" (English; translate Hebrew), "original_headline" (Hebrew original, only if lang is "he"),
                              "url", "published" (ISO UTC, from the candidate),
                              "summary" (one factual sentence in your own words, never copied article text, no em dashes),
-                             "major" (true only for significant developments: security incidents, mediation breakthroughs,
-                                      major deals, diplomatic ruptures) } ]
+                             "kind": "news" | "analysis" | "opinion" (opinion = op-eds, columns, blogs, editorials),
+                             "major" (true only for significant news developments: security incidents, mediation breakthroughs,
+                                      major deals, diplomatic ruptures; never true for opinion) } ]
+              Order stories with the most important news first; opinion pieces after news.
             }
             If nothing qualifies, still add the edition with "stories": [] and a short brief saying coverage was quiet.
             If an edition with the same id already exists, replace it instead of adding a duplicate.
@@ -137,9 +180,11 @@ jobs:
             Keep at most 120 editions (drop the oldest). The file must stay valid JSON, UTF-8, Hebrew unescaped.
 
       - name: Check the file is valid
+        if: steps.fresh.outputs.skip != 'true'
         run: python3 -c "import json; d=json.load(open('editions.json')); assert isinstance(d['editions'], list) and d['editions']; print(len(d['editions']), 'editions; newest:', d['editions'][0]['id'], 'stories:', len(d['editions'][0]['stories']))"
 
       - name: Publish
+        if: steps.fresh.outputs.skip != 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
