@@ -1,6 +1,100 @@
 {
  "editions": [
   {
+   "id": "2026-10-14-am",
+   "runAt": "2026-10-13T21:30:00Z",
+   "label": "Tue 13 Oct · Evening",
+   "brief": "Coverage centered on the economic cost of the Iran war for Qatar, with its ruler saying state revenues fell 42 percent, and on his call for tighter Gulf security coordination and accountability over Gaza. Israeli outlets also focused on Qatar's ties to Netanyahu's circle, including a report that an aide used an AI chatbot to improve Qatar's image, while US outlets mostly treated Qatar as part of the wider Iran war story.",
+   "stories": [
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar's revenues drop 42 pct over war, ruler says",
+     "url": "https://www.timesofisrael.com/liveblog_entry/qatars-revenues-drop-42-pct-over-war-ruler-says/",
+     "published": "2026-10-13T14:43:01Z",
+     "summary": "Qatar's ruler said state revenues fell 42 percent during the war with Iran.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Breitbart",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatar Says State Revenue Down 42 Percent from Iran War",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeHl0UEktQTRSTl8wZUdsWTY5blV5bm1Pd0FBMXFtQXVLY2tmVFpJZnBqS3lQSy1jVmQ3eWU2a1Q3cklWdlJZZnkyR2dVNDlvYW9NMmptRkowd3FvRTBJSHdNRGhfM0x2N1V5aDJaUGRUQ3VHN3lSNUxvRFY0U3BIWkNLNDlLRE1yWkx5ck9NNm80WVhNakxrQTVVbUUtN2o3UU82RmVQRDgyWkRa0gGsAUFVX3lxTE14eXRQSS1BNFJOXzBlR2xZNjluVXlubU93QUExcW1BdUtja2ZUWklmcGpLeVBLLWNWZDd5ZTZrVDdySVZ2UllmeTJHZ1U0OW9hb00yam1GSjB3cW9FMElId01EaF8zTHY3VXloMlpQZFRDdUc3eVI1TG9EVjRTcEhaQ0s0OUtETXJaTHlyT002bzRZWE1qTGtBNVVtRS03ajdRTzZGZVBEODJaRFo?oc=5",
+     "published": "2026-10-13T17:50:21Z",
+     "summary": "Qatari authorities said state income dropped 42 percent because of the Iran war.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Because of the war with Iran: Qatar's revenues drop dramatically",
+     "original_headline": "בגלל המלחמה עם איראן: הצניחה הדרמטית בהכנסות של קטאר",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rZVBEMDkxT0ctWnd4LUdoUldxMlR1NFJmZjFlbVpfU3IxTTNIZnhkLVZad29MWl93OXpWZlhVcXpmVzZobFBmbF9Sb2V6X19vNG9YNjc5YU1rM1Y3QWVRQ0VNQk9sZGNqaVJlUmVUOEdjWEdwWmpBWDhobVlPTzDSAYcBQVVfeXFMUE9aVmVjb2RvWGlJZXFEM1g5VndXTlVuNjFMcHJXZWU4TENqelJMdS1JZkhvY2tQZDRJZTlNM29SSl8tRURkdEVyWkh0SExyUmhyNmljalZhdnppRTRGU3hRYlRNdEJTX25LTVJSMk1ERVRJUjlENGxBRE8zcTFvU0d6RVB2QWVR?oc=5",
+     "published": "2026-10-13T11:46:16Z",
+     "summary": "Israel Hayom reports a sharp fall in Qatari state revenue linked to the Iran war.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar's emir urges greater Gulf coordination on security, says Israeli officials should be held accountable for Gaza 'genocide'",
+     "url": "https://www.timesofisrael.com/liveblog_entry/qatars-emir-urges-greater-gulf-coordination-on-security-says-israeli-officials-should-be-held-accountable-for-gaza-genocide/",
+     "published": "2026-10-13T10:28:01Z",
+     "summary": "Qatar's emir called for closer Gulf security coordination and for Israeli officials to face accountability over Gaza.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Speaks of decisive victory, yet gives Hamas oxygen: Netanyahu's forbidden romance with Qatar continues",
+     "original_headline": "מדבר על הכרעה - ונותן לחמאס חמצן: הרומן האסור של נתניהו עם קטאר נמשך",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21618413",
+     "published": "2026-10-13T18:08:09Z",
+     "summary": "Israel Hayom argues that Netanyahu's government continues its ties with Qatar despite its stated goal of defeating Hamas.",
+     "kind": "opinion",
+     "major": false
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Netanyahu adviser asked ChatGPT to help improve Qatar's image among Israelis, Jews worldwide",
+     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911536",
+     "published": "2026-10-13T09:44:27Z",
+     "summary": "A report says a Netanyahu aide used ChatGPT to devise ways to improve Qatar's image among Israelis and Jews abroad.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Axios",
+     "region": "US",
+     "headline": "Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait",
+     "url": "https://www.axios.com/2026/10/13/netanyahu-trump-iran-war-elections",
+     "published": "2026-10-13T18:50:12Z",
+     "context": "References Qatar in coverage of the Iran war and Israeli-US strategy."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Ends Mixed as Traders Weigh Middle East Risks, Russian Diesel Supplies",
+     "url": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-middle-east-risks-russian-diesel-supplies-53840a01",
+     "published": "2026-10-13T19:22:00Z",
+     "context": "References Qatar in coverage of oil markets and Middle East risks."
+    }
+   ]
+  },
+  {
    "id": "2026-10-13-am",
    "runAt": "2026-10-13T07:55:00Z",
    "label": "Tue 13 Oct · Morning",
