@@ -197,6 +197,14 @@ jobs:
             Ynet / Yedioth, Israel Hayom, Maariv, Globes, i24NEWS, N12, Kan, AP, Reuters, AFP, FT, Guardian, BBC, Economist.
             A wire story republished by a tracked outlet: outlet like "The Jerusalem Post (Reuters)", region "Wire".
 
+            STEP 3. MENTIONS. From the candidates you did NOT keep as stories, pick up to 10 pieces from US, UK and wire
+            outlets where Qatar plays a real part in a wider story (Iran war, Gaza talks, oil and LNG markets, Gulf security,
+            US politics and Qatar, etc.). Skip index pages, transcripts, video hubs, sport, and anything where you cannot
+            tell what the piece says about Qatar. For each, use WebSearch (or WebFetch where the page is open) to see how
+            Qatar figures in it, and write "context": one short sentence on Qatar's role in the piece. Only state what you
+            could confirm; if you only know the topic, write e.g. "References Qatar in coverage of Iran's nuclear program."
+            Use the original article URL, found the same way as for stories.
+
             EDITION FORMAT (keys exactly as below)
             {
               "id": the "edition_id" value from candidates.json,
@@ -212,6 +220,7 @@ jobs:
                              "major" (true only for significant news developments: security incidents, mediation breakthroughs,
                                       major deals, diplomatic ruptures; never true for opinion) } ]
               Order stories with the most important news first; opinion pieces after news.
+              "mentions": [ { "outlet", "region", "headline", "url", "published", "context" } ]  (may be empty)
             }
             If nothing qualifies, still add the edition with "stories": [] and a short brief saying coverage was quiet.
             Each story should appear in only one edition: skip anything whose URL is in "already_published_urls".
