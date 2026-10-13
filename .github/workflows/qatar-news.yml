@@ -29,13 +29,8 @@ jobs:
           python3 - <<'PY'
           import json, os
           from datetime import datetime, timezone
-          data = json.load(open("editions.json"))
-          doha = datetime.now(timezone.utc) + timedelta(hours=3)
-          edition_id = doha.strftime("%Y-%m-%d") + ("-am" if doha.hour < 15 else "-pm")
-          # A re-run of the same edition starts fresh instead of keeping the earlier picks.
-          data["editions"] = [e for e in data["editions"] if e.get("id") != edition_id]
-          json.dump(data, open("editions.json","w"), ensure_ascii=False, indent=1)
-          ed = data["editions"]
+          ed = json.load(open("editions.json"))["editions"]
+          last = max((e.get("runAt","") for e in ed), default="")
           age_h = (datetime.now(timezone.utc) - datetime.fromisoformat(last.replace("Z","+00:00"))).total_seconds()/3600 if last else 99
           skip = os.environ.get("EVENT") == "schedule" and age_h < 3
           print(f"newest edition is {age_h:.1f}h old; skip={skip}")
