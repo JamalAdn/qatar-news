@@ -1,316 +1,294 @@
 {
-  "editions": [
+ "editions": [
+  {
+   "id": "2026-10-13-am",
+   "runAt": "2026-10-13T07:30:00Z",
+   "label": "Tue 13 Oct · Morning",
+   "brief": "Qatar coverage centered on the widening Israeli probe into aides to Prime Minister Netanyahu, with reports that a close adviser used AI tools to build pro-Qatar messaging, and on Qatar Airways pausing flights to Saudi cities after Houthi attacks on Riyadh. Israeli outlets framed Qatar largely through the domestic political scandal and its effect on the coming election, while wire coverage treated Qatar mainly as a Gulf aviation and security story.",
+   "stories": [
     {
-      "id": "2026-10-13-am",
-      "runAt": "2026-10-13T07:10:00Z",
-      "label": "Tue 13 Oct · Morning",
-      "brief": "Qatar coverage was dominated by Israeli reports that Netanyahu aide Jonatan Urich allegedly used ChatGPT to plan a campaign to improve Qatar's image, with Israeli outlets tying it to the Qatargate probe and the October 27 election campaign. Qatar Airways suspended flights to Riyadh and Dammam after Houthi attacks on Saudi airports, and Reuters noted that Gulf LNG remains hostage to the Iran war. US outlets paid little attention to the Urich affair, while Israeli outlets treated it as a major political story.",
-      "stories": [
-        {
-          "outlet": "The Times of Israel",
-          "region": "Israel",
-          "lang": "en",
-          "headline": "PM's aide Urich used ChatGPT to create pro-Qatar messaging campaign, report says",
-          "url": "https://www.timesofisrael.com/pms-aide-urich-used-chatgpt-to-create-pro-qatar-messaging-campaign-report/",
-          "published": "2026-10-12T20:36:00Z",
-          "summary": "Channel 12 reported that police confronted Netanyahu aide Jonatan Urich with ChatGPT logs from 2024 in which he sought a plan to improve Qatar's image, which he said he does not recall and denies acting for Qatar.",
-          "kind": "news",
-          "major": true
-        },
-        {
-          "outlet": "Haaretz",
-          "region": "Israel",
-          "lang": "en",
-          "headline": "Report: Netanyahu aide questioned over alleged use of ChatGPT to boost Qatar's image",
-          "url": "https://www.haaretz.com/israel-news/israel-politics/2026-10-12/ty-article/.premium/report-netanyahu-aide-used-chatgpt-to-devise-strategy-to-boost-qatars-image/000001a1-3177-d438-a7a1-b7ff68be0000",
-          "published": "2026-10-13T06:23:00Z",
-          "summary": "Haaretz relayed the report that investigators questioned Urich over AI-assisted strategy to improve Qatar's image as part of the Qatargate probe.",
-          "kind": "news",
-          "major": false
-        },
-        {
-          "outlet": "Ynet",
-          "region": "Israel",
-          "lang": "en",
-          "headline": "Opposition against Netanyahu and Urich: 'On Oct. 27 we will demand investigation into suspected treason'",
-          "url": "https://www.ynetnews.com/article/88p1t25td",
-          "published": "2026-10-12T18:12:08Z",
-          "summary": "Opposition parties said they will demand an investigation into suspected treason over the Qatar affair on election day, October 27.",
-          "kind": "news",
-          "major": false
-        },
-        {
-          "outlet": "Ynet",
-          "region": "Israel",
-          "lang": "en",
-          "headline": "Netanyahu aide asked ChatGPT how to 'whitewash Qatar' during Gaza war, report says",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiY3BheHMyb3prNDdNZkNQSEVhM01GemVFZmVicjBMRmpXeTlnS091Vnc4ZTJtcldrNVFKcjJScDhOTE0tdmJnZUI4LWNwRFFZemQ1blln?oc=5",
-          "published": "2026-10-13T04:29:37Z",
-          "summary": "Ynet reported on the alleged ChatGPT queries by Urich about reshaping Qatar's image during the Gaza war.",
-          "kind": "news",
-          "major": false
-        },
-        {
-          "outlet": "Israel Hayom",
-          "region": "Israel",
-          "lang": "he",
-          "headline": "Jonatan Urich in new storm: asked ChatGPT to improve Qatar's image during the war",
-          "original_headline": "יונתן אוריך בסערה חדשה: ביקש מ-ChatGPT לשפר את תדמית קטאר בזמן המלחמה",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92VDE0cmRJMFU5b2t3WVB1SDRmZDZTNmwzU2hDZ1RyWWVCVFY5VUN6SFkwZjZSOW9Na2FuQkNLNmZDdE5Zb0szYlhHQi1fS0U1SW9saV9kcWNXUUI3M1ZpZzBPRDI0UXFKYTV6aE5maFbSAXhBVV95cUxNdkd3aGRjbWV6U2NIWTVhb2tKYWVSX3VBTE9LOWpRQlZoN3ZPLXNZM25xb2d0YWlnV0VqR05mNUNNZ0dRMHFwa0RCcC1vdDg0Z2g5dVdyTGQ5RjExWFBkSm1VVGRzQ0VsSVlXc0dsaFJ0Nm9qc1FlLWY?oc=5",
-          "published": "2026-10-12T20:10:26Z",
-          "summary": "Israel Hayom covered the new revelation that Urich allegedly asked an AI chatbot how to improve Qatar's image during the war.",
-          "kind": "news",
-          "major": false
-        },
-        {
-          "outlet": "The Times of Israel",
-          "region": "Israel",
-          "lang": "en",
-          "headline": "Bennett slams PM for keeping Qatar-linked aides, says he cannot remain in government",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTWlXdG9VSEE3WlFGNE4zVXRYQVVYRF9pWV9DOGVRazZiODlWYlBPOS1yc2tCVHoxREJLUDhqNzZPeU93MWtTRy1rOXhIWWpXc3JLWVZhbkNrR19haU8tVm9wVlNHWmpfNjZOdV9zanZLcHBIRXVNOHM3aFJONDZ6WU9HbFZsNC1oVFFVdkNDekxoSGlsSC1vV3M2eWZZaldaejdlaTFlampUZmFBQXFoeHVCV3RtUGVHc3FKMzdEMHRhS1hldm55Qw?oc=5",
-          "published": "2026-10-12T09:45:10Z",
-          "summary": "Opposition figure Naftali Bennett criticized Netanyahu for retaining aides tied to Qatar and said this means he cannot stay in office.",
-          "kind": "news",
-          "major": false
-        },
-        {
-          "outlet": "Reuters",
-          "region": "Wire",
-          "lang": "en",
-          "headline": "Qatar Airways suspends Riyadh, Dammam flights as airport attacks disrupt air travel",
-          "url": "https://www.reuters.com/world/middle-east/qatar-airways-suspends-riyadh-dammam-flights-airport-attacks-disrupt-air-travel-2026-10-13/",
-          "published": "2026-10-13T00:26:00Z",
-          "summary": "Qatar Airways paused flights to Riyadh and Dammam after Houthi missile strikes on Saudi airports.",
-          "kind": "news",
-          "major": false
-        },
-        {
-          "outlet": "The Times of Israel",
-          "region": "Israel",
-          "lang": "en",
-          "headline": "Qatar Airways suspends its flights to Riyadh and Dammam",
-          "url": "https://www.timesofisrael.com/liveblog_entry/qatar-airways-suspends-its-flights-to-riyadh-and-dammam/",
-          "published": "2026-10-13T00:38:01Z",
-          "summary": "The carrier cited the current security situation after the Houthi attacks on Saudi airports.",
-          "kind": "news",
-          "major": false
-        },
-        {
-          "outlet": "Ynet",
-          "region": "Israel",
-          "lang": "en",
-          "headline": "Etihad, Qatar Airways suspend flights to Saudi Arabia following Houthi attacks",
-          "url": "https://www.ynetnews.com/article/7dqvhn3ah",
-          "published": "2026-10-13T00:52:39Z",
-          "summary": "Both Gulf carriers halted Saudi services as the Houthi missile campaign against Riyadh's airport continued.",
-          "kind": "news",
-          "major": false
-        },
-        {
-          "outlet": "Reuters",
-          "region": "Wire",
-          "lang": "en",
-          "headline": "Middle East LNG industry remains hostage of Iran war: Bousso",
-          "url": "https://www.reuters.com/commentary/reuters-open-interest/middle-east-lng-industry-remains-hostage-iran-war-bousso-2026-10-12/",
-          "published": "2026-10-12T17:01:00Z",
-          "summary": "A Reuters column argued that Gulf LNG exports, including Qatar's, remain constrained by the Iran war and shipping risks around Hormuz.",
-          "kind": "analysis",
-          "major": false
-        },
-        {
-          "outlet": "The Times of Israel",
-          "region": "Israel",
-          "lang": "en",
-          "headline": "The Blogs: Shadows in Doha",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xeVFNUlh1U3BHbVB2OERFYmJlSUtqVk4zczVyajJjMnNHbXNJOC1Da0tTdkdWNFRCY3oyV3BNRE9jSVhkSVF5Z3dWcmZxMHRyRkJ6dC1NcWVNckgw?oc=5",
-          "published": "2026-10-12T20:21:00Z",
-          "summary": "A blog post in the Times of Israel examined Qatar's role and influence.",
-          "kind": "opinion",
-          "major": false
-        }
-      ]
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Qatar Airways suspends Riyadh, Dammam flights as airport attacks disrupt air travel",
+     "url": "https://www.reuters.com/world/middle-east/qatar-airways-suspends-riyadh-dammam-flights-airport-attacks-disrupt-air-travel-2026-10-13/",
+     "published": "2026-10-13T00:26:00Z",
+     "summary": "The airline halted services to two Saudi cities after repeated attacks on Riyadh's airport disrupted regional air travel.",
+     "kind": "news",
+     "major": false
     },
     {
-      "id": "2026-10-12-am",
-      "runAt": "2026-10-12T08:45:00Z",
-      "label": "Mon 12 Oct · Morning",
-      "brief": "Qatar coverage centred on Israeli outlets revisiting the Qatargate affair, with opinion and analysis pieces on alleged Qatari influence in Israel and on Qatar's role as funder and mediator in Gaza. A Reuters column looked at how the Iran conflict still weighs on Gulf LNG exports. US outlets carried little Qatar-specific news, with Iran and Hormuz diplomacy dominating the wider regional picture.",
-      "stories": [
-        {
-          "outlet": "The Times of Israel",
-          "region": "Israel",
-          "lang": "en",
-          "headline": "The Blogs: How Doha Bought Its Influence in Jerusalem",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVXRNQ0o1eGpCNVA5OWJqOGFWaVkxNllmbVBreWtkWFd1YUtSU2FTeGxsTTFNMDF0d1Z2OHZ3QWgtWVJ0N2ZfSGF1cjBjeHc1bE5kX1FMOXlkcnA1U0h2M09xbjJMay1scFR3NjNlU0REWDJqckxFWktMNFpRallmMQ?oc=5",
-          "published": "2026-10-11T21:13:00Z",
-          "summary": "Blog post argues Qatar built political and media influence in Israel over the years through money and access.",
-          "major": false
-        },
-        {
-          "outlet": "i24NEWS",
-          "region": "Israel",
-          "lang": "en",
-          "headline": "Exclusive: New Evidence Links Netanyahu Aide Yonatan Urich To Qatar Influence Campaign",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa0w3YkVndkVZTGk1Ykc1bVhxcV9UZEZTNl9ueTBzMjRpUUVNVmtjc2VHVUVwcXhYWjhfYVo5Y2pQN3o4WFlrUlJpOXdiUUFQa19TNmRKQUdKX21rR2xtMUR4TE5DaHdERmwtVXdBbDlnb1ZaZThuUmh5bUdNb1RqTWJtUDRPWWhqeUZtUU5PeFdlTUFhRHJTSDlKQ2NoQkdobm5KN3l4X29mWVc5dGp6ejBaS0R4TUZHZVlFcTR3UjVsX2tiLUw2RXJOdlpYY05CUEc4?oc=5",
-          "published": "2026-10-11T18:36:00Z",
-          "summary": "An investigation reports new evidence linking a Netanyahu aide to an alleged Qatari influence campaign in Israeli media, as part of the Qatargate affair.",
-          "major": false
-        },
-        {
-          "outlet": "Israel Hayom",
-          "region": "Israel",
-          "lang": "he",
-          "headline": "\"The arsonist and the firefighter of the Middle East\": How Qatar became a lever of influence in Gaza",
-          "original_headline": "\"המציתה והכבאית של המזרח התיכון\": כך קטאר הפכה למנוף השפעה בעזה",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wSmhocVljb3RQVlJ0eGxBdkRqMUJOVkQ0TjJNNHZXQjgzNk9YQ0NOcG5Xdm8tcVJzS2FaNnQ4MG5OLXJWMmV6X3pLMnZMRlowQVVtYnpWclFnZENjQmhESTlic3ZmTHVpbDhZNFByUE13cHZOenc2TzNSanlkTVnSAYcBQVVfeXFMUGk5eWRDNVg3Q29jVzhneElMejA2WTlEZHlIaGZQaEFkU2t2TUdqUTlXekZkeE5ub3JYT0dvU3JhdzM4SHNMUTJyZWI0eHEtU3pTUWhzblppTVZBdFVTdlVBaFM4OGp4cmJlTnpuMkwwTlI0U2VjY1ZOc0xZOVNsUnh5Qk04bmtj?oc=5",
-          "published": "2026-10-11T15:05:00Z",
-          "summary": "The piece argues that Qatar used its role as both funder and mediator to build leverage over events in Gaza.",
-          "kind": "analysis",
-          "major": false
-        },
-        {
-          "outlet": "BBC",
-          "region": "UK",
-          "lang": "en",
-          "headline": "Qatar Stars League: Oussama Tannane scores for Al-Arabi",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rZXN0NTFKTWVoNUliOXkxWTJvX2dabnoyX0dxazZHM3QwQ0l4STZkV2ZRcDIwa0NkZDhhek1KMWRObDEtcmI0T19EcUxzTlc1MGtUeFA3Z2pxblhWc1o2R28xbXJpZw?oc=5",
-          "published": "2026-10-11T16:48:09Z",
-          "summary": "Al-Arabi forward Oussama Tannane scored in a Qatar Stars League match.",
-          "major": false
-        },
-        {
-          "outlet": "Israel Hayom",
-          "region": "Israel",
-          "lang": "en",
-          "headline": "Netanyahu evades responsibility on Qatar and Oct. 7",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdV9yUFRhUGdfWWVvWFJCZWtlSy1wQW9mN0lWQkR6R3U2eU95R00xN1VjUHJWQXpJcXl2cERQbzh4SVF2dm1pdVdlZG1PRFg3RTJrRDREUTUwLVJWUEhreEZ5RGZoZ2ZHWThibjVlZEFyTGM2dW9qM24xT0llcHlCNzBwbEd0LTFsUWdkY3NkeEw2WTFFTmJmUmtVdw?oc=5",
-          "published": "2026-10-11T13:51:36Z",
-          "summary": "Opinion piece argues Netanyahu is dodging accountability over Qatari funding and the October 7 attack.",
-          "major": false
-        },
-        {
-          "outlet": "Israel Hayom",
-          "region": "Israel",
-          "lang": "en",
-          "headline": "Qatar’s $100M Gaza Aid Exposed",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IWWg0RndzeVQ4YUNVbEIzZzg2Y0FoMVZwSDdoT2ZvQXI0N0diNC1JRm9YZUJValdwb29hOHBMQXk1dHVuM3NKVXpnZ1Vsenp1Z3I2dmZyNlhzbkd3Sm5TY3NLNGszUHRndGgzNXlzUGs4Rno2bjZvdkNDa1drNnc?oc=5",
-          "published": "2026-10-11T05:39:48Z",
-          "summary": "Report examines about $100 million in Qatari aid to Gaza and how it was used.",
-          "major": false
-        },
-        {
-          "outlet": "Reuters",
-          "region": "Wire",
-          "lang": "en",
-          "headline": "COMMENTARY: Middle East LNG industry remains hostage of Iran war",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXNhN1pHTVFkMDM2M21lOXNtYnpXRzRvOEtkVU9pdG1YSXo2Q0M4eVNreElGaFI3RlZZV3FQZXBDZmYtTDYwNVJrbFZOY2VOZWFOR3l2TFpORElhZDhrUWxCRXM1RXpKbGowTVdsS3N0VUIwRFhJOF9wcFhlT1JvRE95dF9BNWluc25GZG1fMm9Gem9NVHN5SlJfNHFXdnprMkxwcktuTjFqOHBYb29lUXpLTE56MjRmbnp6OGU2MzNDNk0?oc=5",
-          "published": "2026-10-12T06:00:00Z",
-          "summary": "The column argues that Gulf gas exporters, Qatar's LNG sector among them, remain constrained by the Iran conflict and the risks around Hormuz.",
-          "kind": "opinion",
-          "major": false
-        }
-      ]
+     "outlet": "i24NEWS",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar Airways, Etihad Airways suspend flights to Saudi hubs following Houthi attacks in Riyadh",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRmpiYW95T1hJRmxaRHRYN0U5d3BmdVBHa0gxbDFlNV9uWFdFWHlsTFlmejJGbmVweHJ6eGJ6QUNOZWpBYjRiXzFLQm4ySW1KMWFyRWJldTdpNGRuTmZaYmVWWXVhSkNaaGE0Q0t2M25zRGNsaEVxUlc5SDZ1VFRTeGFhbU9tR25Rci1lT1JqdURGcEhwYUhtSmowa2xLZHQ3ZVB5dVY5UHF6al9TSG1WOTdXUXVWTkRaX2p0ZzR4ZFNVdVA5bmI2Y2RQNVh5TVo4LUR0OW80R0JDVG1fQnoxaGZTT2VsdURm?oc=5",
+     "published": "2026-10-13T03:43:59Z",
+     "summary": "Gulf carriers including Qatar Airways paused flights to Saudi airports after Houthi strikes on Riyadh.",
+     "kind": "news",
+     "major": false
     },
     {
-      "id": "2026-10-11-pm",
-      "runAt": "2026-10-11T19:45:00Z",
-      "label": "Sun 11 Oct · Evening",
-      "brief": "Only one tracked outlet story about Qatar could be confirmed in this window. The Jerusalem Post covered a think tank ranking of states most likely to join the Abraham Accords, in which Qatar was assessed as unlikely to normalize soon. No US outlet items were confirmed, so no difference in framing could be drawn.",
-      "stories": [
-        {
-          "outlet": "The Jerusalem Post",
-          "region": "Israel",
-          "lang": "en",
-          "headline": "Kuwait, Lebanon, Syria leading options for Abraham Accords expansion, CSA report assesses",
-          "url": "https://www.jpost.com/middle-east/abraham-accords/article-911306",
-          "published": "2026-10-11T00:00:00Z",
-          "dateOnly": true,
-          "summary": "A Council for a Secure America report ranks nine states for possible normalization with Israel and judges Qatar unlikely to join soon because of its ties to Iran and the Muslim Brotherhood.",
-          "major": false
-        }
-      ]
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Etihad, Qatar Airways suspend flights to Saudi Arabia following Houthi attacks",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjY29nUzZvUDZwbW5KSk90QVpCd2dJOXo3aC13bFkzQjNWdnhxUFlDeTJLRFI5bjAtMjN5NEZvSG53am1MMEJqaDc2dVZ1MGFqTnRMSg?oc=5",
+     "published": "2026-10-13T00:52:39Z",
+     "summary": "Two major Gulf airlines stopped Saudi services after the Houthi attacks.",
+     "kind": "news",
+     "major": false
     },
     {
-      "id": "2026-10-11-am",
-      "runAt": "2026-10-11T07:45:00Z",
-      "label": "Sun 11 Oct · Morning",
-      "brief": "Qatar coverage in this window was light. The one qualifying story, from an Israeli outlet, covered the Red Cross president's account of meeting Hamas's Ismail Haniyeh in Qatar to seek access to hostages in Gaza. No US outlets or wires with a confirmed timestamp in this window were found.",
-      "stories": [
-        {
-          "outlet": "The Jerusalem Post",
-          "region": "Israel",
-          "lang": "en",
-          "headline": "Red Cross chief says she tried to arrange Gaza hostage visits through talks with Hamas's Haniyeh",
-          "url": "https://www.jpost.com/middle-east/article-911238",
-          "published": "2026-10-10T18:12:00Z",
-          "summary": "The Red Cross president said in a New York Times interview that she met Ismail Haniyeh twice in Qatar to try to arrange visits to hostages in Gaza, and that the organization still has no access to them.",
-          "major": false
-        }
-      ]
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar Airways suspends its flights to Riyadh and Dammam",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOUNMdWNXRTRDVDNieVhIMlhHT3hzQmt2Yk9ieGVockUzUm1VWV9TMXNSMzI0b2dpNXpvaWFlcFZ1dmZQQ2tSNzhJREJ0aG9WOFNqSzhqWnZvXzY0MUhibUdZOHNoX2t2Sk1mTDBqVmxMeWt5bGVYUVNlcE54cnJPOWViT0xpdUhuM3N3WDhFcGZZelRxNDhQMngyVzlndEFFRHc0?oc=5",
+     "published": "2026-10-13T00:38:01Z",
+     "summary": "Qatar Airways said it was pausing its Riyadh and Dammam routes amid the security situation.",
+     "kind": "news",
+     "major": false
     },
     {
-      "brief": "Our first edition looks back over the past ten days. Gulf security dominated coverage: a tanker hit by projectiles off Qatar's north coast, US Patriot batteries sent to protect Gulf energy sites, and a US senator saying the Pentagon kept him out of Al Udeid. Israeli papers also covered the World Bank's forecast of a 4.3% contraction across Gulf economies this year.",
-      "label": "Launch · 1–11 Oct",
-      "runAt": "2026-10-11T04:12:00Z",
-      "stories": [
-        {
-          "dateOnly": true,
-          "headline": "Tanker off Qatar reports hits from multiple projectiles, says maritime agency",
-          "lang": "en",
-          "major": true,
-          "outlet": "The Times of Israel",
-          "published": "2026-10-07T09:00:00Z",
-          "region": "Israel",
-          "summary": "UKMTO reported a tanker struck by several projectiles north of Madinat ash Shamal, with casualties reported. Lead item on the Oct. 7 live blog.",
-          "url": "https://www.timesofisrael.com/liveblog-october-07-2026/"
-        },
-        {
-          "dateOnly": true,
-          "headline": "Middle East economy to shrink 2.1% in 2026, Gulf economies by 4.3%, World Bank forecasts",
-          "lang": "en",
-          "major": false,
-          "outlet": "The Jerusalem Post",
-          "published": "2026-10-08T09:00:00Z",
-          "region": "Israel",
-          "summary": "World Bank projects the Gulf's deepest contraction in years as the Iran war disrupts energy exports.",
-          "url": "https://www.jpost.com/middle-east/article-911069"
-        },
-        {
-          "dateOnly": true,
-          "headline": "RFK Jr. deletes post claiming Israel accusations stem from Qatar-funded Muslim Brotherhood campaign",
-          "lang": "en",
-          "major": false,
-          "outlet": "The Jerusalem Post",
-          "published": "2026-10-08T08:00:00Z",
-          "region": "Israel",
-          "summary": "The HHS secretary removed a social media post blaming criticism of Israel on a Qatar-funded campaign.",
-          "url": "https://www.jpost.com/international/article-910995"
-        },
-        {
-          "dateOnly": true,
-          "headline": "US Senator Murphy says Pentagon denied him access to US base in Qatar",
-          "lang": "en",
-          "major": true,
-          "outlet": "The Jerusalem Post (Reuters)",
-          "published": "2026-10-06T15:00:00Z",
-          "region": "Wire",
-          "summary": "Sen. Chris Murphy says the Pentagon refused him a visit to Al Udeid and a war briefing while he was in the region.",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-910845"
-        },
-        {
-          "dateOnly": true,
-          "headline": "US sends Patriot missile batteries to Saudi Arabia, Qatar to protect oil, gas facilities - report",
-          "lang": "en",
-          "major": true,
-          "outlet": "The Jerusalem Post",
-          "published": "2026-10-02T09:00:00Z",
-          "region": "Israel",
-          "summary": "Report says Washington is deploying additional Patriot batteries to shield Gulf energy infrastructure from Iranian strikes.",
-          "url": "https://www.jpost.com/middle-east/article-910394"
-        }
-      ],
-      "window": "2026-10-01 to 2026-10-11",
-      "id": "2026-10-11-launch"
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "PM's aide Urich used ChatGPT to create pro-Qatar messaging campaign, report says",
+     "url": "https://www.timesofisrael.com/pms-aide-urich-used-chatgpt-to-create-pro-qatar-messaging-campaign-report",
+     "published": "2026-10-12T20:36:00Z",
+     "summary": "A report says Netanyahu aide Yonatan Urich used an AI chatbot to draft messaging meant to improve Qatar's image, and police questioned him about it.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Netanyahu aide asked ChatGPT how to 'whitewash Qatar' during Gaza war, report says",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiY3BheHMyb3prNDdNZkNQSEVhM01GemVFZmVicjBMRmpXeTlnS091Vnc4ZTJtcldrNVFKcjJScDhOTE0tdmJnZUI4LWNwRFFZemQ1blln?oc=5",
+     "published": "2026-10-13T04:29:37Z",
+     "summary": "The report says the aide sought AI help to craft pro-Qatar messaging while Israel was fighting in Gaza.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Haaretz",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Report: Netanyahu aide questioned over alleged use of AI to boost Qatar's image",
+     "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQUjluY1paeG5Vc0xNOWFEdmg3UmdxcHdpWGw0SHYtQzZuYUdBTlRRN042SURJTnF6RURhcWRRYVdjNkZYZy1pOU5JVGN4bW44ZE4ya3hxRFlzenNxQ1p2MHFVT09GODRPaHRyckh2WEVlaS02Y1dnVVZOdHU1ZEZ6VmxiV0ZPYU51UjlFaDI1ay1NSmdBbHQtR3RITnE2TUU5MmhqaXJ0ZlVpSmhQdG01QW9EUjlEU19Fdkgta0JKVHd0YW4tMkJ6OFUtLS1yb1lnd0NxYXRFVnVmNUdTcjl2ajh1NUhta2pialBEOGtyby1RMTFDRFE1ZFU2SGJsZWIzOG5sQnlWLWhXaWpmVVFpRUJyQXNTNkZZUk94N29RRFE?oc=5",
+     "published": "2026-10-13T06:23:00Z",
+     "summary": "Police reportedly questioned the prime minister's aide over alleged use of artificial intelligence in a pro-Qatar image effort.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Bennett slams PM for keeping Qatar-linked aides, says he cannot remain in government",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTWlXdG9VSEE3WlFGNE4zVXRYQVVYRF9pWV9DOGVRazZiODlWYlBPOS1yc2tCVHoxREJLUDhqNzZPeU93MWtTRy1rOXhIWWpXc3JLWVZhbkNrR19haU8tVm9wVlNHWmpfNjZOdV9zanZLcHBIRXVNOHM3aFJONDZ6WU9HbFZsNC1oVFFVdkNDekxoSGlsSC1vV3M2eWZZaldaejdlaTFlampUZmFBQXFoeHVCV3RtUGVHc3FKMzdEMHRhS1hldm55Qw?oc=5",
+     "published": "2026-10-12T09:45:10Z",
+     "summary": "Opposition figure Naftali Bennett attacked Netanyahu for retaining aides tied to the Qatar affair and said he cannot remain in government.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Shadows in Doha",
+     "url": "https://blogs.timesofisrael.com/shadows-in-doha/",
+     "published": "2026-10-12T16:21:00Z",
+     "summary": "A blog post examines Qatar's influence and its ties to Israeli politics.",
+     "kind": "opinion",
+     "major": false
     }
-  ]
+   ],
+   "mentions": []
+  },
+  {
+   "id": "2026-10-12-am",
+   "runAt": "2026-10-12T08:45:00Z",
+   "label": "Mon 12 Oct · Morning",
+   "brief": "Qatar coverage centred on Israeli outlets revisiting the Qatargate affair, with opinion and analysis pieces on alleged Qatari influence in Israel and on Qatar's role as funder and mediator in Gaza. A Reuters column looked at how the Iran conflict still weighs on Gulf LNG exports. US outlets carried little Qatar-specific news, with Iran and Hormuz diplomacy dominating the wider regional picture.",
+   "stories": [
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "The Blogs: How Doha Bought Its Influence in Jerusalem",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVXRNQ0o1eGpCNVA5OWJqOGFWaVkxNllmbVBreWtkWFd1YUtSU2FTeGxsTTFNMDF0d1Z2OHZ3QWgtWVJ0N2ZfSGF1cjBjeHc1bE5kX1FMOXlkcnA1U0h2M09xbjJMay1scFR3NjNlU0REWDJqckxFWktMNFpRallmMQ?oc=5",
+     "published": "2026-10-11T21:13:00Z",
+     "summary": "Blog post argues Qatar built political and media influence in Israel over the years through money and access.",
+     "major": false
+    },
+    {
+     "outlet": "i24NEWS",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Exclusive: New Evidence Links Netanyahu Aide Yonatan Urich To Qatar Influence Campaign",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa0w3YkVndkVZTGk1Ykc1bVhxcV9UZEZTNl9ueTBzMjRpUUVNVmtjc2VHVUVwcXhYWjhfYVo5Y2pQN3o4WFlrUlJpOXdiUUFQa19TNmRKQUdKX21rR2xtMUR4TE5DaHdERmwtVXdBbDlnb1ZaZThuUmh5bUdNb1RqTWJtUDRPWWhqeUZtUU5PeFdlTUFhRHJTSDlKQ2NoQkdobm5KN3l4X29mWVc5dGp6ejBaS0R4TUZHZVlFcTR3UjVsX2tiLUw2RXJOdlpYY05CUEc4?oc=5",
+     "published": "2026-10-11T18:36:00Z",
+     "summary": "An investigation reports new evidence linking a Netanyahu aide to an alleged Qatari influence campaign in Israeli media, as part of the Qatargate affair.",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "\"The arsonist and the firefighter of the Middle East\": How Qatar became a lever of influence in Gaza",
+     "original_headline": "\"המציתה והכבאית של המזרח התיכון\": כך קטאר הפכה למנוף השפעה בעזה",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wSmhocVljb3RQVlJ0eGxBdkRqMUJOVkQ0TjJNNHZXQjgzNk9YQ0NOcG5Xdm8tcVJzS2FaNnQ4MG5OLXJWMmV6X3pLMnZMRlowQVVtYnpWclFnZENjQmhESTlic3ZmTHVpbDhZNFByUE13cHZOenc2TzNSanlkTVnSAYcBQVVfeXFMUGk5eWRDNVg3Q29jVzhneElMejA2WTlEZHlIaGZQaEFkU2t2TUdqUTlXekZkeE5ub3JYT0dvU3JhdzM4SHNMUTJyZWI0eHEtU3pTUWhzblppTVZBdFVTdlVBaFM4OGp4cmJlTnpuMkwwTlI0U2VjY1ZOc0xZOVNsUnh5Qk04bmtj?oc=5",
+     "published": "2026-10-11T15:05:00Z",
+     "summary": "The piece argues that Qatar used its role as both funder and mediator to build leverage over events in Gaza.",
+     "kind": "analysis",
+     "major": false
+    },
+    {
+     "outlet": "BBC",
+     "region": "UK",
+     "lang": "en",
+     "headline": "Qatar Stars League: Oussama Tannane scores for Al-Arabi",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rZXN0NTFKTWVoNUliOXkxWTJvX2dabnoyX0dxazZHM3QwQ0l4STZkV2ZRcDIwa0NkZDhhek1KMWRObDEtcmI0T19EcUxzTlc1MGtUeFA3Z2pxblhWc1o2R28xbXJpZw?oc=5",
+     "published": "2026-10-11T16:48:09Z",
+     "summary": "Al-Arabi forward Oussama Tannane scored in a Qatar Stars League match.",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Netanyahu evades responsibility on Qatar and Oct. 7",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdV9yUFRhUGdfWWVvWFJCZWtlSy1wQW9mN0lWQkR6R3U2eU95R00xN1VjUHJWQXpJcXl2cERQbzh4SVF2dm1pdVdlZG1PRFg3RTJrRDREUTUwLVJWUEhreEZ5RGZoZ2ZHWThibjVlZEFyTGM2dW9qM24xT0llcHlCNzBwbEd0LTFsUWdkY3NkeEw2WTFFTmJmUmtVdw?oc=5",
+     "published": "2026-10-11T13:51:36Z",
+     "summary": "Opinion piece argues Netanyahu is dodging accountability over Qatari funding and the October 7 attack.",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar’s $100M Gaza Aid Exposed",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IWWg0RndzeVQ4YUNVbEIzZzg2Y0FoMVZwSDdoT2ZvQXI0N0diNC1JRm9YZUJValdwb29hOHBMQXk1dHVuM3NKVXpnZ1Vsenp1Z3I2dmZyNlhzbkd3Sm5TY3NLNGszUHRndGgzNXlzUGs4Rno2bjZvdkNDa1drNnc?oc=5",
+     "published": "2026-10-11T05:39:48Z",
+     "summary": "Report examines about $100 million in Qatari aid to Gaza and how it was used.",
+     "major": false
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "COMMENTARY: Middle East LNG industry remains hostage of Iran war",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXNhN1pHTVFkMDM2M21lOXNtYnpXRzRvOEtkVU9pdG1YSXo2Q0M4eVNreElGaFI3RlZZV3FQZXBDZmYtTDYwNVJrbFZOY2VOZWFOR3l2TFpORElhZDhrUWxCRXM1RXpKbGowTVdsS3N0VUIwRFhJOF9wcFhlT1JvRE95dF9BNWluc25GZG1fMm9Gem9NVHN5SlJfNHFXdnprMkxwcktuTjFqOHBYb29lUXpLTE56MjRmbnp6OGU2MzNDNk0?oc=5",
+     "published": "2026-10-12T06:00:00Z",
+     "summary": "The column argues that Gulf gas exporters, Qatar's LNG sector among them, remain constrained by the Iran conflict and the risks around Hormuz.",
+     "kind": "opinion",
+     "major": false
+    }
+   ]
+  },
+  {
+   "id": "2026-10-11-pm",
+   "runAt": "2026-10-11T19:45:00Z",
+   "label": "Sun 11 Oct · Evening",
+   "brief": "Only one tracked outlet story about Qatar could be confirmed in this window. The Jerusalem Post covered a think tank ranking of states most likely to join the Abraham Accords, in which Qatar was assessed as unlikely to normalize soon. No US outlet items were confirmed, so no difference in framing could be drawn.",
+   "stories": [
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Kuwait, Lebanon, Syria leading options for Abraham Accords expansion, CSA report assesses",
+     "url": "https://www.jpost.com/middle-east/abraham-accords/article-911306",
+     "published": "2026-10-11T00:00:00Z",
+     "dateOnly": true,
+     "summary": "A Council for a Secure America report ranks nine states for possible normalization with Israel and judges Qatar unlikely to join soon because of its ties to Iran and the Muslim Brotherhood.",
+     "major": false
+    }
+   ]
+  },
+  {
+   "id": "2026-10-11-am",
+   "runAt": "2026-10-11T07:45:00Z",
+   "label": "Sun 11 Oct · Morning",
+   "brief": "Qatar coverage in this window was light. The one qualifying story, from an Israeli outlet, covered the Red Cross president's account of meeting Hamas's Ismail Haniyeh in Qatar to seek access to hostages in Gaza. No US outlets or wires with a confirmed timestamp in this window were found.",
+   "stories": [
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Red Cross chief says she tried to arrange Gaza hostage visits through talks with Hamas's Haniyeh",
+     "url": "https://www.jpost.com/middle-east/article-911238",
+     "published": "2026-10-10T18:12:00Z",
+     "summary": "The Red Cross president said in a New York Times interview that she met Ismail Haniyeh twice in Qatar to try to arrange visits to hostages in Gaza, and that the organization still has no access to them.",
+     "major": false
+    }
+   ]
+  },
+  {
+   "brief": "Our first edition looks back over the past ten days. Gulf security dominated coverage: a tanker hit by projectiles off Qatar's north coast, US Patriot batteries sent to protect Gulf energy sites, and a US senator saying the Pentagon kept him out of Al Udeid. Israeli papers also covered the World Bank's forecast of a 4.3% contraction across Gulf economies this year.",
+   "label": "Launch · 1–11 Oct",
+   "runAt": "2026-10-11T04:12:00Z",
+   "stories": [
+    {
+     "dateOnly": true,
+     "headline": "Tanker off Qatar reports hits from multiple projectiles, says maritime agency",
+     "lang": "en",
+     "major": true,
+     "outlet": "The Times of Israel",
+     "published": "2026-10-07T09:00:00Z",
+     "region": "Israel",
+     "summary": "UKMTO reported a tanker struck by several projectiles north of Madinat ash Shamal, with casualties reported. Lead item on the Oct. 7 live blog.",
+     "url": "https://www.timesofisrael.com/liveblog-october-07-2026/"
+    },
+    {
+     "dateOnly": true,
+     "headline": "Middle East economy to shrink 2.1% in 2026, Gulf economies by 4.3%, World Bank forecasts",
+     "lang": "en",
+     "major": false,
+     "outlet": "The Jerusalem Post",
+     "published": "2026-10-08T09:00:00Z",
+     "region": "Israel",
+     "summary": "World Bank projects the Gulf's deepest contraction in years as the Iran war disrupts energy exports.",
+     "url": "https://www.jpost.com/middle-east/article-911069"
+    },
+    {
+     "dateOnly": true,
+     "headline": "RFK Jr. deletes post claiming Israel accusations stem from Qatar-funded Muslim Brotherhood campaign",
+     "lang": "en",
+     "major": false,
+     "outlet": "The Jerusalem Post",
+     "published": "2026-10-08T08:00:00Z",
+     "region": "Israel",
+     "summary": "The HHS secretary removed a social media post blaming criticism of Israel on a Qatar-funded campaign.",
+     "url": "https://www.jpost.com/international/article-910995"
+    },
+    {
+     "dateOnly": true,
+     "headline": "US Senator Murphy says Pentagon denied him access to US base in Qatar",
+     "lang": "en",
+     "major": true,
+     "outlet": "The Jerusalem Post (Reuters)",
+     "published": "2026-10-06T15:00:00Z",
+     "region": "Wire",
+     "summary": "Sen. Chris Murphy says the Pentagon refused him a visit to Al Udeid and a war briefing while he was in the region.",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-910845"
+    },
+    {
+     "dateOnly": true,
+     "headline": "US sends Patriot missile batteries to Saudi Arabia, Qatar to protect oil, gas facilities - report",
+     "lang": "en",
+     "major": true,
+     "outlet": "The Jerusalem Post",
+     "published": "2026-10-02T09:00:00Z",
+     "region": "Israel",
+     "summary": "Report says Washington is deploying additional Patriot batteries to shield Gulf energy infrastructure from Iranian strikes.",
+     "url": "https://www.jpost.com/middle-east/article-910394"
+    }
+   ],
+   "window": "2026-10-01 to 2026-10-11",
+   "id": "2026-10-11-launch"
+  }
+ ]
 }
