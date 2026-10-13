@@ -2,9 +2,9 @@
  "editions": [
   {
    "id": "2026-10-13-am",
-   "runAt": "2026-10-13T07:30:00Z",
+   "runAt": "2026-10-13T07:55:00Z",
    "label": "Tue 13 Oct · Morning",
-   "brief": "Qatar coverage centered on the widening Israeli probe into aides to Prime Minister Netanyahu, with reports that a close adviser used AI tools to build pro-Qatar messaging, and on Qatar Airways pausing flights to Saudi cities after Houthi attacks on Riyadh. Israeli outlets framed Qatar largely through the domestic political scandal and its effect on the coming election, while wire coverage treated Qatar mainly as a Gulf aviation and security story.",
+   "brief": "Qatar Airways suspending flights to Riyadh and Dammam after Houthi attacks on Saudi airports was the main news item, carried by Reuters, US and Israeli outlets. Israeli outlets also led on a report that Netanyahu aide Yonatan Urich used ChatGPT to craft pro-Qatar messaging during the Gaza war, with Naftali Bennett using it to attack the prime minister. US coverage mentioned Qatar mainly within wider Iran, Hormuz and oil market reporting.",
    "stories": [
     {
      "outlet": "Reuters",
@@ -13,29 +13,18 @@
      "headline": "Qatar Airways suspends Riyadh, Dammam flights as airport attacks disrupt air travel",
      "url": "https://www.reuters.com/world/middle-east/qatar-airways-suspends-riyadh-dammam-flights-airport-attacks-disrupt-air-travel-2026-10-13/",
      "published": "2026-10-13T00:26:00Z",
-     "summary": "The airline halted services to two Saudi cities after repeated attacks on Riyadh's airport disrupted regional air travel.",
+     "summary": "Qatar's flag carrier halted service to two Saudi cities after Houthi attacks on Saudi airports disrupted air travel.",
      "kind": "news",
-     "major": false
-    },
-    {
-     "outlet": "i24NEWS",
-     "region": "Israel",
-     "lang": "en",
-     "headline": "Qatar Airways, Etihad Airways suspend flights to Saudi hubs following Houthi attacks in Riyadh",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRmpiYW95T1hJRmxaRHRYN0U5d3BmdVBHa0gxbDFlNV9uWFdFWHlsTFlmejJGbmVweHJ6eGJ6QUNOZWpBYjRiXzFLQm4ySW1KMWFyRWJldTdpNGRuTmZaYmVWWXVhSkNaaGE0Q0t2M25zRGNsaEVxUlc5SDZ1VFRTeGFhbU9tR25Rci1lT1JqdURGcEhwYUhtSmowa2xLZHQ3ZVB5dVY5UHF6al9TSG1WOTdXUXVWTkRaX2p0ZzR4ZFNVdVA5bmI2Y2RQNVh5TVo4LUR0OW80R0JDVG1fQnoxaGZTT2VsdURm?oc=5",
-     "published": "2026-10-13T03:43:59Z",
-     "summary": "Gulf carriers including Qatar Airways paused flights to Saudi airports after Houthi strikes on Riyadh.",
-     "kind": "news",
-     "major": false
+     "major": true
     },
     {
      "outlet": "Ynet",
      "region": "Israel",
      "lang": "en",
      "headline": "Etihad, Qatar Airways suspend flights to Saudi Arabia following Houthi attacks",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjY29nUzZvUDZwbW5KSk90QVpCd2dJOXo3aC13bFkzQjNWdnhxUFlDeTJLRFI5bjAtMjN5NEZvSG53am1MMEJqaDc2dVZ1MGFqTnRMSg?oc=5",
+     "url": "https://www.ynetnews.com/article/7dqvhn3ah",
      "published": "2026-10-13T00:52:39Z",
-     "summary": "Two major Gulf airlines stopped Saudi services after the Houthi attacks.",
+     "summary": "Both Gulf carriers paused flights to Saudi Arabia after the Houthi strikes.",
      "kind": "news",
      "major": false
     },
@@ -44,9 +33,31 @@
      "region": "Israel",
      "lang": "en",
      "headline": "Qatar Airways suspends its flights to Riyadh and Dammam",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOUNMdWNXRTRDVDNieVhIMlhHT3hzQmt2Yk9ieGVockUzUm1VWV9TMXNSMzI0b2dpNXpvaWFlcFZ1dmZQQ2tSNzhJREJ0aG9WOFNqSzhqWnZvXzY0MUhibUdZOHNoX2t2Sk1mTDBqVmxMeWt5bGVYUVNlcE54cnJPOWViT0xpdUhuM3N3WDhFcGZZelRxNDhQMngyVzlndEFFRHc0?oc=5",
+     "url": "https://www.timesofisrael.com/liveblog_entry/qatar-airways-suspends-its-flights-to-riyadh-and-dammam/",
      "published": "2026-10-13T00:38:01Z",
-     "summary": "Qatar Airways said it was pausing its Riyadh and Dammam routes amid the security situation.",
+     "summary": "Live-blog entry reporting the Qatari airline's suspension of two Saudi routes.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Newsmax",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatar Airways Halts Flights to Saudi Airports Amid Attacks",
+     "url": "https://www.newsmax.com/world/globaltalk/qatar-airways-saudi-arabia-houthis/2026/10/12/id/1272559/",
+     "published": "2026-10-13T01:18:00Z",
+     "summary": "Qatar Airways stopped flights to Saudi airports as Houthi attacks continued.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "i24NEWS",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar Airways, Etihad Airways suspend flights to Saudi hubs following Houthi attacks in Riyadh",
+     "url": "https://www.i24news.tv/en/news/international/artc-qatar-airways-etihad-airways-suspend-flights-to-saudi-hubs-following-houthi-attacks-in-riyadh-live-blog",
+     "published": "2026-10-13T03:43:59Z",
+     "summary": "Live blog notes that Qatar Airways and Etihad suspended flights to Saudi hubs after attacks on Riyadh.",
      "kind": "news",
      "major": false
     },
@@ -57,18 +68,18 @@
      "headline": "PM's aide Urich used ChatGPT to create pro-Qatar messaging campaign, report says",
      "url": "https://www.timesofisrael.com/pms-aide-urich-used-chatgpt-to-create-pro-qatar-messaging-campaign-report",
      "published": "2026-10-12T20:36:00Z",
-     "summary": "A report says Netanyahu aide Yonatan Urich used an AI chatbot to draft messaging meant to improve Qatar's image, and police questioned him about it.",
+     "summary": "A report says Netanyahu aide Yonatan Urich used ChatGPT to devise a messaging campaign meant to improve Qatar's image during the Gaza war.",
      "kind": "news",
-     "major": false
+     "major": true
     },
     {
      "outlet": "Ynet",
      "region": "Israel",
      "lang": "en",
      "headline": "Netanyahu aide asked ChatGPT how to 'whitewash Qatar' during Gaza war, report says",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiY3BheHMyb3prNDdNZkNQSEVhM01GemVFZmVicjBMRmpXeTlnS091Vnc4ZTJtcldrNVFKcjJScDhOTE0tdmJnZUI4LWNwRFFZemQ1blln?oc=5",
+     "url": "https://www.ynetnews.com/article/hybjqvsize",
      "published": "2026-10-13T04:29:37Z",
-     "summary": "The report says the aide sought AI help to craft pro-Qatar messaging while Israel was fighting in Gaza.",
+     "summary": "Ynet reports that the aide queried an AI chatbot about improving Qatar's image while the war in Gaza was under way.",
      "kind": "news",
      "major": false
     },
@@ -77,9 +88,9 @@
      "region": "Israel",
      "lang": "en",
      "headline": "Report: Netanyahu aide questioned over alleged use of AI to boost Qatar's image",
-     "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQUjluY1paeG5Vc0xNOWFEdmg3UmdxcHdpWGw0SHYtQzZuYUdBTlRRN042SURJTnF6RURhcWRRYVdjNkZYZy1pOU5JVGN4bW44ZE4ya3hxRFlzenNxQ1p2MHFVT09GODRPaHRyckh2WEVlaS02Y1dnVVZOdHU1ZEZ6VmxiV0ZPYU51UjlFaDI1ay1NSmdBbHQtR3RITnE2TUU5MmhqaXJ0ZlVpSmhQdG01QW9EUjlEU19Fdkgta0JKVHd0YW4tMkJ6OFUtLS1yb1lnd0NxYXRFVnVmNUdTcjl2ajh1NUhta2pialBEOGtyby1RMTFDRFE1ZFU2SGJsZWIzOG5sQnlWLWhXaWpmVVFpRUJyQXNTNkZZUk94N29RRFE?oc=5",
+     "url": "https://www.haaretz.com/israel-news/israel-politics/2026-10-12/ty-article/.premium/report-netanyahu-aide-used-chatgpt-to-devise-strategy-to-boost-qatars-image/000001a1-3177-d438-a7a1-b7ff68be0000",
      "published": "2026-10-13T06:23:00Z",
-     "summary": "Police reportedly questioned the prime minister's aide over alleged use of artificial intelligence in a pro-Qatar image effort.",
+     "summary": "Haaretz reports police questioned the aide over his alleged use of AI to shape pro-Qatar messaging.",
      "kind": "news",
      "major": false
     },
@@ -90,7 +101,7 @@
      "headline": "Bennett slams PM for keeping Qatar-linked aides, says he cannot remain in government",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTWlXdG9VSEE3WlFGNE4zVXRYQVVYRF9pWV9DOGVRazZiODlWYlBPOS1yc2tCVHoxREJLUDhqNzZPeU93MWtTRy1rOXhIWWpXc3JLWVZhbkNrR19haU8tVm9wVlNHWmpfNjZOdV9zanZLcHBIRXVNOHM3aFJONDZ6WU9HbFZsNC1oVFFVdkNDekxoSGlsSC1vV3M2eWZZaldaejdlaTFlampUZmFBQXFoeHVCV3RtUGVHc3FKMzdEMHRhS1hldm55Qw?oc=5",
      "published": "2026-10-12T09:45:10Z",
-     "summary": "Opposition figure Naftali Bennett attacked Netanyahu for retaining aides tied to the Qatar affair and said he cannot remain in government.",
+     "summary": "Opposition figure Naftali Bennett criticised the prime minister for keeping aides tied to the Qatargate affair.",
      "kind": "news",
      "major": false
     },
@@ -101,12 +112,53 @@
      "headline": "Shadows in Doha",
      "url": "https://blogs.timesofisrael.com/shadows-in-doha/",
      "published": "2026-10-12T16:21:00Z",
-     "summary": "A blog post examines Qatar's influence and its ties to Israeli politics.",
+     "summary": "Blog post on Qatari influence and its ties to Israeli politics.",
      "kind": "opinion",
      "major": false
     }
    ],
-   "mentions": []
+   "mentions": [
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Iran Is Fortifying Nuclear Sites and Rallying Its People for a Return to Fighting",
+     "url": "https://www.wsj.com/world/middle-east/iran-is-fortifying-nuclear-sites-and-rallying-its-people-for-a-return-to-fighting-c4cc3c28",
+     "published": "2026-10-13T03:00:00Z",
+     "context": "References Qatar in coverage of Iran's nuclear program and the prospect of renewed fighting."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Prices Fall as Traders Weigh Middle East Risks, Russian Diesel Supplies",
+     "url": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-middle-east-risks-russian-diesel-supplies-53840a01",
+     "published": "2026-10-13T07:35:00Z",
+     "context": "References Qatar in coverage of oil markets and Middle East risks."
+    },
+    {
+     "outlet": "Associated Press",
+     "region": "Wire",
+     "headline": "Houthi rebels say multiple airstrikes targeted them in Yemen, and other Mideast developments",
+     "url": "https://apnews.com/article/saudi-arabia-yemen-houthis-october-13-2026-3e6e5f152048c035081eac369f62ed4f",
+     "published": "2026-10-13T06:25:00Z",
+     "context": "References Qatar in coverage of Houthi attacks and other Mideast developments."
+    },
+    {
+     "outlet": "BBC",
+     "region": "UK",
+     "headline": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+     "url": "https://www.bbc.com/news/articles/cjly0zqq27e4o",
+     "published": "2026-10-13T04:30:09Z",
+     "context": "References Qatar in coverage of Houthi attacks on Saudi airports."
+    },
+    {
+     "outlet": "The New York Times",
+     "region": "US",
+     "headline": "I.M.F. Warns Mideast War Will Widen Gap Between Rich and Poor Countries",
+     "url": "https://www.nytimes.com/2026/10/12/business/economy/imf-global-economic-outlook.html",
+     "published": "2026-10-13T04:58:00Z",
+     "context": "References Qatar in coverage of the IMF's warning on the economic impact of the Mideast war."
+    }
+   ]
   },
   {
    "id": "2026-10-12-am",
