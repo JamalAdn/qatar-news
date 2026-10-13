@@ -1,1 +1,258 @@
+name: Qatar News edition
 
+on:
+  schedule:
+    # Main trigger is the Cloudflare scheduler (exactly 06:45 and 18:45 Doha).
+    # These GitHub schedules are a backup; they skip themselves if a fresh edition already exists.
+    - cron: "30 4 * * *"
+    - cron: "30 16 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  id-token: write
+
+concurrency:
+  group: qatar-news-edition
+  cancel-in-progress: false
+
+jobs:
+  edition:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Skip if a fresh edition already exists (backup schedule only)
+        id: fresh
+        run: |
+          python3 - <<'PY'
+          import json, os
+          from datetime import datetime, timezone
+          ed = json.load(open("editions.json"))["editions"]
+          last = max((e.get("runAt","") for e in ed), default="")
+          age_h = (datetime.now(timezone.utc) - datetime.fromisoformat(last.replace("Z","+00:00"))).total_seconds()/3600 if last else 99
+          skip = os.environ.get("EVENT") == "schedule" and age_h < 3
+          print(f"newest edition is {age_h:.1f}h old; skip={skip}")
+          open(os.environ["GITHUB_OUTPUT"],"a").write(f"skip={'true' if skip else 'false'}\n")
+          PY
+        env:
+          EVENT: ${{ github.event_name }}
+
+      - name: Install link resolver
+        if: steps.fresh.outputs.skip != 'true'
+        run: pip install --quiet googlenewsdecoder "selectolax<1" || true
+
+      - name: Gather candidate stories (Google News feeds per outlet)
+        if: steps.fresh.outputs.skip != 'true'
+        run: |
+          python3 - <<'PY'
+          import json, time, urllib.parse, urllib.request, xml.etree.ElementTree as ET
+          from email.utils import parsedate_to_datetime
+          from datetime import datetime, timedelta, timezone
+
+          OUTLETS = [
+            ("The New York Times","US","nytimes.com"), ("The Wall Street Journal","US","wsj.com"),
+            ("The Washington Post","US","washingtonpost.com"), ("Bloomberg","US","bloomberg.com"),
+            ("Politico","US","politico.com"), ("CNN","US","cnn.com"), ("Axios","US","axios.com"),
+            ("Fox News","US","foxnews.com"),
+            ("New York Post","US","nypost.com"), ("Washington Examiner","US","washingtonexaminer.com"),
+            ("The Washington Free Beacon","US","freebeacon.com"), ("National Review","US","nationalreview.com"),
+            ("The Daily Wire","US","dailywire.com"), ("Breitbart","US","breitbart.com"),
+            ("The Federalist","US","thefederalist.com"), ("The Daily Caller","US","dailycaller.com"),
+            ("Newsmax","US","newsmax.com"), ("The Free Press","US","thefp.com"),
+            ("The Washington Times","US","washingtontimes.com"), ("JNS","US","jns.org"),
+            ("Haaretz","Israel","haaretz.com"), ("The Times of Israel","Israel","timesofisrael.com"),
+            ("The Jerusalem Post","Israel","jpost.com"), ("Ynet","Israel","ynetnews.com"),
+            ("Israel Hayom","Israel","israelhayom.com"), ("Globes","Israel","globes.co.il"),
+            ("i24NEWS","Israel","i24news.tv"),
+            ("Associated Press","Wire","apnews.com"), ("Reuters","Wire","reuters.com"),
+            ("Financial Times","UK","ft.com"), ("The Guardian","UK","theguardian.com"),
+            ("BBC","UK","bbc.com"), ("BBC","UK","bbc.co.uk"), ("The Economist","UK","economist.com"),
+          ]
+          HEBREW = [("Ynet","ynet.co.il"),("Maariv","maariv.co.il"),("Israel Hayom","israelhayom.co.il"),
+                    ("N12","mako.co.il"),("Kan","kan.org.il"),("Haaretz","haaretz.co.il")]
+
+          data = json.load(open("editions.json"))
+          doha = datetime.now(timezone.utc) + timedelta(hours=3)
+          edition_id = doha.strftime("%Y-%m-%d") + ("-am" if doha.hour < 15 else "-pm")
+          # A re-run of the same edition starts fresh instead of keeping the earlier picks.
+          data["editions"] = [e for e in data["editions"] if e.get("id") != edition_id]
+          json.dump(data, open("editions.json","w"), ensure_ascii=False, indent=1)
+          ed = data["editions"]
+          # Always look back 24 hours; stories already published in recent editions are filtered out below.
+          since = datetime.now(timezone.utc) - timedelta(hours=24)
+          seen = {s.get("url") for e in ed[:6] for s in e.get("stories",[])}
+
+          def feed(q, hl, gl, ceid):
+              url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": q, "hl": hl, "gl": gl, "ceid": ceid})
+              req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (QatarNewsDesk)"})
+              try:
+                  return ET.fromstring(urllib.request.urlopen(req, timeout=20).read())
+              except Exception as ex:
+                  print("feed failed:", q, ex); return None
+
+          out = []
+          def collect(root, outlet, region, lang):
+              if root is None: return
+              for it in root.iter("item"):
+                  try: pub = parsedate_to_datetime(it.findtext("pubDate"))
+                  except Exception: continue
+                  if pub < since: continue
+                  src = it.find("source")
+                  out.append({"outlet": outlet, "region": region, "lang": lang,
+                              "title": it.findtext("title"), "google_link": it.findtext("link"),
+                              "source_site": src.get("url") if src is not None else "",
+                              "published": pub.astimezone(timezone.utc).isoformat().replace("+00:00","Z")})
+
+          for name, region, dom in OUTLETS:
+              collect(feed(f"(Qatar OR Doha OR Qatari OR \"Al Thani\" OR \"Al Udeid\" OR QatarEnergy) site:{dom} when:2d", "en-US", "US", "US:en"), name, region, "en")
+              time.sleep(1)
+          for name, dom in HEBREW:
+              collect(feed(f"(קטאר OR קטר OR דוחא) site:{dom} when:2d", "iw", "IL", "IL:iw"), name, "Israel", "he")
+              time.sleep(1)
+
+          # Bing News RSS: its links carry the original article URL in the "url" parameter.
+          import re
+          def norm(t): return re.sub(r"[^a-z0-9 ]","", (t or "").lower().rsplit(" - ",1)[0])[:70]
+          bing = []
+          dom_map = {d: (n, r) for n, r, d in OUTLETS}
+          for name, region, dom in OUTLETS:
+              url = "https://www.bing.com/news/search?" + urllib.parse.urlencode({"q": f"Qatar site:{dom}", "format": "rss", "count": "30"})
+              try:
+                  root = ET.fromstring(urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"}), timeout=20).read())
+              except Exception as ex:
+                  print("bing failed:", dom, ex); continue
+              for it in root.iter("item"):
+                  link = it.findtext("link") or ""
+                  real = urllib.parse.parse_qs(urllib.parse.urlparse(link).query).get("url", [link])[0]
+                  if dom not in real: continue
+                  try: pub = parsedate_to_datetime(it.findtext("pubDate"))
+                  except Exception: continue
+                  if pub < since: continue
+                  bing.append({"outlet": name, "region": region, "lang": "en", "title": it.findtext("title"),
+                               "google_link": "", "url": real, "source_site": dom,
+                               "published": pub.astimezone(timezone.utc).isoformat().replace("+00:00","Z")})
+              time.sleep(1)
+          print(len(bing), "Bing items")
+          by_title = {norm(b["title"]): b["url"] for b in bing}
+          for c in out:
+              c["url"] = by_title.get(norm(c["title"]), "")
+          out.extend(bing)
+
+          uniq = {}
+          for c in out:
+              k = norm(c["title"])
+              if k in uniq and not uniq[k].get("url") and c.get("url"): uniq[k] = c
+              else: uniq.setdefault(k, c)
+          cands = sorted(uniq.values(), key=lambda c: c["published"], reverse=True)
+          try:
+              from googlenewsdecoder import gnewsdecoder
+          except Exception:
+              gnewsdecoder = None
+          resolved = 0
+          for c in cands[:80]:
+              c.setdefault("url", "")
+              if c["url"]: resolved += 1; continue
+              if gnewsdecoder and c.get("google_link"):
+                  try:
+                      r = gnewsdecoder(c["google_link"], interval=1)
+                      if (r.get("success") or r.get("status")) and r.get("decoded_url","").startswith("http") and "news.google.com" not in r["decoded_url"]:
+                          c["url"] = r["decoded_url"]; resolved += 1
+                      elif resolved == 0: print("decoder said:", str(r)[:200])
+                  except Exception as ex:
+                      print("decode failed:", ex)
+          print(resolved, "links resolved to the original article")
+          JUNK = re.compile(r"\b(index|transcripts?|newsroom|latest videos|live updates?|podcast|crossword|horoscope|premier league|champions league|la liga|nba|nfl|transfer|scores?)\b", re.I)
+          pool = [c for c in cands if c["region"] in ("US","UK","Wire") and not JUNK.search(c["title"] or "")]
+          print(len(pool), "US/UK/wire items in the mentions pool")
+          json.dump({"edition_id": edition_id, "mention_pool": pool[:40], "since": since.isoformat(), "already_published_urls": sorted(u for u in seen if u),
+                     "candidates": cands}, open("candidates.json","w"), ensure_ascii=False, indent=1)
+          print(len(cands), "candidates since", since.isoformat())
+          PY
+
+      - name: Write the new edition with Claude
+        if: steps.fresh.outputs.skip != 'true'
+        uses: anthropics/claude-code-action@v1
+        with:
+          # Set ONE of these two secrets in Settings > Secrets and variables > Actions.
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          claude_args: |
+            --allowedTools "WebSearch,WebFetch,Read,Edit,Write,Grep,Glob,Bash(date:*),Bash(python3:*),Bash(cat:*),Bash(head:*),Bash(grep:*),Bash(jq:*)"
+          prompt: |
+            You maintain the public site qatarnewstoday.date. Its stories live in editions.json in this repo:
+            {"editions":[ {edition}, ... ]}, newest first. Add ONE new edition to the top with every story about Qatar
+            published by the tracked outlets that is not already in a recent edition. Only edit editions.json.
+
+            STEP 1. Read candidates.json (in the current folder; do not edit or commit it). It lists headlines from Google News feeds for each tracked outlet since
+            the last 24 hours ("since"), with outlet, region, lang, title, publish time and a Google News link.
+            These are your main source. For each candidate:
+              - Keep it only if Qatar is central to the story: Qatari diplomacy and mediation, security, energy / LNG,
+                QIA and investments, Al Udeid, Qatari officials, Qatar's role in Gaza, Iran or Israeli politics, and major
+                events hosted in Qatar. Drop stories where Qatar is only a passing mention.
+              - Drop routine sports items (match reports, transfers, league results). Keep sport only if it is a major
+                international story (e.g. a World Cup or a political controversy).
+              - Drop listicles, travel, lifestyle and promotional content.
+              - Drop it if its URL or the same story is in "already_published_urls".
+              - Merge duplicates (same story from the same outlet).
+              - Use the candidate's "url" (the original article). If it is empty, you MUST search the headline with
+                WebSearch and take the outlet's own article URL. Only if that search fails, use the google_link.
+                Never invent a URL.
+              - Titles from Google News end with " - Outlet name"; remove that suffix.
+            STEP 2. Then run a few extra WebSearch queries for Qatar news from the last day (mediation, LNG / Ras Laffan,
+            Al Udeid, Iran / Hormuz, QIA, Gaza) to catch anything the feeds missed, from tracked outlets only:
+            NYT, WSJ, Washington Post, Bloomberg, Politico, CNN, Axios, Fox News, New York Post, Washington Examiner,
+            Washington Free Beacon, National Review, Daily Wire, Breitbart, The Federalist, Daily Caller, Newsmax,
+            The Free Press, Washington Times, JNS, Haaretz, Times of Israel, Jerusalem Post,
+            Ynet / Yedioth, Israel Hayom, Maariv, Globes, i24NEWS, N12, Kan, AP, Reuters, AFP, FT, Guardian, BBC, Economist.
+            A wire story republished by a tracked outlet: outlet like "The Jerusalem Post (Reuters)", region "Wire".
+
+            STEP 3. MENTIONS (required). candidates.json has a "mention_pool": US, UK and wire pieces that mention Qatar.
+            From that pool (excluding anything you kept as a story), pick up to 10 where Qatar plays a real part in a wider story (Iran war, Gaza talks, oil and LNG markets, Gulf security,
+            US politics and Qatar, etc.). Skip index pages, transcripts, video hubs, sport, and anything where you cannot
+            tell what the piece says about Qatar. For each, use WebSearch (or WebFetch where the page is open) to see how
+            Qatar figures in it, and write "context": one short sentence on Qatar's role in the piece. Only state what you
+            could confirm; if you only know the topic, write e.g. "References Qatar in coverage of Iran's nuclear program."
+            Use the original article URL, found the same way as for stories.
+            If the pool has relevant pieces, the edition must include them; an empty "mentions" list is only acceptable
+            when every pooled item is irrelevant (sport, markets index pages, unrelated topics).
+
+            EDITION FORMAT (keys exactly as below)
+            {
+              "id": the "edition_id" value from candidates.json,
+              "runAt": current time from `date -u`, ISO 8601 UTC,
+              "label": e.g. "Mon 12 Oct · Morning" or "Mon 12 Oct · Evening",
+              "brief": 2-3 plain sentences for public readers on what the Qatar coverage was about, noting any difference
+                       in framing between US and Israeli outlets. No em dashes. Never mention feeds, tools or this process.
+              "stories": [ { "outlet", "region": "US"|"Israel"|"Wire"|"UK", "lang": "en"|"he",
+                             "headline" (English; translate Hebrew), "original_headline" (Hebrew original, only if lang is "he"),
+                             "url", "published" (ISO UTC, from the candidate),
+                             "summary" (one factual sentence in your own words, never copied article text, no em dashes),
+                             "kind": "news" | "analysis" | "opinion" (opinion = op-eds, columns, blogs, editorials),
+                             "major" (true only for significant news developments: security incidents, mediation breakthroughs,
+                                      major deals, diplomatic ruptures; never true for opinion) } ]
+              Order stories with the most important news first; opinion pieces after news.
+              "mentions": [ { "outlet", "region", "headline", "url", "published", "context" } ]  (may be empty)
+            }
+            If nothing qualifies, still add the edition with "stories": [] and a short brief saying coverage was quiet.
+            Each story should appear in only one edition: skip anything whose URL is in "already_published_urls".
+            Keep at most 120 editions (drop the oldest). The file must stay valid JSON, UTF-8, Hebrew unescaped.
+
+      - name: Check the file is valid
+        if: steps.fresh.outputs.skip != 'true'
+        run: python3 -c "import json; d=json.load(open('editions.json')); assert isinstance(d['editions'], list) and d['editions']; print(len(d['editions']), 'editions; newest:', d['editions'][0]['id'], 'stories:', len(d['editions'][0]['stories']))"
+
+      - name: Publish
+        if: steps.fresh.outputs.skip != 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
+          git config user.name "Qatar News Desk"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add editions.json
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Edition $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin main
+          git push
