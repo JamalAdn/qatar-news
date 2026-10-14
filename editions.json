@@ -2,10 +2,21 @@
  "editions": [
   {
    "id": "2026-10-14-am",
-   "runAt": "2026-10-13T21:30:00Z",
-   "label": "Tue 13 Oct · Evening",
-   "brief": "Coverage centered on the economic cost of the Iran war for Qatar, with its ruler saying state revenues fell 42 percent, and on his call for tighter Gulf security coordination and accountability over Gaza. Israeli outlets also focused on Qatar's ties to Netanyahu's circle, including a report that an aide used an AI chatbot to improve Qatar's image, while US outlets mostly treated Qatar as part of the wider Iran war story.",
+   "runAt": "2026-10-14T09:55:00Z",
+   "label": "Wed 14 Oct · Morning",
+   "brief": "Qatar coverage centered on the economic toll of the Iran war, with the emir saying state revenues fell 42 percent, and on Doha's efforts to rebuild its LNG trade despite Hormuz disruption and damage at Ras Laffan. Israeli outlets also focused on the Qatargate affair and Qatar's ties to Netanyahu's circle, including a report that an aide used an AI chatbot to improve Qatar's image, while US outlets mostly treated Qatar as part of the wider Iran war and energy story.",
    "stories": [
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatar Rewrites Its Gas Playbook With Old Tankers and New Tactics",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-14/qatar-reinvents-lng-trade-to-restore-global-clout-even-as-iran-war-drags",
+     "published": "2026-10-14T04:00:00Z",
+     "summary": "Bloomberg reports that Qatar is reworking how it trades LNG to regain influence while the Iran war continues to disrupt its exports.",
+     "kind": "analysis",
+     "major": false
+    },
     {
      "outlet": "The Times of Israel",
      "region": "Israel",
@@ -22,9 +33,9 @@
      "region": "US",
      "lang": "en",
      "headline": "Qatar Says State Revenue Down 42 Percent from Iran War",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeHl0UEktQTRSTl8wZUdsWTY5blV5bm1Pd0FBMXFtQXVLY2tmVFpJZnBqS3lQSy1jVmQ3eWU2a1Q3cklWdlJZZnkyR2dVNDlvYW9NMmptRkowd3FvRTBJSHdNRGhfM0x2N1V5aDJaUGRUQ3VHN3lSNUxvRFY0U3BIWkNLNDlLRE1yWkx5ck9NNm80WVhNakxrQTVVbUUtN2o3UU82RmVQRDgyWkRa0gGsAUFVX3lxTE14eXRQSS1BNFJOXzBlR2xZNjluVXlubU93QUExcW1BdUtja2ZUWklmcGpLeVBLLWNWZDd5ZTZrVDdySVZ2UllmeTJHZ1U0OW9hb00yam1GSjB3cW9FMElId01EaF8zTHY3VXloMlpQZFRDdUc3eVI1TG9EVjRTcEhaQ0s0OUtETXJaTHlyT002bzRZWE1qTGtBNVVtRS03ajdRTzZGZVBEODJaRFo?oc=5",
+     "url": "https://www.breitbart.com/middle-east/2026/10/13/qatar-says-state-revenue-down-42-percent-from-iran-war/",
      "published": "2026-10-13T17:50:21Z",
-     "summary": "Qatari authorities said state income dropped 42 percent because of the Iran war.",
+     "summary": "Qatar's emir told the Shura Council that revenue fell 42 percent in the first half of the year, blaming the Hormuz closure and damage at Ras Laffan.",
      "kind": "news",
      "major": false
     },
@@ -52,6 +63,28 @@
      "major": false
     },
     {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Netanyahu adviser asked ChatGPT to help improve Qatar's image among Israelis, Jews worldwide",
+     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911536",
+     "published": "2026-10-13T09:44:27Z",
+     "summary": "A report says a Netanyahu aide used ChatGPT to devise ways to improve Qatar's image among Israelis and Jews abroad.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "The Blogs: Qatargate: Traitors or Pawns?",
+     "url": "https://blogs.timesofisrael.com/qatargate-traitors-or-pawns/",
+     "published": "2026-10-14T07:35:00Z",
+     "summary": "A blogger argues the Qatargate allegations about Netanyahu advisers raise questions of whom they served and demand investigation, while noting they are not yet established fact.",
+     "kind": "opinion",
+     "major": false
+    },
+    {
      "outlet": "Israel Hayom",
      "region": "Israel",
      "lang": "he",
@@ -62,35 +95,24 @@
      "summary": "Israel Hayom argues that Netanyahu's government continues its ties with Qatar despite its stated goal of defeating Hamas.",
      "kind": "opinion",
      "major": false
-    },
-    {
-     "outlet": "The Jerusalem Post",
-     "region": "Israel",
-     "lang": "en",
-     "headline": "Netanyahu adviser asked ChatGPT to help improve Qatar's image among Israelis, Jews worldwide",
-     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911536",
-     "published": "2026-10-13T09:44:27Z",
-     "summary": "A report says a Netanyahu aide used ChatGPT to devise ways to improve Qatar's image among Israelis and Jews abroad.",
-     "kind": "news",
-     "major": false
     }
    ],
    "mentions": [
     {
-     "outlet": "Axios",
-     "region": "US",
-     "headline": "Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait",
-     "url": "https://www.axios.com/2026/10/13/netanyahu-trump-iran-war-elections",
-     "published": "2026-10-13T18:50:12Z",
-     "context": "References Qatar in coverage of the Iran war and Israeli-US strategy."
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Saudi stocks slip after attack on Aramco building; Gulf markets mixed",
+     "url": "https://www.reuters.com/world/middle-east/saudi-stocks-slip-after-attack-aramco-building-gulf-markets-mixed-2026-10-14/",
+     "published": "2026-10-14T07:59:43Z",
+     "context": "Gulf markets roundup following the Aramco attack, a regional piece that may reference Qatar's market."
     },
     {
      "outlet": "The Wall Street Journal",
      "region": "US",
-     "headline": "Oil Ends Mixed as Traders Weigh Middle East Risks, Russian Diesel Supplies",
-     "url": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-middle-east-risks-russian-diesel-supplies-53840a01",
-     "published": "2026-10-13T19:22:00Z",
-     "context": "References Qatar in coverage of oil markets and Middle East risks."
+     "headline": "Oil Prices Rise as Traders Weigh Saudi Aramco Attack Report, Hormuz Shipping Risks",
+     "url": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-traders-weigh-saudi-aramco-attack-report-hormuz-shipping-risks-0f09ed61",
+     "published": "2026-10-14T07:22:00Z",
+     "context": "References Qatar in coverage of Hormuz shipping risks and Gulf oil markets."
     }
    ]
   },
