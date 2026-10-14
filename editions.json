@@ -1,6 +1,126 @@
 {
  "editions": [
   {
+   "id": "2026-10-14-pm",
+   "runAt": "2026-10-14T20:20:18Z",
+   "label": "Wed 14 Oct · Evening",
+   "brief": "Qatar coverage centred on the growing controversy over Netanyahu aide Urich's alleged work for and meetings with Qatari officials, with Israeli outlets pressing the prime minister for answers. Wire coverage focused instead on energy, with Qatari LNG uncertainty weighing on a European utility's plans. Macron's planned Gulf tour including Doha was also noted.",
+   "stories": [
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Eisenkot slams Netanyahu's 'deafening silence' on Urich's work for Qatar, says PM owes Israel answers",
+     "url": "https://www.timesofisrael.com/liveblog_entry/eisenkot-slams-netanyahus-deafening-silence-on-urichs-work-for-qatar-says-pm-owes-israel-answers/",
+     "published": "2026-10-14T19:59:28Z",
+     "summary": "Opposition figure Gadi Eisenkot said the prime minister must explain his aide Urich's work for Qatar after days of public silence.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Report: Urich met with senior Qatari official at least twice during war",
+     "url": "https://www.ynetnews.com/article/0e8ildh9h",
+     "published": "2026-10-14T17:41:26Z",
+     "summary": "A report says the prime minister's aide Urich met a senior Qatari official at least twice during the Gaza war.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "PM's aide Urich reportedly met twice with senior Qatari official in Europe in 2024",
+     "url": "https://www.timesofisrael.com/liveblog_entry/pms-aide-urich-reportedly-met-twice-with-senior-qatari-official-in-europe-in-2024/",
+     "published": "2026-10-14T17:44:28Z",
+     "summary": "The paper relays a report that the two meetings with the Qatari official took place in Europe in 2024.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Netanyahu sidesteps question on Urich's alleged Qatar ties, says aide had no access to security briefings",
+     "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-sidesteps-question-on-urichs-alleged-qatar-ties-says-aide-had-no-access-to-security-briefings/",
+     "published": "2026-10-14T10:52:00Z",
+     "summary": "Asked about his aide's alleged Qatar links, Netanyahu said the aide had no access to security briefings without directly addressing the claims.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "N12",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Confidant of the Emir of Qatar and the meeting with Urich - main newscast",
+     "original_headline": "איש אמונו של אמיר קטר - והפגישה עם אוריך - המהדורה המרכזית 14.10.26 | קטעים קצרים | +12",
+     "url": "https://www.mako.co.il/mako-vod-channel2-news/main-newscast-2026/shorts/Video-b901efec55b31a1027.htm",
+     "published": "2026-10-14T20:05:36Z",
+     "summary": "The main evening newscast covered the report on a Qatari figure close to the emir and his meeting with Netanyahu's aide Urich.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Edison CEO says EDF has paused stake sale plan as Qatar LNG uncertainty persists",
+     "url": "https://www.reuters.com/business/energy/edf-pauses-edison-stake-sale-plan-gas-supply-uncertainty-clouds-outlook-2026-10-14/",
+     "published": "2026-10-14T15:41:16Z",
+     "summary": "Edison's chief said EDF has put its plan to sell a stake in the Italian utility on hold while uncertainty over Qatari LNG supply continues.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "France's Macron to visit Kuwait, UAE, Bahrain and Qatar next week",
+     "url": "https://www.timesofisrael.com/liveblog_entry/frances-macron-to-visit-kuwait-uae-bahrain-and-qatar-next-week/",
+     "published": "2026-10-14T17:44:28Z",
+     "summary": "French President Macron will tour four Gulf states including Qatar next week.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "NEWSLETTER: Houthis bring the war to Riyadh",
+     "url": "https://www.reuters.com/world/middle-east/houthis-bring-war-riyadh-2026-10-14/",
+     "published": "2026-10-14T18:48:00Z",
+     "context": "References Qatar in coverage of Houthi attacks on Saudi Arabia and Gulf security."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Two ships sink near Hormuz after being hit by projectiles amid surge in attacks",
+     "url": "https://www.reuters.com/world/asia-pacific/container-ship-sinks-near-hormuz-after-being-hit-by-projectile-sources-say-2026-10-14/",
+     "published": "2026-10-14T17:22:06Z",
+     "context": "References Qatar in coverage of attacks on shipping near the Strait of Hormuz."
+    },
+    {
+     "outlet": "Newsmax",
+     "region": "US",
+     "headline": "Trump: Taiwan to Buy Up to $80 Billion in Alaska Gas",
+     "url": "https://www.newsmax.com/politics/donald-trump-taiwan-alaska-lng/2026/10/14/id/1272763/",
+     "published": "2026-10-14T17:41:00Z",
+     "context": "References Qatar in coverage of LNG markets, where Qatar is a major supplier to Taiwan."
+    },
+    {
+     "outlet": "Associated Press",
+     "region": "Wire",
+     "headline": "Yemen's Houthis look to build ballistic missiles with more Chinese supplies, report says",
+     "url": "https://apnews.com/article/yemen-houthis-missile-technology-china-parts-iran-2ad930f312484954bcc21cca7e94e571",
+     "published": "2026-10-14T19:27:00Z",
+     "context": "References Qatar in coverage of the Houthis and Iran-backed regional threats."
+    }
+   ]
+  },
+  {
    "id": "2026-10-14-am",
    "runAt": "2026-10-14T09:55:00Z",
    "label": "Wed 14 Oct · Morning",
