@@ -1,6 +1,103 @@
 {
  "editions": [
   {
+   "id": "2026-10-15-am",
+   "runAt": "2026-10-15T09:25:00Z",
+   "label": "Thu 15 Oct · Morning",
+   "brief": "Qatar coverage stayed focused on the Urich affair, with Israeli outlets reporting further alleged contacts between Netanyahu's circle and Qatari figures, including around the 2022 World Cup, and an opinion piece on curbing Qatari influence in Gaza. US coverage was lighter and centred on Trump's defence of the Qatari-gifted Air Force One and on a Qatari bank's results. Wire reports on Hormuz and oil prices touched on the wider Gulf energy picture.",
+   "stories": [
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatargate suspect Urich met with Qatari senior adviser months after October 7",
+     "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911759",
+     "published": "2026-10-15T07:37:37Z",
+     "summary": "A report says Netanyahu aide Jonatan Urich, a suspect in the Qatargate probe, met a senior Qatari adviser in the months after the October 7 attacks.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Haaretz",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Exclusive: Netanyahu advisers met Qataris in 2022 while working on World Cup campaign",
+     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxORWtvTWk5bFlnV2U1cmF1V3ZDdWp2aGk2a1dvT05hTlJ0eXhDV2VxeWJta0xxR1B5Ni1MSldBazJsNDRORGJXcEpLTTFoY1VwRUVIUUMyZDhpNTBnaElOVkpoNGRnYXFURWJBUkg5Y2ZuUVh1b2VqZGs5eEhYazB0dTVLSi0yeVRVQWFjUWhQb20zbE5LYzNmV21LeDdtcEtJVk1heHBSUUtPQWRqSklHMTZIM1h5S0RhaTRfVl9nX3ZPZU96Y3RtM0dVS1V3eXNaak00MXBFeTZfTWdtRzVLSjdQcG9VVVp4aDJzOTVVU3RlOXZPQ3JRNTBSZDVhcFRMc1JJSXJjc1RfOXd5SzdhMFNQVGxEeTZtSlo0Tk9iUElIWTg?oc=5",
+     "published": "2026-10-14T21:12:00Z",
+     "summary": "Haaretz reports that advisers to the prime minister met Qatari figures in 2022 while they were working on a campaign tied to the World Cup.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Associated Press",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Trump defends gifted Air Force One from Qatar and makes 2nd Amendment pitch as he campaigns for GOP",
+     "url": "https://www.washingtonpost.com/politics/2026/10/14/trump-rallies-arizona-montana-midterms/637c3fa0-c7e9-11f1-aefb-abe4112d087e_story.html",
+     "published": "2026-10-15T03:15:00Z",
+     "summary": "At midterm campaign stops the president defended accepting a jet gifted by Qatar for use as Air Force One.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatar National Bank Targets Digital Infrastructure, Real Estate Financing as Profit Rises, CEO Says",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcGZuM0RiMEFwU2VUZEhoNEpULWtTWnJjQ0d3bU1LT3FNMk8tMU5hcTlkQWFmR1Vka0VmQVAzTDIxSXhDTWJxTEpYazZPUUlmcGtGay1pR3BwREJkdVZOUG54MG8tQm1YcXMyd0RGMmFMWHdKUUU5dlRpeFVjT2g3NllHUWRlZzFFV0tOblhJRllWazFuWTNZanpFeWZtWExTZVhpUTI4d3Nhd2lMU3pKSVJvQXU4Z1FCZmNLM1VYNF9qQzByVDlXamFCSTFzUk9wbFNrTTFha2RpZw?oc=5",
+     "published": "2026-10-14T11:29:54Z",
+     "summary": "The chief executive of Qatar's largest bank said it is targeting digital infrastructure and real estate financing as profit rises.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Not inevitable: How Israel can push Qatar out of Gaza",
+     "url": "https://www.israelhayom.com/2026/10/15/not-inevitable-how-israel-can-push-qatar-out-of-gaza/",
+     "published": "2026-10-15T06:35:05Z",
+     "summary": "An opinion piece argues Israel has options to reduce Qatar's influence over Gaza.",
+     "kind": "opinion",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Hormuz shipping disruption is starting to hit harvests, UN agency says",
+     "url": "https://www.reuters.com/world/middle-east/hormuz-shipping-disruption-is-starting-hit-harvests-un-agency-says-2026-10-15/",
+     "published": "2026-10-15T09:01:43Z",
+     "context": "References Qatar in coverage of Hormuz shipping disruption during the Iran war."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Gulf stocks fall after Houthis threaten more Saudi attacks",
+     "url": "https://www.reuters.com/world/middle-east/gulf-stocks-fall-after-houthis-threaten-more-saudi-attacks-2026-10-15/",
+     "published": "2026-10-15T08:47:08Z",
+     "context": "References Qatar in coverage of Gulf markets and regional security after Houthi threats against Saudi Arabia."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Prices Fall as Traders Weigh Gulf Supply Recovery, Hormuz Attacks",
+     "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-gulf-supply-recovery-hormuz-attacks-f0337002",
+     "published": "2026-10-15T08:21:00Z",
+     "context": "References Qatar in coverage of oil prices, Gulf supply recovery and Hormuz attacks."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "TotalEnergies flags quarterly profit surge as Iran war continues to drive energy prices",
+     "url": "https://www.reuters.com/business/energy/totalenergies-flags-q3-profit-surge-iran-war-continues-drive-energy-prices-2026-10-15/",
+     "published": "2026-10-15T06:06:00Z",
+     "context": "References Qatar in coverage of energy prices during the Iran war."
+    }
+   ]
+  },
+  {
    "id": "2026-10-14-pm",
    "runAt": "2026-10-14T20:20:18Z",
    "label": "Wed 14 Oct · Evening",
