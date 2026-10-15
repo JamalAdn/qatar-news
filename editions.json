@@ -1,6 +1,112 @@
 {
  "editions": [
   {
+   "id": "2026-10-15-pm",
+   "runAt": "2026-10-15T20:01:04Z",
+   "label": "Thu 15 Oct · Evening",
+   "brief": "Israeli outlets kept the Qatargate affair at the center, with new reports on what investigators asked Netanyahu aide Yonatan Urich about his contacts with senior Qatari officials, and the issue spilling into the election campaign. Coverage also noted the Qatari emir staying in the hall during Israeli President Herzog's speech in Baku while Turkish and Iranian delegations left. US coverage of Qatar was lighter, focused on the Air Force One gift.",
+   "stories": [
+    {
+     "outlet": "N12",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Investigators confronted Urich: you met three senior Qataris, and discussed Netanyahu with one",
+     "original_headline": "החוקרים הטיחו באוריך: נפגשת עם 3 בכירים קטארים, עם אחד מהם שוחחת על נתניהו",
+     "url": "https://www.mako.co.il/news-military/2026_q4/Article-3a219e8697041a1026.htm",
+     "published": "2026-10-15T17:07:00Z",
+     "summary": "Investigators questioned Netanyahu aide Yonatan Urich about meetings with three senior Qatari officials, including one in which Netanyahu came up, in the widening Qatargate probe.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Report: Mossad official says he arranged meeting with Qatari at request of Netanyahu aides",
+     "url": "https://www.timesofisrael.com/liveblog_entry/report-mossad-official-says-he-arranged-meet-with-qatari-at-request-of-netanyahu-aides",
+     "published": "2026-10-15T10:48:00Z",
+     "summary": "A Mossad official reportedly told investigators he set up a meeting with a Qatari figure at the request of aides to the prime minister.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Trump shows off new Air Force One, defends taking it as gift from Qatari royal family",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQenp4amNLWmp1a1dVNXYyV2lRa3JrZnpraTUybVl5SnQ3NVRma1diMzlIUVN3OW12V0RYR1ZuSjduQmhFTG9zTmE1WXlBU1k0aXdMaFJMY25oQkFSMHRlNTFhbklNb1dDaUN1VHktRjdxMlNoaGI2Yl8xcnBfYUNEdVlBdmZzVmxtYlhvYnZKTGFaMjM4enRVcEhQbGh5LWF4eDI0VEhhdG8teVBna2ZqZ1hIb0MwNDJ3bDh1OVNYUllUbUs0UThWT29R?oc=5",
+     "published": "2026-10-15T01:04:29Z",
+     "summary": "Trump unveiled the new presidential jet and again defended accepting it from Qatar's royal family.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Turkey, Iran leave hall during Herzog's speech at Azerbaijan summit; Qatari emir stays",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWhCa3JaTmJiVUxyMkJVdlAxSTk0Yzh3SnlRMC1KMEluZlhaVXZrZ0otWkdUTWZOZExlNmJHUXd5MmticWxYbXg3NUs5LXZJMUxVZzd2ajRQUUlpYU5GNUI4V3kyOUpMakUtaFg5Q1piTl9pZ0Y4bWxmbjFGMWdoaEVyQnhNR2FyajNZZl91Yzg3azFrRjZUTmlLOTEtbnVHaWR1TGYyeGtTVWdQSEtFSmk1djRiUWtCd041Y2VPMmV5eF9mWlphMQ?oc=5",
+     "published": "2026-10-15T10:04:14Z",
+     "summary": "Delegations from Turkey and Iran left the room during Israeli President Herzog's address at a summit in Azerbaijan, while Qatar's emir remained seated.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Five delegations walk out during Isaac Herzog speech in Baku as Qatar Emir stays",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05YmVjWGNKaDdURWFheEg0Z1djazRWNGIxeTJJWlZYakFuRV93RVZUZ3BTWE11eXdLTDlySWdfR2V6OU5XcmtaQXFyeGpnaDN0Y0lpSTZMWVdnb0RWcUlR?oc=5",
+     "published": "2026-10-15T15:33:54Z",
+     "summary": "Five delegations walked out of Herzog's speech in Baku, with the Qatari emir noted as staying in the hall.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Iran's representative left during Herzog's speech, Qatar's emir stayed: the unusual summit",
+     "original_headline": "נציג איראן יצא בנאום הרצוג, אמיר קטאר נשאר: הפסגה החריגה - ותרגיל העוקץ האווירי לטורקיה",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMbFlld1p6Vmpiam80N3hjQnptN2dmLXZPNnVOR2YtVjBVODlacHdINGkyTUlMU003Nk9MbWhLbFRzQXZqOUo5SDdBeUpfZHVoY2wxb01ZRWQwQQ?oc=5",
+     "published": "2026-10-15T08:56:01Z",
+     "summary": "Ynet reports on the unusual Baku summit where Iran's envoy walked out on Herzog while Qatar's emir stayed.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Braverman sends warning letter to Eisenkot: remove election signs portraying me as a Qatar representative",
+     "original_headline": "ברוורמן במכתב התראה לאיזנקוט: הסר שלטי בחירות שמציגים אותי כנציג קטאר",
+     "url": "https://www.ynet.co.il/news/article/bktgvy0igx",
+     "published": "2026-10-15T16:54:19Z",
+     "summary": "Former minister Braverman demanded Gadi Eisenkot take down campaign signs that depict him as acting for Qatar.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Prices Mixed as Traders Weigh Demand Outlook, Hormuz Shipping Risks",
+     "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-gulf-supply-recovery-hormuz-attacks-f0337002",
+     "published": "2026-10-15T17:45:00Z",
+     "context": "References Qatar in coverage of oil markets and Hormuz shipping risks."
+    },
+    {
+     "outlet": "Associated Press",
+     "region": "Wire",
+     "headline": "Saudi diplomat says Iran encourages Houthi escalation of attacks on the kingdom",
+     "url": "https://apnews.com/article/saudi-arabia-yemen-houthis-rebels-interview-bb1950959d1118d790556584d2b51f75",
+     "published": "2026-10-15T16:56:00Z",
+     "context": "References Qatar in coverage of Gulf security and Iran-backed Houthi attacks."
+    }
+   ]
+  },
+  {
    "id": "2026-10-15-am",
    "runAt": "2026-10-15T09:25:00Z",
    "label": "Thu 15 Oct · Morning",
