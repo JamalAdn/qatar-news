@@ -1,6 +1,59 @@
 {
  "editions": [
   {
+   "id": "2026-10-16-pm",
+   "runAt": "2026-10-16T19:45:00Z",
+   "label": "Fri 16 Oct · Evening",
+   "brief": "Qatar's pledge to help rebuild southern Lebanon and shore up its power grid drew coverage from both the AP and Israeli outlets. In Israel, the Qatargate affair continued to dominate politics, with Likud threatening to sue a former aide who said the prime minister should be presumed a Qatari agent, while a Likud lawmaker accused the media of a campaign against Netanyahu. US coverage focused on Qatar's economic and energy role rather than the domestic Israeli scandal.",
+   "stories": [
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatar pledges a lifeline for Lebanon's economy, power grid and reconstruction in the south",
+     "url": "https://apnews.com/article/lebanon-qatar-israel-south-electricity-totalenergies-qatarenergy-da8c3798c9b31240752bf35a9912dc0d",
+     "published": "2026-10-16T15:07:13Z",
+     "summary": "Qatar announced support for Lebanon's electricity sector and the rebuilding of the south, with TotalEnergies and QatarEnergy involved in the energy plans.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar pledges to help fund the reconstruction of southern Lebanon",
+     "url": "https://www.timesofisrael.com/liveblog_entry/qatar-pledges-to-help-fund-the-reconstruction-of-southern-lebanon/",
+     "published": "2026-10-16T18:40:42Z",
+     "summary": "Qatar said it would help finance the rebuilding of war-damaged areas of southern Lebanon.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Likud says Netanyahu will sue ex-aide who said 'it must be assumed he's a Qatari agent'",
+     "url": "https://www.timesofisrael.com/likud-says-netanyahu-will-sue-ex-aide-who-said-he-should-be-considered-a-qatari-agent/",
+     "published": "2026-10-16T09:10:57Z",
+     "summary": "The Likud party said the prime minister would file a lawsuit against a former aide who suggested he should be presumed to be acting for Qatar.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Likud MK Boaz Bismuth accuses media of targeting Netanyahu over Egypt intel. reports, Qatargate",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OblVPajVSdm8tamwtZWk0SnJUWGVFckJkbXplYnNtTXNva1dUUDRIOS1lMHpJdzZucHlmXzlGajhhdTN0NlF6Z084ejhzczdzVk1vRVZ5NklxLUFD?oc=5",
+     "published": "2026-10-16T10:07:21Z",
+     "summary": "Bismuth defended Netanyahu and accused the press of a campaign against him over reports on Egypt-related intelligence and the Qatargate affair.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": []
+  },
+  {
    "id": "2026-10-16-am",
    "runAt": "2026-10-16T09:20:00Z",
    "label": "Fri 16 Oct · Morning",
