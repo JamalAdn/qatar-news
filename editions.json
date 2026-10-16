@@ -1,6 +1,48 @@
 {
  "editions": [
   {
+   "id": "2026-10-16-am",
+   "runAt": "2026-10-16T09:20:00Z",
+   "label": "Fri 16 Oct · Morning",
+   "brief": "Israeli coverage stayed focused on the Qatargate affair, with challenger Naftali Bennett calling the alleged ties between a Netanyahu aide and Qatar an act of treason in the run-up to the election. Israeli outlets also noted that Qatar's emir remained in the hall at a Baku summit while several delegations walked out on President Herzog. In US coverage, the AP revisited President Trump's defense of the Qatari-gifted Air Force One while he campaigned for Republicans.",
+   "stories": [
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "'The most serious act of treason': Naftali Bennett condemns Benjamin Netanyahu over Qatargate",
+     "url": "https://www.jpost.com/israel-election-2026/article-911904",
+     "published": "2026-10-16T07:27:50Z",
+     "summary": "Opposition leader Naftali Bennett said the Qatargate affair involving Netanyahu adviser Yonatan Urich is the gravest act of treason in Israel's history and urged the prime minister to step down.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Iran, Turkey, Kuwait, Pakistan, PA leave Baku conference when Herzog spoke, but Qatari Emir stayed",
+     "url": "https://www.jpost.com/international/article-911837",
+     "published": "2026-10-15T11:33:00Z",
+     "summary": "Several delegations walked out of President Herzog's address at a Baku summit while Qatar's emir remained in the hall.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Associated Press",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Trump defends gifted Air Force One from Qatar and makes 2nd Amendment pitch as he campaigns for GOP",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV2F4dUp3U3R3dDBwZ0E1S3RqWUlkc1FYUmJPemY1WWphMkpHNmZnTkxmZDhXMmpJcWNBRU5RU1V6b3owRGVIZ09ZRHdXVDc3Ylk5SGh2dlRlRDBYVGVIdXVja3dVQnFKUjlLczFLVFZBZnpvOENYUnJCbnNoc0djaGYtNFNuTXhMWVdwWHVyX0drbzZielVxQVJtSl9ZZlE?oc=5",
+     "published": "2026-10-15T11:09:00Z",
+     "summary": "President Trump again defended the jet gifted by Qatar for use as Air Force One while campaigning for Republican candidates.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": []
+  },
+  {
    "id": "2026-10-15-pm",
    "runAt": "2026-10-15T20:01:04Z",
    "label": "Thu 15 Oct · Evening",
