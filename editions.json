@@ -1,6 +1,49 @@
 {
  "editions": [
   {
+   "id": "2026-10-17-pm",
+   "runAt": "2026-10-17T18:50:00Z",
+   "label": "Sat 17 Oct · Evening",
+   "brief": "Qatar's role as a channel between Tehran and Washington returned to the headlines, as Iran's foreign minister said a seven-day plan to reopen the Strait of Hormuz had been passed through Doha. Israeli commentary stayed focused on Qatar's influence, with opinion pieces linking Qatar and Turkey to Gaza reconstruction and to the controversy around the prime minister's government. US outlets had little Qatar-focused coverage over the period.",
+   "stories": [
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Iran: We sent a 7-day plan via Qatar to enable reopening of Strait of Hormuz",
+     "url": "https://www.ynetnews.com/article/zthgun4al",
+     "published": "2026-10-17T13:29:52Z",
+     "summary": "Iranian Foreign Minister Abbas Araghchi said Tehran conveyed a specific seven-day plan through Qatar under which the Strait of Hormuz could reopen and normal shipping resume if conditions are met.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Haaretz",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Netanyahu must go also because of Turkey's and Qatar's involvement in rebuilding Gaza",
+     "original_headline": "זנתניהו חייב ללכת גם בגלל מעורבות טורקיה וקטאר בשיקום עזה",
+     "url": "https://www.haaretz.co.il/opinions/letters/2026-10-17/ty-article-opinion/.premium/000001a1-3f54-d846-a9eb-bfdcb3ea0000",
+     "published": "2026-10-17T17:00:00Z",
+     "summary": "A reader letter argues the prime minister should leave office in part because of Turkish and Qatari involvement in Gaza's reconstruction.",
+     "kind": "opinion",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "The Blogs: Qatar, Hamas and Netanyahu's government",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11aWoxcXZkRTE2RzNFX1JOWjhENHdlZ0F4b01fN2pPbW02Yk1NcVlTMWNRX0xaMVlxU3lRREFSazdZWWJTMHhjcTRQekZVYmlGM2d1ODUyY2ZXanptdF9keGlOX0o2SkRQVTNqM1I0cHNpRTZGSmtCOHRB?oc=5",
+     "published": "2026-10-16T21:23:00Z",
+     "summary": "A blog post on the Times of Israel platform examines the relationship between Qatar, Hamas and the Israeli government.",
+     "kind": "opinion",
+     "major": false
+    }
+   ],
+   "mentions": []
+  },
+  {
    "id": "2026-10-17-am",
    "runAt": "2026-10-17T08:50:00Z",
    "label": "Sat 17 Oct · Morning",
