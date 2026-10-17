@@ -1,6 +1,38 @@
 {
  "editions": [
   {
+   "id": "2026-10-17-am",
+   "runAt": "2026-10-17T08:50:00Z",
+   "label": "Sat 17 Oct · Morning",
+   "brief": "Qatar coverage was light overnight. The Washington Post reported on Qatari pledges to support Lebanon's economy, power grid and reconstruction in the south. Israeli commentary focused on how Doha might use diplomatic pressure against Israeli leaders after the Gaza war and last year's strike in Doha, while US outlets framed Qatar mainly as a financier and mediator in regional recovery.",
+   "stories": [
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatar pledges a lifeline for Lebanon's economy, power grid and reconstruction in the south",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQUUwTFhZNmt6TTNnQ01jRE0zZ0gyWFJQTU9JNF8yNTlkM2tzQ2dxTnA3X2NFc0JmcDc0Y0JTS1NLRHE1UENrdkl2clJURUFTaTBFNVNiRzFod1FMRFpuUmxHaHFuZi1XaTBmWE5JNTkyM093d2NSdnFqdXZPNFZZRWI0QjZFSlNYLVNKYS1abjZvZXFZNnN2cUphWVdMRWU0c1c1dXhsZVh0QzJrNjk3NWx3RTFhZHpGd2Y5QWhaSlZvbDdEdTR1emVpckhyVjQ2dlFiNHpGRjB3d0l5cjVXSnlsTUx1aGx0R3o4V2xyUng2ckJOZ1E?oc=5",
+     "published": "2026-10-16T15:07:13Z",
+     "summary": "Qatar has committed funding aimed at Lebanon's economy, electricity network and rebuilding of the war-damaged south.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Maariv",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "The plan is already on the table: Qatar's revenge against Israel after the Doha strike gets under way",
+     "original_headline": "התוכנית כבר על השולחן: הנקמה של קטאר בישראל אחרי התקיפה בדוחא יוצאת לדרך",
+     "url": "https://www.maariv.co.il/news/opinions/article-1377721",
+     "published": "2026-10-17T03:00:00Z",
+     "summary": "The writer argues that, after the emir called for accountability over Gaza, Qatar will use diplomatic leverage to push for sanctions, ICC action or arrest warrants against senior Israeli officials.",
+     "kind": "opinion",
+     "major": false
+    }
+   ],
+   "mentions": []
+  },
+  {
    "id": "2026-10-16-pm",
    "runAt": "2026-10-16T19:45:00Z",
    "label": "Fri 16 Oct · Evening",
