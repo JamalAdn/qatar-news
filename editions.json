@@ -1,6 +1,48 @@
 {
  "editions": [
   {
+   "id": "2026-10-18-pm",
+   "runAt": "2026-10-18T18:50:00Z",
+   "label": "Sun 18 Oct · Evening",
+   "brief": "Israeli outlets led with a new investigation into Qatari money sent to Gaza, reporting that Israeli governments knowingly facilitated roughly $2 billion in transfers that also benefited Hamas. Documents cited show the Netanyahu government asked Qatar to keep the funding flowing. US outlets carried almost no Qatar-focused coverage in this period.",
+   "stories": [
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Investigation: Israel Facilitated Transfer of Nearly $2 Billion from Qatar to Gaza, Knowing It Funded Hamas",
+     "url": "https://www.ynetnews.com/article/l9qc4pft1",
+     "published": "2026-10-18T16:37:54Z",
+     "summary": "An investigation reports that Israel helped move close to $2 billion from Qatar into Gaza while aware that part of it funded Hamas.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Documents reveal Netanyahu government asked Qatar to keep funding Gaza",
+     "url": "https://www.israelhayom.com/2026/10/18/documents-reveal-netanyahu-government-asked-qatar-to-keep-funding-gaza/",
+     "published": "2026-10-18T16:38:24Z",
+     "summary": "Newly revealed documents indicate the Israeli government requested that Qatar continue its financial support to Gaza.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Report: Netanyahu was warned Qatar's money fueled Hamas before October 7, but kept the cash flowing",
+     "url": "https://www.ynetnews.com/article/r1vspdmhge",
+     "published": "2026-10-18T17:00:47Z",
+     "summary": "A report says Netanyahu received warnings before October 7 that Qatari funds were strengthening Hamas, yet the payments continued.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": []
+  },
+  {
    "id": 13,
    "runAt": "2026-10-18T09:10:00Z",
    "label": "Sun 18 Oct · Morning",
