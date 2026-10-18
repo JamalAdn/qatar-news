@@ -1,6 +1,75 @@
 {
  "editions": [
   {
+   "id": 13,
+   "runAt": "2026-10-18T09:10:00Z",
+   "label": "Sun 18 Oct · Morning",
+   "brief": "Israeli coverage was dominated by the Qatargate affair, with a former security official and commentators alleging Qatari influence inside the prime minister's office before October 7. Columns also discussed Qatar's place in a changing regional order. US outlets carried little Qatar-focused coverage over the period.",
+   "stories": [
+    {
+     "outlet": "Maariv",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Former senior defense official: Qatar was involved in a deception operation in Netanyahu's office before October 7",
+     "original_headline": "בכיר לשעבר במערכת הביטחון: קטאר הייתה מעורבת במבצע הונאה בלשכת נתניהו לפני 7 באוקטובר",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378364",
+     "published": "2026-10-18T07:53:24Z",
+     "summary": "A former senior security official claimed Qatar took part in a deception operation inside the prime minister's office ahead of the October 7 attack, adding to the Qatargate affair.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Qatari agents at Balfour",
+     "original_headline": "סוכנים קטארים בבלפור",
+     "url": "https://www.ynet.co.il/news/article/yokra14929376",
+     "published": "2026-10-18T05:30:24Z",
+     "summary": "Ynet addressed the allegations of Qatari influence inside the prime minister's office, in the continuing Qatargate coverage.",
+     "kind": "analysis",
+     "major": false
+    },
+    {
+     "outlet": "Maariv",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Roni Alshech suspects a Qatari influence operation inside the prime minister's office",
+     "original_headline": "רוני אלשיך חושד: מבצע תודעה קטארי בתוך לשכת ראש הממשלה",
+     "url": "https://103fm.maariv.co.il/programs/media.aspx?ZrqvnVq=KHHEID&c41t4nzVQ=GJL",
+     "published": "2026-10-18T07:31:39Z",
+     "summary": "In a radio interview, Alshech said he suspects a Qatari influence campaign operated inside Netanyahu's office.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Maariv",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "\"Netanyahu will stand before the Israeli public and explain what is going on between him and Qatar\"",
+     "original_headline": "\"שנתניהו יעמוד בפני עם ישראל ויסביר מה קורה בינו לבין קטאר\"",
+     "url": "https://1045fm.maariv.co.il/programs/media.aspx?ZrqvnVq=JFFFKH&c41t4nzVQ=EFJJ",
+     "published": "2026-10-18T08:15:53Z",
+     "summary": "A radio guest said the prime minister will have to explain his relationship with Qatar to the public.",
+     "kind": "opinion",
+     "major": false
+    },
+    {
+     "outlet": "Maariv",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Qatar, Saudi Arabia and Israel as we have not known them: toward a new regional order",
+     "original_headline": "קטאר, סעודיה וישראל כמו שלא הכרנו: בדרך לסדר אזורי חדש במזרח התיכון | עמית יגור",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ITUVKSTd0T09MSERvUUFvMUxYd0ZxZVhlZ1N1c0M5ZmI4VlFMQllROG9IZ0M1OTRBUW9iUlRWck01QnNob1FJYXRQOTZHVjBtNGJjaC10ME8wOEZBVU03S0EwX3M?oc=5",
+     "published": "2026-10-17T18:39:59Z",
+     "summary": "A column on shifting alignments between Qatar, Saudi Arabia and Israel in an emerging regional order.",
+     "kind": "opinion",
+     "major": false
+    }
+   ],
+   "mentions": []
+  },
+  {
    "id": "2026-10-17-pm",
    "runAt": "2026-10-17T18:50:00Z",
    "label": "Sat 17 Oct · Evening",
