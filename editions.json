@@ -1,6 +1,136 @@
 {
  "editions": [
   {
+   "id": "2026-10-20-am",
+   "runAt": "2026-10-19T21:14:34Z",
+   "label": "Mon 19 Oct · Evening",
+   "brief": "Israeli outlets focused on a report that Netanyahu adviser Jonatan Urich admitted working for Qatar after October 7, with opposition leader Bennett demanding answers. Wire and Israeli outlets also covered Qatar's plans for power plants and an LNG deal in Lebanon. US outlets carried little Qatar-focused reporting, mostly in Iran and energy coverage.",
+   "stories": [
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Report: Netanyahu aide Urich admitted to receiving hundreds of thousands of shekels from Qatar",
+     "url": "https://www.timesofisrael.com/report-pms-key-aide-urich-admitted-to-receiving-hundreds-of-thousands-of-shekels-from-qatar",
+     "published": "2026-10-19T13:23:00Z",
+     "summary": "A report says Netanyahu adviser Jonatan Urich acknowledged being paid by Qatar and continuing to work for Doha after October 7.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Haaretz",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatargate: Report says Netanyahu adviser admitted to working for Qatar after October 7",
+     "url": "https://www.haaretz.com/israel-news/israel-politics/2026-10-19/ty-article/report-netanyahu-adviser-admitted-to-working-for-qatar-after-october-7/000001a1-5583-dd0d-abfb-5deb27e20000",
+     "published": "2026-10-19T19:30:00Z",
+     "summary": "Haaretz relays the report that Urich told investigators he worked for Qatar after the October 7 attack.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Netanyahu adviser Jonatan Urich admits working for Qatar after October 7, report says",
+     "url": "https://www.ynetnews.com/article/hjo8qcxhge",
+     "published": "2026-10-19T18:00:42Z",
+     "summary": "Ynetnews reports that Urich admitted to working for Qatar after October 7, according to a media report.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Bennett to Netanyahu: You need to tell the public right now what is going on between you and Qatar",
+     "url": "https://www.timesofisrael.com/liveblog_entry/bennett-to-netanyahu-you-need-to-tell-the-public-right-now-what-is-going-on-between-you-and-qatar/",
+     "published": "2026-10-19T18:47:31Z",
+     "summary": "Opposition leader Naftali Bennett demanded that the prime minister publicly explain his circle's ties with Qatar after the Urich report.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Qatari electricity lifeline for Lebanon includes two power plants, LNG supply deal",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWTItdGRQank5NVFPZGVycjUxaVZrTFJjRkxJb2VoWHJtdEE5NnUybkZDOTFGQWZ5WS1ZT2dvaFZTNTVwaTdEWWhrcWJSRUozMFlRU3JHWWYtdV9hNEVJMEpIcFhVUGMxcXY1bjdjLWs0bWpqaUVOYWktRmtKTEhqT2xwdXh5cC16aHZOejVyM3FIY3FJOEFvVzFINW90dlp2aWtSZURsb203YkdBVGxkTmpsZmhaemczeWpLVlloeDNEamxtMzZhTQ?oc=5",
+     "published": "2026-10-19T13:50:09Z",
+     "summary": "Reuters reports that Qatar's package for Lebanon's power sector includes two power plants and a deal to supply LNG.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Jerusalem Post (Reuters)",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Qatari electricity lifeline for Lebanon includes two power plants, LNG supply deal",
+     "url": "https://www.jpost.com/middle-east/article-912182",
+     "published": "2026-10-19T11:29:00Z",
+     "summary": "The Jerusalem Post republished the Reuters report on Qatar's planned power plants and LNG supply for Lebanon.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Report: Qatar planning to build power plants in Lebanon, sign gas deal",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Ec1lmbjJ3bkt0TnJsMG81NVI5VXJKMVRzX2U5X0ttaFVUekx3M0NtYi1yejNySV9rallmOWhfMERmMjdZODhBdmVkV0N4S2ZaVTVjVw?oc=5",
+     "published": "2026-10-19T14:49:40Z",
+     "summary": "Ynetnews reports Qatar plans to build power plants in Lebanon and sign a gas agreement.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "i24NEWS",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar announces major energy investment in Lebanon - report",
+     "url": "https://www.i24news.tv/en/news/middle-east/levant-turkey/artc-qatar-announces-major-energy-investment-in-lebanon-report",
+     "published": "2026-10-19T02:15:00Z",
+     "summary": "i24NEWS reports on a Qatari energy investment in Lebanon.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Daily Caller",
+     "region": "US",
+     "headline": "US Issues Rare Security Warning For Citizens In 12 Middle Eastern Countries",
+     "url": "https://dailycaller.com/2026/10/19/us-rare-security-warning-12-middle-eastern-countries-saudi-arabia-uae-qatar",
+     "published": "2026-10-19T18:35:00Z",
+     "context": "Lists Qatar among the Middle Eastern countries covered by a US security warning to citizens."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Pakistan army chief Asim Munir to visit Tehran on Tuesday",
+     "url": "https://www.reuters.com/world/asia-pacific/pakistan-army-chief-asim-munir-visit-tehran-tuesday-2026-10-19/",
+     "published": "2026-10-19T19:54:46Z",
+     "context": "References Qatar in coverage of Pakistan's mediation between the US and Iran."
+    },
+    {
+     "outlet": "JNS",
+     "region": "US",
+     "headline": "Growing signs of an impending strike on Iran",
+     "url": "https://www.jns.org/opinion/amit-segal/growing-signs-of-an-impending-strike-on-iran",
+     "published": "2026-10-19T20:03:45Z",
+     "context": "References Qatar in an opinion piece on signs of a possible strike on Iran."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Futures Pull Back as U.S. Waives Some Russia Sanctions",
+     "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russia-sanctions-waiver-middle-east-risks-05053c4f",
+     "published": "2026-10-19T19:43:00Z",
+     "context": "References Qatar in coverage of oil markets and Middle East risks."
+    }
+   ]
+  },
+  {
    "id": "2026-10-19-am",
    "runAt": "2026-10-19T10:12:11Z",
    "label": "Mon 19 Oct · Morning",
