@@ -1,6 +1,147 @@
 {
  "editions": [
   {
+   "id": "2026-10-19-am",
+   "runAt": "2026-10-19T10:12:11Z",
+   "label": "Mon 19 Oct · Morning",
+   "brief": "Qatar's plans for a local defence production hub and a rare Red Sea route for a Qatari LNG cargo headed to Europe drew wire and business coverage. Israeli outlets continued to dwell on documents about Israeli oversight of Qatari money flowing to Gaza and on the Qatargate affair, which has become an election issue with Bennett and others attacking Netanyahu. US outlets in this period offered little Qatar-focused reporting beyond energy and Iran-related items.",
+   "stories": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Qatar will soon announce local defence production hub, minister of state says",
+     "url": "https://www.reuters.com/world/middle-east/qatar-will-soon-announce-local-defence-production-hub-minister-state-says-2026-10-19/",
+     "published": "2026-10-19T09:23:43Z",
+     "summary": "Qatar's minister of state said the country will shortly announce a domestic defence production hub.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatar LNG Cargo Makes Rare Red Sea Journey to Get Gas to Europe",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-19/qatar-lng-cargo-makes-rare-red-sea-journey-to-get-gas-to-europe",
+     "published": "2026-10-19T07:46:17Z",
+     "summary": "A Qatari LNG cargo is taking the unusual Red Sea route to deliver gas to Europe while Hormuz disruption continues.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Documents show how Israel oversaw flow of Qatari money to Hamas-controlled Gaza",
+     "url": "https://www.timesofisrael.com/liveblog_entry/documents-show-how-israel-oversaw-flow-of-qatari-money-to-hamas-controlled-gaza-report/",
+     "published": "2026-10-18T19:40:00Z",
+     "summary": "A report based on documents describes Israeli oversight of Qatari cash transfers into Gaza.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Haaretz",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Report: Israel backed Qatar transferring funds to Hamas-ruled Gaza before Oct. 7",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQX3M5RERqTGU4dDN6TjhVRnZfTjJ4UTZveDNDRXQwN2pFUTNseFZxQVc5Q1FORERnTURTa1plMFBjVU1fUUFncHZJQmZhTERzaVlRMmZtTFVYTXFJV0RtRTE2RnF2MzQ2cUJSTnFYNkcxRlFZdWNlTWhGTWY0SHRjcUVwWEwwOTF6dmZkZllkR2Ewam10eUhGYUZoRDNVQXQwMjVyN0IycHlER0xqWFFXdkxrcm1PZ08tM0xQOWV3WHBXdXl6b1V5R29fdlVJYkZJUmdERnUxelZsdVh3SUpCekdEWW9DX09DWW1oazh3a1d1RmhOZ3J2Nm9aV2F0Vno4WUpCZg?oc=5",
+     "published": "2026-10-18T19:55:00Z",
+     "summary": "Haaretz reports that Israel supported Qatari fund transfers to Gaza in the period before the October 7 attack.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Israel urged Qatar to continue Gaza funding despite public criticism, documents reveal",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GMU5od21qRmhkWm5QcTB1LWg2bEZrM2dSaU5VNDRXemdfVlRQNG5qX0N6aFI1ZnQ0b0ZQR21yUkpuR1Q2T0hsY2ZXSkdzdEtTTS04OW96RFpfNC1S?oc=5",
+     "published": "2026-10-18T20:53:17Z",
+     "summary": "Documents indicate Israeli officials pressed Qatar to keep funding Gaza even as they criticised it publicly.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Maariv",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Qatar mocks Israel: \"Childish political moves, treated with utter contempt\"",
+     "original_headline": "קטאר לועגת לישראל: \"מהלכים פוליטיים ילדותיים, מתייחסים בבוז מוחלט\"",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0Z3Z1LUdCWTVCckdjSU9Gck1Xc0RPUXp3M2ZnRnNEMkNrMEJMQ1FMckpXaTZrMTBGZWp1am8xWWsydU5rLTJwa1pZUEJpMG00NlROM1RhNko3OU50RXJrdA?oc=5",
+     "published": "2026-10-18T14:12:00Z",
+     "summary": "Qatar dismissed recent Israeli political moves against it in sharply contemptuous terms.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Kan",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Bennett on Netanyahu's security concept: \"How can we know it is Israel's and not Qatar's?\"",
+     "original_headline": "בנט על תפיסת הביטחון של נתניהו: \"איך נוכל לדעת שהיא של ישראל ולא של קטאר?\"",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYlV4NDc2ZU9RQmNyN1FTYTJvR3Npdk1TY2RfUlNXQ0xaUHp4UkNuSmVJUzZuNlFMd2E0VUxGRDJOMXlwcnNKSExZU2VZam5GR0o4SDlLSXJkaUZSWkxmV3RNVWNnZHAtQTZ4cHh2OHRRUGlNQWxsTTNBbnBiNmg5aHlB?oc=5",
+     "published": "2026-10-18T15:51:24Z",
+     "summary": "Naftali Bennett questioned whether Netanyahu's security thinking serves Israel or Qatar, amid the Qatargate affair.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Bennett attacks Netanyahu: \"How will we know the security concept is Israel's and not Qatar's?\"",
+     "original_headline": "בנט תוקף את נתניהו: \"איך נדע שתפיסת הביטחון היא של ישראל ולא של קטאר?\"",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MdWxMamdMTDA5djl3U2xoU2ZWMkZ2RnRRcWp0akdxVjJfM1BPTHFZaERQYnRFWmttaDlYYzFlM0d6cjJJZm9TZk02X2hITjFBN0RxRUt0a1lqWTA4bVVnbXJNVzlYZEhrakNmVNIBdEFVX3lxTE1BNVZrNW9ReFdRZGU4MFhkck1kN1FlSnhrM0RZMXBLbG84aDFCMVdfYkNhWmFTTXYxeE0ybzN4RjBnbEFVOEZNdkRnRkRDLWZFdjJmbXpEY1BrZmFEdWRTSmtHUlk5enc2ZnhCNUxpQUxMUnl6?oc=5",
+     "published": "2026-10-18T15:22:42Z",
+     "summary": "Bennett used the Qatar controversy to attack Netanyahu's approach to security.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Maariv",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "$493 million went to Syria: Israel's sharp critic joins Qatar",
+     "original_headline": "493 מיליון דולר עברו לסוריה: המבקרת החריפה של ישראל מצטרפת לקטאר",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54bjlwYzVLN3B2bTRCNzZzMjRHOFpNYzBCemg0YUhUV3dNQkxQWkVTazBXdDJIdWctX3hLRl8zUm80YnJkTEgtZnUxckI1T01nTGpVRzVKTTlBLWpiYldYYQ?oc=5",
+     "published": "2026-10-18T18:05:00Z",
+     "summary": "Maariv reports that $493 million reached Syria and that a harsh critic of Israel is joining Qatar in the effort.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Maariv",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Yinon Magal admits: \"It's not right that they worked for Qatar\"",
+     "original_headline": "ינון מגל מודה: \"זה לא בסדר שהם עבדו עבור קטאר\"",
+     "url": "https://www.maariv.co.il/news/politics/article-1378824",
+     "published": "2026-10-19T08:22:05Z",
+     "summary": "Commentator Yinon Magal acknowledged it was wrong for Netanyahu aides to have worked for Qatar.",
+     "kind": "opinion",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "JNS",
+     "region": "US",
+     "headline": "After Trump threat, Araghchi warns Iran has unfinished business",
+     "url": "https://www.jns.org/news/world/after-trump-threat-araghchi-warns-iran-has-unfinished-business",
+     "published": "2026-10-19T08:32:50Z",
+     "context": "References Qatar in coverage of Iran's threats and the Trump warning."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Prices Fall as Traders Weigh Russia Sanctions Waiver, Middle East Risks",
+     "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russia-sanctions-waiver-middle-east-risks-05053c4f",
+     "published": "2026-10-19T07:42:00Z",
+     "context": "References Qatar in coverage of oil markets and Middle East risks."
+    }
+   ]
+  },
+  {
    "id": "2026-10-18-pm",
    "runAt": "2026-10-18T18:50:00Z",
    "label": "Sun 18 Oct · Evening",
