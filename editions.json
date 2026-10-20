@@ -1,6 +1,123 @@
 {
  "editions": [
   {
+   "id": "2026-10-20-pm",
+   "runAt": "2026-10-20T20:08:00Z",
+   "label": "Tue 20 Oct · Evening",
+   "brief": "Qatar's role as a channel between Washington and Tehran dominated coverage, with Qatari-sourced reports of progress toward resuming talks that Iran played down. Israeli outlets kept up heavy coverage of the Qatargate affair involving aides to Netanyahu, alongside Qatar's sharp criticism of Israel, while US outlets focused on Qatar mainly through Iran diplomacy, Hormuz shipping and Macron's visit to Doha.",
+   "stories": [
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar reports progress in US-Iran talks as Tehran says it does not trust Washington",
+     "url": "https://www.ynetnews.com/article/byihrws2ze",
+     "published": "2026-10-20T16:42:01Z",
+     "summary": "Qatar said contacts between Washington and Tehran were advancing, while Iran voiced distrust and disputed reports of preliminary understandings.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatari report: US agreed to Iranian proposal to return to negotiating table",
+     "url": "https://www.ynetnews.com/article/79rajpe69",
+     "published": "2026-10-20T13:46:40Z",
+     "summary": "A Qatari-sourced report said the US accepted an Iranian proposal to resume talks, including steps on Iranian funds held in Qatari banks, though similar reports have not led to progress before.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Fox News",
+     "region": "US",
+     "lang": "en",
+     "headline": "Iran, US talks ongoing, Qatar says, as Iran cozies up to Russia",
+     "url": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-russia-october-20",
+     "published": "2026-10-20T12:46:00Z",
+     "summary": "Qatar said US-Iran talks were continuing as Tehran deepened contacts with Moscow, in a live blog on the Iran war.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Associated Press",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "French President Emmanuel Macron arrives in Qatar",
+     "url": "https://apnews.com/video/french-president-emmanuel-macron-arrives-in-qatar-1097ed6d8ab647e98798518fe0c0becd",
+     "published": "2026-10-20T10:31:00Z",
+     "summary": "Macron landed in Qatar for a visit amid regional tensions over Iran and Gulf security.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar says Israel is not a 'partner for peace,' is focused on 'death and destruction'",
+     "url": "https://www.timesofisrael.com/liveblog_entry/qatar-says-israel-is-not-a-partner-for-peace-is-focused-on-death-and-destruction/",
+     "published": "2026-10-20T06:26:00Z",
+     "summary": "Qatar's foreign ministry sharply criticized Israel, saying it is not a partner for peace.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Report: Egypt warned Israel of 'consequences' amid Qatar-backed smear campaign by Netanyahu aides",
+     "url": "https://www.timesofisrael.com/liveblog_entry/report-egypt-warned-israel-of-consequences-amid-qatar-backed-smear-campaign-by-netanyahu-aides/",
+     "published": "2026-10-20T11:25:00Z",
+     "summary": "A report said Egypt warned Israel of consequences over a smear campaign allegedly run by Netanyahu aides while working for Qatar.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Haaretz",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Haaretz exposé: Israeli reporter who testified in Qatargate stayed at home of Qatar lobbyist",
+     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQWlQzMXJXd09QUHVNZVc5UHR2eDNJNW1hRm1kSVpxS0xkRmJvYXNmMGMxUlh5UUpQUXVleWtQbEZFODN4RjJaNEU0Nmh6LThsNXphcG9yb0hDd0lhVGZ0RVp5REtlVHU3OTFQR3h6c0lFN2YzVnBWX1R4d0pTbUNzZ3RxekRxelhSNlU1dTZLTTM5UXpxT2tuZjZWdEFJT2pKLTUzVDhmVDFvd3BNX3JvOEVmN2xFUGtrR29oTDN3UEZ5MWphR0lWWDQwRElwOU9iUmpaYXZzbWJmUTNta3RCNWR6SE10Ujh4UWVjd0RNbTJCSlYwUllEZndQVXh1R1JsY2xoU2xVRGV0dldoTldTRkpnYkEycElYckhMMk53?oc=5",
+     "published": "2026-10-20T13:28:00Z",
+     "summary": "Haaretz reported that a journalist who gave testimony in the Qatargate affair had stayed at the home of a lobbyist for Qatar.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Daily Briefing Oct. 20: A Qatar mole in the PM's office?",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ0RzMnFQM1FjNExsVjBVUFJYNzJSeWhiWnRRZkdvWTNOc1ZVdjJNMF9RUVd5ZHB1TGpxQzFMNXpvb2JhWTY4QzI0SGVWT1N5Yk1tYXlUUHJ2VlVyV3FZMHNtdHNGbkhBZGczNEdGSjZmNzg5RW9VMGFWUFZDM0ZnLTIzVFhWZ1RDX2pF0gGQAUFVX3lxTE16WjlSUnNSLTVidHRRbkNUcnQwUFJ0Ykp2czN3SkdpZkhIVmRzZUhQQUhQMzdUZmVWaVZvMGNpdDB4b2JrZnNkX2hBdXBRN3AxU2lVcEFvLVFuLWFoOGctX0k5SE01WTlfVjhzWHBWdElwS2VDOTdUUENSOTM2bEhNSjQ2MGdveEtCWGd5Sm50Sw?oc=5",
+     "published": "2026-10-20T11:38:17Z",
+     "summary": "The Times of Israel's daily briefing led with the continuing Qatargate affair and questions over Qatari influence in the prime minister's office.",
+     "kind": "analysis",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Zim employees protest proposed sale to Hapag-Lloyd, noting ties to Qataris and Saudis",
+     "url": "https://www.timesofisrael.com/liveblog_entry/zim-employees-protest-proposed-sale-to-hapag-lloyd-noting-ties-to-qataris-and-saudis/",
+     "published": "2026-10-20T03:09:00Z",
+     "summary": "Employees of Israel's Zim shipping company protested its proposed sale to Hapag-Lloyd, citing the buyer's Qatari and Saudi shareholders.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Fox News",
+     "region": "US",
+     "headline": "Sea mine crisis re-emerges in Strait of Hormuz as Tehran urges Washington to accept deal",
+     "url": "https://www.foxnews.com/world/sea-mine-crisis-re-emerges-strait-hormuz-tehran-urges-washington-accept-deal",
+     "published": "2026-10-20T18:26:18Z",
+     "context": "Qatar is mediating the stalled US-Iran talks, and Iran's proposal on reopening the Strait of Hormuz was passed to Washington through Qatar, according to Iran's foreign minister."
+    }
+   ]
+  },
+  {
    "id": "2026-10-20-am",
    "runAt": "2026-10-20T09:40:00Z",
    "label": "Tue 20 Oct · Morning",
