@@ -1,6 +1,79 @@
 {
  "editions": [
   {
+   "id": "2026-10-21-pm",
+   "runAt": "2026-10-21T20:20:00Z",
+   "label": "Wed 21 Oct · Evening",
+   "brief": "Coverage centred on Qatar's growing diplomatic and energy footprint: a defence cooperation accord signed in Doha with Turkey, Pakistan and Indonesia, and Qatari LNG supplies for France after Macron's Gulf tour. Israeli outlets again focused on the Qatargate affair and its fallout for journalists and the prime minister's circle, while US outlets leaned toward energy and markets.",
+   "stories": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Turkey, Qatar, Pakistan, Indonesia sign defence cooperation accord, Ankara says",
+     "url": "https://www.reuters.com/world/asia-pacific/turkey-qatar-pakistan-indonesia-sign-defence-cooperation-accord-ankara-says-2026-10-21/",
+     "published": "2026-10-21T12:29:02Z",
+     "summary": "Turkey said it signed a defence cooperation accord with Qatar, Pakistan and Indonesia at a meeting in Doha.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Turkey, Qatar, Pakistan, Indonesia sign defense cooperation agreement in Doha",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QdDl4VlA1d2x1MFY2dEdiRndmcFZRN1VxeWdJMk1hQkc0Um9HakkzejkxQVByOHFZcUVsdENMdzZxYTAxZlVFd3FCSlhVWjhJQ2dkcUFRRU5yNnY5R3lV?oc=5",
+     "published": "2026-10-21T11:46:45Z",
+     "summary": "The Israeli paper reports the four-nation defence agreement signed in Doha.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "France's Macron Secures Qatar LNG Supplies for Winter Period",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2dMTTVwT2hSbXhSQ3N1bEppNVhKUEU3VzNPLTZZeGZXSGkzNVFySE9USVREYkItaXBqeU5zS2NibEExOGRtMVU4NloxN3dfb3JJd3FOVGV5SGpYeW90UHhacDFwM2dsZnBPazlrdnZNbnd5aEJ4RlBzcGRCWnQtYVpmSW9tTEN1bkpUTngwMXZIdU1DMGpkM1BEWmZrYjdlc3ZELWNyMWxsSzRvV1Z2VGJkZw?oc=5",
+     "published": "2026-10-21T10:21:32Z",
+     "summary": "Macron's Gulf tour produced Qatari LNG supplies for France over the winter, as Hormuz disruption squeezes European gas.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Haaretz",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Israeli reporter apologizes after Haaretz report on stay at Qatar lobbyist home",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQNm9YalB6NnNEdUVJX29qb3VESnFrdUlBb0hLZW9TNkxFa2RvWmhNc1RTeW9KWnU4SE1VSHVGZzYwSHg4Yk96aXhHZklPUHAzNU11bDFyZXI2NXgwNDhrYXlUMWltRkVZY01pWWViZm9VOHA4UjcxdzZxTGFiT2hna3B1SW00a29aRDJ2TFFjVGlIRktWT0o5b3RuZ1Y1UjVfU1VVX3ZZdUIyR1ZFZ1Y4R1BnMTlIcnV1THB3ZG5uNGd2WFNJNV84cVRiNFp5Y0hUaHd1b211cTNnUGFoYWpTS0tJMXRMUFliVDFqYnNwNDRVX2swaUpfU0ktdThFZ3QtX3YzUHlwSEo1MWtGam8tdVhCaDdkcmw2RzZKeFdkVnc3QQ?oc=5",
+     "published": "2026-10-21T15:27:00Z",
+     "summary": "A reporter apologized following Haaretz's report that they stayed at the home of a Qatar lobbyist, a new twist in the Qatargate affair.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "i24NEWS",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "After Qatar, Romania: new embarrassing revelations about Netanyahu's circle",
+     "url": "https://www.i24news.tv/fr/actu/international/europe/artc-apres-le-qatar-la-roumanie-de-nouvelles-revelations-embarrassantes-sur-l-entourage-de-netanyahou",
+     "published": "2026-10-21T00:34:00Z",
+     "summary": "The French-language report links fresh allegations about Netanyahu's entourage in Romania to the earlier Qatar affair.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Daily Wire",
+     "region": "US",
+     "headline": "The Globalist Corruption Handing Trump And Netanyahu A Major Win",
+     "url": "https://www.dailywire.com/news/the-globalist-corruption-handing-trump-and-netanyahu-a-major-win",
+     "published": "2026-10-21T17:54:50Z",
+     "context": "Discusses the Qatargate affair, in which Belgian authorities allege Qatar and Morocco used cash and gifts to influence EU policy."
+    }
+   ]
+  },
+  {
    "id": "2026-10-21-am",
    "runAt": "2026-10-21T09:40:00Z",
    "label": "Wed 21 Oct · Morning",
