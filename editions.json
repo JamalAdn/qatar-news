@@ -1,6 +1,117 @@
 {
  "editions": [
   {
+   "id": "2026-10-22-pm",
+   "runAt": "2026-10-22T20:20:00Z",
+   "label": "Thu 22 Oct · Evening",
+   "brief": "Qatar coverage centered on energy and diplomacy: Qatar moved to secure long-term US LNG supply while its own output is disrupted by the Iran war, and Washington thanked Doha for its mediation role. Israeli outlets stressed regional mediation to head off renewed strikes on Iran, while US business press focused on gas supply and markets.",
+   "stories": [
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatar Agrees to Buy US LNG to 2054 as War Disrupts Own Supply",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaXV4a2huUEhKdW5KbG85VllTQ1pQN2E2TGc1Y3p6VXJmMlhjV0p6bUYtYlg2TUFleS11aXRNSmhMYkhFNDJCOXR0Q0g4OEhJZWRRLW1YYzBGRDBXQTQ2d3hLak8yVUUwMjU1LWtWVXpIdVdaUkc5NE1rajRsaTlNOVhKZV93Z3l3Q2ZETVBBS2FBaHVBV0NIZjRjU3VhX1kzS1g2QUhZU2ItR2JCSXRXRE5R?oc=5",
+     "published": "2026-10-22T14:42:07Z",
+     "summary": "Qatar has agreed to long-term purchases of American LNG running to 2054 as the Iran war disrupts its own exports.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Rubio expresses appreciation for Qatar's mediation efforts in call with prime minister",
+     "url": "https://www.timesofisrael.com/liveblog_entry/rubio-expresses-appreciation-for-qatars-mediation-efforts-in-call-with-prime-minister/",
+     "published": "2026-10-22T18:34:38Z",
+     "summary": "US Secretary of State Marco Rubio thanked Qatar's prime minister for Doha's mediation efforts during a phone call.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatari Prime Minister speaks with Rubio: 'Discussed regional developments'",
+     "url": "https://www.ynetnews.com/article/gs9t647ba",
+     "published": "2026-10-22T16:07:58Z",
+     "summary": "Qatar's prime minister and Rubio discussed regional developments in a call, according to the Qatari side.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Mediators push for diplomatic breakthrough to avert US strikes on Iran",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQblpjUUlyV0FDR21HYjJCT3Z5QzRaRm42bkl1bDQ2SkVXSmlqUGdvMWNGRHVpVjItRWs1c1c3MGM0VFVSWlBzZGJ6MkVkWWZSQXFldW45bHU1RHRtMmRzbWhyLWRCaWVHLUdhcHdfSHpCYm90YlZ0Y2JKZEhsYjY2SkFR?oc=5",
+     "published": "2026-10-22T10:41:31Z",
+     "summary": "Mediators are working toward a diplomatic breakthrough with Iran that could head off renewed US strikes.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Venezuela eyes Qatar bridge loan to clear IDB arrears, sources say",
+     "url": "https://www.reuters.com/world/americas/venezuela-eyes-qatar-bridge-loan-clear-idb-arrears-sources-say-2026-10-22/",
+     "published": "2026-10-22T16:29:31Z",
+     "summary": "Venezuela is reportedly considering a bridge loan from Qatar to clear its arrears with the Inter-American Development Bank.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatar Scours for More LNG to Boost Supply Outside Middle East",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-22/qatar-scours-for-more-lng-to-boost-supply-outside-middle-east",
+     "published": "2026-10-22T16:09:39Z",
+     "summary": "Qatar is looking for additional LNG from outside the Middle East to keep supplying customers.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Turkey says it is waiting for sale contract from Qatar for Eurofighter Typhoon jet procurement",
+     "url": "https://www.reuters.com/world/middle-east/turkey-says-it-is-waiting-sale-contract-from-qatar-eurofighter-typhoon-jet-2026-10-22/",
+     "published": "2026-10-22T09:45:47Z",
+     "summary": "Turkey's defense ministry says it is still waiting for a sale contract from Qatar covering Eurofighter Typhoon jets.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Egypt calls for Yemen talks as parliament weighs military support to Saudi Arabia",
+     "url": "https://www.reuters.com/world/middle-east/egypt-calls-yemen-talks-parliament-weighs-military-support-saudi-arabia-2026-10-22/",
+     "published": "2026-10-22T18:09:35Z",
+     "context": "References Qatar in coverage of Gulf security and the Yemen conflict."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist",
+     "url": "https://www.wsj.com/business/energy-oil/oil-prices-rise-more-than-2-as-attacks-on-saudi-arabia-u-s-iran-risks-persist-5599ac83",
+     "published": "2026-10-22T19:29:00Z",
+     "context": "References Qatar in coverage of oil markets and Gulf and Iran risks."
+    },
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "headline": "Netanyahu says U.S. and Israel must topple Iranian regime",
+     "url": "https://www.washingtonpost.com/world/2026/10/22/netanyahu-says-us-israel-must-topple-iranian-regime/",
+     "published": "2026-10-22T20:06:19Z",
+     "context": "References Qatar in coverage of the Iran conflict."
+    }
+   ]
+  },
+  {
    "id": "2026-10-22-am",
    "runAt": "2026-10-22T09:40:00Z",
    "label": "Thu 22 Oct · Morning",
