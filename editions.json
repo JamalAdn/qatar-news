@@ -1,6 +1,73 @@
 {
  "editions": [
   {
+   "id": "2026-10-23-pm",
+   "runAt": "2026-10-23T20:10:00Z",
+   "label": "Fri 23 Oct · Evening",
+   "brief": "Qatar coverage centered on energy: QatarEnergy was reported to be in talks with US producers Woodside and Venture Global to buy LNG as it works to offset war damage to its own output. Conservative US commentary also revisited Qatari funding of American universities. Israeli outlets published little on Qatar in this window as Israel's election dominated the news.",
+   "stories": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "QatarEnergy in talks to buy US LNG from Woodside's Louisiana plant",
+     "url": "https://www.reuters.com/business/energy/top-lng-exporter-qatarenergy-talks-buy-us-lng-woodsides-louisiana-plant-2026-10-23/",
+     "published": "2026-10-23T18:11:43Z",
+     "summary": "The state-owned Qatari energy giant is negotiating to buy LNG from a US export project as it seeks supply to cover capacity hit by the war.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "QatarEnergy in talks with Venture Global on long-term LNG supply deal",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWURhT3VUeGtQdDZGb0d4dnpPTUhGWW5NM0g2R3QwZFRWTUtaSm5ONEI0aFk1aUxRa0U0cUFFMHV6aDgxUjZCREo3TVNTNTBJNjE4QnJ0RUlyelh1RHI4eXdjWUdQdHVXOFBtN3k1VXhXUTh2LVY0UTdpSWVfQWFxd2FoeW1mV0IzR1RleTZLUDYxOFpTLUhydEJaT29QUXJTZE5KVkhkRGs5dWR5V1NwQXVXUUhjV2Vsd044WFZaaEdqWUR1SmdFaHdJaw?oc=5",
+     "published": "2026-10-22T22:09:46Z",
+     "summary": "Sources say Qatar's energy company is discussing a long-term purchase of American LNG from Venture Global.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Daily Wire",
+     "region": "US",
+     "lang": "en",
+     "headline": "The biggest foreign funder of college campuses is not Israel, China or Iran, it is Qatar",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDBKTV95OGV1M1hmamJWUGRNR2N1dG8yRmgwZVlSYmtqaTZuaWhIUXhNQ2dmcjE1TGFhRERuMHBKM3dLX3lsU0dDRmt6MDl4XzdIYXBjV0piWndaWS1Kem44bHdTVElmLUlMRmN5NEcyamhacF85R0o1bGRfczd4ZllkN2pyRDdxbTB0Q0pvTUFfczAyMTFiMDFBVEN6a09KdjhTd2V2eGdLdk5sdnFoRF9ZQQ?oc=5",
+     "published": "2026-10-23T10:03:36Z",
+     "summary": "The piece argues that Qatari money to US universities exceeds that of other foreign states and raises influence concerns.",
+     "kind": "opinion",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+     "url": "https://www.reuters.com/world/middle-east/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say-2026-10-23/",
+     "published": "2026-10-23T17:27:25Z",
+     "context": "References Qatar in coverage of Iran's reported plans to target Gulf undersea cables."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Ship attacks in Strait of Hormuz hit record high in October",
+     "url": "https://www.reuters.com/business/energy/ship-attacks-strait-hormuz-hit-record-high-october-2026-10-23/",
+     "published": "2026-10-23T14:59:43Z",
+     "context": "References Qatar in coverage of Hormuz shipping risks that affect Gulf energy exports."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Germany secures extra winter gas supplies as storage levels lag",
+     "url": "https://www.reuters.com/business/energy/germany-secures-extra-winter-gas-supplies-storage-levels-lag-2026-10-23/",
+     "published": "2026-10-23T17:43:43Z",
+     "context": "References Qatar in coverage of LNG and gas supply for Europe."
+    }
+   ]
+  },
+  {
    "id": "2026-10-23-am",
    "runAt": "2026-10-23T09:32:33Z",
    "label": "Fri 23 Oct · Morning",
