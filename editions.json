@@ -1,6 +1,112 @@
 {
  "editions": [
   {
+   "id": "2026-10-23-am",
+   "runAt": "2026-10-23T09:32:33Z",
+   "label": "Fri 23 Oct · Morning",
+   "brief": "Coverage centered on Qatar's energy position, as QatarEnergy lined up long-term US LNG supply through 2054 to offset war damage to its own exports. Israeli outlets also followed the Qatargate affair and mediators' efforts to head off renewed US strikes on Iran. US outlets treated Qatar mainly as an energy and Gulf security story, while Israeli coverage leaned toward the domestic political scandal.",
+   "stories": [
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatar agrees to buy US LNG through 2054 as war disrupts its own supply",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaXV4a2huUEhKdW5KbG85VllTQ1pQN2E2TGc1Y3p6VXJmMlhjV0p6bUYtYlg2TUFleS11aXRNSmhMYkhFNDJCOXR0Q0g4OEhJZWRRLW1YYzBGRDBXQTQ2d3hLak8yVUUwMjU1LWtWVXpIdVdaUkc5NE1rajRsaTlNOVhKZV93Z3l3Q2ZETVBBS2FBaHVBV0NIZjRjU3VhX1kzS1g2QUhZU2ItR2JCSXRXRE5R?oc=5",
+     "published": "2026-10-22T14:42:07Z",
+     "summary": "Qatar has agreed long-term purchases of American LNG running to 2054 to make up for exports disrupted by the war.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Financial Times",
+     "region": "UK",
+     "lang": "en",
+     "headline": "Cheniere signs long-term agreements to supply QatarEnergy with LNG through 2054",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdEMxVzEzQWZUVjFSazZVejFOdmdNN2QwRHVHaFRtcnRfenY3Wk55ZzQzZElwWmZZSXNWeTNaU2tURE00TjBYYldTRm5keHNseV9xVUwwVmx1X0RaQ2hMX0NfamNCMDVGUUlLb0I1eERfa3VYRFA3VG5LdjNqQU5GYWo4bkpoM0ZLNFlWcnY1VlZnWXlMQjJnbm5tLXhIOVJGM0NfMzd3?oc=5",
+     "published": "2026-10-22T13:00:00Z",
+     "summary": "Cheniere said it signed long-term sale and purchase agreements to deliver LNG to QatarEnergy through 2054.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "QatarEnergy in talks with Venture Global to buy LNG in long-term supply deal, sources say",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWURhT3VUeGtQdDZGb0d4dnpPTUhGWW5NM0g2R3QwZFRWTUtaSm5ONEI0aFk1aUxRa0U0cUFFMHV6aDgxUjZCREo3TVNTNTBJNjE4QnJ0RUlyelh1RHI4eXdjWUdQdHVXOFBtN3k1VXhXUTh2LVY0UTdpSWVfQWFxd2FoeW1mV0IzR1RleTZLUDYxOFpTLUhydEJaT29QUXJTZE5KVkhkRGs5dWR5V1NwQXVXUUhjV2Vsd044WFZaaEdqWUR1SmdFaHdJaw?oc=5",
+     "published": "2026-10-22T22:09:46Z",
+     "summary": "QatarEnergy is reportedly negotiating a long-term LNG purchase from US exporter Venture Global, according to unnamed sources.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Mediators push for diplomatic breakthrough to avert US strikes on Iran",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQblpjUUlyV0FDR21HYjJCT3Z5QzRaRm42bkl1bDQ2SkVXSmlqUGdvMWNGRHVpVjItRWs1c1c3MGM0VFVSWlBzZGJ6MkVkWWZSQXFldW45bHU1RHRtMmRzbWhyLWRCaWVHLUdhcHdfSHpCYm90YlZ0Y2JKZEhsYjY2SkFR?oc=5",
+     "published": "2026-10-22T10:41:31Z",
+     "summary": "Mediators are reportedly pressing for a diplomatic breakthrough that would head off renewed US strikes on Iran.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "'We fully worked on their minds': interrogation of former Mossad official in Qatargate affair revealed",
+     "original_headline": "\"תודעה על מלא עשינו להם\": חקירת איש המוסד לשעבר בפרשת קטאר-גייט נחשפת",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tVWVCNFVaZzNHdXd3dXQtZjZtQWp4ODlmcnNEOWZnQlFHVHpSYy16Y1JwNnNUN2FncXVqLVhVcS05T09PR01WcjdEaENPUTU2OXNFTmk4S1g2a2hfU0E?oc=5",
+     "published": "2026-10-22T21:00:00Z",
+     "summary": "Details have emerged from the police questioning of a former Mossad official in the Qatargate affair.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks",
+     "url": "https://www.wsj.com/world/middle-east/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-u-s-attacks-55f75e6b",
+     "published": "2026-10-23T05:24:00Z",
+     "context": "References Qatar in coverage of Iran's threats of wider strikes on Gulf economic targets."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Prices Rise as Middle East Risks Persist",
+     "url": "https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364",
+     "published": "2026-10-23T07:31:00Z",
+     "context": "References Qatar in coverage of oil prices and Middle East risks."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Physical Oil Prices Drop in Mideast as Flows Via Hormuz Hold Up",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-23/physical-oil-prices-drop-in-mideast-as-flows-via-hormuz-hold-up",
+     "published": "2026-10-23T07:24:06Z",
+     "context": "References Qatar in coverage of oil flows through the Strait of Hormuz."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Little-Known South Korean Shipowner Dominates Hormuz Transits As Oil Flows Rebound",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-23/shipowner-sinokor-dominates-hormuz-transits-as-oil-flows-rebound",
+     "published": "2026-10-23T03:20:00Z",
+     "context": "References Qatar in coverage of Hormuz shipping and oil flows."
+    },
+    {
+     "outlet": "CNN",
+     "region": "US",
+     "headline": "The Iran war’s toxic impact on one of the planet’s most unique seas",
+     "url": "https://www.cnn.com/2026/10/23/climate/iran-war-persian-gulf-oil-spills-pollution",
+     "published": "2026-10-23T08:46:57Z",
+     "context": "References Qatar in coverage of the Iran war's environmental impact on the Gulf."
+    }
+   ]
+  },
+  {
    "id": "2026-10-22-pm",
    "runAt": "2026-10-22T20:20:00Z",
    "label": "Thu 22 Oct · Evening",
