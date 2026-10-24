@@ -1,6 +1,87 @@
 {
  "editions": [
   {
+   "id": "2026-10-24-am",
+   "runAt": "2026-10-24T09:04:13Z",
+   "label": "Sat 24 Oct · Morning",
+   "brief": "Qatar coverage was light overnight and centered on the Qatargate affair in Israel, where Shin Bet checks are reportedly clearing the way for possible security charges against two Netanyahu aides, and on a US debate over Qatari funding of American universities. Qatar also appeared in wider coverage of Iran war fears, US embassy staffing cuts and Gulf infrastructure threats. Israeli outlets framed Qatar mainly through the domestic Qatargate scandal and the election, while US right-leaning outlets framed it around foreign influence and money.",
+   "stories": [
+    {
+     "outlet": "N12",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Dramatic development in Qatargate: the way is paved for security-related indictments against Urich and Feldstein",
+     "original_headline": "התפתחות דרמטית בקטארגייט: נסללה הדרך לכתבי אישום בסעיפים ביטחוניים נגד אוריך ופלדשטיין | פרסום ראשון",
+     "url": "https://www.mako.co.il/news-law/2026_q4/Article-e8c7d9d9ba961a1027.htm",
+     "published": "2026-10-23T17:50:00Z",
+     "summary": "Israeli media report that the Shin Bet review in the Qatargate case is nearly complete, which would let the attorney general weigh adding security offenses to charges against Netanyahu aides Yonatan Urich and Eli Feldstein, who are expected to get hearing notices first.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Daily Wire",
+     "region": "US",
+     "lang": "en",
+     "headline": "The Biggest Foreign Funder Of College Campuses Isn't Israel, China, Or Iran: It's Qatar",
+     "url": "https://www.dailywire.com/news/the-biggest-foreign-funder-of-college-campuses-isnt-israel-china-or-iran-its-qatar",
+     "published": "2026-10-23T10:03:36Z",
+     "summary": "The piece argues that Qatar is the largest foreign donor to US universities and disputes administration figures that single out other countries.",
+     "kind": "opinion",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Associated Press",
+     "region": "Wire",
+     "headline": "US is reducing staffing at 4 Middle East embassies over increased threats from Iran",
+     "url": "https://apnews.com/article/iran-war-houthis-embassies-staffing-rubio-9635852ea973064907ed0b7c0fca4799",
+     "published": "2026-10-24T02:19:00Z",
+     "context": "References Qatar in coverage of US embassy staffing cuts in the Middle East over Iranian threats."
+    },
+    {
+     "outlet": "The New York Times",
+     "region": "US",
+     "headline": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
+     "url": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
+     "published": "2026-10-24T03:46:54Z",
+     "context": "References Qatar in coverage of US intelligence warnings about Iranian plots against Americans in the region."
+    },
+    {
+     "outlet": "Axios",
+     "region": "US",
+     "headline": "Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad",
+     "url": "https://www.axios.com/2026/10/24/iran-war-us-embassies-evacuations-threat",
+     "published": "2026-10-24T00:58:13Z",
+     "context": "References Qatar in coverage of a US intelligence memo on Iranian plots and embassy evacuations."
+    },
+    {
+     "outlet": "Breitbart",
+     "region": "US",
+     "headline": "U.S. Intel Warns Iranian Plots to Kill Americans Abroad Have Reached ‘Advanced Stages’ — Regional Embassies Reduce Staff",
+     "url": "https://www.breitbart.com/politics/2026/10/23/u-s-intel-warns-iranian-plots-to-kill-americans-abroad-have-reached-advanced-stages-regional-embassies-reduce-staff/",
+     "published": "2026-10-24T03:01:53Z",
+     "context": "References Qatar in coverage of Iranian assassination plots and reduced embassy staffing in the region."
+    },
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "headline": "Opinion | Iran war fever is rising again. The battlespace has changed.",
+     "url": "https://www.washingtonpost.com/opinions/2026/10/23/iran-war-fever-is-rising-again-battlespace-has-changed/",
+     "published": "2026-10-24T02:12:45Z",
+     "context": "References Qatar in an opinion piece on renewed Iran war tensions and the changed battlespace."
+    },
+    {
+     "outlet": "Newsmax",
+     "region": "US",
+     "headline": "US Envoy Floats Weekend Iran Strike",
+     "url": "https://www.newsmax.com/world/globaltalk/us-envoy-floats-weekend-iran-strike/2026/10/23/id/1273862/",
+     "published": "2026-10-24T01:38:06Z",
+     "context": "References Qatar in coverage of US talk of a possible weekend strike on Iran."
+    }
+   ]
+  },
+  {
    "id": "2026-10-23-pm",
    "runAt": "2026-10-23T20:10:00Z",
    "label": "Fri 23 Oct · Evening",
