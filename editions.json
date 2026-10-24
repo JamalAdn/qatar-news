@@ -1,6 +1,67 @@
 {
  "editions": [
   {
+   "id": "2026-10-24-pm",
+   "runAt": "2026-10-24T19:05:00Z",
+   "label": "Sat 24 Oct · Evening",
+   "brief": "Qatar coverage was thin this evening. The main item was a report that QatarEnergy is in talks to buy US LNG from a Louisiana plant, as it works to make up for capacity lost to the war with Iran. Qatar also featured in wider US coverage of Iran talks and of US intelligence warnings about Iranian plots, while Israeli outlets were focused on the coming election and the Hebron operation.",
+   "stories": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Top LNG exporter QatarEnergy in talks to buy US LNG from Woodside's Louisiana plant",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWo4ZHBtWXB5blhDUlU3d0lLRXRUX2NfeUVuY3FQSjYzenBjVlppVDA3Nk42VnJaUWtMQWtLZzdLSTNPMWhDc1NmSjVJa1UzN1pGb2dTWEg0Q2lHTzVjamdndGVZRml5VGFjSnlJcjAzcHdwQ21EUkxNZGdiclJjNkYySnFkVVVzYThVV2FGcThsS3hfb25jZTZXdzZxRE45ejF0YzNYcjBjc1pVTFlidElOWWxjeG9zdHZqdldQUUQ?oc=5",
+     "published": "2026-10-23T22:16:02Z",
+     "summary": "QatarEnergy is reportedly negotiating to purchase US-produced LNG from Woodside's Louisiana facility as part of a broader hunt for long-term American supply.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "headline": "Iran remains open to talks with US under Pakistan-brokered deal, envoy says",
+     "url": "https://www.washingtonpost.com/world/2026/10/24/pakistan-iran-us-talks-hormuz/c2142ec0-cfc2-11f1-ac04-9f58578a68b4_story.html",
+     "published": "2026-10-24T17:30:57Z",
+     "context": "References Qatar in coverage of Pakistan-brokered US-Iran talks over Hormuz."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Iran has ramped up efforts to target US personnel, intelligence memo warns",
+     "url": "https://www.reuters.com/world/middle-east/iran-has-ramped-up-efforts-target-us-personnel-intelligence-memo-warns-2026-10-24/",
+     "published": "2026-10-24T16:03:43Z",
+     "context": "References Qatar in coverage of a US intelligence memo on Iranian plots against Americans in the Middle East."
+    },
+    {
+     "outlet": "New York Post",
+     "region": "US",
+     "headline": "Iran is boosting efforts to target Americans in Mideast, US Intel warns",
+     "url": "https://nypost.com/2026/10/24/us-news/us-intel-iran-boosting-efforts-to-hit-americans-in-mideast/",
+     "published": "2026-10-24T13:44:00Z",
+     "context": "References Qatar in coverage of Iranian efforts to target Americans in the Middle East."
+    },
+    {
+     "outlet": "The Daily Wire",
+     "region": "US",
+     "headline": "Intel Chief Warns Iranian Plots Against Americans Have Reached ‘Advanced Stages,’ Memo Says",
+     "url": "https://www.dailywire.com/news/intel-chief-warns-iranian-plots-against-americans-have-reached-advanced-stages-memo-says?author=Drew+Berkemeyer&category=News&elementPosition=undefined&row=0&rowType=Vertical+List&title=Intel+Chief+Warns+Iranian+Plots+Against+Americans+Have+Reached+%E2%80%98Advanced+Stages%E2%80%99",
+     "published": "2026-10-24T18:48:25Z",
+     "context": "References Qatar in coverage of US intelligence warnings about advanced Iranian plots."
+    },
+    {
+     "outlet": "Newsmax",
+     "region": "US",
+     "headline": "State Dept Updates Mideast Warnings Amid Iran Threats",
+     "url": "https://www.newsmax.com/newsfront/state-department-warnings-iran/2026/10/24/id/1273888/",
+     "published": "2026-10-24T14:54:00Z",
+     "context": "References Qatar in coverage of updated State Department Middle East warnings amid Iran threats."
+    }
+   ]
+  },
+  {
    "id": "2026-10-24-am",
    "runAt": "2026-10-24T09:04:13Z",
    "label": "Sat 24 Oct · Morning",
