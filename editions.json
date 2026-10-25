@@ -1,6 +1,135 @@
 {
  "editions": [
   {
+   "id": "2026-10-25-pm",
+   "runAt": "2026-10-25T19:14:00Z",
+   "label": "Sun 25 Oct · Evening",
+   "brief": "Qatar's mediation role in the Iran standoff dominated the day, with reports that a Qatari delegation reached Tehran in an effort coordinated with Washington to prevent renewed strikes. Israeli outlets also focused heavily on a report that Netanyahu secretly met a former Mossad official working for Qatar during the Gaza war, a story feeding into the election campaign and the Qatargate affair. US outlets mostly covered Qatar only as part of wider Iran and Gulf security coverage.",
+   "stories": [
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatari mediators in Tehran in US-coordinated effort to ease tensions, official says",
+     "url": "https://www.timesofisrael.com/liveblog_entry/qatari-mediators-in-tehran-in-us-coordinated-effort-to-ease-tensions-official-says/",
+     "published": "2026-10-25T14:01:18Z",
+     "summary": "An official said a Qatari delegation arrived in Tehran in an effort coordinated with Washington to reduce the risk of renewed fighting.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Iranian official on U.S. talks: 'Qatari delegation arrived in Tehran to manage negotiations'",
+     "url": "https://www.ynetnews.com/article/jskz82inh",
+     "published": "2026-10-25T16:31:07Z",
+     "summary": "An Iranian official described the Qatari delegation in Tehran as managing the negotiation track with the United States.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Report: Qatari delegation arrives in Tehran to discuss efforts to prevent escalation",
+     "url": "https://www.ynetnews.com/article/53vag5nvg",
+     "published": "2026-10-25T13:25:31Z",
+     "summary": "Ynet reported that Qatari officials landed in Tehran for talks aimed at heading off a new round of escalation.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "At height of Gaza war, PM met secretly with ex-Mossad official working for Qatar — report",
+     "url": "https://www.timesofisrael.com/liveblog_entry/at-height-of-gaza-war-pm-met-secretly-with-ex-mossad-official-working-for-qatar-report/",
+     "published": "2026-10-25T18:36:22Z",
+     "summary": "Channel 12 reported that Netanyahu secretly met in 2024 a former senior Mossad figure working on Qatar's influence efforts, who asked him to rein in ministers attacking Qatar.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "N12",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Exclusive: The PM's secret meeting with the senior Israeli in the Qatari project, after October 7",
+     "original_headline": "בלעדי: הפגישה החשאית של רה\"מ עם הישראלי הבכיר בפרויקט הקטארי – אחרי 7 באוקטובר",
+     "url": "https://www.mako.co.il/news-politics/2026_q4/Article-8658411fb3471a1026.htm",
+     "published": "2026-10-25T18:45:00Z",
+     "summary": "N12 revealed the details of a wartime meeting between the prime minister and an Israeli who worked on a Qatari-funded project.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Report: Netanyahu met a senior Mossad figure whose name was linked to Qatargate",
+     "original_headline": "דיווח: נתניהו נפגש עם בכיר במוסד ששמו נקשר בקטארגייט",
+     "url": "https://www.israelhayom.co.il/news/geopolitics/article/21705900",
+     "published": "2026-10-25T18:09:38Z",
+     "summary": "Israel Hayom relayed the report of a Netanyahu meeting with a senior Mossad figure connected to the Qatargate affair.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Netanyahu posts atomic bomb simulation over Tel Aviv: Qatar, Orech, Haredim - all a smokescreen",
+     "original_headline": "נתניהו פרסם הדמיה של אטום על ת\"א: \"קטאר, אוריך, חרדים - הכול מסך עשן\"",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ublZVeXVGdzNzb2dVUnlLSnhlRXVCVFBJc01MR2JZS1dRUjVqTXMtbC1mRk85UG9YNEFvSkRPdEh2MmRseUNEbm1GbGNVV1FuM2RtS1lWcUdIQjA?oc=5",
+     "published": "2026-10-25T09:53:20Z",
+     "summary": "In an election-season post warning of an Iranian nuclear threat, Netanyahu described Qatar-related controversies as a smokescreen.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Brookfield builds Qatar presence with Doha office",
+     "url": "https://www.reuters.com/world/middle-east/brookfield-builds-qatar-presence-with-doha-office-2026-10-25/",
+     "published": "2026-10-25T09:13:46Z",
+     "summary": "Reuters reported that Brookfield is setting up an office in Doha to deepen its ties in Qatar.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Maariv",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Erdogan and Qatar are preparing a surprise for Israel, bigger than Iran | Amit Yagur",
+     "original_headline": "ארדואן וקטאר מכינים לישראל הפתעה - וזה יותר גדול מאיראן | עמית יגור",
+     "url": "https://www.maariv.co.il/news/opinions/article-1381180",
+     "published": "2026-10-25T15:57:00Z",
+     "summary": "A columnist argues that Turkey and Qatar together pose a strategic challenge to Israel beyond the Iranian threat.",
+     "kind": "opinion",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Most Gulf shares close lower as Saudi-Houthi fighting rages on",
+     "url": "https://www.reuters.com/world/middle-east/gulf-bourses-slip-houthi-saudi-clashes-rattle-investors-2026-10-25/",
+     "published": "2026-10-25T13:20:32Z",
+     "context": "Covers Gulf stock market moves, a regional roundup that includes Qatar's bourse."
+    },
+    {
+     "outlet": "Newsmax",
+     "region": "US",
+     "headline": "Iran Plans Gulf Cable Attacks if US-Israel Strikes Resume",
+     "url": "https://www.newsmax.com/newsfront/iran-undersea-cables-strait-of-hormuz/2026/10/25/id/1273958/",
+     "published": "2026-10-25T16:42:27Z",
+     "context": "References Qatar in coverage of Iran's threats to Gulf infrastructure and the Strait of Hormuz."
+    }
+   ]
+  },
+  {
    "id": "2026-10-25-am",
    "runAt": "2026-10-25T09:25:00Z",
    "label": "Sun 25 Oct · Morning",
