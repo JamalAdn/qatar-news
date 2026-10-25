@@ -1,6 +1,35 @@
 {
  "editions": [
   {
+   "id": "2026-10-25-am",
+   "runAt": "2026-10-25T09:25:00Z",
+   "label": "Sun 25 Oct · Morning",
+   "brief": "Qatar coverage was light this morning. Bloomberg reported that Brookfield is opening a Doha office, building on its AI infrastructure partnership with the Qatar Investment Authority. Elsewhere Qatar appeared mainly as part of wider Gulf coverage of the Houthi-Saudi fighting, while Israeli outlets were focused on the coming election and on Iranian threats.",
+   "stories": [
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "Brookfield to Open Doha Office to Deepen Its Middle East Reach",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-25/brookfield-to-open-doha-office-to-deepen-its-middle-east-reach",
+     "published": "2026-10-25T08:47:01Z",
+     "summary": "Brookfield plans to set up an office in Doha as it expands its presence in the Middle East, following its joint AI infrastructure venture with Qatar's sovereign wealth fund.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Gulf bourses slip as Houthi-Saudi clashes rattle investors",
+     "url": "https://www.reuters.com/world/middle-east/gulf-bourses-slip-houthi-saudi-clashes-rattle-investors-2026-10-25/",
+     "published": "2026-10-25T07:39:43Z",
+     "context": "Reuters Gulf market reports of this kind track the Qatari index alongside other regional bourses reacting to the Houthi-Saudi fighting."
+    }
+   ]
+  },
+  {
    "id": "2026-10-24-pm",
    "runAt": "2026-10-24T19:05:00Z",
    "label": "Sat 24 Oct · Evening",
