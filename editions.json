@@ -1,6 +1,73 @@
 {
  "editions": [
   {
+   "id": "2026-10-27-am",
+   "runAt": "2026-10-26T21:10:55Z",
+   "label": "Tue 27 Oct · Morning",
+   "brief": "Qatar coverage centered on Emir Tamim's planned Tuesday visit to Moscow, where Putin is also set to meet Iran's president, and on the Israeli Qatargate affair, which has moved into the final days of the election campaign. Israeli outlets framed Qatar mainly through the domestic scandal over Netanyahu's aides and Qatari influence, while US and wire coverage touched Qatar mostly within wider Iran diplomacy and energy markets.",
+   "stories": [
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Vladimir Putin, Pezeshkian to meet in Moscow with Qatari Emir",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-912941",
+     "published": "2026-10-26T15:10:04Z",
+     "summary": "The Kremlin said Putin will meet Qatar's emir and Iran's president in Moscow on Tuesday after hosting a gas exporters forum.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Putin to meet Iran's Pezeshkian, emir of Qatar on Tuesday in Moscow",
+     "url": "https://www.timesofisrael.com/liveblog_entry/putin-to-meet-irans-pezeshkian-emir-of-qatar-on-tuesday-in-moscow/",
+     "published": "2026-10-26T08:28:00Z",
+     "summary": "Emir Tamim bin Hamad Al Thani is due in Moscow to meet Putin, the Kremlin announced, on the same day as the Iranian president.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "PM said to secretly meet ex-Mossad official working for Qatar at height of Gaza war",
+     "url": "https://www.timesofisrael.com/pm-said-to-secretly-meet-ex-mossad-official-working-for-qatar-at-height-of-gaza-war/",
+     "published": "2026-10-25T22:21:47Z",
+     "summary": "Channel 12 reported that Netanyahu met alone in 2024 with a former Mossad man tied to Qatar's influence effort, a claim now feeding the Qatargate row before Tuesday's election.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks",
+     "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-saudi-attacks-a59376cd",
+     "published": "2026-10-26T20:14:15Z",
+     "context": "References Qatar in coverage of oil prices and US-Iran diplomacy."
+    },
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "headline": "Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war",
+     "url": "https://www.washingtonpost.com/world/2026/10/26/saudi-arabia-turkey-pakistan-send-officials-iran-push-end-us-war/",
+     "published": "2026-10-26T19:55:37Z",
+     "context": "References Qatar in coverage of regional envoys traveling to Iran to end the war."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "European Gas at Four-Year High on Winter Supply Fears",
+     "url": "https://www.wsj.com/finance/commodities-futures/european-gas-at-four-year-high-on-winter-supply-fears-b7dd5145",
+     "published": "2026-10-26T17:13:00Z",
+     "context": "References Qatar in coverage of European gas prices and winter supply concerns."
+    }
+   ]
+  },
+  {
    "id": "2026-10-26-am",
    "runAt": "2026-10-26T10:35:00Z",
    "label": "Mon 26 Oct · Morning",
