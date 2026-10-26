@@ -1,6 +1,75 @@
 {
  "editions": [
   {
+   "id": "2026-10-26-am",
+   "runAt": "2026-10-26T10:35:00Z",
+   "label": "Mon 26 Oct · Morning",
+   "brief": "Coverage of Qatar was light this morning after a busy night of reporting on its mediation in Tehran. The Times of Israel followed the Qatargate affair, with a report that police suspect a Netanyahu aide was paid over $500,000 for pro-Qatar work. US and UK outlets treated Qatar mainly as one player in wider Iran diplomacy, Gulf security and energy market stories.",
+   "stories": [
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Report: Urich was paid over $500,000 for pro-Qatar work, police suspect",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPREk0R2xoYXBqaWJ1YTVtTC1kLXBwREQ0R28wVzlvS2FXZFNnTnZXUEtDYm9hdl9qT1VVV0FXUF9DejBuODJnbG5mbUhTTF95bE1RcEVybldodzk0LU5qRXZONkNRbnhweEN0a2hrTmhnMjUza3k3V21qY0VIdG9PTXZOZ0pDMW43Q295eUtXQnNWMDJLUTFFVnJ5d0VSbFNrWlpwTWM2aEM0bl8xb0NraHZLYw?oc=5",
+     "published": "2026-10-25T19:31:22Z",
+     "summary": "Police reportedly suspect that Netanyahu aide Jonatan Urich received more than half a million dollars for work promoting Qatar's interests in the Qatargate probe.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Financial Times",
+     "region": "UK",
+     "headline": "Iran hosts regional powers for talks to prevent renewed escalation",
+     "url": "https://www.ft.com/content/7f6943d3-b089-49a7-a0bc-a6f677c09802?syn-25a6b1a6=1",
+     "published": "2026-10-26T09:33:47Z",
+     "context": "References Qatar in coverage of regional powers meeting in Iran to prevent renewed escalation."
+    },
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "headline": "Delegations meet in Iran with Mideast region on edge over potential for renewed fighting",
+     "url": "https://www.washingtonpost.com/world/2026/10/26/iran-israel-us-war-10-26-2026/46889280-d10e-11f1-9931-2a41b76fc976_story.html",
+     "published": "2026-10-26T09:02:38Z",
+     "context": "References Qatar in coverage of delegations meeting in Iran amid fears of renewed fighting."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Top Saudi, Turkish Officials Travel to Iran to Quell War Tension",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-26/top-saudi-turkish-officials-travel-to-iran-to-quell-war-tension",
+     "published": "2026-10-26T07:44:00Z",
+     "context": "References Qatar in coverage of Gulf and regional diplomacy to calm Iran war tensions."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Middle East markets rebound as diplomacy fuels hopes of easing Iran hostilities",
+     "url": "https://www.reuters.com/world/middle-east/middle-east-markets-rebound-diplomacy-fuels-hopes-easing-iran-hostilities-2026-10-26/",
+     "published": "2026-10-26T08:37:42Z",
+     "context": "References Qatar in coverage of Middle East markets and diplomacy over Iran hostilities."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "European Gas at Four-Year High on Winter Supply Fears",
+     "url": "https://www.wsj.com/finance/commodities-futures/european-gas-at-four-year-high-on-winter-supply-fears-b7dd5145",
+     "published": "2026-10-26T09:47:00Z",
+     "context": "References Qatar in coverage of European gas prices and winter supply concerns."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "European Gas Hits €97 for First Time Since 2022 on Winter Risks",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-26/european-gas-hits-97-for-first-time-since-2022-on-winter-risks",
+     "published": "2026-10-26T07:50:38Z",
+     "context": "References Qatar in coverage of European gas prices and winter supply risks."
+    }
+   ]
+  },
+  {
    "id": "2026-10-25-pm",
    "runAt": "2026-10-25T19:14:00Z",
    "label": "Sun 25 Oct · Evening",
