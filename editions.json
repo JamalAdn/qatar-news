@@ -1,6 +1,65 @@
 {
  "editions": [
   {
+   "id": "2026-10-27-pm",
+   "runAt": "2026-10-27T20:55:00Z",
+   "label": "Tue 27 Oct · Evening",
+   "brief": "Qatar's role as mediator between Iran and the United States dominated coverage, with Doha urging Tehran to reopen the Strait of Hormuz and show good intentions, and Qatari and Iranian leaders both holding talks in Moscow as another ship was struck in the strait. Wire and Israeli outlets covered the diplomacy in similar terms, while US business coverage touched Qatar mainly through oil-market reaction to hopes of Middle East diplomacy.",
+   "stories": [
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar, Iran discuss war and Hormuz in Moscow meeting as another ship struck in Strait",
+     "url": "https://www.timesofisrael.com/qatar-iran-discuss-war-and-hormuz-in-moscow-meeting-as-another-ship-struck-in-strait/",
+     "published": "2026-10-27T19:24:26Z",
+     "summary": "Qatari and Iranian leaders discussed the war and the Strait of Hormuz at talks in Moscow while another vessel was hit in the strait.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Qatar says Iran needs to show good intentions for mediation efforts to succeed",
+     "url": "https://www.reuters.com/world/asia-pacific/qatar-says-iran-needs-show-good-intentions-mediation-efforts-succeed-2026-10-27/",
+     "published": "2026-10-27T15:01:44Z",
+     "summary": "Qatar said Iran must demonstrate good faith if mediation efforts are to succeed.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar urges Iran to reopen Strait of Hormuz amid US mediation efforts",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TQnEyajlyanBVVTc0ZzI3U0VGYjUzTDZjX0JaRHE3TWNKak1lblVwazJ0amVxcTZUT2twYkJsaS1MN0tjWXRna1JkbjYtUjNnZUZKLVRtaDBPWE0zUEY5a2RTdFlBc09QQXc?oc=5",
+     "published": "2026-10-27T15:15:52Z",
+     "summary": "Qatar called on Iran to reopen the Strait of Hormuz as US-backed mediation continues.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Futures Fall as Market Holds Out Hope for Middle East Diplomacy",
+     "url": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-assess-iran-diplomacy-saudi-attacks-95bb0210",
+     "published": "2026-10-27T19:23:00Z",
+     "context": "References Qatar in coverage of oil markets and Iran diplomacy."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Futures End Mixed as Traders Weigh Supply Recovery Against Shipping Risks",
+     "url": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-hormuz-shipping-risks-persist-7df58bc8",
+     "published": "2026-10-27T19:20:15Z",
+     "context": "References Qatar in coverage of oil markets and Hormuz shipping risks."
+    }
+   ]
+  },
+  {
    "id": "2026-10-27-am",
    "runAt": "2026-10-27T10:05:00Z",
    "label": "Tue 27 Oct · Morning",
