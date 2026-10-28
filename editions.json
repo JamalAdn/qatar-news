@@ -1,6 +1,199 @@
 {
  "editions": [
   {
+   "id": "2026-10-29-am",
+   "runAt": "2026-10-28T21:25:00Z",
+   "label": "Wed 28 Oct · Evening",
+   "brief": "Coverage centered on Qatar's mediation between the US and Iran, with reports that Doha floated a deal trading UN inspector access to Iranian nuclear sites for sanctions relief and that Tehran called parts of the plan unacceptable. Reports also said Gulf states were warned of possible renewed US strikes on Iran after the midterms. US outlets focused on the war's cost and pressure on Iran, while Israeli outlets covered the mediation details and, in one opinion piece, revisited Qatari payments to Gaza.",
+   "stories": [
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Iran to respond to Qatar offer allowing IAEA inspection of Iranian nuclear sites",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-913159",
+     "published": "2026-10-28T19:28:28Z",
+     "summary": "Iran is expected to answer a Qatari proposal that would let international inspectors back into its nuclear sites.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar said to float deal trading UN inspectors' access to Iran nuclear sites for sanctions relief",
+     "url": "https://www.timesofisrael.com/liveblog_entry/qatar-said-to-float-deal-trading-un-inpectors-access-to-iran-nuclear-sites-for-sanctions-relief/",
+     "published": "2026-10-28T19:09:29Z",
+     "summary": "Qatar is reportedly proposing that Iran admit UN inspectors in return for relief from sanctions.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "i24NEWS",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar awaits Tehran's response to new nuclear deal proposal",
+     "url": "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-qatar-awaits-tehran-s-response-to-new-nuclear-deal-proposal-i24news-learns",
+     "published": "2026-10-28T19:28:00Z",
+     "summary": "Qatar is waiting for Iran to reply to a fresh nuclear proposal it has put forward as mediator.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Iran calls Qatar's peace plan 'unacceptable' as regional tensions escalate",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAydktCZ0QwNi1nWFdKSEduMEtvT1F5R21sTmtHYUJBSjRvekxPYm5XbXAxT3pMd0t2d1NvWlExWWFMMGwzVEtsTDBrQzJMRDlRRW1uSTBn?oc=5",
+     "published": "2026-10-28T10:05:00Z",
+     "summary": "Tehran dismissed the latest Qatari peace plan as unacceptable while regional tensions rose.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "US to maintain Iran blockade as Qatar mediates ceasefire deal",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-913151",
+     "published": "2026-10-28T18:05:33Z",
+     "summary": "Washington says its blockade of Iran stays in place while Qatar works on a ceasefire arrangement.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Iran is in close contact with mediators on 7-day plan, foreign minister says",
+     "url": "https://www.timesofisrael.com/liveblog_entry/iran-is-in-close-contact-with-mediators-on-7-day-plan-foreign-minister-says/",
+     "published": "2026-10-28T17:35:13Z",
+     "summary": "Iran's foreign minister said Tehran is talking closely with mediators about a seven-day plan.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Haaretz",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Iran says new proposal to reopen Strait of Hormuz under review",
+     "url": "https://www.haaretz.com/middle-east-news/iran/2026-10-28/ty-article/iran-says-new-proposal-to-reopen-strait-of-hormuz-under-review/000001a1-83a4-d9b5-a3b5-cfb49a840000",
+     "published": "2026-10-28T19:01:00Z",
+     "summary": "Iran says it is reviewing a new proposal aimed at reopening the Strait of Hormuz.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Axios",
+     "region": "US",
+     "lang": "en",
+     "headline": "Iran pressed to make nuke concessions as massive post-midterms strikes loom",
+     "url": "https://www.axios.com/2026/10/28/iran-war-arab-mediators-war-post-midterms",
+     "published": "2026-10-28T18:01:48Z",
+     "summary": "Arab mediators are pressing Iran for nuclear concessions ahead of possible large US strikes after the midterm elections.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "lang": "en",
+     "headline": "Vance reaches out to Iranian hard-liner in bid to restart peace talks",
+     "url": "https://www.wsj.com/world/middle-east/vance-reaches-out-to-iranian-hard-liner-in-bid-to-restart-peace-talks-2c8a2ab8",
+     "published": "2026-10-28T19:59:00Z",
+     "summary": "The vice president has contacted an Iranian hard-liner to try to restart stalled peace talks.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "lang": "en",
+     "headline": "US warns Gulf of possible short, intense renewal of Iran war after midterms",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXd0OHZEUnBrMFNkRjJ5dHFUakFsTDU0NUxhdzhQUnpPQ0JxMllJanhoeVFQWm1GMmk2RkRUdDFWLVR2N0VwczZOQmZmbG9BanpUSTE2VEhnSS1xd29mUzFzbEdRTVBDWGRSOW1hRW41WU04eE9OSUo4QmFoSG9DUUhUNi13bzNkbEZaWlFUaVUzUzZPWGtMc2JDeEZyODg2Q09JdFZBekl1WnNJdDVBYnZQMzhieGt4bjFuOFZnMA?oc=5",
+     "published": "2026-10-28T11:12:00Z",
+     "summary": "Washington has told Gulf states it may resume intensive strikes on Iran after the US midterm elections.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "New York Post",
+     "region": "US",
+     "lang": "en",
+     "headline": "Trump warns Gulf allies to prepare for fresh blitz on Iran after midterm elections",
+     "url": "https://nypost.com/2026/10/28/us-news/trump-warns-gulf-allies-to-prepare-for-fresh-blitz-on-iran-after-midterm-elections-report/",
+     "published": "2026-10-28T16:40:35Z",
+     "summary": "Gulf allies were reportedly told to prepare for renewed US military action against Iran after the midterms.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "US warns Gulf states of possible renewed Iran offensive after midterms",
+     "url": "https://www.timesofisrael.com/us-warns-gulf-states-of-possible-renewed-iran-offensive-after-midterms-report/",
+     "published": "2026-10-28T16:40:11Z",
+     "summary": "The report says Gulf states were warned that a renewed US offensive on Iran could follow the midterm elections.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar payments and October 7 expose Netanyahu's security failures",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxaVRDZ0VPWGdOMDBuY00yQ2hPMnhVYy1rZGRFTHZCM0hETy02OHJBbEo1a3lVaFJ4bzMwV2xQRXEzVlRjUUlmdi1SYVM1R1V6dkVBYUs1WQ?oc=5",
+     "published": "2026-10-28T14:00:00Z",
+     "summary": "The piece argues that the Qatari payments to Gaza and the October 7 attack reveal failures in Netanyahu's security policy.",
+     "kind": "opinion",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Breitbart",
+     "region": "US",
+     "headline": "Iran war's cost to American taxpayers grows to an estimated $47.1 billion",
+     "url": "https://www.breitbart.com/news/iran-wars-cost-to-american-taxpayers-grows-to-an-estimated-47-1-billion/amp/",
+     "published": "2026-10-28T17:55:51Z",
+     "context": "Lists Qatar among the countries hosting US bases that a Pentagon inspector general says were damaged or destroyed by Iranian strikes."
+    },
+    {
+     "outlet": "The Daily Caller",
+     "region": "US",
+     "headline": "Israel's next leader remains unclear, neither candidate offers an America First shift",
+     "url": "https://dailycaller.com/2026/10/28/israel-election-netanyahu-coalition-iran-us-relations",
+     "published": "2026-10-28T17:28:39Z",
+     "context": "Notes Naftali Bennett's pledge to brand Qatar an enemy state over its financial backing of Hamas."
+    },
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "headline": "Iran war costs rise to $47 billion, U.S. military estimates",
+     "url": "https://www.washingtonpost.com/politics/2026/10/28/iran-war-costs-rise-47-billion-us-military-estimates/",
+     "published": "2026-10-28T21:10:08Z",
+     "context": "References Qatar in coverage of the cost of the Iran war."
+    },
+    {
+     "outlet": "Newsmax",
+     "region": "US",
+     "headline": "Trump: Iran faces more strikes if talks fail",
+     "url": "https://www.newsmax.com/newsfront/donald-trump-iran-war/2026/10/28/id/1274363/",
+     "published": "2026-10-28T20:30:01Z",
+     "context": "References Qatar in coverage of Iran talks and possible renewed US strikes."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "NEWSLETTER: Reading Gulf anxiety in the oil price",
+     "url": "https://www.reuters.com/world/middle-east/reading-gulf-anxiety-oil-price-2026-10-28/",
+     "published": "2026-10-28T17:35:00Z",
+     "context": "References Qatar in coverage of Gulf anxiety and oil markets during the Iran war."
+    }
+   ]
+  },
+  {
    "id": "2026-10-28-am",
    "runAt": "2026-10-28T10:48:19Z",
    "label": "Wed 28 Oct · Morning",
