@@ -1,6 +1,84 @@
 {
  "editions": [
   {
+   "id": "2026-10-28-am",
+   "runAt": "2026-10-28T10:48:19Z",
+   "label": "Wed 28 Oct · Morning",
+   "brief": "Qatar's mediation between Iran and the warring sides led coverage, with Reuters and Israeli outlets reporting that Doha has put a new proposal to Tehran, including a reported seven-day plan, and that Iran may reply by the weekend. Israeli outlets framed the effort around ending the war with the US and Israel, while US papers touched Qatar mainly through Gulf security and oil-market coverage.",
+   "stories": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Qatari mediators present Iran with new deal to end the war, official says",
+     "url": "https://www.reuters.com/world/asia-pacific/qatari-mediators-present-iran-with-new-deal-end-war-official-says-2026-10-28/",
+     "published": "2026-10-28T09:07:52Z",
+     "summary": "A Qatari official said mediators have handed Tehran a new proposal aimed at ending the war with the United States and Israel.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar presents peace deal to Iran in attempt to end US-Israeli war",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-913092",
+     "published": "2026-10-28T09:04:56Z",
+     "summary": "The Israeli paper reports that Doha has put a peace proposal before Iran as it tries to bring the war to a close.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Report: Qatar presents Iran new 7-day peace plan to end war with US and Israel",
+     "url": "https://www.ynetnews.com/article/bkbihrjazl",
+     "published": "2026-10-28T10:05:51Z",
+     "summary": "Ynet reports that Qatar has offered Iran a new seven-day plan meant to end the conflict.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Report: Iran expected to respond by weekend to new draft ceasefire agreement",
+     "url": "https://www.ynetnews.com/article/ow5nupd92",
+     "published": "2026-10-28T09:29:09Z",
+     "summary": "Ynet reports Tehran is expected to answer a new draft ceasefire agreement by the weekend.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Guardian",
+     "region": "UK",
+     "headline": "Trump is in a corner and likely to lash out at Iran again. Here’s how to avert that disaster | Simon Tisdall",
+     "url": "https://www.theguardian.com/commentisfree/2026/oct/28/donald-trump-iran-midterms-politics-diplomacy",
+     "published": "2026-10-28T09:50:00Z",
+     "context": "Opinion piece on Trump, Iran and the US midterms, in coverage where Qatari diplomacy is part of the wider Iran file."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Prices Rise as Houthi Militants Target Saudi Energy",
+     "url": "https://www.wsj.com/world/middle-east/oil-prices-rise-as-houthi-militants-target-saudi-energy-45c38fe0",
+     "published": "2026-10-28T07:51:00Z",
+     "context": "References Gulf energy security in coverage of the Iran war and oil markets."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "See How Flight Routes Are Changing to Avoid War Zones Around the World",
+     "url": "https://www.wsj.com/business/airlines/see-how-airlines-are-navigating-the-dangerous-skies-to-avoid-global-conflicts-3352cac3",
+     "published": "2026-10-28T09:36:43Z",
+     "context": "References Gulf airspace and war zones in coverage of the Iran conflict."
+    }
+   ]
+  },
+  {
    "id": "2026-10-27-pm",
    "runAt": "2026-10-27T20:55:00Z",
    "label": "Tue 27 Oct · Evening",
