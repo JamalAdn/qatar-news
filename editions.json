@@ -1,6 +1,289 @@
 {
  "editions": [
   {
+   "id": "2026-10-30-am",
+   "runAt": "2026-10-29T21:25:00Z",
+   "label": "Thu 29 Oct · Evening",
+   "brief": "Israeli outlets focused on suspicions, now under Shin Bet examination, that Qatari and Turkish money was used to boost Arab turnout in the Israeli election, with Qatar flatly denying any role and calling the claims ridiculous and dangerous. Israeli politicians traded accusations over Qatar, while some US outlets repeated the claims as part of election coverage. On energy and diplomacy, QatarEnergy moved to buy more US LNG to hedge against Hormuz disruption, and Qatari mediation with Iran continued to draw reports.",
+   "stories": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "QatarEnergy buys US, other LNG to hedge future Hormuz disruptions",
+     "url": "https://www.reuters.com/business/energy/qatarenergy-buys-us-other-lng-hedge-future-hormuz-disruptions-2026-10-29/",
+     "published": "2026-10-29T07:17:00Z",
+     "summary": "QatarEnergy is buying LNG from the United States and other suppliers to cover supply risks from possible further disruption in the Strait of Hormuz.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "QatarEnergy buys LNG from US and others to hedge future Hormuz disruptions",
+     "url": "https://www.timesofisrael.com/liveblog_entry/qatarenergy-buys-lng-from-us-and-others-to-hedge-future-hormuz-disruptions/",
+     "published": "2026-10-29T07:33:00Z",
+     "summary": "QatarEnergy is purchasing US and other LNG volumes as a hedge against future Hormuz shipping disruptions, according to Reuters.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Shin Bet probes suspected Qatari, Turkish funding to boost Arab turnout in Israeli election",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PaEVEc3FOT2xxREhzYVZhYzdSZjlWeE9ydnlGQ1JqT2ZLaG14QzhFN0hZWWlqRWJQR09DMGVWMmkwUFl4SVo3T0tSREFvUmQ2MXhhVEFIbU5IYU5qVDZVVGFRd0xsbzZn?oc=5",
+     "published": "2026-10-29T12:40:40Z",
+     "summary": "Israel's Shin Bet is examining suspicions that Qatari and Turkish money was channelled to raise Arab voter turnout in the election.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Zini provided 'solid information' indicating enemy state interference in elections, suspicion: Qatar",
+     "url": "https://www.ynetnews.com/article/a3av1q2uv",
+     "published": "2026-10-29T08:20:28Z",
+     "summary": "Shin Bet chief Zini reportedly gave the elections committee information pointing to interference by a hostile state, with Qatar the main suspect.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar issues first response: 'We categorically deny interfering in Israel's elections'",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GWDdLSlk3MVdfMm1qS3ZQbjhEWjM3NHhxVEdLQXl3VmlfMHhoOHZLbnZQa1hIOTFCRlQ3NUZmUkVEcElpcHNVTXdSZ3piLUt5ZjFRVw?oc=5",
+     "published": "2026-10-29T12:51:45Z",
+     "summary": "Qatar issued its first public denial of any role in Israel's election after the allegations surfaced.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar denies interfering in Israeli elections, calls allegations 'ridiculous and dangerous'",
+     "url": "https://www.jpost.com/israel-election-2026/article-913238",
+     "published": "2026-10-29T12:52:26Z",
+     "summary": "Doha rejected the claims of election interference and warned that such accusations are reckless.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar: 'Ridiculous and dangerous' to suggest Doha played role in alleged election fraud in Israel",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWmp1VzhRWXpxcDhCX21LZDE0Y0JKdEhCRjRvTXI2cmdJTGdLZG1MY25oQ19uQVZwTzhmMEx2WUlad2hjX0Vwb3BFalBIZGl2SlVhYVNKd09zbTJraElXcGczeV8zTnFwc19NMWNRQlVTQkk2WHluaUlWby1pMHhOa3pYUGROWG1yUTI2TWRwWGcwRkc0cjJDa283U3lra3JuUW44RDhvZThyRS0xcFNrd2tYQWZjcDRyMmlGTHotemlDSGlmd19VT2MwUEFXdHhPaDRVdDNaNA?oc=5",
+     "published": "2026-10-29T13:05:03Z",
+     "summary": "Qatar dismissed any suggestion that it was behind alleged election irregularities in Israel.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar denies meddling in Israeli election: 'If it were true, Qatar would own all of Israel'",
+     "url": "https://www.ynetnews.com/article/ryehv6g6ze",
+     "published": "2026-10-29T13:38:48Z",
+     "summary": "A Qatari statement mocked the interference claims, saying that if they were true Qatar would own all of Israel.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar: We will not be a scapegoat for Israeli politicians' failures",
+     "url": "https://www.israelhayom.com/2026/10/29/qatar-we-will-not-be-a-scapegoat-for-israeli-politicians-failures/",
+     "published": "2026-10-29T15:16:36Z",
+     "summary": "Qatar said it will not be made a scapegoat for the failures of Israeli politicians as it rejected the election claims.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "i24NEWS",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Election interference: Qatar denounces Israel's 'excessive obsession' with it",
+     "url": "https://www.i24news.tv/fr/actu/elections-legislatives-2026/artc-le-qatar-dement-categoriquement-les-allegations-d-interference-dans-les-elections-israeliennes",
+     "published": "2026-10-28T22:58:00Z",
+     "summary": "Qatar accused Israel of an excessive obsession with it while denying the interference allegations.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Guardian",
+     "region": "UK",
+     "lang": "en",
+     "headline": "Israel election results live: Qatar says accusations of election interference in Israel 'ridiculous and dangerous'",
+     "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+     "published": "2026-10-28T22:03:00Z",
+     "summary": "A live blog on the Israeli election carries Qatar's rejection of the interference allegations.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Fox News",
+     "region": "US",
+     "lang": "en",
+     "headline": "Netanyahu falls short of majority as Israel faces three possible paths to a new government",
+     "url": "https://www.foxnews.com/world/netanyahu-bloc-falls-short-arab-vote-surges-qatar-election-interference-allegations-emerge",
+     "published": "2026-10-29T13:47:49Z",
+     "summary": "Fox News reports Netanyahu's bloc fell short as the Arab vote surged and Qatar election interference allegations emerged.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Daily Wire",
+     "region": "US",
+     "lang": "en",
+     "headline": "Israeli judge probes possible Qatar-linked cash scheme to hijack election and topple Bibi",
+     "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQS0Z0SlpfRDl4bnM2TUhkcHlEMGc4MmJzZ042ZU5oUHBJeHo0dkp6STZ5WjRZTDNDVWtFYkRDczJ6ay0ySEtWMlF2SDk1TlJHVGxJNy1KVVVKckhGS3pKSVRreFlibUtlMDhYWlhmY1RZdXN2VEExcnd5eC1HTVFaN0N6NVNMV1hibVQ3Ty04ZFBBZ1JISU83MHVSTjl4bnNzRVlSZVdWenUwLXM1WDhlaTNfOWZHMUY3cVo5R2hRRXVEZ2JmeTJYTWN3QUJWTmEwbjJuV1hmMU9USS1RdmRHTTVaSnJLNkJhSmxzWWdyMlpzb1RuVFNReHJGck4yNE90YzRFYi0yd1JSeFFmMWtwMUR3M0xLd0MzTFFUUDBDWTdOYVRwc0t6eXB2OUloY1VteHVaMm1hT2JGeFpYay1aMFp6TE5LMmNCd3FxVEw4RVl5NkF3cDJMT0lDcDc2SjRUX0NYUlB1VW5zTlpVQmV3Mmp1QU53aDVRTjZ6SUt3N2Z2QVFoZEU1QkJMQ3hSc2JPaUljNEdBMWdVVUhTdjcwU2lfeS1CcThFRWUtYVloWFNYWjRXY1YwMXE3SFQ2ZXRMSmZZQTJVck1RSDhqZFVDcVp3VQ?oc=5",
+     "published": "2026-10-29T14:23:56Z",
+     "summary": "The Daily Wire reports a judge is examining a possible Qatar-linked cash scheme aimed at influencing Israel's election.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Breitbart",
+     "region": "US",
+     "lang": "en",
+     "headline": "Report: Qatar offers Iran deal to end war with U.S.",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS3dhcXJ3eU0zQ0ZFOHJEcUhOYzJuem1Cb19WUzRjOWZKbVM4YXZ6NVpZV19VaWFMdFZEVGd0RUI1dG9MdTU0UnVzR2ZNOU05a19IdGlZV1FMNkZVVXdoZGN5X0lfWWRFN210dW1FUEdlSElhbUs4ZDNRSnAxX21IMUwtUTloQVJqNTRzM005Unc4VmxXVDYzdUY3UTJraEEy0gGmAUFVX3lxTE91eU5PVVdGcUo0STY2ZzljYUV6VUk0ZXpzYUdxZTV1YzJhQURBRXNHSHBpcXU4UEVIZjFtQnZzZmtxakladXhlRFJTSEN1NnZST21zZklXUlh2aFlGVzNCaVJOemhSUFM0bnRxdGNwMkV0dFZiNWtndE8yLVBDUkVUdlhlbW1FX25kOWNYWnhPVExzMkZ6dkdKaXlmb1VMRm5zVVAzdXc?oc=5",
+     "published": "2026-10-29T05:58:19Z",
+     "summary": "Breitbart relays a report that Qatar has put a proposal to Iran aimed at ending the war with the United States.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Haaretz",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Iran sees only unacceptable ideas in latest mediation to end war, official says",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSTZsa1BWRXcxRV9vd3hVa1Ezcm5VSVhGVkV4dWVvWXJSNkNucVdCYWNTR0dnbFNjWE54MFBhZDNDbHExdEttZHE1WG5xcGlsOEtYYkhFSEhkdGttR054UXVvWUJlOUt4ZVNhNkdGWlh3VzA5Yl9NeGxMOWV4NVhSaC1vd0dUNnJwY1oxa1h1XzVIeGFrd3pSUjJTQXp2aUczYzJqUzhVdldvNkJwbzBhVEVLY0owTlZOR1RpeTZlaThCcmZkTFBVbHhxMUswdEF0RXo0dF9ZREExc09XQVdBNzFmaFNwOUhCRGxxVndWUm9NMHVITm12MGZrdURXUnpmalR2bWNzUURVZw?oc=5",
+     "published": "2026-10-29T04:13:00Z",
+     "summary": "An Iranian official said Tehran finds the latest mediation proposals unacceptable.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Ra'am's Abbas rejects election interference claims, denies Qatari links 'unlike Netanyahu'",
+     "url": "https://www.jpost.com/israel-election-2026/article-913196",
+     "published": "2026-10-29T07:13:00Z",
+     "summary": "Ra'am leader Mansour Abbas denied any Qatari link to his party's campaign and pointed back at Netanyahu.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Bennett to Netanyahu: 'If state security is your priority, declare Qatar an enemy'",
+     "url": "https://www.ynetnews.com/article/rlgoypsmz",
+     "published": "2026-10-29T12:01:21Z",
+     "summary": "Naftali Bennett challenged Netanyahu to formally designate Qatar an enemy state.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Yair Golan: 'The real Qatari agents sat in Netanyahu's office'",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iRVJrNXRFNkJPa1dRdV9QZ3pxRjRONUdRSWZJZ0tBY21ob0haVkZSWEVzTDRDaVlZcU1JM1Qwdzg4SlR2b1VnNDJrUmx1b0llblFlTw?oc=5",
+     "published": "2026-10-29T16:24:45Z",
+     "summary": "Opposition figure Yair Golan turned the Qatar allegations against Netanyahu's own circle, citing the Qatargate affair.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar election interference allegations raise troubling questions about Shin Bet's failures",
+     "url": "https://www.israelhayom.com/2026/10/29/qatar-election-interference-allegations-raise-troubling-questions-about-shin-bets-failures/",
+     "published": "2026-10-29T13:41:05Z",
+     "summary": "An analysis asks what the allegations say about the Shin Bet's performance in tracking foreign influence.",
+     "kind": "analysis",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Guardian",
+     "region": "UK",
+     "headline": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran",
+     "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
+     "published": "2026-10-29T19:57:00Z",
+     "context": "References Qatar in coverage of US-Iran diplomacy."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Prices Ease as U.S. Seeks to Renew Diplomacy With Iran",
+     "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-afe80fa9",
+     "published": "2026-10-29T19:53:00Z",
+     "context": "References Qatar in coverage of oil markets and US-Iran diplomacy."
+    },
+    {
+     "outlet": "Financial Times",
+     "region": "UK",
+     "headline": "ExxonMobil boss pulls out of Gulf energy conference over security concerns",
+     "url": "https://www.ft.com/content/288ccf9d-6456-4bed-85c0-e7216bb31c66?syn-25a6b1a6=1",
+     "published": "2026-10-29T18:55:08Z",
+     "context": "References Qatar in coverage of Gulf energy security."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Exxon, Chevron cancel executive trips to UAE's ADIPEC, sources say",
+     "url": "https://www.reuters.com/business/energy/exxon-chevron-cancel-adipec-executive-trips-sources-say-2026-10-29/",
+     "published": "2026-10-29T18:20:15Z",
+     "context": "References Qatar in coverage of Gulf security and energy executives' travel."
+    },
+    {
+     "outlet": "The Washington Times",
+     "region": "US",
+     "headline": "Iran says it's drafting response to Vance letter as war looms",
+     "url": "https://www.washingtontimes.com/news/2026/oct/29/iran-says-received-vance-letter-crafting-response/",
+     "published": "2026-10-29T18:49:03Z",
+     "context": "References Qatar in coverage of Iran's response to the Vance letter."
+    },
+    {
+     "outlet": "Associated Press",
+     "region": "Wire",
+     "headline": "Netanyahu's party amplifies unproven claims that Arab-led parties have 'stolen' Israel's election",
+     "url": "https://apnews.com/article/israel-elections-netanyahu-eisenkot-arab-results-9a0620a1314fdc127245ba1a7f0aa762",
+     "published": "2026-10-29T18:29:00Z",
+     "context": "References Qatar in coverage of Israel's election and claims about Arab-led parties."
+    },
+    {
+     "outlet": "BBC",
+     "region": "UK",
+     "headline": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+     "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo",
+     "published": "2026-10-29T20:21:54Z",
+     "context": "References Qatar in coverage of Israel's election dispute."
+    },
+    {
+     "outlet": "Axios",
+     "region": "US",
+     "headline": "After losing his majority, Netanyahu tries to delegitimize election results",
+     "url": "https://www.axios.com/2026/10/29/netanyahu-election-likud-delegitimize-results",
+     "published": "2026-10-29T18:04:56Z",
+     "context": "References Qatar in coverage of Netanyahu's challenge to Israel's election results."
+    }
+   ]
+  },
+  {
    "id": 13,
    "runAt": "2026-10-29T11:04:55Z",
    "label": "Thu 29 Oct · Morning",
