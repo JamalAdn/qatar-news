@@ -1,6 +1,203 @@
 {
  "editions": [
   {
+   "id": 13,
+   "runAt": "2026-10-29T11:04:55Z",
+   "label": "Thu 29 Oct · Morning",
+   "brief": "Israeli coverage was dominated by suspicions that Qatar, and possibly Turkey, funneled large sums to boost Arab turnout in the Israeli election, with the elections chief ordering a Shin Bet probe. Likud figures pushed the claim while Arab party leaders called it a blood libel, and Haaretz framed it as an effort to delegitimize the Arab vote. Elsewhere, Woodside signed a 20-year LNG supply deal with QatarEnergy, and reports said Iran dismissed the latest Qatari mediation draft, with US outlets focusing on the energy deal and the Iran talks rather than the election claims.",
+   "stories": [
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Likud believes Qatar, Turkey source of funds allegedly sent to Arab get-out-the-vote groups",
+     "url": "https://www.timesofisrael.com/liveblog_entry/likud-believes-qatar-turkey-source-of-funds-allegedly-sent-to-arab-get-out-the-vote-groups/",
+     "published": "2026-10-29T08:05:19Z",
+     "summary": "Likud officials believe Qatar and Turkey were behind money allegedly sent to groups encouraging Arab turnout, prompting the Central Elections Committee chief to order a Shin Bet inquiry.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Election chief urges probe as Qatar suspected of funneling tens of millions to sway vote",
+     "url": "https://www.ynetnews.com/article/bkt11awltfe",
+     "published": "2026-10-29T07:19:37Z",
+     "summary": "The elections committee head asked the Shin Bet to investigate suspicions that Qatar sent very large sums to influence the election outcome.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Shin Bet probes suspected Qatari, Turkish funding to boost Arab turnout in Israeli election",
+     "url": "https://www.jpost.com/israel-election-2026/article-913187",
+     "published": "2026-10-29T10:49:19Z",
+     "summary": "The Shin Bet is examining suspected Qatari and Turkish funding aimed at raising Arab voter turnout in the Israeli election.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Shin Bet probes alleged Qatar funding",
+     "url": "https://www.israelhayom.com/2026/10/29/shin-bet-probes-qatar-funding-arab-sector-turnout/",
+     "published": "2026-10-29T08:00:55Z",
+     "summary": "Israel's security service has opened a probe into alleged Qatari money meant to lift turnout in the Arab sector.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "How the Qatari mechanism allegedly worked: \"If true, those involved will be in prison for a long time\"",
+     "original_headline": "כך עבד לפי החשד המנגנון הקטארי: \"אם זה נכון - המעורבים יהיו בכלא הרבה זמן\"",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21732874",
+     "published": "2026-10-29T08:44:48Z",
+     "summary": "The report outlines how the alleged Qatari funding network operated and quotes a view that those involved could face long prison terms if the suspicions prove true.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Haaretz",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Election Committee Chief Urges Shin Bet to Probe Foreign Funding Allegations",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article/.premium/election-chief-urges-shin-bet-probe-into-alleged-foreign-funding/000001a1-8691-d0bb-a3a9-ded971da0000",
+     "published": "2026-10-29T09:13:00Z",
+     "summary": "The elections committee chief asked the Shin Bet to look into allegations of foreign funding tied to the vote.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "JNS",
+     "region": "US",
+     "lang": "en",
+     "headline": "Israeli elections chief orders Shin Bet probe of foreign influence on vote",
+     "url": "https://www.jns.org/news/israel-news/israeli-elections-chief-orders-shin-bet-probe-of-foreign-influence-on-vote",
+     "published": "2026-10-29T09:11:15Z",
+     "summary": "The head of Israel's elections committee ordered the Shin Bet to investigate possible foreign influence on the election.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Globes",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Shin Bet to probe alleged Qatari interference in elections",
+     "url": "https://en.globes.co.il/en/article-shin-bet-to-probe-alleged-qatari-interference-in-elections-1001561259",
+     "published": "2026-10-29T09:15:36Z",
+     "summary": "Globes reports the Shin Bet will investigate alleged Qatari interference in the Israeli election.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "i24NEWS",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "'Serious suspicions,' election committee chief orders Shin Bet to investigate foreign funding, election bribery",
+     "url": "https://www.i24news.tv/en/news/israel-election-s-2026/artc-serious-suspicions-election-committee-chief-orders-shin-bet-to-investigate-foreign-funding-election-bribery",
+     "published": "2026-10-29T08:17:27Z",
+     "summary": "The elections chief cited serious suspicions of foreign funding and election bribery and directed the Shin Bet to investigate.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Balad Chairman on Suspected Election Result Manipulation by Qatar: 'Blood Libel'",
+     "url": "https://www.ynetnews.com/article/e4cmtwdc2",
+     "published": "2026-10-29T09:34:51Z",
+     "summary": "The head of the Arab party Balad rejected the Qatar funding suspicions as a blood libel.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Could suspected Qatari interference see Israel's election annulled?",
+     "url": "https://www.ynetnews.com/article/byhef5xagl",
+     "published": "2026-10-29T10:21:38Z",
+     "summary": "The piece examines whether the alleged Qatari interference could legally lead to the election results being cancelled.",
+     "kind": "analysis",
+     "major": false
+    },
+    {
+     "outlet": "Haaretz",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Likud Coalition Alleges Foreign Election Interference to Delegitimize Arab Vote",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article/.premium/likud-coalition-touts-foreign-interference-allegations-to-delegitimize-arab-vote/000001a1-8702-d116-abed-e7a2db9f0000",
+     "published": "2026-10-29T10:21:00Z",
+     "summary": "The article argues that Likud is using the foreign interference claims to undermine the legitimacy of the record Arab vote.",
+     "kind": "analysis",
+     "major": false
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Australia's Woodside to supply QatarEnergy with Louisiana LNG in 20-year deal",
+     "url": "https://www.reuters.com/business/energy/australias-woodside-supply-qatarenergy-with-louisiana-lng-20-year-deal-2026-10-29/",
+     "published": "2026-10-29T08:39:44Z",
+     "summary": "Woodside agreed to supply QatarEnergy with LNG from its Louisiana project under a 20-year contract.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatar to Buy LNG From Woodside as It Scours for US Supply",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-29/qatar-agrees-to-buy-lng-from-woodside-in-second-long-term-deal",
+     "published": "2026-10-29T09:58:49Z",
+     "summary": "Qatar signed its second long-term deal to buy US-sourced LNG as it looks for additional supply.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel (Reuters)",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Iran sees only unacceptable ideas in latest mediation to end war, official says",
+     "url": "https://www.timesofisrael.com/liveblog_entry/iran-sees-only-unacceptable-ideas-in-latest-mediation-to-end-war-official-says/",
+     "published": "2026-10-29T04:13:00Z",
+     "summary": "A senior Iranian official rejected the latest Qatari draft as unacceptable ideas rather than an offer and said Tehran's nuclear position is unchanged.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Breitbart",
+     "region": "US",
+     "lang": "en",
+     "headline": "Report: Qatar Offers Iran Deal to End War with U.S.",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS3dhcXJ3eU0zQ0ZFOHJEcUhOYzJuem1Cb19WUzRjOWZKbVM4YXZ6NVpZV19VaWFMdFZEVGd0RUI1dG9MdTU0UnVzR2ZNOU05a19IdGlZV1FMNkZVVXdoZGN5X0lfWWRFN210dW1FUEdlSElhbUs4ZDNRSnAxX21IMUwtUTloQVJqNTRzM005Unc4VmxXVDYzdUY3UTJraEEy0gGmAUFVX3lxTE91eU5PVVdGcUo0STY2ZzljYUV6VUk0ZXpzYUdxZTV1YzJhQURBRXNHSHBpcXU4UEVIZjFtQnZzZmtxakladXhlRFJTSEN1NnZST21zZklXUlh2aFlGVzNCaVJOemhSUFM0bnRxdGNwMkV0dFZiNWtndE8yLVBDUkVUdlhlbW1FX25kOWNYWnhPVExzMkZ6dkdKaXlmb1VMRm5zVVAzdXc?oc=5",
+     "published": "2026-10-29T05:58:19Z",
+     "summary": "The outlet relays reports that Qatar has put a proposal to Iran aimed at ending the war with the United States.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "CNN",
+     "region": "US",
+     "lang": "en",
+     "headline": "CNN's Global Perspectives in Doha explores forces reshaping how we live",
+     "url": "https://www.cnn.com/world/live-news/global-perspectives-doha",
+     "published": "2026-10-28T23:25:00Z",
+     "summary": "CNN is covering its Global Perspectives event hosted in Doha, with discussions on the forces changing daily life.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": []
+  },
+  {
    "id": "2026-10-29-am",
    "runAt": "2026-10-28T21:25:00Z",
    "label": "Wed 28 Oct · Evening",
