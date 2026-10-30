@@ -2,6 +2,59 @@
  "editions": [
   {
    "id": "2026-10-30-am",
+   "runAt": "2026-10-30T11:03:00Z",
+   "label": "Fri 30 Oct · Morning",
+   "brief": "Qatari mediators were reported to be back in Tehran, coordinating with Washington, to push a US-Iran deal, though Iran has rejected the earlier Doha draft and the two sides remain split over sequencing. A US outlet also highlighted how QatarEnergy lobbied American trade groups over tariff exemptions. Israeli outlets framed the mediation within the wider Iran war standoff, while the US piece focused on Qatari influence in Washington.",
+   "stories": [
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatari mediators return to Tehran to push for US-Iran peace deal, official says",
+     "url": "https://www.timesofisrael.com/qatari-mediators-return-to-tehran-to-push-for-us-iran-peace-deal-official-says/",
+     "published": "2026-10-30T10:16:55Z",
+     "summary": "Qatari mediators are back in Tehran, reportedly in coordination with Washington, while Iran and the US remain divided over whether nuclear issues or the blockade and sanctions come first.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Haaretz (Reuters)",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Qatari Mediators Return to Tehran to Push for U.S.-Iran Deal, Official Says",
+     "url": "https://www.reuters.com/world/middle-east/qatari-mediators-return-tehran-push-us-iran-deal-official-says-2026-10-30/",
+     "published": "2026-10-30T10:02:00Z",
+     "summary": "Reuters reports that a Qatari negotiating team has returned to Tehran to try to broker a deal between Washington and Tehran.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Report: In coordination with US, Qatari mediators return to Tehran in attempt to reach deal",
+     "url": "https://www.ynetnews.com/article/urqeeq7h8",
+     "published": "2026-10-30T06:59:34Z",
+     "summary": "Ynet reports that Qatari mediators are heading back to Tehran in coordination with the US to try to reach an agreement.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Daily Wire",
+     "region": "US",
+     "lang": "en",
+     "headline": "How an Islamic government exploits a loophole to lobby American leadership",
+     "url": "https://www.dailywire.com/news/how-an-islamic-government-exploits-a-loophole-to-lobby-american-leadership?author=Gideon+Askowitz&category=News&elementPosition=undefined&row=0&rowType=Vertical+List&title=How+An+Islamic+Government+Exploits+A+Loophole+To+Lobby+American+Leadership",
+     "published": "2026-10-30T10:04:46Z",
+     "summary": "The piece says QatarEnergy asked US trade groups to petition for tariff exemptions on Qatari urea and ammonia exports without those groups disclosing the Qatari request.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": []
+  },
+  {
+   "id": "2026-10-30-am",
    "runAt": "2026-10-29T21:25:00Z",
    "label": "Thu 29 Oct · Evening",
    "brief": "Israeli outlets focused on suspicions, now under Shin Bet examination, that Qatari and Turkish money was used to boost Arab turnout in the Israeli election, with Qatar flatly denying any role and calling the claims ridiculous and dangerous. Israeli politicians traded accusations over Qatar, while some US outlets repeated the claims as part of election coverage. On energy and diplomacy, QatarEnergy moved to buy more US LNG to hedge against Hormuz disruption, and Qatari mediation with Iran continued to draw reports.",
