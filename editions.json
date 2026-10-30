@@ -1,6 +1,125 @@
 {
  "editions": [
   {
+   "id": "2026-10-30-pm",
+   "runAt": "2026-10-30T21:00:59Z",
+   "label": "Fri 30 Oct · Evening",
+   "brief": "Qatari mediators were back in Tehran trying to head off renewed US strikes on Iran, with coverage focused on a letter from Vice President Vance and fears of action after the US midterms. Israeli outlets devoted most attention to the widening probe into alleged Qatari and Turkish interference in Israel's election, now joined by the Mossad, which Qatar has denied. US outlets framed Qatar mainly as a mediator, while Israeli coverage treated it as a domestic political issue.",
+   "stories": [
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatari Delegation in Tehran for Talks as US Strike Fears Mount",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-30/qatari-delegation-in-tehran-for-talks-as-us-strike-fears-mount",
+     "published": "2026-10-30T13:19:07Z",
+     "summary": "A Qatari delegation led by a senior adviser to the prime minister arrived in Tehran as concern grows that Washington could strike Iran after the US midterms.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Washington Times",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatari diplomats return to Tehran for talks as Iran considers Vance letter",
+     "url": "https://www.washingtontimes.com/news/2026/oct/30/qatari-diplomats-return-tehran-talks-iran-considers-vance-letter/",
+     "published": "2026-10-30T12:44:23Z",
+     "summary": "Qatari diplomats are back in Tehran while Iran weighs a letter from Vice President Vance seeking to restart direct talks.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Financial Times",
+     "region": "UK",
+     "lang": "en",
+     "headline": "Qatari negotiators return to Tehran in last-ditch mediation effort",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZzM5VUhnZWJaM1RSaE5fdXVodWdFalAyZXZ3ZHM3YmFQMU9nU1pSanh5bFlyZDFiTmpZejJSQl9TUFc1NDVCZHN1WEozV29TMkJXM2hqaTVueE1FVV9KQVNtMHpReGFyblRUWTdCeHg5WThyV05wQUtNbDI1MHVDN2VrVVk?oc=5",
+     "published": "2026-10-30T12:14:52Z",
+     "summary": "Qatari negotiators have returned to Tehran in what is described as a final push to avert renewed US-Iran fighting.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Mossad reported to join probe of alleged foreign influence on vote, not just from Qatar",
+     "url": "https://www.timesofisrael.com/mossad-said-to-join-probe-of-alleged-foreign-influence-at-shin-bets-request/",
+     "published": "2026-10-30T15:27:31Z",
+     "summary": "The Mossad is reportedly joining the Shin Bet inquiry into suspected foreign funding aimed at Arab turnout, which reports say extends beyond Qatar to other countries.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Mossad joins Israeli election interference probe, with Qatar and Turkey under scrutiny",
+     "url": "https://www.ynetnews.com/article/hktmu4m6fe",
+     "published": "2026-10-30T15:29:02Z",
+     "summary": "Ynet reports the Mossad has joined the investigation into alleged Qatari and Turkish interference in the Israeli election.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Mossad joins Shin Bet probe into alleged Qatar election interference",
+     "url": "https://www.jpost.com/israel-election-2026/article-913353",
+     "published": "2026-10-30T14:51:53Z",
+     "summary": "The Jerusalem Post reports the Mossad will help the Shin Bet examine whether Qatar funded efforts to raise Arab turnout, while election officials say the results are not in question.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Arab Turnout: Qatari Interference or Homicides?",
+     "url": "https://blogs.timesofisrael.com/arab-turnout-qatari-interference-or-homicides/",
+     "published": "2026-10-30T08:33:00Z",
+     "summary": "A blogger questions whether Arab turnout in the election reflects Qatari interference or anger over violent crime in Arab communities.",
+     "kind": "opinion",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Washington Post (AP)",
+     "region": "Wire",
+     "headline": "Difficult negotiations lie ahead in Israel after Netanyahu's bloc lost its parliamentary majority",
+     "url": "https://apnews.com/article/israel-elections-netanyahu-results-eisenkot-arabs-3a793c0d07fdfe515390524b849d8674",
+     "published": "2026-10-30T20:38:19Z",
+     "context": "Covers the Israeli election result that is the backdrop to the Qatar interference allegations; how it treats Qatar was not confirmed."
+    },
+    {
+     "outlet": "Breitbart",
+     "region": "US",
+     "headline": "Israel Election: Uncertainty ahead as final result confirms no clear winner",
+     "url": "https://www.breitbart.com/news/israel-election-uncertainty-ahead-as-final-result-confirms-no-clear-winner/",
+     "published": "2026-10-30T20:38:11Z",
+     "context": "References Qatar in coverage of the Israeli election aftermath and the foreign influence probe."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
+     "url": "https://www.wsj.com/world/middle-east/oil-prices-rise-after-hormuz-tanker-attack-houthi-claims-stoke-supply-fears-de48df37",
+     "published": "2026-10-30T20:19:00Z",
+     "context": "References Qatar in coverage of Gulf energy supply risks after the Hormuz tanker attacks."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Oil Climbs on Signs US May Resume Military Strikes Against Iran",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30",
+     "published": "2026-10-30T19:36:10Z",
+     "context": "References Qatar in oil market coverage tied to the US-Iran standoff."
+    }
+   ]
+  },
+  {
    "id": "2026-10-30-am",
    "runAt": "2026-10-30T11:03:00Z",
    "label": "Fri 30 Oct · Morning",
