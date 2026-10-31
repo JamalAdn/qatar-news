@@ -1,6 +1,117 @@
 {
  "editions": [
   {
+   "id": "2026-10-31-pm",
+   "runAt": "2026-10-31T20:13:21Z",
+   "label": "Sat 31 Oct · Evening",
+   "brief": "Qatar's mediation between Washington and Tehran dominated coverage as Iranian envoys met Qatari officials in Doha while the US weighed renewed strikes after the 3 November midterms. US outlets stressed the deadline pressure and Trump's options, while Israeli outlets focused on whether a Doha breakthrough was real and on Israel's readiness for another round. Reports on direct US-Iran talks in Qatar were conflicting.",
+   "stories": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
+     "url": "https://www.reuters.com/world/middle-east/iranian-envoys-meet-qatari-mediators-threat-looms-us-strikes-after-midterms-2026-10-31/",
+     "published": "2026-10-31T19:23:18Z",
+     "summary": "Iranian envoys met Qatari mediators in Doha as the US weighs renewed strikes after the midterm elections.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "New York Post",
+     "region": "US",
+     "lang": "en",
+     "headline": "US, Iran race to revive Qatar talks as Trump weighs new strikes after midterms",
+     "url": "https://nypost.com/2026/10/31/world-news/us-delegation-set-to-join-iran-talks-in-qatar/",
+     "published": "2026-10-31T16:59:00Z",
+     "summary": "The US and Iran are racing to revive talks in Qatar while Trump considers fresh strikes once the midterms are over.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Iran negotiators in Doha for Qatar-mediated talks to end US-Iran war, official confirms",
+     "url": "https://www.timesofisrael.com/liveblog_entry/iran-negotiators-in-doha-for-qatar-mediated-talks-to-end-us-iran-war-official-confirms/",
+     "published": "2026-10-31T12:37:57Z",
+     "summary": "Iranian negotiators arrived in Doha for Qatar-mediated talks aimed at ending the US-Iran war, an official confirmed.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Newsmax",
+     "region": "US",
+     "lang": "en",
+     "headline": "Iranian Envoys Meet Qatari Mediators Amid US Strike Threat",
+     "url": "https://www.newsmax.com/world/globaltalk/iran-qatari-mediators/2026/10/31/id/1274671/",
+     "published": "2026-10-31T15:02:41Z",
+     "summary": "Iranian envoys met Qatari mediators as the threat of US strikes persists.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatari mediators push Tehran to take steps towards deal with Washington",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14MXNsT1RIN2JpODJrNTU5WkJLTlVLMTVOMm1XQzhKT1ZicjhNcTlPWWl6aFh0NW5hOV9HZVl5cUpMX3pJbENpSVpuSjUyQ3p5UFJ4TnZHZnU1LUpUVFA3dzZ2aDIwRnVSY1E?oc=5",
+     "published": "2026-10-31T12:44:19Z",
+     "summary": "Qatari mediators are urging Tehran to take concrete steps toward an agreement with Washington.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Axios",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qataris hold marathon talks in Tehran in bid for U.S.-Iran deal before midterms",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMTg1UTZmdFFiVndiNS1OTnU2cUhBSk1lTVJDMWFOTEdKNmhtLV9wc0hJSlBqaEk0d2Z3UTdqQTRpbE1UMjV3WG1kaUE5TEFrOWp2clJGTTBFc2JkN0tXNXR5dnd3RGdjWlNhTkFRRFRwSmo5YW1Val83VWZuN3VYQnUteDFtdw?oc=5",
+     "published": "2026-10-31T01:05:58Z",
+     "summary": "Qatari negotiators held extended talks in Tehran trying to secure a US-Iran deal before the US midterms.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "CNN",
+     "region": "US",
+     "lang": "en",
+     "headline": "Middle East on edge as fears mount the Iran war could restart after the midterms",
+     "url": "https://www.cnn.com/2026/10/31/middleeast/gulf-braces-us-midterms-intl",
+     "published": "2026-10-31T16:44:45Z",
+     "summary": "Gulf states fear the Iran war could restart after the midterms, with Qatar among the mediators trying to prevent it.",
+     "kind": "analysis",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "headline": "Persian Gulf scrambling to prevent Iran war from again hitting its doorstep",
+     "url": "https://www.washingtonpost.com/world/2026/10/31/persian-gulf-scrambling-prevent-iran-war-again-hitting-its-doorstep/",
+     "published": "2026-10-31T19:33:41Z",
+     "context": "Covers Gulf states, including Qatar, scrambling to keep the Iran war from hitting them again."
+    },
+    {
+     "outlet": "New York Post",
+     "region": "US",
+     "headline": "Iran hardliner demands atomic bomb as Khamenei threatens ‘unrestricted’ retaliation against US",
+     "url": "https://nypost.com/2026/10/31/world-news/iranian-lawmaker-renews-call-to-build-atomic-bomb/",
+     "published": "2026-10-31T19:29:28Z",
+     "context": "References Qatar in coverage of Iran's threats of retaliation against the US."
+    },
+    {
+     "outlet": "The New York Times",
+     "region": "US",
+     "headline": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
+     "url": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
+     "published": "2026-10-31T18:15:16Z",
+     "context": "References Qatar in coverage of Iran's outlook for the war and the US and Israeli elections."
+    }
+   ]
+  },
+  {
    "id": "2026-10-31-am",
    "runAt": "2026-10-31T10:40:00Z",
    "label": "Sat 31 Oct · Morning",
