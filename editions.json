@@ -1,6 +1,129 @@
 {
  "editions": [
   {
+   "id": "2026-10-31-am",
+   "runAt": "2026-10-31T10:40:00Z",
+   "label": "Sat 31 Oct · Morning",
+   "brief": "Qatari mediators dominated coverage after more than 12 hours of talks in Tehran, with reports of a breakthrough and a US delegation expected in Doha for direct talks with Iran, even as Washington reportedly warned Gulf states to prepare for possible new strikes after the midterms. Israeli outlets also followed the widening probe into alleged foreign interference in Israel's election, now involving the Mossad. US outlets mostly framed Qatar as a mediator, while Israeli outlets paired that with doubts over the breakthrough claims and the domestic election story.",
+   "stories": [
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "US delegation said to be joining direct talks with Iran in Doha after negotiation breakthrough",
+     "url": "https://www.timesofisrael.com/liveblog_entry/us-delegation-said-to-be-joining-direct-talks-with-iran-in-doha-after-negotiation-breakthrough/",
+     "published": "2026-10-31T07:42:57Z",
+     "summary": "Reports say a US delegation will join direct talks with Iran in Doha after Qatari mediators claimed a breakthrough.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Report: 'Breakthrough' - US delegation to arrive in Doha for direct talks with Iran",
+     "url": "https://www.ynetnews.com/article/qv338jele",
+     "published": "2026-10-31T07:01:44Z",
+     "summary": "Ynet relays a report that a US team will travel to Doha for direct talks with Iranian officials.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Axios",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qataris hold marathon talks in Tehran in bid for U.S.-Iran deal before midterms",
+     "url": "https://www.axios.com/2026/10/31/qatari-mediators-iran-war-deal-before-midterms",
+     "published": "2026-10-31T01:24:40Z",
+     "summary": "Qatari mediators held more than 12 hours of talks in Tehran, aiming to secure a US-Iran deal before the American midterm elections.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatari mediators push Tehran to take steps towards deal with Washington",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-913374",
+     "published": "2026-10-31T06:09:21Z",
+     "summary": "Qatari mediators pressed Iran to take steps toward a deal, including allowing UN inspectors to visit damaged nuclear sites.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Diplomacy or war? Qatar signals Iran breakthrough as US warns Gulf states to prepare for war",
+     "url": "https://www.ynetnews.com/article/s1errwmpgl",
+     "published": "2026-10-31T06:58:06Z",
+     "summary": "Qatar signalled progress with Iran while the US reportedly told Gulf states to prepare for possible renewed fighting.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Conflicting reports: Qatar claimed a 'breakthrough' with Iran; US tells Gulf states to prepare for next week",
+     "original_headline": "דיווחים סותרים: בקטאר טענו ל\"פריצת דרך\" עם איראן; ארה\"ב למפרציות: התכוננו לשבוע הבא",
+     "url": "https://www.ynet.co.il/news/article/r1dlow76me",
+     "published": "2026-10-31T06:30:52Z",
+     "summary": "Hebrew coverage of conflicting accounts: Qatari officials spoke of a breakthrough with Iran while Washington urged Gulf states to prepare for next week.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Breitbart",
+     "region": "US",
+     "lang": "en",
+     "headline": "Iran Welcomes Qatari Mediators to Allegedly Find Resolution to Conflict",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVDVOZWpQWGFCNGR1eG16bHR4dmFLOWxqb29KQkhLTmJsRHd2OHNGTU9qTDAyanA4aVpPaDk5NEg4bGJsNEJRell2OERqaWdmS3dQU3k0clAwVGZXaWNQVWxsZTZvMzRWanVoY3dRN1RFUV91ZGFXYlJuWjA3VzhaV0dQbFRRQlhudHVFV1M2LXd1d3JZTldpQjU4OG93c2ZMbVkwWjNaU0pZaE15SlZLX0sySGI5VXpmTlJNeGR3WGNxenfSAcMBQVVfeXFMTVQ1TmVqUFhhQjRkdXhtemx0eHZhSzlsam9vSkJIS05ibER3djhzRk1PakwwMmpwOGlaT2g5OTRIOGxibDRCUXpZdjhEamlnZkt3UFN5NHJQMFRmV2ljUFVsbGU2bzM0Vmp1aGN3UTdURVFfdWRhV2JSblowN1c4WldHUGxUUUJYbnR1RVdTNi13dXdyWU5XaUI1ODhvd3NmTG1ZMFozWlNKWWhNeUpWS19LMkhiOVV6Zk5STXhkd1hjcXp3?oc=5",
+     "published": "2026-10-30T20:02:45Z",
+     "summary": "Breitbart reports that Iran received Qatari mediators in Tehran, with skeptical framing about what they can achieve.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Haaretz",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Mossad to assist Shin Bet as election interference probe expands beyond Qatar",
+     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPVW9CdzkzZjN4eDBWVWtla2pmZ2lXaC15QzNLUi1wVTJGMmItVmplWlRpTUZOMDMtQmh6TWZFVE5FRDdkTVZTQk1hX0JvdURRVVV1TVQxT29iTDNCX0dCRnRmdGJFM0NzWGRKeU9teDBrcWczVmZXUUwweDFpWU5ydFlnMnZpbTlYdFBybDhwZEZtMHhnbkxLNHEzT3M5M1FlMXNnc2pndTFRMFptV2ZNV1ZZbnM1WEhNS0t2Sy1vLWprS1FYalJLV0dmclFjNWdEc2NFZ08tUUlLcXF4dGZpUUNuajZDakFhNzFHMkc5MURQUk1Eb294cUhxbWVXTnU2WndENWZpVEJoZ1pUUDdCQ2tVNGJBNktHUmVnMw?oc=5",
+     "published": "2026-10-30T22:02:00Z",
+     "summary": "Haaretz reports the Mossad will help the Shin Bet as the inquiry into foreign influence on Israel's election widens beyond Qatar.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "headline": "Persian Gulf scrambling to prevent Iran war from again hitting its doorstep",
+     "url": "https://www.washingtonpost.com/world/2026/10/31/persian-gulf-scrambling-prevent-iran-war-again-hitting-its-doorstep/",
+     "published": "2026-10-31T09:42:18Z",
+     "context": "Covers Gulf states' efforts to keep the Iran war away from their territory, a context in which Qatar is a key mediator."
+    },
+    {
+     "outlet": "The New York Times",
+     "region": "US",
+     "headline": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
+     "url": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
+     "published": "2026-10-31T09:05:41Z",
+     "context": "References Qatar in coverage of the Iran war and diplomacy around the US and Israeli elections."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Egypt fears escalation in Iran war would be more destructive, foreign minister says",
+     "url": "https://www.reuters.com/world/middle-east/egypt-fears-escalation-iran-war-would-be-more-destructive-foreign-minister-says-2026-10-31/",
+     "published": "2026-10-31T08:21:43Z",
+     "context": "References Qatar in coverage of regional diplomacy over the Iran war."
+    }
+   ]
+  },
+  {
    "id": "2026-10-30-pm",
    "runAt": "2026-10-30T21:00:59Z",
    "label": "Fri 30 Oct · Evening",
