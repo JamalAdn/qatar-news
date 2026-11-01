@@ -1,6 +1,51 @@
 {
  "editions": [
   {
+   "id": "2026-11-01-am",
+   "runAt": "2026-11-01T11:35:00Z",
+   "label": "Sun 1 Nov · Morning",
+   "brief": "Coverage centred on a Qatari LNG carrier reportedly struck by unidentified objects in Gulf waters on Friday evening, with no injuries, as Qatar keeps pressing to restart US-Iran negotiations. Reporting on the incident came mainly from Israeli live coverage that tied it to the wider Iran war and Hormuz shipping risks. Most other Qatar mediation and Israeli election-interference stories were already covered in the previous edition.",
+   "stories": [
+    {
+     "outlet": "The Times of Israel (AFP)",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatari gas tanker struck in Gulf on Friday evening, state media says",
+     "url": "https://www.timesofisrael.com/liveblog_entry/qatari-gas-tanker-struck-in-gulf-on-friday-evening-state-media-says/",
+     "published": "2026-11-01T08:02:58Z",
+     "summary": "Qatar's news agency said the LNG carrier Al Mayeda was hit by unidentified objects while transiting Gulf waters, with no crew hurt and the ship still operational.",
+     "kind": "news",
+     "major": true
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The New York Times",
+     "region": "US",
+     "headline": "Where Do Israel's Arab Parties Stand?",
+     "url": "https://www.nytimes.com/2026/11/01/world/middleeast/israel-arab-parties.html",
+     "published": "2026-11-01T10:03:51Z",
+     "context": "References Qatar in coverage of Israel's election and the role of Arab parties."
+    },
+    {
+     "outlet": "JNS",
+     "region": "US",
+     "headline": "Eisenkot sets coalition terms; Netanyahu warns on Arab parties",
+     "url": "https://www.jns.org/news/israel-news/eisenkot-sets-coalition-terms-netanyahu-warns-on-arab",
+     "published": "2026-11-01T10:54:38Z",
+     "context": "References Qatar in coverage of Israel's post-election coalition talks."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-01/pakistan-lng-cargo-attacked-near-hormuz-had-iranian-approval",
+     "published": "2026-11-01T09:23:14Z",
+     "context": "References Qatar in coverage of LNG shipping risks near the Strait of Hormuz."
+    }
+   ]
+  },
+  {
    "id": "2026-10-31-pm",
    "runAt": "2026-10-31T20:13:21Z",
    "label": "Sat 31 Oct · Evening",
