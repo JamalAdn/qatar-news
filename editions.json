@@ -1,6 +1,147 @@
 {
  "editions": [
   {
+   "id": "2026-11-03-am",
+   "runAt": "2026-11-02T23:45:00Z",
+   "label": "Mon 2 Nov · Evening",
+   "brief": "Qatar stayed at the center of US-Iran diplomacy as Iranian negotiators left Doha without a breakthrough and Qatari mediators headed back to Tehran with a draft deal. Trump said there is no rush to resume strikes, while Netanyahu was reported to be pressing for action after the midterms. Israeli outlets also focused on the probe into alleged Qatari funding of Arab turnout in Israel's election, while US outlets concentrated on the talks and the risk of renewed war.",
+   "stories": [
+    {
+     "outlet": "Breitbart",
+     "region": "US",
+     "lang": "en",
+     "headline": "Iran says no breakthroughs in 'very intensive' peace talks with Qatar",
+     "url": "https://www.breitbart.com/middle-east/2026/11/02/iran-says-no-breakthroughs-in-very-intensive-peace-talks-with-qatar/",
+     "published": "2026-11-02T23:25:06Z",
+     "summary": "Iran said the latest round of Qatar-hosted contacts with the US was intense but produced no breakthrough, as Trump weighs renewed strikes.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Iran says contacts over ending war continue after talks finish with no breakthrough",
+     "url": "https://www.reuters.com/world/middle-east/iranians-have-left-doha-talks-draft-proposal-us-deal-being-circulated-official-2026-11-02/",
+     "published": "2026-11-02T21:17:57Z",
+     "summary": "Tehran said exchanges on ending the war with the US continue even though the Doha round ended without a deal.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatari mediators arrive back in Tehran for talks with Iranian negotiators on deal with US",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYkR1OVJVZzc5THgzSmk1RTRMQWcwUmNFaTREMl9mWHBHbjRjS09ud3VpTmI2V0NzU2VSaGhBYUhGQWJMOTl5ay1PallNcTlxR1FyTnE0QU1EOXBzdE1COW5lejVFV0wyYXJKSUtUdDBVMW5WRy1XS1Bmb0lCT3ZvSGtZQ19JYTlENkhhdUNsZUxTbDVTZTRHZ3VPLVB1OHFPeHZCZXRYdG5CamR2U2x2VVpjdkx5UTBLZG83VFRXNGtTc0hZSlJldlhLY0ptV2R2eUxMelU0RDNCMkVR?oc=5",
+     "published": "2026-11-02T20:08:01Z",
+     "summary": "A diplomat said Qatari mediators returned to Tehran to discuss a draft US-Iran agreement with Iranian negotiators.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Reuters: Qatari mediators to discuss draft agreement with Araghchi in Tehran",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPdmJnVlVEdzRzWC0zV29LUHprVzA1dDhVQjJvcXJHN1F4MnFmRElDRmUyQTIwUGRDZm9rYU1SV2pUMUx6eFNXSnNSbGZ3QkJiZFhDQQ?oc=5",
+     "published": "2026-11-02T19:42:52Z",
+     "summary": "Reuters reported Qatari mediators would take the draft deal to Iranian Foreign Minister Araghchi in Tehran.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatari-mediated US-Iran talks end with no breakthrough towards deal",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zZG1Tam11dWtiZE1OZ3IzbTB2eGluTXNucmpwbVNLTWZEM3NNUjRUazZmUDhnM0ZKZEhqV2M1UkRfT2F0dFZ5eURjSUIxd09rWW84OHNJcjlZTVVhdlFKcGNIcEt1ajZEVUE?oc=5",
+     "published": "2026-11-02T13:43:16Z",
+     "summary": "The paper reported that the Qatar-mediated round between Washington and Tehran closed without progress toward an agreement.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "lang": "en",
+     "headline": "Where things stand on Iran after tense weekend as its delegation has left Qatar",
+     "url": "https://www.washingtonpost.com/world/2026/11/02/iran-us-trump-netanyahu-israel-war/3fc55c16-d69b-11f1-930a-e08f8086f5ac_story.html",
+     "published": "2026-11-02T05:47:00Z",
+     "summary": "An explainer on Iran war diplomacy after Iran's delegation left the Qatar talks and Trump and Netanyahu differ on renewed strikes.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Shin Bet, Mossad close to completing probe of alleged Qatari funding for Arab get-out-the-vote effort",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaXJYdXZuQXFqdnJ1OU90MWJIRldVRUJrUDBSZGtaeFRUMkxxS040RE5OOS1vb2VBc3Y4NUs1V2dQeExCS21PVXVjUDcwLUhqNkpsV29fNkh1WENIbWNhSWxLSVd5UVMyZ0VpN3dJNWVacUJzejJncG9XbkFnWFRZaGE0YjYyXzlFVmNKTDlOdEg5TmpmaWpyd21zbmtqUVo5bm1RVWI1ZXh1TGlmdTR1d0w3RW1zRmhqM0wwQm9QQ1NhVVVRNk9iSmJsVU1Ya1NBLUVPU1dTaTNyX082dnc?oc=5",
+     "published": "2026-11-02T19:33:01Z",
+     "summary": "A report said Israeli security agencies are nearing the end of an inquiry into alleged Qatari money meant to boost Arab turnout in the election.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "JNS",
+     "region": "US",
+     "lang": "en",
+     "headline": "Israel investigates suspected Qatari interference in the election",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOUZrT0JjM0dXb29YUmo0VkN5eFZLbUM1UGt3MmgtY3kzM0dVaTNVdElLN1lua0cyWkJWbmJXTVU0anRqVi1vZFRsOTA0YW51QldEYkZuLXVCZkp5R2FNTU1Ielo4VzNOcXdvZE9CS09oZHpTS01fc0lySEN0OGVobExVenNRR1hsTkpaTHFia1NpZnAwbGN1Qy01dzZDMjhORTU0?oc=5",
+     "published": "2026-11-02T09:10:27Z",
+     "summary": "JNS reported Israeli authorities are probing whether Qatar funded efforts to influence Arab voters in the recent election.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "India's Petronet in talks with Qatar for delivery of delayed LNG cargoes",
+     "url": "https://www.reuters.com/business/india-petronet-talks-with-qatar-delivery-delayed-lng-cargoes-2026-11-02/",
+     "published": "2026-11-02T14:51:48Z",
+     "summary": "India's Petronet is negotiating with Qatar over delivery of LNG cargoes that were delayed.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Daily Caller",
+     "region": "US",
+     "headline": "Trump team pitched letting Russian gas flow to Europe again through Ukraine",
+     "url": "https://dailycaller.com/2026/11/02/russian-gas-europe-ukraine-pipelines-steve-witkoff-jared-kushner-richard-goldberg",
+     "published": "2026-11-02T21:38:00Z",
+     "context": "An analyst quoted in the piece says a large share of Qatari gas supply is currently unavailable, limiting the impact on US gas sales to Europe."
+    },
+    {
+     "outlet": "Axios",
+     "region": "US",
+     "headline": "Trump to Axios: \"No rush\" to decide on bombing Iran again",
+     "url": "https://www.axios.com/2026/11/02/trump-axios-interview-no-rush-resume-war",
+     "published": "2026-11-02T21:49:21Z",
+     "context": "References Qatar in coverage of the Iran war and peace talks."
+    },
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "headline": "Trump says he had 'very good talk' with Netanyahu, discussed Iran",
+     "url": "https://www.washingtonpost.com/politics/2026/11/02/trump-says-he-had-very-good-talk-with-netanyahu/",
+     "published": "2026-11-02T22:10:41Z",
+     "context": "References Qatar in coverage of Iran war diplomacy."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Iran's Khamenei gives government powers to hold talks on war",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-02/iran-s-khamenei-gives-government-powers-to-hold-talks-on-war",
+     "published": "2026-11-02T21:48:41Z",
+     "context": "References Qatar in coverage of Iran's peace talks with the US."
+    }
+   ]
+  },
+  {
    "id": "2026-11-02-pm",
    "runAt": "2026-11-02T12:50:00Z",
    "label": "Mon 2 Nov · Afternoon",
