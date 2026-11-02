@@ -1,6 +1,152 @@
 {
  "editions": [
   {
+   "id": "2026-11-02-pm",
+   "runAt": "2026-11-02T12:50:00Z",
+   "label": "Mon 2 Nov · Afternoon",
+   "brief": "Coverage focused on Qatar's role hosting US-Iran talks, as Iran's delegation left Doha and a draft proposal began circulating, while Gulf markets and airlines braced for possible renewed US strikes. US outlets stressed economic and Gulf security fallout, while Israeli outlets leaned on Netanyahu's push for renewed strikes and Iranian hopes of a deal. A Washington Post report also noted alleged Qatari links in Israel's election dispute.",
+   "stories": [
+    {
+     "outlet": "New York Post (Reuters)",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Iranians have left Doha talks, draft proposal for US deal being circulated, official says",
+     "url": "https://nypost.com/2026/11/02/world-news/iranians-have-left-doha-talks-draft-proposal-for-us-deal-being-circulated-official-says/",
+     "published": "2026-11-02T10:41:24Z",
+     "summary": "An official said Iran's negotiators left the Qatar-hosted talks while a draft proposal for a US deal is being passed around.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Associated Press",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Where things stand on Iran after tense weekend as its delegation leaves Qatar",
+     "url": "https://apnews.com/article/iran-us-trump-netanyahu-israel-war-b4519ef86bafe2672e0855d7a48ce309",
+     "published": "2026-11-02T10:38:00Z",
+     "summary": "AP summarizes the state of US-Iran diplomacy after Iran's delegation departed Qatar following a weekend of escalating rhetoric.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Iranian negotiators left Doha talks yesterday, draft proposal is being circulated, official says",
+     "url": "https://www.timesofisrael.com/liveblog_entry/iranian-negotiators-left-doha-talks-yesterday-draft-proposal-is-being-circulated-official-says/",
+     "published": "2026-11-02T09:52:59Z",
+     "summary": "The liveblog relays an official's account that Iran's team left Doha on Sunday and a draft proposal is under discussion.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Iran sees chance of US deal in coming days",
+     "url": "https://www.israelhayom.com/2026/11/02/iran-sees-chance-us-deal-coming-days/",
+     "published": "2026-11-02T09:00:27Z",
+     "summary": "Iranian officials said a deal with the US could come within days as Qatar-hosted contacts continue.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Gulf markets mixed as investors monitor Iran-Qatar talks",
+     "url": "https://www.reuters.com/world/middle-east/gulf-markets-mixed-investors-monitor-iran-qatar-talks-2026-11-02/",
+     "published": "2026-11-02T10:19:04Z",
+     "summary": "Gulf stock markets moved unevenly as investors watched the Iran talks hosted by Qatar.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "JNS",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatar Airways announces emergency drills at Doha airport",
+     "url": "https://www.jns.org/news/world/qatar-airways-announces-emergency-drills-at-doha-airport",
+     "published": "2026-11-02T09:13:21Z",
+     "summary": "Qatar Airways said emergency drills will be held at Doha's airport amid regional tension.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "lang": "en",
+     "headline": "Israeli officials say elections will stand after Netanyahu claimed Arabs stole vote",
+     "url": "https://www.washingtonpost.com/business/2026/11/01/israel-election-arab-parties-qatar-netanyahu/ce8eb23e-d61a-11f1-930a-e08f8086f5ac_story.html",
+     "published": "2026-11-01T23:26:26Z",
+     "summary": "Israeli officials said the election result would stand after Netanyahu's fraud claims, in a story that also touches on alleged Qatari links to Arab parties.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Washington Examiner",
+     "region": "US",
+     "lang": "en",
+     "headline": "Trump's 'Epic Fury 2.0' won't just spike gas prices. It will starve global agriculture",
+     "url": "https://www.washingtonexaminer.com/op-eds/4786089/iran-war-gulf-energy-food-crisis/",
+     "published": "2026-11-02T11:00:00Z",
+     "summary": "The op-ed argues renewed war with Iran would disrupt Gulf energy and fertilizer supplies and hit global food production.",
+     "kind": "opinion",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Trump's Iran threat renews Gulf fears of a war it didn't choose",
+     "url": "https://www.reuters.com/world/middle-east/trumps-iran-threat-renews-gulf-fears-war-it-didnt-choose-2026-11-02/",
+     "published": "2026-11-02T12:33:33Z",
+     "context": "References Gulf states, including Qatar, in coverage of fears over renewed US-Iran fighting."
+    },
+    {
+     "outlet": "The New York Times",
+     "region": "US",
+     "headline": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal",
+     "url": "https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html",
+     "published": "2026-11-02T10:02:16Z",
+     "context": "References Gulf economies, including Qatar, in coverage of the war's economic toll."
+    },
+    {
+     "outlet": "Financial Times",
+     "region": "UK",
+     "headline": "Benjamin Netanyahu presses Donald Trump for renewed strikes against Iran",
+     "url": "https://www.ft.com/content/8505c9d9-bb41-4052-a3dd-874dc9a509b1",
+     "published": "2026-11-02T11:52:50Z",
+     "context": "References Qatar in coverage of Iran diplomacy and Netanyahu's push for new strikes."
+    },
+    {
+     "outlet": "Financial Times",
+     "region": "UK",
+     "headline": "Gulf braced for escalation of war between US-Israel alliance and Iran",
+     "url": "https://www.ft.com/content/47128aed-3173-4751-8006-c2402d9d2e27",
+     "published": "2026-11-02T05:00:27Z",
+     "context": "References Qatar in coverage of Gulf security fears over a renewed Iran war."
+    },
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "headline": "Where things stand on Iran after a tense weekend",
+     "url": "https://www.washingtonpost.com/world/2026/11/02/iran-us-trump-netanyahu-israel-war/3fc55c16-d69b-11f1-930a-e08f8086f5ac_story.html",
+     "published": "2026-11-02T10:32:47Z",
+     "context": "Covers the talks in Doha as Iran's delegation left Qatar after a tense weekend."
+    },
+    {
+     "outlet": "Fox News",
+     "region": "US",
+     "headline": "Trump warns Iran 'the hammer' may be coming as draft US-Iran deal takes shape",
+     "url": "https://www.foxnews.com/live-news/iran-war-news-trump-midterms-peace-deal-israel-november-2",
+     "published": "2026-11-02T04:17:00Z",
+     "context": "References Qatar in live coverage of the US-Iran deal talks."
+    }
+   ]
+  },
+  {
    "id": "2026-11-01-pm",
    "runAt": "2026-11-01T20:50:00Z",
    "label": "Sun 1 Nov · Evening",
