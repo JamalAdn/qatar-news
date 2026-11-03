@@ -1,6 +1,133 @@
 {
  "editions": [
   {
+   "id": "2026-11-04-am",
+   "runAt": "2026-11-03T21:58:00Z",
+   "label": "Tue 3 Nov · Evening",
+   "brief": "Qatar's role as mediator between Washington and Tehran dominated coverage, with Qatari officials saying proposals are under review while reports described the sides as still far apart. Israeli outlets leaned toward reports of a US-approved draft memorandum and warnings that fighting could resume, while US outlets stressed the talks' slow pace and the economic side, including Qatar's LNG and investment deals.",
+   "stories": [
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "US, Iran reviewing proposals to bridge differences and end war, Qatari mediators announce",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vLXVlNk9xaEJWUE90a2NDMVdqeDJOckFXRldxZDhuRFJKNldtamdMNWdYME9iQURvUldIUXM0RnFlWGdWYmNRbUtLSG0yWkEtVWZMX3pTZzZMNjFUUE41Rm1sbTA5aTF3aHc?oc=5",
+     "published": "2026-11-03T10:51:24Z",
+     "summary": "Qatari mediators said Washington and Tehran are studying proposals meant to narrow their gaps and end the war.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Iran and US still far apart on deal to end war as Qatar pushes mediation",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPalRYN3p3UkoxcmdQWFZuQ2xvU1FaZG0yX25XcTJreldvQmIyeDRCdWVKNVliZ1hHaTNweHpmRXpOWUZSVHRLMVdDVmJTOFdOTHRhOGFFS29HYlU1akVQdTFIdGNydjF2WWM3LXZVLUpOam5WeWxFaW0xMWUtRWhhMXdROWlXVFFuZnExdU5RVjlsRE0yMTBxUDh2bkVkeEk0QkwwU1Jxem50WU9yU3hmUHhvSEJyZ251OWM0cEM3dmJ0TzhaNzZrb1FHc3g?oc=5",
+     "published": "2026-11-03T06:58:00Z",
+     "summary": "Reuters reports the two sides remain distant on terms while Doha keeps pressing its mediation effort.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Report: US approved draft memorandum of understanding presented by Qataris to Iran",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JNTJWZ2FmVm9yNmlfU2tqcFN4MlZZRUtlMUxuVTlueXdhX2pPRDNvdjVfOTUwb3NTendrOU9VbWNDRUhWUFljYWhzSnREdUs5Z2FIZw?oc=5",
+     "published": "2026-11-03T13:51:04Z",
+     "summary": "Ynet reports Washington signed off on a draft memorandum that Qatari mediators carried to Tehran.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar says it is still passing ideas between US and Iran, while Tehran reportedly expects return to war",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVWI1Vl93dmxBY2MtbEFoMURKa1EwWS1oS1NBTnE4dWEwUFJxT1plRWI4ajlNYmpaQklKS1dMZjNBQ2dtQmJuQWZNUmdfMHphMlZfMHQ3VlByQnFhTmJjdUlSZjBQekxldUN2UjRyaUVybGpZTGd3bmRIZklidDgyVjNmNDE1MGx1NHRrMnJVUG00cm14MEUzb096QlBCcDFsWTJISWt4SEJTeU91aFBlN0g4Ykg4U0xkekx6S3U4ZUdsM2Vzd1BwRXJlZ1Y5dUNOVUJmU25RcVcyMG5fY3Bj?oc=5",
+     "published": "2026-11-03T11:03:06Z",
+     "summary": "Doha says it continues relaying ideas between the sides even as reports suggest Iran expects fighting to resume.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Breitbart",
+     "region": "US",
+     "lang": "en",
+     "headline": "Iran says no breakthroughs in 'very intensive' peace talks with Qatar",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQem9jbU5RdndpRU55RUxmY3Q1VFk5NHQ0MkZ2MXNETUFPTXlfaDRjZmozNjc0cVNVVUVKTFY0dFlRdm9ma0hTNk9XSHB0d2EyUkhlTTdfLUlDRG9VRDdwcm9aZW1GSl9JMWdPVGN5QXpEV29LRHdoM2kwakJWSFItSEVnYVRsUVlBS3p3WU5kdWJkTHRiZlNNTThhZmV6OHdyWEZaRmhtM29YU0hsNV9fYVltc1JRaXZ40gG-AUFVX3lxTE1CX0VkNVloY0NyRjBaSTcwTHl3OVBvWFlidExVRUhab2JfUVdwTVpYb2NWV2dEdUFmTHZzWTN5ZnRSV00xYnBvQ1RIS25KY3c3Q0hHczRQUnl3WTVSMmdQMW5Cc216QV9ZeVJ0NjhUanU4eHh1a2VNeFpnZXlBSmM2Mkl4X3B4RU4yeHdSdk42Zy1lUzhJdjFEazRGV1NuelpCeE5DZ1hEZl9BQ04zSGg2NDJDanFLVlB2TmRFaVE?oc=5",
+     "published": "2026-11-03T03:19:46Z",
+     "summary": "Breitbart reports Iran describing the talks with Qatari mediators as intensive but without a breakthrough.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "Brookfield and QIA to invest 2.5 billion pounds in Drax data center",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQlNaT04yWEtOQU5KRGNvaXdRTWRHbUlPX1VVdHRiZlJ4TE9lcWtXMmxzaTd2Y2o0c29rUWszN3hERl9NWTBhR2w1NTFpcU10Q2dwSFVhZTdnQ05Uc0NrT01mcVVmZWp0MG0zclBob210OXNHUW52YkdpU21nd0N0Q3d5aDNCVHRULWdrazBkRmlycWdtc3lmeFQ4SWNUZUtzcjVkQTJtZk1mVEdzWHN5Qg?oc=5",
+     "published": "2026-11-03T08:22:42Z",
+     "summary": "Bloomberg reports the Qatar Investment Authority joining Brookfield in a multibillion-pound data center investment tied to Drax.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "India's top gas importer eyes US LNG under long-term deal with Qatar",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcDR6Y3AtYlRDaXB3UGZqWHd4b194NTg5UEhMYS1NYjVUQVktaHBoMW9ENmVFSVRUMmpSR184dC15TkZQRGdFODY5SHU3VkxxdHRDNmRQWkxheUYxMW9abjZGQ2pWbGpBNlpZTGtJTjd6emVHVFlwV1pabzlEa182RjhmamNibVU2OEd1V25YNE1NajhFOTdCSzIzWjhPRXhwZ0Z5OWdfZ2lFa3dYTTcyckFvWnBNTFlWZ3lqcTBuOFVyUQ?oc=5",
+     "published": "2026-11-03T08:51:37Z",
+     "summary": "Reuters reports India's largest gas importer is looking at US LNG supplies alongside its long-term Qatari contract.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Oil Prices Swing as Uncertainty Swirls Over US-Iran Peace Talks",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
+     "published": "2026-11-03T20:15:46Z",
+     "context": "References Qatar in coverage of oil markets and the US-Iran peace talks."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Futures Turn Lower as Market Holds Out Hope for Middle East Diplomacy",
+     "url": "https://www.wsj.com/world/middle-east/oil-prices-rebound-as-u-s-strikes-on-iran-renew-supply-concerns-c662f284",
+     "published": "2026-11-03T20:57:00Z",
+     "context": "References Qatar in coverage of oil prices and Middle East diplomacy."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Opinion | Trump to Mideast: You’re on Your Own",
+     "url": "https://www.wsj.com/opinion/trump-to-mideast-youre-on-your-own-88c935b4",
+     "published": "2026-11-03T19:22:00Z",
+     "context": "References Qatar in an opinion piece on Trump's Middle East policy."
+    },
+    {
+     "outlet": "New York Post",
+     "region": "US",
+     "headline": "Iran slams US response to negotiations, demands America 'fully and explicitly' address its 7 outlandish conditions",
+     "url": "https://nypost.com/2026/11/03/world-news/iran-slams-us-response-to-negotiations-demands-america-fully-and-explicitly-address-its-7-outlandish-conditions/",
+     "published": "2026-11-03T18:59:29Z",
+     "context": "References Qatar in coverage of Iran's response in the negotiations with the US."
+    },
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "headline": "Beijing launches diplomatic flurry amid threat of renewed U.S. war with Iran",
+     "url": "https://www.washingtonpost.com/world/2026/11/02/beijing-launches-diplomatic-flurry-amid-threat-renewed-us-war-with-iran/",
+     "published": "2026-11-03T18:26:50Z",
+     "context": "References Qatar in coverage of diplomacy around a possible renewed US war with Iran."
+    }
+   ]
+  },
+  {
    "id": "2026-11-03-pm",
    "runAt": "2026-11-03T12:20:00Z",
    "label": "Tue 3 Nov · Midday",
