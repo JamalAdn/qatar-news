@@ -1,6 +1,138 @@
 {
  "editions": [
   {
+   "id": "2026-11-03-pm",
+   "runAt": "2026-11-03T12:20:00Z",
+   "label": "Tue 3 Nov · Midday",
+   "brief": "Qatar remained central to efforts to end the US-Iran war, with Doha saying it is still passing proposals between both sides as limited US strikes continued. Gulf states were reported to be bracing for a possible resumption of fighting after the US midterms. Energy coverage focused on Qatar's LNG deals with India and the United States. Israeli outlets stressed the risk of renewed war, while US outlets paired the diplomacy with market and election angles.",
+   "stories": [
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "US, Iran reviewing proposals to bridge differences, end war, Qatar mediators announce",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-913691",
+     "published": "2026-11-03T10:51:24Z",
+     "summary": "Qatari mediators said Washington and Tehran are studying proposals aimed at narrowing gaps and ending the war.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar says it's still passing ideas between US and Iran, while Tehran reportedly expects return to war",
+     "url": "https://www.timesofisrael.com/liveblog_entry/qatar-says-its-still-passing-ideas-between-us-and-iran-while-tehran-reportedly-expects-return-to-war/",
+     "published": "2026-11-03T11:03:06Z",
+     "summary": "Doha said it continues to relay ideas between the two sides even as reports suggest Iran is preparing for renewed fighting.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "US, Iran Weigh Mediators' Proposals Amid Limited Airstrikes",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-03/us-iran-weigh-mediators-proposals-amid-limited-airstrikes",
+     "published": "2026-11-03T08:55:40Z",
+     "summary": "Both governments are considering mediators' proposals as limited US strikes continue in the Gulf area.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The New York Times",
+     "region": "US",
+     "lang": "en",
+     "headline": "As Trump's Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
+     "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
+     "published": "2026-11-03T10:47:17Z",
+     "summary": "Gulf states are preparing for the possibility that the US resumes the war with Iran after the midterm elections.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "India's top gas importer sets eyes on US LNG under long-term deal with Qatar",
+     "url": "https://www.reuters.com/business/energy/indias-top-gas-importer-sets-eyes-us-lng-under-long-term-deal-with-qatar-2026-11-03/",
+     "published": "2026-11-03T08:51:37Z",
+     "summary": "Petronet is looking at sourcing US-origin LNG under its long-term supply agreement with Qatar.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "COMMENTARY: Qatar's US LNG bet signals a new energy order",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVklYbm1HdWRyRXdFc1lQT0h1Vi12N0ZuRldTZjVhN3VVUzUyeFcyeldnZ3djUnpWUU5YU25aRFFMbU1QSTZwQXNXRGxDN0wtV0hGMkF1d21IcDhtWlBPZm92NmFxc1RvVWZoVG9xSlJzSktmalpmaFNkZTFFUDBzREROdEUwNHlmRHowRWs1cnFPWmNYNGNfbHR0cmFhcndkQXBOcnQ5UkdFZzh1RjVqSw?oc=5",
+     "published": "2026-11-03T07:00:00Z",
+     "summary": "A Reuters commentary argues that Qatar's move into US LNG points to a changing global energy landscape.",
+     "kind": "analysis",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "COMMENTARY: Morning Bid: Midterms and mediation",
+     "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-11-03/",
+     "published": "2026-11-03T11:42:28Z",
+     "context": "References Qatar's mediation in a markets briefing on the midterms and US-Iran talks."
+    },
+    {
+     "outlet": "BBC",
+     "region": "UK",
+     "headline": "US strikes Iranian island ahead of midterm elections",
+     "url": "https://www.bbc.com/news/articles/cx240mrm3g8vo",
+     "published": "2026-11-03T11:33:33Z",
+     "context": "References Qatar in coverage of US strikes on Iran and the mediation effort."
+    },
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "headline": "Beijing launches diplomatic flurry amid threat of renewed U.S. war with Iran",
+     "url": "https://www.washingtonpost.com/world/2026/11/02/beijing-launches-diplomatic-flurry-amid-threat-renewed-us-war-with-iran/",
+     "published": "2026-11-03T11:32:43Z",
+     "context": "References Qatar in coverage of diplomacy over a possible renewed US war with Iran."
+    },
+    {
+     "outlet": "The Guardian",
+     "region": "UK",
+     "headline": "Will Trump relaunch his war on Iran after the midterm elections? | Mohamad Bazzi",
+     "url": "https://www.theguardian.com/commentisfree/2026/nov/03/trump-iran-war-after-midterm-elections",
+     "published": "2026-11-03T10:01:00Z",
+     "context": "References Qatar in commentary on whether the US will resume its war on Iran."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Oil Holds Biggest Drop Since July on Optimism Over US-Iran Talks",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
+     "published": "2026-11-03T10:58:19Z",
+     "context": "References Qatar in coverage of oil prices and US-Iran talks."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Prices Rebound as U.S. Strikes on Iran Renew Supply Concerns",
+     "url": "https://www.wsj.com/world/middle-east/oil-prices-rebound-as-u-s-strikes-on-iran-renew-supply-concerns-c662f284",
+     "published": "2026-11-03T08:45:00Z",
+     "context": "References Qatar in coverage of oil prices and renewed US strikes on Iran."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Oman Seeks to Turn Wartime Windfall Into Lasting Economic Gains",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-03/oman-seeks-to-turn-wartime-windfall-into-lasting-economic-gains",
+     "published": "2026-11-03T09:17:29Z",
+     "context": "References Qatar in coverage of Gulf economies during the Iran war."
+    }
+   ]
+  },
+  {
    "id": "2026-11-03-am",
    "runAt": "2026-11-02T23:45:00Z",
    "label": "Mon 2 Nov · Evening",
