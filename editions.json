@@ -1,6 +1,67 @@
 {
  "editions": [
   {
+   "id": "2026-11-05-am",
+   "runAt": "2026-11-04T22:10:00Z",
+   "label": "Wed 4 Nov · Evening",
+   "brief": "Qatar coverage was thinner than earlier in the day, with the main new item a look at how Qatar is set to become the largest buyer of American LNG as its own output recovers from wartime disruption. Wider US and Israeli coverage focused on what the midterm results mean for a possible return to war with Iran, with Qatar appearing mainly as the channel for diplomacy. US conservative and Israeli outlets leaned toward the risk of renewed strikes, while Iranian and UK reporting stressed Tehran's reading of the vote as a rejection of the war.",
+   "stories": [
+    {
+     "outlet": "The Daily Caller",
+     "region": "US",
+     "lang": "en",
+     "headline": "This Country Is Poised To Become America's Biggest Overseas Gas Customer",
+     "url": "https://dailycaller.com/2026/11/04/qatar-lng-american-natural-gas-cheniere-woodside-saad-sherida-al-kaabi-strait-hormuz",
+     "published": "2026-11-04T21:11:00Z",
+     "summary": "Qatar is expected to become the largest foreign buyer of US LNG by 2033 through deals with Cheniere and Woodside and a stake in Golden Pass, after Iranian strikes halted its own production in March.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "BBC",
+     "region": "UK",
+     "headline": "Iran's chief negotiator says Americans voted 'no to war'",
+     "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o",
+     "published": "2026-11-04T16:59:00Z",
+     "context": "References Qatar in coverage of Iran's reaction to the US midterms and the diplomacy to end the war."
+    },
+    {
+     "outlet": "The Guardian",
+     "region": "UK",
+     "headline": "Iran unveils 'We will kill Trump' banner – but US president may now be tempted to resume bombing",
+     "url": "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war",
+     "published": "2026-11-04T13:44:00Z",
+     "context": "References Qatar in coverage of Iran's response to the US midterms and the risk of resumed bombing."
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "headline": "'Trump lost the war and politics': Iran mocks US midterm election defeat",
+     "url": "https://www.ynetnews.com/article/bkxvwtdtfx",
+     "published": "2026-11-04T10:30:18Z",
+     "context": "References Qatar in coverage of Iranian reaction to the US midterm results."
+    },
+    {
+     "outlet": "JNS",
+     "region": "US",
+     "headline": "Israeli experts predict Trump likely to attack Iran before Dems take control of Congress in January",
+     "url": "https://www.jns.org/feature/israeli-experts-predict-trump-likely-to-attack-iran-before-dems-take-control-of-congress-in-january",
+     "published": "2026-11-04T17:07:00Z",
+     "context": "References Qatar in coverage of the prospects for renewed US action against Iran."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "China wants a seat at the Gulf table",
+     "url": "https://www.reuters.com/world/middle-east/china-wants-seat-gulf-table-2026-11-04/",
+     "published": "2026-11-04T10:01:00Z",
+     "context": "References Qatar in coverage of China's growing diplomatic role in the Gulf."
+    }
+   ]
+  },
+  {
    "id": "2026-11-04-pm",
    "runAt": "2026-11-04T12:28:11Z",
    "label": "Wed 4 Nov · Afternoon",
