@@ -1,6 +1,94 @@
 {
  "editions": [
   {
+   "id": "2026-11-04-pm",
+   "runAt": "2026-11-04T12:28:11Z",
+   "label": "Wed 4 Nov · Afternoon",
+   "brief": "Qatar coverage centred on energy and the fallout from the Iran war. QatarEnergy was reported to be moving to become the largest buyer of US LNG, while global gas and oil reporting highlighted how disrupted Gulf supply is shaping markets. Qatar also pulled out of hosting a major rugby finals event, citing the regional crisis. US outlets framed Qatar mostly through markets and the midterm fallout, while Israeli outlets focused on Israel's election and the risk of renewed strikes on Iran.",
+   "stories": [
+    {
+     "outlet": "Financial Times",
+     "region": "UK",
+     "lang": "en",
+     "headline": "Qatar set to become world's biggest buyer of US LNG",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXJsQmJTZklBdVZ1b0lQNU1ZSkJKNkdyT3lTVHVRY0N3SVRSNTViUUxjcFpiaGw5ZVhMWVkwaXczc1JCSXVhV25xT1c4TjZwekJCY2lBTWN2R3pKQldMdEUyNGhVbHI4Wk9RUzhGZnZ3eTdhbVEtd3RSMHhYcXBuNVphTlY?oc=5",
+     "published": "2026-11-04T05:00:36Z",
+     "summary": "QatarEnergy is reported to be on course to become the largest buyer of American liquefied natural gas after back-to-back long-term purchase deals.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Guardian",
+     "region": "UK",
+     "lang": "en",
+     "headline": "Qatar pulls out of hosting 2028 Nations Championship owing to Middle East crisis",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWllBVjk0NzhUN0NLbEZVT2xkanlZZXBkRDA2VWNKY2FxVExwb0YxYjljOVdHMkZVanY0RmtwRWJpMWU1dWlmaGZsT3BkUDRvZmxCanY3YnFTQ3pCU3hObjR4Rmd6Y3psbDJiZkRza0Jkb2tPS2ZFMERnRi12THllQUF6NWdnSDIwLTVPc3BBSmV6Q0J4UGVHNC1YZXpRWk5jZVRUQ0NsdVlsZU90NmhJSzNHVmo1R01nTE9nekNtQ1lTZUpQ?oc=5",
+     "published": "2026-11-04T08:01:00Z",
+     "summary": "Qatar has withdrawn as host of the 2028 rugby Nations Championship finals, citing the security situation in the Middle East.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Iran War Threatens Record Annual Drop in Global LNG Supply, IEA Says",
+     "url": "https://www.wsj.com/business/energy-oil/iran-war-threatens-record-annual-drop-in-global-lng-supply-iea-says-68149f2f",
+     "published": "2026-11-04T12:09:15Z",
+     "context": "References Qatar's role as a major LNG exporter in coverage of the Iran war's effect on global gas supply."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "European Gas Market Braces for Trump's Next Move on Iran After Midterms",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOWpKcGhtMi1pU24zb1Q0OTQ4LUhwbUJvQTdHck5rU1dfN0RYalNTVTBtU3BTS1EtZVVuNkJxcVRzZjBIU2ZBWmlCLW04OHhsZlJnUHNWVXZEelNQaXpyY3JUQ1VqX3FSd1QyM2JsZC1BcWhBWnlEaFJ2STdMajNFUjBtWG1BaXBpUlBCYjJDY3BYanJTVHV5ZTVPdGRIZ2hITFM2U0pzS3M1Q2s1cjE3c1NMQzhpOXdGdGx3NEtNa0E4Ui15Y2c?oc=5",
+     "published": "2026-11-04T07:48:00Z",
+     "context": "References Qatar in coverage of LNG and gas markets as renewed Iran fighting looms."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Oil Edges Higher as Progress on US-Iran Talks Remains Mixed",
+     "url": "https://www.theguardian.com/world/israel",
+     "published": "2026-11-04T11:41:45Z",
+     "context": "References Qatar in coverage of oil markets and the US-Iran talks."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Gulf bourses advance as investors weigh US midterms and Iran standoff",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUV8xbDhnd1V0ZnB1RFl2T2JlRmx2TGg3ZVliNTJJeXZvdFJEME9rb2FpQ2lfN3dheTQ2VEhjeEJXNVFxMk5UMHoxbWVhSWFqbDJtTlJzMlNwOXNtS1FGc1dOazEyZ29tOVZ0cXMtRHRRMGVJMWUwOEJlRm9jNFRRMmNLN0dwcFlkR1p2YnhmT1FoanVqeHMyeld1MlZJZXN4WURscHIyWVNnNmhpOGlJMEJ0SzE1aFk?oc=5",
+     "published": "2026-11-04T08:33:43Z",
+     "context": "References Qatar's market in a Gulf stocks roundup shaped by the US-Iran standoff."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Gulf oil flows dip in October from post-Iran war high, data shows",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNHNPY2VaUDh6Wm5mQi1obXBHZkJBVUVTODF0d1drdkY2XzBlMDZMQ3gxdFQyUnpxR1B0Y2I0QXdiSndDelZ4UUJEY1p6a1hSX0hYWnZQb0Q1aWJvdkFjek44dEliMVlwZHlrc29FYVNmOTlvSjlwS3NSc2FKaWtRQnNjOEtXeUo2RVAxOG1LUWF4UjVIakptR3g5RHhTX3llXzBxaVZMY0JfN1d1?oc=5",
+     "published": "2026-11-03T15:36:00Z",
+     "context": "References Qatar in coverage of Gulf energy flows after the Iran war."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Exclusive | Arab States Must Invest in Productive Sectors After Iran War Exposes Weaknesses, U.N. Official Says",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObzU1a2pOTDl0cHRFUm13a0lDTU9IMGotck5yMWNmdUlmNEl2MTZ6RXpMbmJubjNRRHdlN2lCNE1ieEZ6MVVZNUxPelRfU0V5MGZEZ2hmRXpWX1NHUXYyX05NNDgxanpKcmRWaWpHbWhQd1dIa05VYkptdmsyeXYzb05rdW55dXpiRWpvZVc5YWo3dUdIakh2UlZoZFVkdlJCcDJQMnFXVy1SUlBZVFFjZEVMbi1OWWg2V2xneDk5amZ2NzNkNmZfVHNMNEVhSmFmSmI5cFh1eHZFNnlt?oc=5",
+     "published": "2026-11-03T22:22:01Z",
+     "context": "References Qatar among Gulf states in coverage of the economic fallout of the Iran war."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Opinion | Trump to Mideast: You're on Your Own",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wU3A1VnBWVzFzdnR1c2ZYMU81ajNoMXlkdUwzZDN3Ykllc2FSbXlscDUwYlF2YU1SLW1nalJ3T0x2V2ZkdUQtaUIwOElUWmFueFNzTTZIdUExLUxUX3JWM0J3SzN3T3l5X3Y1aWhpZTdaS1I0TUN1Tk96RQ?oc=5",
+     "published": "2026-11-03T19:23:09Z",
+     "context": "References Gulf states including Qatar in an opinion piece on US policy toward the Middle East."
+    }
+   ]
+  },
+  {
    "id": "2026-11-04-am",
    "runAt": "2026-11-03T21:58:00Z",
    "label": "Tue 3 Nov · Evening",
