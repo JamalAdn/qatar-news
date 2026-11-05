@@ -1,6 +1,87 @@
 {
  "editions": [
   {
+   "id": "2026-11-05-pm",
+   "runAt": "2026-11-05T12:43:00Z",
+   "label": "Thu 5 Nov · Afternoon",
+   "brief": "Qatar coverage centred on a tanker struck by projectiles in Gulf waters north of Qatar, reported by Reuters, AP and Ynet, as Iran war tensions and Hormuz shipping risks continued. Qatar's emir also reshuffled the QatarEnergy board, and Qatar withdrew from hosting the 2028 rugby Nations Championship. US and wire outlets framed events around shipping and energy risk, while the Israeli report was a brief relay of the incident.",
+   "stories": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Tanker struck by two projectiles north of Qatar, crew status unconfirmed, UKMTO says",
+     "url": "https://www.reuters.com/world/middle-east/tanker-struck-by-two-projectiles-north-qatar-crew-status-unconfirmed-ukmto-says-2026-11-05/",
+     "published": "2026-11-05T09:00:34Z",
+     "summary": "The UK maritime monitor reported a tanker hit by two projectiles in waters north of Qatar, with the condition of the crew not yet confirmed.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Washington Post (AP)",
+     "region": "US",
+     "lang": "en",
+     "headline": "Tanker struck by projectiles in the Persian Gulf off Qatar, and other Mideast news",
+     "url": "https://apnews.com/article/mideast-iran-war-hormuz-tankers-a35d13806844d99fda93de0a19de57fa",
+     "published": "2026-11-05T10:49:40Z",
+     "summary": "An AP roundup reports the tanker strike off Qatar alongside other developments in the Iran war and Hormuz shipping.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Report: Tanker hit north of Qatar",
+     "url": "https://www.ynetnews.com/article/pwvmtzgxr",
+     "published": "2026-11-05T09:01:50Z",
+     "summary": "The Israeli outlet relays reports that a tanker was struck north of Qatar in the Gulf.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Qatar emir reshuffles QatarEnergy board, retains chairman and deputy",
+     "url": "https://www.reuters.com/world/middle-east/qatar-emir-reshuffles-qatarenergy-board-retains-chairman-deputy-2026-11-05/",
+     "published": "2026-11-05T09:47:43Z",
+     "summary": "Emir Sheikh Tamim changed the membership of the QatarEnergy board while keeping the chairman and deputy chairman in place.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Guardian",
+     "region": "UK",
+     "lang": "en",
+     "headline": "Qatar pulls out of hosting 2028 Nations Championship owing to Middle East crisis",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWllBVjk0NzhUN0NLbEZVT2xkanlZZXBkRDA2VWNKY2FxVExwb0YxYjljOVdHMkZVanY0RmtwRWJpMWU1dWlmaGZsT3BkUDRvZmxCanY3YnFTQ3pCU3hObjR4Rmd6Y3psbDJiZkRza0Jkb2tPS2ZFMERnRi12THllQUF6NWdnSDIwLTVPc3BBSmV6Q0J4UGVHNC1YZXpRWk5jZVRUQ0NsdVlsZU90NmhJSzNHVmo1R01nTE9nekNtQ1lTZUpQ?oc=5",
+     "published": "2026-11-04T18:23:00Z",
+     "summary": "Qatar withdrew from hosting the 2028 rugby Nations Championship finals, with the regional crisis cited as the reason.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Futures Slump As Iran Peace Efforts Ease Supply Fears",
+     "url": "https://www.wsj.com/world/middle-east/oil-prices-fall-more-than-3-as-iran-peace-talks-ease-supply-fears-e2b47ca0",
+     "published": "2026-11-05T11:50:13Z",
+     "context": "Covers oil prices reacting to Iran peace efforts, a market story tied to Gulf supply including Qatar."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Emirates Airline Profit Falls After Iran War Disrupts Air Traffic",
+     "url": "https://www.wsj.com/business/earnings/emirates-airline-profit-falls-after-iran-war-disrupts-air-traffic-1fb8717a",
+     "published": "2026-11-05T10:20:00Z",
+     "context": "References Gulf aviation disruption from the Iran war, a regional backdrop that also affects Qatar."
+    }
+   ]
+  },
+  {
    "id": "2026-11-05-am",
    "runAt": "2026-11-04T22:10:00Z",
    "label": "Wed 4 Nov · Evening",
