@@ -1,6 +1,132 @@
 {
  "editions": [
   {
+   "id": "2026-11-06-am",
+   "runAt": "2026-11-05T22:13:19Z",
+   "label": "Fri 6 Nov · Morning",
+   "brief": "Qatar's role as go-between for Washington and Tehran dominated coverage, with Iranian officials saying a new nuclear proposal was passed to the US through Doha and Qatar reportedly pushing to avert renewed American strikes. US outlets framed the story around the talks and what they mean after the midterms, while Israeli outlets stressed Iranian conditions and the risk of a return to fighting. Bloomberg also reported Qatar seeking more US LNG to reduce dependence on Gulf shipping.",
+   "stories": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official says",
+     "url": "https://www.reuters.com/world/middle-east/iran-sent-nuclear-proposal-us-via-qatar-senior-iranian-official-tells-reuters-2026-11-05/",
+     "published": "2026-11-05T21:23:10Z",
+     "summary": "A senior Iranian official said Tehran passed a new nuclear proposal to Washington through Qatari mediators.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The New York Times",
+     "region": "US",
+     "lang": "en",
+     "headline": "Iran is reviewing 'concrete proposals' on nuclear program, officials say",
+     "url": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
+     "published": "2026-11-05T16:34:55Z",
+     "summary": "The Times reports Iran is weighing specific proposals on its nuclear program as Qatar-linked peace talks with the US continue.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Official says Iran sent nuclear proposal to the US via Qatar",
+     "url": "https://www.jpost.com/middle-east/article-914025",
+     "published": "2026-11-05T21:59:55Z",
+     "summary": "Citing an Iranian official, the paper reports a nuclear proposal was relayed to the United States through Qatar.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Iran sent nuclear proposal to the US via Qatar, says senior Iranian official",
+     "url": "https://www.timesofisrael.com/liveblog_entry/iran-sent-nuclear-proposal-to-the-us-via-qatar-says-senior-iranian-official/",
+     "published": "2026-11-05T20:34:33Z",
+     "summary": "The liveblog relays the Iranian official's claim that a nuclear proposal reached the US through Qatar.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Iranian official: 'Another proposal on nuclear issue sent to US'",
+     "url": "https://www.ynetnews.com/article/kv4zwinrn",
+     "published": "2026-11-05T20:12:27Z",
+     "summary": "An Iranian official said a further nuclear proposal was sent to the US, with Qatar reported as the channel.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "i24NEWS",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Iran weighs nuclear proposals as Qatar pushes to avert renewed US strikes, report says",
+     "url": "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-iran-weighs-nuclear-proposals-as-qatar-pushes-to-avert-renewed-us-strikes-report",
+     "published": "2026-11-05T20:02:07Z",
+     "summary": "A report says Qatar is pressing both sides to head off renewed American strikes while Iran considers nuclear proposals.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Kan",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Senior Iranian official: we sent the US a nuclear proposal, we will discuss it only after it meets our demands",
+     "original_headline": "בכיר איראני: שלחנו לארה\"ב הצעה בתחום הגרעין, נדון בה רק לאחר שתמלא את דרישותינו",
+     "url": "https://www.kan.org.il/content/kan-news/defense/live-1116171/liveid-1116559/",
+     "published": "2026-11-05T19:49:35Z",
+     "summary": "An Iranian official said a nuclear proposal was sent to Washington and that Tehran will only engage once its demands are met.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Iran's FM discusses 'latest progress' in diplomatic efforts with Saudi, Qatari counterparts",
+     "url": "https://www.timesofisrael.com/liveblog_entry/irans-fm-discusses-latest-progress-in-diplomatic-efforts-with-saudi-qatari-counterparts/",
+     "published": "2026-11-05T13:49:33Z",
+     "summary": "Iran's foreign minister held calls with his Saudi and Qatari counterparts about the latest diplomatic progress.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatar in talks to buy more US LNG, diversify supply outside Persian Gulf",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM1BuTkxCbjcxZkZoY3lEYTQxci1OODRPTWdTME5OclhsTXRlTUNzdFhsTG85Sm1DZzV2bEZhYm1OQ003NEpKVzV0SkVHVUVpdHgwYnQ4ZVZqbjJUZmdMZjVxMW1BQVBFc2ktYkt2Rl9ubW13OERrUUVZX0duVkxwOEtJdlUwOE5xdVZTV3ctSmV4eTlTYlNHeGQ3VTJ2MDFkY3hrQWxjREpnSl9HZ29Hb18yVUdNWTllX3V5WUxxSQ?oc=5",
+     "published": "2026-11-05T16:56:23Z",
+     "summary": "Qatar is negotiating additional purchases of American LNG to reduce its reliance on supply routed through the Gulf.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Politico",
+     "region": "US",
+     "headline": "How to read the Iran war tea leaves",
+     "url": "https://www.politico.com/newsletters/national-security-daily/2026/11/05/how-to-read-the-iran-war-tea-leaves-01",
+     "published": "2026-11-05T21:11:46Z",
+     "context": "References Qatar in coverage of the Iran war and the diplomacy to end it."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil prices pick up as market mulls prospects for Middle East settlement",
+     "url": "https://www.wsj.com/business/energy-oil/oil-prices-stay-below-100-as-traders-weigh-iran-diplomacy-supply-outlook-4e8f12e5",
+     "published": "2026-11-05T20:45:00Z",
+     "context": "References Qatar in coverage of oil markets and Iran diplomacy."
+    }
+   ]
+  },
+  {
    "id": "2026-11-05-pm",
    "runAt": "2026-11-05T12:43:00Z",
    "label": "Thu 5 Nov · Afternoon",
