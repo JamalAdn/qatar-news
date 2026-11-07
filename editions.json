@@ -1,6 +1,69 @@
 {
  "editions": [
   {
+   "id": "2026-11-07-pm",
+   "runAt": "2026-11-07T20:30:00Z",
+   "label": "Sat 7 Nov · Evening",
+   "brief": "Qatar's role as intermediary between Washington and Tehran stayed in focus, with a Gulf official signalling cautious hope on nuclear talks and Trump's call with the emir drawing wire coverage. Energy also featured, as QatarEnergy was reported to be looking at supply from a planned US LNG project. Israeli outlets again relayed the Qatari prime minister's comments on continuing mediation, while US coverage tied Qatar to the broader question of whether a deal or further strikes comes next.",
+   "stories": [
+    {
+     "outlet": "Fox News",
+     "region": "US",
+     "lang": "en",
+     "headline": "Top Gulf official offers glimmer of hope on Trump-Iran nuclear talks as threat of war hangs over region",
+     "url": "https://www.foxnews.com/world/gulf-official-glimmer-hope-trump-iran-nuclear-talks-threat-war-hangs-region",
+     "published": "2026-11-07T09:00:39Z",
+     "summary": "A senior Gulf official offered a measured note of optimism on US-Iran nuclear talks while warning that the threat of war still hangs over the region.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Associated Press",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Trump discusses Middle East de-escalation with Qatar's emir, and other Mideast news",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVGNVdHVJTUFIS05acTREVHdzOENZdk1JVzNPZGlVY1VUb3dPSEF3dDVQelBRaHBXdFZzaU1sNWxXVmNYWXpmUUEwd2FoTmU1RGZsSU1fSTM3RzZSSFVQeWltUjNBdDNvMkVOSXprOU0tWjNWWUtUeVdpRUN4SWMyZXRGb0hqQlNKMVNSSEQ5SXRYdw?oc=5",
+     "published": "2026-11-07T02:47:00Z",
+     "summary": "President Trump spoke with Qatar's emir about easing regional tensions, in a roundup of Middle East developments.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "QatarEnergy eyes NextDecade Train 6 supply in latest US LNG push, sources say",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFpEbmhReUE3aHpIV3JLTG1mN2lqd2kyVmVEREtkNG0xU3dvaDhFb0U4Wmx3V19hSW9ETE84VHgtcFllSTFUTEJKU0g2OWloQ1pSdmhva2lzZGphRVI2SDlRU3VNc2ZTcEpBdVczdmFHd1ZXeGFnRUY3RHN0RkZYVkN6aVVEOUZMLUNDS2ZyOXF5VWhwUUhEazc1c3RnbF9LYlRkYkEzcjdYVWYyV0pUbURJLVFxZGk1WjhHMkdFamdkYjg?oc=5",
+     "published": "2026-11-06T21:20:40Z",
+     "summary": "QatarEnergy is reportedly considering taking supply from a planned sixth liquefaction train at NextDecade's US project, extending its American LNG push.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Qatari prime minister: mediation efforts between the US and Iran continue",
+     "original_headline": "ראש ממשלת קטאר: מאמצי התיווך בין ארה\"ב לאיראן נמשכים",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XTFgxTXJUT1pDUGVMNXpHeENiUjJLaGNveVpqRjFkR2FKYkZOZ3hiSXVqc0QtQm9ZUU9lTW9YWHZZcTBqUDRoNHN6Ql80bjlaQUtwY09YU1N5V2pvcks1RzJQVFd3ZHM?oc=5",
+     "published": "2026-11-07T01:28:15Z",
+     "summary": "Qatar's prime minister said Doha's mediation between Washington and Tehran is continuing.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Breitbart",
+     "region": "US",
+     "headline": "Trump: U.S. Carried Out 'Minor Strikes' on Iran, Destroyed Anti-Aircraft System in 'Minutes'",
+     "url": "https://www.breitbart.com/politics/2026/11/07/trump-u-s-carried-out-minor-strikes-iran-destroyed-anti-aircraft-system-minutes/amp/",
+     "published": "2026-11-07T18:46:42Z",
+     "context": "Notes Trump's call with Qatar's emir and says Qatar insisted its mediation between Washington and Tehran remains active."
+    }
+   ]
+  },
+  {
    "id": "2026-11-07-am",
    "runAt": "2026-11-07T11:20:00Z",
    "label": "Sat 7 Nov · Morning",
