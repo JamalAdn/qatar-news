@@ -1,6 +1,47 @@
 {
  "editions": [
   {
+   "id": "2026-11-08-am",
+   "runAt": "2026-11-08T11:35:00Z",
+   "label": "Sun 8 Nov · Morning",
+   "brief": "Qatar coverage centred on its role as mediator between Washington and Tehran, with the Qatari prime minister saying talks are making progress and a deal is still possible. Israeli outlets also reported on a Qatari effort to advance a multibillion-dollar arrangement that would not require removing uranium from Iran. Coverage was thinner than in recent editions, as most US and Israeli reporting focused on US strikes, the blockade and domestic politics.",
+   "stories": [
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar PM says US-Iran mediation making progress, deal still possible",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vWV9YSkJDZ2NSd0o0anNUZUFicnI2WEI0Ui00NGZPN2VNNkJOTjktMTdqWUVMSDc4M0lRamZ1b1hQeTNkNnBOSU40TFFiT0Y3LXJ5aDdhaFZZUkxK?oc=5",
+     "published": "2026-11-07T12:57:51Z",
+     "summary": "Qatar's prime minister said mediation between the US and Iran is advancing and that an agreement remains achievable.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Maariv",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Without removing the uranium from Iran: the multibillion-dollar deal Qatar is trying to advance",
+     "original_headline": "בלי להוציא את האורניום מאיראן: עסקת המילארדים שקטאר מנסה לקדם",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zZGhCS2V2REJhZnNIU1VFRzczYjVfUVRIQnFKVWd5a0R4QW9FYm5jb0hkRGJyaGxNX3dObXRzZklwbm9VN1NOWktyQ1pvLVo0X1o5RFVCMGM0UGxVVFBneg?oc=5",
+     "published": "2026-11-07T13:37:43Z",
+     "summary": "The report describes a Qatari push for a large financial arrangement with Iran that would leave its enriched uranium in the country.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Gulf markets retreat as traders await Trump's next move on Iran",
+     "url": "https://www.reuters.com/world/middle-east/gulf-markets-retreat-traders-await-trumps-next-move-iran-2026-11-08/",
+     "published": "2026-11-08T08:21:43Z",
+     "context": "References Qatar in coverage of Gulf markets and the Iran war."
+    }
+   ]
+  },
+  {
    "id": "2026-11-07-pm",
    "runAt": "2026-11-07T20:30:00Z",
    "label": "Sat 7 Nov · Evening",
