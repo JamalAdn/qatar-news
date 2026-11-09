@@ -1,6 +1,163 @@
 {
  "editions": [
   {
+   "id": "2026-11-09-pm",
+   "runAt": "2026-11-09T13:30:00Z",
+   "label": "Mon 9 Nov · Afternoon",
+   "brief": "Coverage centred on Trump's planned White House meeting with Qatar's prime minister, as Qatar continues to mediate between the US and Iran with no imminent deal expected. Business outlets also noted QatarEnergy's new African stake. Israeli outlets, including the Times of Israel, also looked at Qatar as a target in Israel's election politics, while US outlets framed it mainly as the Iran talks channel.",
+   "stories": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Trump to meet Iran war mediator Qatar, no imminent deal seen to end the war",
+     "url": "https://www.reuters.com/world/middle-east/trump-meet-iran-war-mediator-qatar-no-imminent-deal-seen-end-war-2026-11-09/",
+     "published": "2026-11-09T11:46:13Z",
+     "summary": "Trump is set to host Qatar's prime minister as Doha continues to mediate between Washington and Tehran, with no imminent deal expected.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles",
+     "url": "https://www.reuters.com/world/middle-east/trump-meet-qatars-prime-minister-iran-diplomacy-faces-hurdles-2026-11-09/",
+     "published": "2026-11-09T01:42:00Z",
+     "summary": "Ahead of the White House meeting, the report outlines obstacles facing Qatar's efforts to broker US-Iran diplomacy.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Axios",
+     "region": "US",
+     "lang": "en",
+     "headline": "Trump to meet Qatari prime minister about mediation efforts with Iran",
+     "url": "https://www.axios.com/2026/11/09/trump-qatar-prime-minister-iran-war-mediation",
+     "published": "2026-11-09T02:52:27Z",
+     "summary": "Axios reports Trump will meet Qatar's prime minister to discuss the Qatari mediation track with Iran.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Newsmax",
+     "region": "US",
+     "lang": "en",
+     "headline": "Trump to Meet Qatar PM as Iran War Peace Efforts Continue",
+     "url": "https://www.newsmax.com/world/globaltalk/trump-iran-qatar/2026/11/09/id/1275602/",
+     "published": "2026-11-09T12:04:56Z",
+     "summary": "Trump is due to meet Qatar's prime minister as efforts to end the Iran war continue.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Rubio defends Trump's decision to go to war with Iran as US president prepares to meet Qatar's PM",
+     "url": "https://www.ynetnews.com/article/skfo42apze",
+     "published": "2026-11-09T03:09:44Z",
+     "summary": "Rubio defended the Iran war while Trump prepared to meet Qatar's prime minister on mediation.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Donald Trump, Qatar PM to meet at White House as Iran negotiations stall",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zVmI3bnJYWlRXN0loeC1hMFpVU1RydlJhY2lKZFlGa2plNUtZUktSVXZxcHFyNGlndkVtMnNTMDVxb3BsRFYxajJjeTlQeFRKY1RRY3RWeURJUXNBY1Vj?oc=5",
+     "published": "2026-11-09T02:12:52Z",
+     "summary": "Trump and Qatar's prime minister are to meet at the White House while Iran negotiations are stalled.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Trump to meet tomorrow at White House with Qatari leader",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbUdvX0Z5SWhPUWdPU1RRTjJUa3lhTWJKb3N0czBiZkYweEF3UXB0MDYtZy1iQzJwNG8yck1VNmh5dUZVQUtFeWVtdXB3cW41N1BGWnJmNlJLVU03UG5aNTFJSHhHSzZVNkY3aG5rd2ZhQXlrVmpaSnAzWlgtZ0N1bFRnOWxfay03MVBQbWhaTmZzbEpyaTN4ZHAzbHE1RlEyVWNUSg?oc=5",
+     "published": "2026-11-09T01:47:52Z",
+     "summary": "Trump is scheduled to meet a Qatari leader at the White House the next day.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "QatarEnergy Adds Chevron Block to Stakes in African Oil Hotspot",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-09/qatarenergy-adds-chevron-block-to-stakes-in-african-oil-hotspot",
+     "published": "2026-11-09T08:39:00Z",
+     "summary": "QatarEnergy is taking a stake in a Chevron block, expanding its oil and gas holdings in Africa.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Sniped at by both sides in election, Qatar remains an elusive target for Israel's leaders",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFBjbUNIMUR0YlNTVXpKLUFiTHRZNnhObkl1aDRtR050b0ZaaTR0YWZ1blBXazRZenVGVEhsY3JTVXZHVWhNajQ4eGRMM2NTZ0huYWhMVzNGT0VyaUYyTE5pMS1qQmhsN1pIUzhPdHZVa25ZOWlZZnpZbVRYTHF4b1I0MjFtd2phYVFkQWZWUDIybThqa1M5NUhhdktxVlBUSzc2LWlLRkhCX0FNaVlPZlduamU2TVM0RWfSAb8BQVVfeXFMT2I0X0xIRkc4aGRvaTB2a3FkSTExVmJObWhDTktNSmV5UjVwM3lXREVoZ08tTVkzdHN3Y1NBODEyekZ2NnJBSEJULXlDcjdjSjA5YlhxVXRsei1ZRFJkT0FlRExGYzVlS0l4dUoyS29wN3liM1FPNHdtTm13TWNKOTZTNkJxaGRBanJRamE0YUs5cnZOaUFwTm1vVHdUMlo3WlRRWDJwYkJEVzV5Z1p5Y05ybS0yRlFXU3p2T2M5UW8?oc=5",
+     "published": "2026-11-09T04:39:41Z",
+     "summary": "The piece examines how Qatar was attacked by politicians across Israel's election campaign yet remains hard for Israeli leaders to confront given its mediator role.",
+     "kind": "analysis",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Mideast Dealmaking Boom Derailed by Iran War Faces Fresh Threat",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-09/uae-saudi-qatar-kuwait-dealmaking-derailed-by-iran-war-faces-fresh-threat",
+     "published": "2026-11-09T10:34:28Z",
+     "context": "Covers Qatar among Gulf states whose dealmaking has been disrupted by the Iran war."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Trump Says Strikes Unlikely as Rubio Slams Iran’s Demands",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-09/trump-says-strikes-unlikely-even-as-rubio-slams-iran-s-demands",
+     "published": "2026-11-09T11:13:40Z",
+     "context": "References Qatar in coverage of the Iran talks and Trump's comments on strikes."
+    },
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "headline": "Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France",
+     "url": "https://www.washingtonpost.com/world/2026/11/09/rubio-trump-g7-france-iran-ukraine/c5d23680-dbfa-11f1-912c-4fbb80d73f7f_story.html",
+     "published": "2026-11-09T11:19:49Z",
+     "context": "References Qatar in coverage of Iran diplomacy ahead of Trump's meeting with Qatar's prime minister."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Slides More Than 3% as Trump Downplays Prospect of New Iran Strikes",
+     "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-staying-below-100-as-trump-plays-down-new-iran-strikes-27dc3911",
+     "published": "2026-11-09T12:30:00Z",
+     "context": "References Qatar in coverage of oil markets reacting to Iran diplomacy."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Futures Sell Off on Middle East Diplomatic Progress",
+     "url": "https://www.wsj.com/business/energy-oil/oil-drops-amid-diplomatic-efforts-to-revive-mideast-peace-talks-964fc4d6",
+     "published": "2026-11-09T11:06:23Z",
+     "context": "References Qatar in coverage of oil markets and Middle East diplomatic efforts."
+    },
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "headline": "Houthi rebels say at least 44 killed in airstrike near Yemeni capital, and other Mideast news",
+     "url": "https://www.washingtonpost.com/national/2026/11/09/iran-us-rubio-yemen-saudi-arabia/064a6aa6-dc2e-11f1-912c-4fbb80d73f7f_story.html",
+     "published": "2026-11-09T11:35:43Z",
+     "context": "References Qatar in a roundup of Iran war and Middle East news."
+    }
+   ]
+  },
+  {
    "id": "2026-11-08-pm",
    "runAt": "2026-11-08T20:45:00Z",
    "label": "Sun 8 Nov · Evening",
