@@ -1,6 +1,240 @@
 {
  "editions": [
   {
+   "id": "2026-11-10-am",
+   "runAt": "2026-11-10T00:24:56Z",
+   "label": "Tue 10 Nov · Morning",
+   "brief": "Qatar dominated coverage as its prime minister met President Trump at the White House on Iran diplomacy. Trump said the war is effectively over and that Qatar and Saudi Arabia want a peaceful outcome, while stressing the US could still strike. US outlets mostly stressed the mediation and prospects for a deal, while Israeli outlets paid more attention to Hormuz and to Qatar's place in Israel's election debate.",
+   "stories": [
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "Trump Sees ‘Momentum’ Toward War’s End After Meeting Qatari PM",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-09/trump-sees-momentum-toward-war-s-end-after-meeting-qatari-pm",
+     "published": "2026-11-09T23:06:02Z",
+     "summary": "Trump said he sees momentum toward ending the Iran war after meeting Qatar's prime minister at the White House.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Washington Post (AP)",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Trump after meeting with Qatari PM says he believes war with Iran is militarily 'effectively over'",
+     "url": "https://apnews.com/article/iran-us-war-trump-qatar-c38770b168faf5e094e96c1e1e212cff",
+     "published": "2026-11-09T22:24:47Z",
+     "summary": "After hosting Qatar's prime minister, Trump said he believes the war with Iran is militarily effectively over.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Newsmax",
+     "region": "US",
+     "lang": "en",
+     "headline": "Trump After Meeting Qatari PM: Iran War 'Effectively Over'",
+     "url": "https://www.newsmax.com/world/globaltalk/iran-us-war-trump-qatar/2026/11/09/id/1275704/",
+     "published": "2026-11-09T23:03:20Z",
+     "summary": "Trump described the Iran war as effectively over following talks with the Qatari prime minister.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Axios",
+     "region": "US",
+     "lang": "en",
+     "headline": "Trump: New Iran attacks \"quite unlikely\"",
+     "url": "https://www.axios.com/2026/11/09/trump-iran-war-qatar-negotiations-attacks-unlikely",
+     "published": "2026-11-09T22:06:37Z",
+     "summary": "Trump said new attacks on Iran are quite unlikely as Qatar-brokered negotiations continue.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Trump tells Reuters that Qatar, Saudi Arabia want peaceful Iran deal, US ready for strikes if needed",
+     "url": "https://www.reuters.com/world/middle-east/trump-says-qatar-saudi-arabia-want-peaceful-solution-iran-us-ready-strikes-if-2026-11-09/",
+     "published": "2026-11-09T20:42:43Z",
+     "summary": "Trump told Reuters that Qatar and Saudi Arabia want a peaceful deal with Iran while the US stays ready to strike if needed.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Newsmax",
+     "region": "US",
+     "lang": "en",
+     "headline": "Trump: Qataris, Saudis Want Iran Deal; US Set for Strikes If Needed",
+     "url": "https://www.newsmax.com/politics/trump-qataris-saudis-want-iran-deal-us-set-for-strikes-if-needed/2026/11/09/id/1275689/",
+     "published": "2026-11-09T20:44:56Z",
+     "summary": "Trump said Qatari and Saudi leaders want an Iran deal, while the US remains prepared for strikes if talks fail.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Trump: Qatar, Saudi Arabia want peaceful Iran solution, but US ready for strikes if needed",
+     "url": "https://www.timesofisrael.com/liveblog_entry/trump-qatar-saudi-arabia-want-peaceful-iran-solution-but-us-ready-for-strikes-if-needed/",
+     "published": "2026-11-09T20:35:06Z",
+     "summary": "Trump said Qatar and Saudi Arabia favor a peaceful solution with Iran but the US is ready to strike if needed.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Donald Trump: Qatar, Saudi Arabia seek peace, US ready to hit Iran",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBweV84Y1A2Z2ZSbmtnbmM2RE1JSXQwdVlFYWpfd0llczRiWnN0c3lKeHdoU0o0QklLRFJWaXlLcXUzMXRZVGtMRTd5WGxwQ0ZYX2pzdDRfc3BtTDlfb2NCb2RFWlV2ZzR2RWc?oc=5",
+     "published": "2026-11-09T20:34:29Z",
+     "summary": "Trump said Qatar and Saudi Arabia seek peace with Iran while the US is prepared to hit it if necessary.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Washington Examiner",
+     "region": "US",
+     "lang": "en",
+     "headline": "Trump meets with Qatar leader but no Iran deal announced",
+     "url": "https://www.washingtonexaminer.com/news/white-house/4797046/trump-qatar-iran-deal-joint-end-the-war-statement-schumer-jeffries/",
+     "published": "2026-11-09T21:05:35Z",
+     "summary": "Trump hosted the Qatari leader at the White House but no Iran deal was announced.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Trump After Meeting With Al-Thani: Qatar Prefers to Maintain Hormuz Blockade",
+     "url": "https://www.ynetnews.com/article/io0feypau",
+     "published": "2026-11-09T21:39:16Z",
+     "summary": "Ynet reported that after meeting Qatar's prime minister Trump said Qatar prefers to maintain the Hormuz blockade.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Fox News",
+     "region": "US",
+     "lang": "en",
+     "headline": "Trump meets key Iran war mediator as UAE reveals major oil export surge despite conflict",
+     "url": "https://www.foxnews.com/world/trump-meets-key-iran-war-mediator-uae-reveals-major-oil-export-surge-despite-conflict",
+     "published": "2026-11-09T18:27:23Z",
+     "summary": "Trump met a key Iran war mediator from Qatar as the UAE reported a surge in oil exports despite the conflict.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Trump, Qatari PM wrap up White House meeting",
+     "url": "https://www.timesofisrael.com/liveblog_entry/trump-qatari-pm-wrap-up-white-house-meeting/",
+     "published": "2026-11-09T18:48:18Z",
+     "summary": "Trump and Qatar's prime minister concluded their White House meeting on Iran diplomacy.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Donald Trump, Qatar PM to meet at White House as Iran negotiations stall",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zVmI3bnJYWlRXN0loeC1hMFpVU1RydlJhY2lKZFlGa2plNUtZUktSVXZxcHFyNGlndkVtMnNTMDVxb3BsRFYxajJjeTlQeFRKY1RRY3RWeURJUXNBY1Vj?oc=5",
+     "published": "2026-11-09T02:12:52Z",
+     "summary": "Trump was set to meet Qatar's prime minister as Iran negotiations stalled.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "New York Post",
+     "region": "US",
+     "lang": "en",
+     "headline": "Trump, Vance set to meet with Iran negotiations mediator in DC",
+     "url": "https://nypost.com/2026/11/09/world-news/trump-vance-set-to-meet-with-iran-negotiations-mediator/",
+     "published": "2026-11-09T16:10:00Z",
+     "summary": "Trump and Vance were set to meet the Qatari mediator in Washington over Iran negotiations.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The New York Times",
+     "region": "US",
+     "lang": "en",
+     "headline": "Lawsuit Accuses Former Trump Campaign Aide of Taking Money From Qatar",
+     "url": "https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html",
+     "published": "2026-11-10T00:08:07Z",
+     "summary": "A lawsuit alleges a former Trump campaign aide took money from Qatar.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Sniped at by both sides in election, Qatar remains an elusive target for Israel’s leaders",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFBjbUNIMUR0YlNTVXpKLUFiTHRZNnhObkl1aDRtR050b0ZaaTR0YWZ1blBXazRZenVGVEhsY3JTVXZHVWhNajQ4eGRMM2NTZ0huYWhMVzNGT0VyaUYyTE5pMS1qQmhsN1pIUzhPdHZVa25ZOWlZZnpZbVRYTHF4b1I0MjFtd2phYVFkQWZWUDIybThqa1M5NUhhdktxVlBUSzc2LWlLRkhCX0FNaVlPZlduamU2TVM0RWfSAb8BQVVfeXFMT2I0X0xIRkc4aGRvaTB2a3FkSTExVmJObWhDTktNSmV5UjVwM3lXREVoZ08tTVkzdHN3Y1NBODEyekZ2NnJBSEJULXlDcjdjSjA5YlhxVXRsei1ZRFJkT0FlRExGYzVlS0l4dUoyS29wN3liM1FPNHdtTm13TWNKOTZTNkJxaGRBanJRamE0YUs5cnZOaUFwTm1vVHdUMlo3WlRRWDJwYkJEVzV5Z1p5Y05ybS0yRlFXU3p2T2M5UW8?oc=5",
+     "published": "2026-11-09T04:39:41Z",
+     "summary": "The analysis examines why Qatar remains a hard target for Israeli leaders even as both camps attacked it during the election campaign.",
+     "kind": "analysis",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Guardian",
+     "region": "UK",
+     "headline": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns",
+     "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
+     "published": "2026-11-09T23:00:00Z",
+     "context": "Covers Trump's remarks that the Iran war is effectively over, following his meeting with Qatar's prime minister."
+    },
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "headline": "Trump says he’s keeping ‘status quo’ with Iran, with no need for new strikes",
+     "url": "https://www.washingtonpost.com/politics/2026/11/09/trump-says-he-sees-no-need-new-military-strikes-against-iran/",
+     "published": "2026-11-09T23:42:29Z",
+     "context": "References Qatar in coverage of Trump's Iran policy and talks."
+    },
+    {
+     "outlet": "The Washington Times",
+     "region": "US",
+     "headline": "Trump, rebuked by voters, weighs post-election options on Iran",
+     "url": "https://www.washingtontimes.com/news/2026/nov/9/trump-rebuked-voters-weighs-post-election-options-iran/",
+     "published": "2026-11-10T00:15:57Z",
+     "context": "References Qatar in coverage of Trump's post-election options on Iran."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Oil Steadies Near Lowest Since August on Optimism Over Iran Deal",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10",
+     "published": "2026-11-09T23:01:44Z",
+     "context": "References Qatar in coverage of oil markets and optimism over an Iran deal."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Saudi Arabia’s Wall Street Hub Becomes a Target of Houthi Strikes",
+     "url": "https://www.bloomberg.com/news/newsletters/2026-11-09/saudi-arabia-s-wall-street-hub-hit-abu-dhabi-s-private-markets-appeal",
+     "published": "2026-11-09T23:54:18Z",
+     "context": "References Qatar in coverage of Gulf security and Houthi strikes on Saudi Arabia."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Iran War Threatens Record Annual Drop in Global LNG Supply, IEA Says",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcXlWSVExOEg2WWUxMi14SlEtNzRUWjVMMUJpWmdKb1ZqRUhfMWQ0ZmNmcXdPSlZuR2dWUVlxZWtINjNsdDRzbUJCdFdTTlppbHZudFRnZHh1SzFMQmNOd180ZmdNXzhGc0FGZF9IYkNTVnJqOVVwZmZsWWxpTVYzeUIzOGZzRVluaUtyR3ZYeE9oUVNMV1RrSmxYcXlYSUd5WkIyb0lROEl0T0J4bjJXNW9Md1VzSkk?oc=5",
+     "published": "2026-11-09T17:49:07Z",
+     "context": "References Qatar in coverage of the Iran war's toll on global LNG supply."
+    }
+   ]
+  },
+  {
    "id": "2026-11-09-pm",
    "runAt": "2026-11-09T13:30:00Z",
    "label": "Mon 9 Nov · Afternoon",
