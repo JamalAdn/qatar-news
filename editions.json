@@ -1,6 +1,114 @@
 {
  "editions": [
   {
+   "id": "2026-11-11-am",
+   "runAt": "2026-11-10T21:58:00Z",
+   "label": "Tue 10 Nov · Evening",
+   "brief": "Coverage centered on Qatar's mediation between Washington and Tehran, with Doha reportedly securing about two weeks of diplomatic room while warning of deep remaining gaps. Israeli outlets also devoted attention to the domestic row over Qatari advisers, with Bennett confronting Netanyahu in the Knesset, and to a lawsuit claim about Qatari money in US politics, which Doha denied. US outlets focused more on the Iran war and oil prices than on the Qatar angle.",
+   "stories": [
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar PM warns of major US-Iran disagreements despite two-week reprieve from possible strike",
+     "url": "https://www.jpost.com/middle-east/article-914504",
+     "published": "2026-11-10T19:57:17Z",
+     "summary": "Qatar's prime minister told G7 ministers that Doha won a roughly two-week window to head off a US attack on Iran, while stressing that large gaps remain between Washington and Tehran.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "i24NEWS",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar secured 'at least two weeks' for diplomacy to avert US strike on Iran",
+     "url": "https://www.i24news.tv/en/news/middle-east/artc-qatar-secured-at-least-two-weeks-for-diplomacy-to-avert-us-strike-on-iran",
+     "published": "2026-11-10T18:48:29Z",
+     "summary": "Qatari mediation reportedly bought at least two weeks of diplomatic space before any possible American military action against Iran.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Trump-supporting influencer accused of accepting gifts linked to Qatar; Doha says claim lacks evidence",
+     "url": "https://www.timesofisrael.com/liveblog_entry/trump-supporting-influencer-accused-of-accepting-gifts-linked-to-qatar-doha-says-false-claim-lacks-evidence/",
+     "published": "2026-11-10T21:25:11Z",
+     "summary": "Doha rejected as false a lawsuit allegation that a Republican strategist took gifts and money tied to Qatari interests, saying no evidence was offered.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Bennett, anti-Netanyahu MKs heckle premier over Qatar ties, October 7 inquiry as he addresses new Knesset",
+     "url": "https://www.timesofisrael.com/liveblog_entry/bennett-anti-netanyahu-mks-heckle-premier-over-qatar-ties-october-7-inquiry-as-he-addresses-new-knesset/",
+     "published": "2026-11-10T16:23:30Z",
+     "summary": "Opposition lawmakers, led by Naftali Bennett, interrupted Netanyahu's Knesset speech to ask about his aides' ties to Qatar.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Netanyahu calls for 'unity,' attacks Arab parties; Bennett: 'What about your Qatari advisers?'",
+     "url": "https://www.ynetnews.com/article/sjfebplczx",
+     "published": "2026-11-10T16:15:18Z",
+     "summary": "Netanyahu urged unity in his opening address to the new Knesset, and Bennett shot back with a question about the Qatari advisers affair.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "i24NEWS",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "WATCH: Bennett interrupts Netanyahu's Knesset toast: 'What about the Qatari advisers?'",
+     "url": "https://www.i24news.tv/en/news/israel/politics/artc-watch-bennett-interrupts-netanyahu-s-knesset-toast-what-about-the-qatari-advisers",
+     "published": "2026-11-10T17:22:00Z",
+     "summary": "Video shows Bennett cutting in on Netanyahu's toast to raise the Qatari advisers issue.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The New York Times",
+     "region": "US",
+     "headline": "No Good Choices on Iran",
+     "url": "https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html",
+     "published": "2026-11-10T20:40:21Z",
+     "context": "References Qatar in coverage of the US debate over Iran policy and the war."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Prices Extend Decline After Trump Signals Restraint on Iran",
+     "url": "https://www.wsj.com/business/energy-oil/oil-prices-extend-decline-after-trump-signals-restraint-on-iran-0441437f",
+     "published": "2026-11-10T20:43:00Z",
+     "context": "References Qatar in coverage of oil markets reacting to Trump's comments on Iran."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Fire contained at Iran's South Pars gas platform, Fars says",
+     "url": "https://www.reuters.com/world/fire-contained-irans-south-pars-gas-platform-fars-says-2026-11-10/",
+     "published": "2026-11-10T20:27:50Z",
+     "context": "References Qatar in coverage of the South Pars gas field, which Iran shares with Qatar."
+    },
+    {
+     "outlet": "Fox News",
+     "region": "US",
+     "headline": "Mojtaba Khamenei aide's chilling '40 years' warning surfaces amid US push for Iran deal",
+     "url": "https://www.foxnews.com/world/mojtaba-khamenei-aide-chilling-40-years-warning-surfaces-us-push-iran-deal",
+     "published": "2026-11-10T21:33:04Z",
+     "context": "References Qatar in coverage of the US push for an Iran deal."
+    }
+   ]
+  },
+  {
    "id": "2026-11-10-pm",
    "runAt": "2026-11-10T12:56:11Z",
    "label": "Tue 10 Nov · Evening",
