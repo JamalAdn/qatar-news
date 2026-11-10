@@ -1,6 +1,122 @@
 {
  "editions": [
   {
+   "id": "2026-11-10-pm",
+   "runAt": "2026-11-10T12:56:11Z",
+   "label": "Tue 10 Nov · Evening",
+   "brief": "Coverage centered on Qatar's mediation role after its prime minister met Trump, with Doha briefing European and Saudi counterparts and saying progress is being made but a deal is not assured. US outlets stressed Trump's signal that new Iran strikes may be unnecessary, while Israeli outlets relayed Qatari remarks on the talks more cautiously. Energy reports noted Qatari LNG loadings recovering to about half of pre-war levels.",
+   "stories": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Qatari PM makes unscheduled stop at G7 to brief Europeans post Trump talks",
+     "url": "https://www.reuters.com/world/qatari-pm-makes-unscheduled-stop-g7-brief-europeans-post-trump-talks-2026-11-10/",
+     "published": "2026-11-10T08:29:08Z",
+     "summary": "Qatar's prime minister made an unscheduled stop at the G7 gathering to brief European officials after his talks with Trump.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "Trump Signals New Iran Strikes Unnecessary After Qatar Meeting",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-10/trump-signals-new-iran-strikes-unnecessary-after-qatar-meeting",
+     "published": "2026-11-10T08:03:39Z",
+     "summary": "Trump suggested further strikes on Iran may not be needed following his meeting with Qatar's prime minister.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar: Progress being made in US-Iran talks, but impossible to know if a deal is at hand",
+     "url": "https://www.timesofisrael.com/liveblog_entry/qatar-progress-being-made-in-us-iran-talks-but-impossible-to-know-if-a-deal-is-at-hand/",
+     "published": "2026-11-10T12:27:53Z",
+     "summary": "Qatar said progress is being made in US-Iran talks but that it is impossible to know whether a deal is close.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar's PM holds talks on Iran with European, Saudi foreign ministers",
+     "url": "https://www.timesofisrael.com/liveblog_entry/qatars-pm-holds-talks-on-iran-with-european-saudi-foreign-ministers/",
+     "published": "2026-11-10T11:09:36Z",
+     "summary": "Qatar's prime minister discussed Iran with European and Saudi foreign ministers.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatari PM After Call With Trump: 'Discussions Around Negotiations Are Positive'",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pdGNzZjhHdnZsQWJUcWUzVlBXemhUeDdROHpiVVNnblZsd2xwX0ZCaUFCREp2eDVRSUNYSTktWC10YUJvZDI4RXRkdU1rTWlxNi1rbg?oc=5",
+     "published": "2026-11-10T04:11:16Z",
+     "summary": "Qatar's prime minister described discussions on negotiations as positive after a call with Trump.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatar LNG Loadings Pick Up to Around Half of Pre-War Levels",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-10/qatar-lng-loadings-pick-up-to-around-half-of-pre-war-levels",
+     "published": "2026-11-10T07:25:00Z",
+     "summary": "Qatari LNG loadings are recovering to roughly half of their levels before the war.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Macron Talks to Gulf Countries About Providing Hormuz Insurance",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-10/macron-talks-to-gulf-countries-about-providing-hormuz-insurance",
+     "published": "2026-11-10T11:52:21Z",
+     "context": "References Gulf states in coverage of French efforts on Hormuz shipping insurance; Qatar was among the Gulf countries Macron toured recently."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Gulf Arab States Signal Military Integration in Wake of Iran War",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-10/gulf-arab-states-approve-joint-forward-command-center-in-kuwait",
+     "published": "2026-11-10T10:14:15Z",
+     "context": "Covers Gulf Arab military integration after the Iran war; Qatar is a Gulf Cooperation Council member."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Gulf Arab states approve military command headquarters in Kuwait",
+     "url": "https://www.reuters.com/world/middle-east/gulf-arab-states-approve-military-command-headquarters-kuwait-2026-11-10/",
+     "published": "2026-11-10T10:31:20Z",
+     "context": "Covers Gulf Arab approval of a military command headquarters in Kuwait, a bloc that includes Qatar."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Oil Extends Drop as Trump Says Further Iran Strikes Unnecessary",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10",
+     "published": "2026-11-10T10:58:02Z",
+     "context": "Oil market coverage of falling prices after Trump said further Iran strikes were unnecessary, following his meeting with Qatar's prime minister."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Breakingviews - COMMENTARY: Oil's peace trade risks a rude awakening",
+     "url": "https://www.reuters.com/commentary/breakingviews/oils-peace-trade-risks-rude-awakening-2026-11-10/",
+     "published": "2026-11-10T12:20:12Z",
+     "context": "References Gulf energy supply in commentary on oil's peace trade."
+    }
+   ]
+  },
+  {
    "id": "2026-11-10-am",
    "runAt": "2026-11-10T00:24:56Z",
    "label": "Tue 10 Nov · Morning",
