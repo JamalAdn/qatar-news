@@ -1,6 +1,122 @@
 {
  "editions": [
   {
+   "id": "2026-11-12-am",
+   "runAt": "2026-11-11T22:58:20Z",
+   "label": "Thu 12 Nov · Morning",
+   "brief": "Qatar coverage centered on the fallout of the war for the emirate: the US pulling its youth team from the U-17 World Cup in Doha over safety concerns, and fresh analysis of Poland's cancelled LNG contract. US outlets also tied Qatar to Vance's effort to open direct talks with Iran. Israeli coverage stayed on Qatar's influence, with Ynet on the lawsuit over Qatar-linked payments and an Israel Hayom opinion piece on Qatari media shaping young Jews.",
+   "stories": [
+    {
+     "outlet": "The New York Times",
+     "region": "US",
+     "lang": "en",
+     "headline": "U.S. Soccer pulls team out of FIFA U-17 World Cup in Qatar due to safety concerns, sources say",
+     "url": "https://www.nytimes.com/athletic/7774109/2026/11/11/us-soccer-withdraw-u17-world-cup-qatar/",
+     "published": "2026-11-11T20:10:49Z",
+     "summary": "Sources say U.S. Soccer has withdrawn its youth team from the tournament in Qatar over security worries tied to the regional conflict.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Guardian",
+     "region": "UK",
+     "lang": "en",
+     "headline": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
+     "url": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
+     "published": "2026-11-11T22:19:00Z",
+     "summary": "The Guardian reports the American withdrawal from the youth World Cup in Qatar, citing the ongoing Middle East conflict.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "lang": "en",
+     "headline": "Poland's Orlen Cancels Qatar LNG Supply Deal After Months of Force Majeure",
+     "url": "https://www.wsj.com/finance/commodities-futures/polands-orlen-cancels-qatar-lng-supply-deal-after-months-of-force-majeure-88f37e7b",
+     "published": "2026-11-11T15:23:00Z",
+     "summary": "Orlen has terminated its supply contract with Qatar after months in which deliveries were disrupted by the war.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatar's Loss of Polish LNG Deal Is a Serious Blow to Expansion Plans",
+     "url": "https://www.bloomberg.com/news/newsletters/2026-11-11/qatar-s-loss-of-polish-lng-deal-is-a-serious-blow-to-expansion-plans",
+     "published": "2026-11-11T12:46:40Z",
+     "summary": "The newsletter argues the lost Polish contract threatens the financing and customer base for Qatar's planned gas expansion.",
+     "kind": "analysis",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Trump social media guru accused of taking $500K in Qatar-linked payments",
+     "url": "https://www.ynetnews.com/article/s166y8g0fx",
+     "published": "2026-11-11T20:44:56Z",
+     "summary": "Ynet covers a lawsuit alleging a Republican strategist received about half a million dollars from Qatar-linked sources.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "'The next generation of Jews is being educated by TikTok and Qatar'",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZFc4NlZ6N1NRSnlvMHBqNl9uSFExaGt3c0pibF9iQkc0Rk1sbTVNbzBPY1FrWmlnUnFZa05leWtqcFdtYTZVMk5INWtUUXhNLTc3d2VhcldrNUttZ0NhWm9rRkFwdEJyMW8wbzRWNXJ6cmhyY2tYMC1NUTVVdHlPZ1pTX3N5SHBXaUdfU3gxcEJhRmdnd0hNQnhEVzJ1Vy15MkFrVHcxOWI?oc=5",
+     "published": "2026-11-11T14:10:06Z",
+     "summary": "A piece argues that Qatar-funded media and social platforms are shaping young Jews' views of Israel.",
+     "kind": "opinion",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Vance Considers Direct Talks With Iran Hard-Liner in Push to End War",
+     "url": "https://www.wsj.com/world/middle-east/vance-considers-direct-talks-with-iran-hardliner-in-push-to-end-war-0c2e3ea4",
+     "published": "2026-11-11T19:25:00Z",
+     "context": "Part of coverage of US-Iran diplomacy, in which Qatar has been the main channel for messages between the sides."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Prices Rebound as Middle East Supply Risks Persist",
+     "url": "https://www.wsj.com/business/energy-oil/oil-prices-rebound-as-middle-east-supply-risks-persist-4e078d4b",
+     "published": "2026-11-11T20:58:00Z",
+     "context": "References Qatar in coverage of Gulf energy supply risks."
+    },
+    {
+     "outlet": "The Daily Caller",
+     "region": "US",
+     "headline": "US And Iran Trade Blows As Trump Claims War Could End Soon",
+     "url": "https://dailycaller.com/2026/11/11/iran-war-rages-on-trump-peace-claims",
+     "published": "2026-11-11T20:35:00Z",
+     "context": "References Qatar in coverage of the Iran war and peace efforts."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Bessent Moved to Military Housing Following Iranian Threats",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-11/bessent-moved-to-military-housing-following-iranian-threats",
+     "published": "2026-11-11T21:09:05Z",
+     "context": "References Qatar in coverage of Iran-linked threats against US officials."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Hormuz traffic is up. So are the attacks",
+     "url": "https://www.reuters.com/world/middle-east/hormuz-traffic-is-up-so-are-attacks-2026-11-11/",
+     "published": "2026-11-11T08:12:00Z",
+     "context": "References Qatar in coverage of Gulf shipping and energy exports through Hormuz."
+    }
+   ]
+  },
+  {
    "id": "2026-11-11-pm",
    "runAt": "2026-11-11T12:05:32Z",
    "label": "Wed 11 Nov · Midday",
