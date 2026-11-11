@@ -1,6 +1,119 @@
 {
  "editions": [
   {
+   "id": "2026-11-11-pm",
+   "runAt": "2026-11-11T12:05:32Z",
+   "label": "Wed 11 Nov · Midday",
+   "brief": "Poland's Orlen ended its long-term LNG contract with QatarEnergy over delivery failures during the Iran war, a clear sign of the conflict's cost to Qatar's gas business. US outlets also followed Trump's meeting with Qatar's prime minister and the push for a short diplomatic window with Iran, plus a lawsuit alleging Qatari-linked money paid to a Republican strategist. Israeli outlets, covered in the previous edition, framed Qatar more as a domestic political issue around Netanyahu's advisers.",
+   "stories": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Poland's Orlen ends long-term QatarEnergy LNG contract over delivery failure",
+     "url": "https://www.reuters.com/business/energy/polands-orlen-ends-long-term-qatarenergy-lng-contract-over-delivery-failure-2026-11-10/",
+     "published": "2026-11-10T22:04:00Z",
+     "summary": "Polish energy group Orlen has terminated its long-term LNG supply agreement with QatarEnergy, citing failure to deliver cargoes.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "Poland's Orlen Terminates LNG Supply Deal with Qatar Amid War",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-10/poland-s-orlen-terminates-lng-supply-deal-with-qatar-amid-war",
+     "published": "2026-11-11T02:32:00Z",
+     "summary": "Orlen has cancelled its LNG supply deal with Qatar as the Iran war disrupts shipments.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Breitbart",
+     "region": "US",
+     "lang": "en",
+     "headline": "Trump Meets with Qatari Mediators as Iran Pushes 'Two-Day Peace Plan'",
+     "url": "https://www.breitbart.com/middle-east/2026/11/10/trump-meets-qatari-mediators-as-iran-pushes-two-day-peace-plan/",
+     "published": "2026-11-11T07:14:59Z",
+     "summary": "Trump met Qatari mediators while Iran floated a short peace proposal, according to the report.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The New York Times",
+     "region": "US",
+     "lang": "en",
+     "headline": "How President Trump's Iran war comments, Qatar meeting impact the FIBA World Cup",
+     "url": "https://www.nytimes.com/athletic/7771507/2026/11/11/fiba-world-cup-qatar-trump-iran-war-safety-concerns/",
+     "published": "2026-11-11T11:33:35Z",
+     "summary": "The piece looks at how Trump's Iran war comments and his meeting with Qatari officials bear on safety concerns around the FIBA World Cup in Qatar.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The New York Times",
+     "region": "US",
+     "lang": "en",
+     "headline": "Lawsuit Says Republican Strategist Alex Bruesewitz Took Money From Qatari Interests",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVWdTdEdjWDMwN2tHMlRzdFV5NXdaYXJENHRDV3RubTEtUzB5TXJMcFcxSjFyRkZKbExvN1ZwM0xCYlp2WThKWVd4SUx3OWtTcl9uTFJGQUJDN20yZVFhLUd1Z1N2dXV5TU40MzUzNTVwVWRNRndCSTVtTndmQ1IzaQ?oc=5",
+     "published": "2026-11-10T15:33:04Z",
+     "summary": "A lawsuit alleges Republican strategist Alex Bruesewitz received money from Qatari interests.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Iran War Threatens Record Annual Drop in Global LNG Supply, IEA Says",
+     "url": "https://www.wsj.com/business/energy-oil/iran-war-threatens-record-annual-drop-in-global-lng-supply-iea-says-68149f2f",
+     "published": "2026-11-11T08:45:52Z",
+     "context": "References Qatar in coverage of the Iran war's effect on global LNG supply."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Adnoc Gas Still Evaluating Options to Bypass Strait of Hormuz",
+     "url": "https://www.wsj.com/business/energy-oil/adnoc-gas-still-evaluating-options-to-bypass-strait-of-hormuz-3f833140",
+     "published": "2026-11-11T11:53:43Z",
+     "context": "References Qatar in coverage of Gulf gas exports and the Strait of Hormuz."
+    },
+    {
+     "outlet": "Axios",
+     "region": "US",
+     "headline": "Trump swung between war and diplomacy, then chose a third way",
+     "url": "https://www.axios.com/2026/11/10/trump-iran-war-diplomacy-economic-crackdown",
+     "published": "2026-11-11T11:29:33Z",
+     "context": "References Qatar in coverage of Trump's Iran strategy."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Gulf equities edge higher on Iran pause hopes, but Hormuz shipping concerns linger",
+     "url": "https://www.reuters.com/world/middle-east/gulf-equities-edge-higher-iran-pause-hopes-hormuz-shipping-concerns-linger-2026-11-11/",
+     "published": "2026-11-11T08:29:43Z",
+     "context": "References Qatar in coverage of Gulf markets and hopes for an Iran pause."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Iran will not allow enriched nuclear material to leave the country, security chief says",
+     "url": "https://www.reuters.com/world/middle-east/iran-will-not-allow-enriched-nuclear-material-leave-country-security-chief-says-2026-11-11/",
+     "published": "2026-11-11T10:36:09Z",
+     "context": "References Qatar in coverage of Iran's nuclear program."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Oil Rises After Two-Day Drop With Focus on US-Iran War Outlook",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-10/latest-oil-market-news-and-analysis-for-nov-11",
+     "published": "2026-11-11T10:25:38Z",
+     "context": "References Qatar in coverage of oil markets and the US-Iran war outlook."
+    }
+   ]
+  },
+  {
    "id": "2026-11-11-am",
    "runAt": "2026-11-10T21:58:00Z",
    "label": "Tue 10 Nov · Evening",
