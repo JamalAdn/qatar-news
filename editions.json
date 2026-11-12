@@ -1,6 +1,102 @@
 {
  "editions": [
   {
+   "id": "2026-11-13-am",
+   "runAt": "2026-11-12T22:25:08Z",
+   "label": "Thu 12 Nov · Night",
+   "brief": "Qatar-centred coverage was light this cycle. Qatar and the UK led a broad international call for Israel to allow more winter aid into Gaza, reported by both Times of Israel and Haaretz, with Israel rejecting the criticism. US and UK outlets focused on Trump telling Vance to step back from Iran talks, with Qatar appearing mainly as a background mediator.",
+   "stories": [
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "UK, Qatar, Jordan lead dozens in demanding Israel allow more winter supplies into Gaza",
+     "url": "https://www.timesofisrael.com/liveblog_entry/uk-qatar-jordan-lead-dozens-in-demanding-israel-allow-more-winter-supplies-into-gaza/",
+     "published": "2026-11-12T22:07:30Z",
+     "summary": "Qatar, the UK and Jordan head a coalition of more than 50 countries urging Israel to let in shelter, fuel, water and health supplies before winter, while Israel rejects the criticism and keeps limits on dual-use items.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Haaretz",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "U.K., Qatar lead 49-country call for Israel to ease restrictions on Gaza aid",
+     "url": "https://www.haaretz.com/gaza/2026-11-12/ty-article/.premium/u-k-qatar-lead-49-country-call-for-israel-to-ease-restrictions-on-gaza-aid/000001a1-d0eb-da30-a7fb-d8ff57c70000",
+     "published": "2026-11-12T20:28:00Z",
+     "summary": "Haaretz reports that a joint statement led by Britain and Qatar presses Israel to ease limits on aid entering Gaza.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "headline": "Trump says no deal needed with Iran, closes down Vance negotiations",
+     "url": "https://www.washingtonpost.com/politics/2026/11/12/trump-shuts-down-vance-iran-negotiating-efforts-says-no-deal-needed/",
+     "published": "2026-11-12T22:04:30Z",
+     "context": "References Qatar in coverage of the Iran war diplomacy and Trump's decision to pull Vance off the talks."
+    },
+    {
+     "outlet": "CNN",
+     "region": "US",
+     "headline": "Trump tells Vance to turn his focus away from Iran: ‘We don’t need a deal’",
+     "url": "https://www.cnn.com/2026/11/12/politics/trump-vance-iran-deal",
+     "published": "2026-11-12T20:01:58Z",
+     "context": "References Qatar in coverage of the Iran war diplomacy and Trump's decision to pull Vance off the talks."
+    },
+    {
+     "outlet": "Financial Times",
+     "region": "UK",
+     "headline": "Donald Trump signals end to vice-president’s Iran peace deal push",
+     "url": "https://www.ft.com/content/3c1727bb-2966-4e5c-808b-873d14854fa2?syn-25a6b1a6=1",
+     "published": "2026-11-12T20:02:34Z",
+     "context": "References Qatar in coverage of the Iran war diplomacy and Trump's decision to pull Vance off the talks."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Trump Says No Need for Iran Deal, Vance Should Focus on US",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-12/trump-says-no-need-for-iran-deal-vance-should-focus-on-us",
+     "published": "2026-11-12T20:49:40Z",
+     "context": "References Qatar in coverage of the Iran war diplomacy and Trump's decision to pull Vance off the talks."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Trump Bets Shaky Iran Status Quo Will Hold After Midterm Loss",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-12/trump-bets-shaky-iran-status-quo-will-hold-after-midterm-loss",
+     "published": "2026-11-12T21:21:11Z",
+     "context": "References Qatar in coverage of the Iran war and the US political outlook after the midterms."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Prices Rebound as Trump Questions Need for Iran Deal",
+     "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-investors-weigh-u-s-iran-diplomacy-296e2847",
+     "published": "2026-11-12T21:01:00Z",
+     "context": "References Qatar in coverage of oil markets and the Iran deal outlook."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Exclusive | Adnoc Gas Still Evaluating Options to Bypass Strait of Hormuz",
+     "url": "https://www.wsj.com/business/energy-oil/adnoc-gas-still-evaluating-options-to-bypass-strait-of-hormuz-3f833140",
+     "published": "2026-11-12T19:23:49Z",
+     "context": "References Qatar in coverage of Gulf gas exports and options to bypass the Strait of Hormuz."
+    },
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "headline": "Australia's soccer friendly against Jordan is moved to Doha over security concerns",
+     "url": "https://apnews.com/article/australia-jordan-match-moved-soccer-1dc816056bbf771dc6073c07121fbd78",
+     "published": "2026-11-12T21:28:49Z",
+     "context": "Reports that the Australia friendly was moved to Doha over security concerns in the region."
+    }
+   ]
+  },
+  {
    "id": "2026-11-12-pm",
    "runAt": "2026-11-12T13:09:23Z",
    "label": "Thu 12 Nov · Evening",
