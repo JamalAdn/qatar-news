@@ -1,6 +1,65 @@
 {
  "editions": [
   {
+   "id": "2026-11-12-pm",
+   "runAt": "2026-11-12T13:09:23Z",
+   "label": "Thu 12 Nov · Evening",
+   "brief": "Qatar coverage was thin this cycle, dominated by further reporting on the US decision to pull its under-17 team from the FIFA World Cup in Qatar over Gulf security fears. Wire and UK outlets framed it as a sign of how the regional conflict is affecting Doha's role as host. Israeli outlets had no new Qatar-focused pieces beyond items already published, while US coverage of Iran diplomacy mentioned Qatar only in passing.",
+   "stories": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "US pulls men's Under-17 team from World Cup in Qatar over safety concerns",
+     "url": "https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/",
+     "published": "2026-11-11T23:25:00Z",
+     "summary": "Reuters reports that US Soccer has withdrawn its boys' under-17 side from the World Cup in Qatar, citing safety concerns linked to the Gulf conflict.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Washington Post (AP)",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "US pulls boys team from FIFA Under-17 World Cup in Qatar citing security in the Gulf",
+     "url": "https://apnews.com/article/fifa-under17-world-cup-us-withdraws-qatar-0ecf7bfb56f987f91718e1ccbd4001e1",
+     "published": "2026-11-12T12:33:55Z",
+     "summary": "The AP report says the US youth team will not travel to the tournament in Qatar because of the security situation in the region.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "BBC",
+     "region": "UK",
+     "lang": "en",
+     "headline": "Under-17 World Cup: USA withdraw from Qatar tournament over safety concerns",
+     "url": "https://www.bbc.com/sport/football/articles/c6y49yz77pppo",
+     "published": "2026-11-12T07:44:21Z",
+     "summary": "The BBC covers the American withdrawal from the youth World Cup hosted in Qatar and the safety worries behind it.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Blackstone and Pimco Target Gulf's Multibillion-Dollar Buildout",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-12/blackstone-pimco-target-gulf-s-multibillion-dollar-buildout",
+     "published": "2026-11-12T11:35:26Z",
+     "context": "Covers investment firms targeting Gulf infrastructure financing, a region that includes Qatar."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Most Gulf markets dip at open on rising Saudi-Houthi tensions",
+     "url": "https://www.reuters.com/world/middle-east/most-gulf-markets-dip-open-rising-saudi-houthi-tensions-2026-11-12/",
+     "published": "2026-11-12T08:45:14Z",
+     "context": "Gulf market report that typically includes Qatar's index amid regional security tensions."
+    }
+   ]
+  },
+  {
    "id": "2026-11-12-am",
    "runAt": "2026-11-11T22:58:20Z",
    "label": "Thu 12 Nov · Morning",
