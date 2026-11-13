@@ -1,6 +1,124 @@
 {
  "editions": [
   {
+   "id": "2026-11-13-pm",
+   "runAt": "2026-11-13T12:33:47Z",
+   "label": "Fri 13 Nov · Midday",
+   "brief": "Qatar coverage centred on the Iran war's effect on events hosted in Qatar, with the US pulling its boys' team from the Under-17 World Cup and Australia's friendly with Jordan being moved to Doha over security concerns. Israeli outlets focused on domestic angles, including the police view on the Qatar funds affair and the reach of Qatari intelligence, while US and UK outlets treated Qatar mainly as a Gulf energy and security actor.",
+   "stories": [
+    {
+     "outlet": "Maariv",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Turning point in the Qatar funds affair: police leaning toward recommending no investigation",
+     "original_headline": "תפנית בפרשת הכספים מקטאר: במשטרה מסתמנת המלצה שלא לפתוח בחקירה",
+     "url": "https://www.maariv.co.il/news/law/article-1387835",
+     "published": "2026-11-13T04:00:00Z",
+     "summary": "Maariv reports that police are leaning toward recommending against opening an investigation in the affair over money from Qatar.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Money, power, espionage: Qatari intelligence has no combat agents or daring operations, but it has dollars, and a lot of them",
+     "original_headline": "כסף, כוח, ריגול: למודיעין הקטארי אין סוכנים לוחמים ומבצעים נועזים, אבל יש לו דולרים. והרבה",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZVlVveEtRZHhucGpNTUczVzg2ZVZSeXNmTTdXOFZpZGlBd1FndGpaaU5naGl1SFdfSm9GT0NodEtXbmFsdWIwM3FyNzlfTlZnQ1lXOG5KLXU1Q1N3eXc?oc=5",
+     "published": "2026-11-12T22:00:00Z",
+     "summary": "The piece examines how Qatar's intelligence service relies on financial resources rather than field operatives to exert influence.",
+     "kind": "analysis",
+     "major": false
+    },
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "lang": "en",
+     "headline": "US pulls boys team from FIFA Under-17 World Cup in Qatar citing security in the Gulf",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcU91SXhOa2NpN3VKajdPb1pKY0NBWnBfNmY5S1k5bWRINE5oRU9oY09mVHdDSEp6M3NrcURXQ1U4R3dTenlVZ2xmVGxFZHl5ekRIQWtlaDVQZG4xNXpTWF9iV005VGlVby1GMWYxWXEteTBqR25BR1pRZjc1N3Mzbi14SWQ2ek5xTlVEQlJqVEhrNDUwVzR6WHVPcTVGTVRqUzVMdGNHS011YW1OMEhpcGNTcDRmWW0zVHVYVWR6dXAyQWJseDk3RGx3YzhELU5GVVhLSFR5Sm9NM0xuQnc?oc=5",
+     "published": "2026-11-12T23:03:57Z",
+     "summary": "The US has withdrawn its boys' team from the Under-17 World Cup due to be held in Qatar, citing security concerns in the Gulf during the Iran war.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Fox News",
+     "region": "US",
+     "lang": "en",
+     "headline": "USA soccer sends emotional letter to players about pulling out of U-17 World Cup in Qatar amid Iran war",
+     "url": "https://www.foxnews.com/outkick-sports/usa-soccer-sends-emotional-letter-players-pulling-u-17-world-cup-qatar-amid-iran-war",
+     "published": "2026-11-12T23:33:38Z",
+     "summary": "US Soccer told its players in a letter why it is pulling out of the Under-17 World Cup in Qatar because of the Iran war.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Guardian",
+     "region": "UK",
+     "lang": "en",
+     "headline": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS2RmZEJIQXhtdUFhMHd6ZFBPemhkdHVJbzNqWGVDa1hvTVpSdmJoLUw4cWpIb2x0OFlVX3VTX2NsRUhSVDNDekdwdXJQMWctbXdWbHFNdWxwQ3hfVkNkcTRsdGpEWEtDN3VsWl9YRHlQbWxndGw5ZThiVV92WWhwOVpjdzhCNHItRUd2NFRQNEJZTFFhb0ltOGl6eFY1U0FzdnNVd21GZHc?oc=5",
+     "published": "2026-11-12T12:38:00Z",
+     "summary": "The Guardian reports the US withdrawal from the Under-17 World Cup in Qatar on safety grounds.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Australia's friendly against Jordan moved to Qatar over security concerns",
+     "url": "https://www.reuters.com/world/middle-east/australias-friendly-against-jordan-moved-qatar-over-security-concerns-2026-11-13/",
+     "published": "2026-11-13T03:11:00Z",
+     "summary": "Australia's friendly against Jordan has been relocated to Qatar because of regional security concerns.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Guardian",
+     "region": "UK",
+     "headline": "Iran says it destroyed US military radar in Bahrain in retaliatory strike",
+     "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+     "published": "2026-11-13T12:07:00Z",
+     "context": "References Qatar in coverage of Iranian strikes and Gulf security."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Futures Slide as Trump Says New Strikes on Iran Unlikely",
+     "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-staying-below-100-as-trump-plays-down-new-iran-strikes-27dc3911",
+     "published": "2026-11-13T12:11:41Z",
+     "context": "References Qatar in coverage of oil markets and the US-Iran standoff."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Global Oil Market Set to Return to Surplus as Gulf Exports Recover, IEA Says",
+     "url": "https://www.wsj.com/business/energy-oil/global-oil-market-set-to-return-to-surplus-as-gulf-exports-recover-iea-says-d535096c",
+     "published": "2026-11-13T09:40:00Z",
+     "context": "References Qatar in coverage of Gulf oil and gas exports recovering."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Oil-Hungry Asia Turns Back to Mideast in Earnest as Flows Expand",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-13/oil-hungry-asia-turns-back-to-mideast-in-earnest-as-flows-expand",
+     "published": "2026-11-13T05:07:00Z",
+     "context": "References Qatar in coverage of Gulf energy flows to Asia."
+    },
+    {
+     "outlet": "Financial Times",
+     "region": "UK",
+     "headline": "How Israel lost America",
+     "url": "https://www.ft.com/content/33b33399-fc3a-4a79-9da3-313a320e3335?syn-25a6b1a6=1",
+     "published": "2026-11-13T05:01:16Z",
+     "context": "References Qatar in an analysis of Israel's standing in US politics."
+    }
+   ]
+  },
+  {
    "id": "2026-11-13-am",
    "runAt": "2026-11-12T22:25:08Z",
    "label": "Thu 12 Nov · Night",
