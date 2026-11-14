@@ -2,18 +2,18 @@
  "editions": [
   {
    "id": "2026-11-14-am",
-   "runAt": "2026-11-13T22:15:00Z",
-   "label": "Fri 13 Nov · Evening",
-   "brief": "Qatar coverage centred on the new Turkey-Qatar mutual defence agreement, signed as the two leaders discussed Iran and Gaza. Israeli outlets paired it with Turkish and Qatari accusations that Israel is violating the Gaza peace plan, a Cairo meeting of mediator intelligence chiefs and the Qatar-Gate probe, while US and wire coverage was mostly a short factual report. Energy news included estimates of Orlen's savings from dropping its Qatari LNG contract.",
+   "runAt": "2026-11-14T11:50:00Z",
+   "label": "Sat 14 Nov · Morning",
+   "brief": "Qatar's new mutual defence pact with Turkey dominated coverage, with Israeli outlets stressing the accompanying criticism of Israel over Gaza. Reporting also followed Qatari mediation in the stalled US-Iran talks and worries that Israel could derail them, plus Poland's Orlen cancelling a QatarEnergy LNG contract. US outlets focused on Trump's Iran strategy and Gulf scrutiny after the midterms, while Israeli outlets kept up the Qatar-Gate probe.",
    "stories": [
     {
      "outlet": "Reuters",
      "region": "Wire",
      "lang": "en",
      "headline": "Turkey, Qatar sign mutual defence agreement, pledge unified stance against attack",
-     "url": "https://www.reuters.com/world/middle-east/turkey-qatar-sign-mutual-defence-agreement-turkish-presidency-says-2026-11-13/",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGE3d2YwNy1ONlliXzNCVDNiZU01WlB3YUdPMEZwOHJpNS1UWEtvZ3hhM1hWOGN2REsxbEw1SzNERlk3eTVfUTdlOEFJYVAwNXVjT25jczJDRE9iTE5DYjlxNnQ3UlJRVDlRdU1UeHhNZ1NUWnBVU2w2TjZLWTg5emhUZ2RVVXowVWZuMnBiTlhtWlhxUDkxODkzNVlfeGlGbVlYV0todlRQc1JZSXIyVXpsVU1WRDFFU2QxTA?oc=5",
      "published": "2026-11-13T18:58:37Z",
-     "summary": "Turkey and Qatar signed a mutual defence agreement, with the Turkish presidency saying the two will stand together if either is attacked.",
+     "summary": "Turkey and Qatar formalised a mutual defence pact committing both to a unified position against an armed attack on either country.",
      "kind": "news",
      "major": true
     },
@@ -23,8 +23,8 @@
      "lang": "en",
      "headline": "Turkey and Qatar sign defense agreement as Erdogan, Al Thani discuss Iran and Gaza",
      "url": "https://www.timesofisrael.com/3933670-2/",
-     "published": "2026-11-13T20:47:54Z",
-     "summary": "The pact was signed as Erdogan and the Qatari emir discussed Iran and Gaza.",
+     "published": "2026-11-13T20:34:00Z",
+     "summary": "Erdogan and Emir Tamim signed a defence agreement in Istanbul and discussed Iran and Gaza.",
      "kind": "news",
      "major": true
     },
@@ -33,33 +33,11 @@
      "region": "Israel",
      "lang": "en",
      "headline": "Turkey, Qatar sign defense agreement, accuse Israel of violating Gaza peace plan",
-     "url": "https://www.jpost.com/middle-east/article-914824",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80dFZza1laTTNNNWppMXhhbFZiXzFFWmt4S3I4OWd4RHA4aWtIZ29vX3lsMThhUUlaYnIwQjJ3ampOY0VHYWY4OVBTVzVOTWpDTkItWEtoNFI3VFlH?oc=5",
      "published": "2026-11-13T19:15:46Z",
-     "summary": "The two countries signed the defense deal and accused Israel of breaching the Gaza peace plan.",
+     "summary": "The new Turkey-Qatar defence pact came with joint accusations that Israel is violating the Gaza peace plan.",
      "kind": "news",
-     "major": false
-    },
-    {
-     "outlet": "JNS",
-     "region": "Israel",
-     "lang": "en",
-     "headline": "Qatar, Turkey ink mutual defense pact",
-     "url": "https://www.jns.org/news/world/qatar-turkey-ink-mutual-defense-pact",
-     "published": "2026-11-13T18:34:32Z",
-     "summary": "JNS reports the signing of the Qatar-Turkey mutual defense pact.",
-     "kind": "news",
-     "major": false
-    },
-    {
-     "outlet": "Ynet / Yedioth",
-     "region": "Israel",
-     "lang": "en",
-     "headline": "Turkey and Qatar on signing agreement: 'We will cooperate on security issues'",
-     "url": "https://www.ynetnews.com/article/8jz1el7le",
-     "published": "2026-11-13T19:01:38Z",
-     "summary": "Turkish and Qatari officials said the agreement means closer cooperation on security issues.",
-     "kind": "news",
-     "major": false
+     "major": true
     },
     {
      "outlet": "Breitbart",
@@ -67,19 +45,52 @@
      "lang": "en",
      "headline": "Turkey, Qatar sign mutual defence agreement",
      "url": "https://www.breitbart.com/news/turkey-qatar-sign-mutual-defence-agreement/",
-     "published": "2026-11-13T20:34:38Z",
-     "summary": "Breitbart carries the wire report on the Turkey-Qatar mutual defence agreement.",
+     "published": "2026-11-14T04:30:29Z",
+     "summary": "The pact follows talks in Istanbul and joins other recent regional defence arrangements during the Iran war.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "JNS",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatar, Turkey ink mutual-defense pact",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSbWRmc3pYRzN0UUkwYXdGdHVJa1VuUjlRV3RRMTMtQ3lpaTB5RGs5U1JLdHpSNUxuU0ZIMUtlSmVsSThnOW44T1RBZVhPSzR5M2x3c0tvTUpJaFlBS2FHSzNvZFNBdVM0ZlFxVVBiR25ZWi0tX3c?oc=5",
+     "published": "2026-11-13T18:34:32Z",
+     "summary": "Qatar and Turkey signed a mutual defence pact.",
      "kind": "news",
      "major": false
     },
     {
-     "outlet": "Ynet / Yedioth",
+     "outlet": "Ynet",
      "region": "Israel",
      "lang": "en",
-     "headline": "Report: Intelligence chiefs of Egypt, Turkey and Qatar met in Cairo to discuss situation in Gaza",
-     "url": "https://www.ynetnews.com/article/11jxri46r",
-     "published": "2026-11-13T19:27:06Z",
-     "summary": "A report says the intelligence heads of Egypt, Turkey and Qatar met in Cairo on the situation in Gaza.",
+     "headline": "Turkey and Qatar on signing agreement: 'We will cooperate on security issues'",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54dmNwWlhKakRNOFktck0xcXBpSmZzaF9TR2dnYzE0bnBmNF9iSnVtZnVEaGI3emRHV0R0djBYM0w0dVoyRC02cXFpam5CLUNyQWExeg?oc=5",
+     "published": "2026-11-13T19:01:38Z",
+     "summary": "Officials said the two countries will cooperate on security issues under the new agreement.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Negotiators from US, Iran and Qatar fear Netanyahu could torpedo talks to end the war",
+     "url": "https://www.timesofisrael.com/negotiators-from-us-iran-and-qatar-fear-netanyahu-could-torpedo-talks-to-end-the-war/",
+     "published": "2026-11-13T23:03:37Z",
+     "summary": "Negotiators, including Qatari mediators, worry Israel's prime minister could derail stalled talks by pushing to resume fighting, while Trump has reportedly sidelined Vance.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "lang": "en",
+     "headline": "Middle East monarchies brace for Trump corruption scrutiny after blue wave",
+     "url": "https://www.washingtonpost.com/world/2026/11/14/middle-east-monarchies-brace-trump-corruption-scrutiny/",
+     "published": "2026-11-14T11:32:14Z",
+     "summary": "Gulf monarchies, Qatar among them, are preparing for closer congressional scrutiny of Trump's dealings after the Democratic midterm gains.",
      "kind": "news",
      "major": false
     },
@@ -88,31 +99,43 @@
      "region": "Wire",
      "lang": "en",
      "headline": "Dropping Qatar LNG deal seen saving Poland's Orlen up to $2 billion",
-     "url": "https://www.reuters.com/business/energy/dropping-qatar-lng-deal-seen-saving-polands-orlen-up-2-billion-2026-11-13/",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb1VDUEhWSkFqTWNNdGpGWE53QkxKMVJkUF9EcXlTZlE1TVN5cEo5djllWXNPMEU4UUMwdmdGdWUwY2lRLXhNN2pRTFlib3lDRmJIZDJrazlHTlA4bUVIY1N5LWZrcUhSMXZVcURBUEFHNHZxeXR2OHlqcXAwZ1FEa2ZsdUE2NTE1YzVjOTVaYTRzeEEyMnk0a295ek1OaVlnX3RZNFY4dHBFdWMzbE9KZ3JLVWM?oc=5",
      "published": "2026-11-13T17:11:43Z",
-     "summary": "Analysts estimate Orlen's exit from its Qatari LNG contract could save the company up to $2 billion.",
+     "summary": "Analysts see Orlen's cancellation of a long-term QatarEnergy LNG contract as a potential cost saving for the Polish company.",
      "kind": "news",
      "major": false
     },
     {
-     "outlet": "Ynet / Yedioth",
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Report: Intelligence chiefs of Egypt, Turkey and Qatar met in Cairo to discuss situation in Gaza",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RNVU5RVVndzhGRlh1VlNSN0NNbHoxdnRrbEdzMTVlYV9KSUtNQ2k4S0QzcnIyOEtZNk8tODI2NEJLNlhjQ01tOG5ycm1rTFVpNjNRTA?oc=5",
+     "published": "2026-11-13T19:27:06Z",
+     "summary": "A report says intelligence chiefs from Egypt, Turkey and Qatar met in Cairo to discuss Gaza.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
      "region": "Israel",
      "lang": "en",
      "headline": "Shin Bet delays transfer of key opinion to prosecution in Qatar-Gate case",
-     "url": "https://www.ynetnews.com/article/zyr1dxkp0",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OaHhRYi1NUVI2bkJKdU9QQXE0amRRUXd3VG9FdlpTSk45VWIyaW5DZ1RKeFh0eXdMMDNVeWR6ZEZvd3lPc3JzNGxzVHoyVVluUzlLaQ?oc=5",
      "published": "2026-11-13T18:07:33Z",
-     "summary": "The Shin Bet has postponed handing a key opinion to prosecutors in the Qatar-Gate affair.",
+     "summary": "The Shin Bet is holding back a key opinion needed by prosecutors in the Qatar-Gate affair involving Netanyahu aides.",
      "kind": "news",
      "major": false
     },
     {
-     "outlet": "The Times of Israel",
+     "outlet": "Ynet",
      "region": "Israel",
-     "lang": "en",
-     "headline": "Dozens of nations, organizations demand Israel let more winter supplies into Gaza",
-     "url": "https://www.timesofisrael.com/dozens-of-nations-organizations-demand-israel-let-more-winter-supplies-into-gaza/",
-     "published": "2026-11-13T14:25:57Z",
-     "summary": "A joint statement led by the UK, Qatar and Jordan urges Israel to allow more winter supplies into Gaza.",
+     "lang": "he",
+     "headline": "Trump considering leaving Iran talks over the Strait of Hormuz to Gulf states",
+     "original_headline": "\"טראמפ שוקל להשאיר למדינות המפרץ את המו\"מ עם איראן על מצר הורמוז\"",
+     "url": "https://www.ynet.co.il/news/article/ry116kkrage",
+     "published": "2026-11-14T07:12:05Z",
+     "summary": "A report says Trump is weighing handing the Hormuz negotiations with Iran to Gulf states.",
      "kind": "news",
      "major": false
     }
@@ -123,32 +146,24 @@
      "region": "US",
      "headline": "Trump touts Iran victory by 'status quo' economic pressure",
      "url": "https://www.washingtonpost.com/national-security/2026/11/13/trump-touts-iran-victory-by-status-quo-economic-pressure/",
-     "published": "2026-11-13T20:50:50Z",
-     "context": "References Qatar in coverage of the US-Iran war and Gulf diplomacy."
+     "published": "2026-11-14T04:43:41Z",
+     "context": "References Qatar in coverage of the Iran war and stalled negotiations."
+    },
+    {
+     "outlet": "The Washington Post (via Ynetnews)",
+     "region": "US",
+     "headline": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead",
+     "url": "https://www.ynetnews.com/article/sk11mdobcmg",
+     "published": "2026-11-14T06:14:29Z",
+     "context": "References Qatar in coverage of Trump's Iran policy after the midterms."
     },
     {
      "outlet": "Associated Press",
      "region": "Wire",
-     "headline": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain",
-     "url": "https://apnews.com/article/iran-us-bahrain-radar-strait-hormuz-5d73a23b5b8647d2515c35b267b36c08",
-     "published": "2026-11-13T19:30:00Z",
-     "context": "References Qatar in coverage of Iranian attacks on US sites in the Gulf."
-    },
-    {
-     "outlet": "Axios",
-     "region": "US",
-     "headline": "Scoop: Israeli spy chief in D.C. as Netanyahu presses Trump to resume war",
-     "url": "https://www.axios.com/2026/11/13/mossad-israel-iran-war-netanyahu-pressures-trump",
-     "published": "2026-11-13T19:10:26Z",
-     "context": "References Qatar in coverage of Israeli pressure to resume the Iran war."
-    },
-    {
-     "outlet": "The Washington Times",
-     "region": "US",
-     "headline": "Israeli spy chief in Washington amid talks to resume military operations against Tehran",
-     "url": "https://www.washingtontimes.com/news/2026/nov/13/israeli-spy-chief-washington-amid-talks-resume-military-operations/",
-     "published": "2026-11-13T19:09:53Z",
-     "context": "References Qatar in coverage of Israel's push to resume operations against Iran."
+     "headline": "Israel election: Arab parties, Qatar and Netanyahu",
+     "url": "https://apnews.com/article/israel-election-arab-parties-qatar-netanyahu-a3df86ebfbe5c64306f21f33e69208e0",
+     "published": "2026-11-14T01:12:15Z",
+     "context": "Qatar figures in Israeli election coverage of Netanyahu's campaign and Arab parties."
     }
    ]
   },
