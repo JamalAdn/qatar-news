@@ -1,6 +1,54 @@
 {
  "editions": [
   {
+   "id": "2026-11-14-pm",
+   "runAt": "2026-11-14T20:56:00Z",
+   "label": "Sat 14 Nov · Evening",
+   "brief": "Qatar coverage was lighter this evening, following the Turkey-Qatar defence pact and Qatar's role as Iran-US mediator. An Israeli analysis piece framed Qatar as the core of Erdogan's Islamist alliance, while US business reporting focused on Qatari commercial expansion and on oil markets watching hopes for an Iran settlement.",
+   "stories": [
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatar's UCC Pursues Venezuela Expansion Into Onshore Fields",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-14/qatar-s-ucc-pursues-venezuela-expansion-into-onshore-fields",
+     "published": "2026-11-14T19:10:39Z",
+     "summary": "Qatar-based UCC is seeking to widen its oil and gas activity in Venezuela to include onshore fields.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Erdogan's Qatar alliance deepens as his Islamist model comes under strain at home",
+     "url": "https://www.ynetnews.com/opinions-analysis/article/hjoudrr0gg",
+     "published": "2026-11-14T12:49:54Z",
+     "summary": "A Middle East Forum fellow argues that Erdogan's new defence pact with Qatar reflects shared ties to Islamist movements while his government faces scandals at home.",
+     "kind": "opinion",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Asian Stocks Rise, Oil Eases on Hopes for Iran Conflict Resolution",
+     "url": "https://www.wsj.com/finance/stocks/asian-stocks-rise-oil-eases-on-hopes-for-iran-conflict-resolution-a68a60fa",
+     "published": "2026-11-14T18:40:39Z",
+     "context": "References Qatar in coverage of oil markets and hopes for an end to the Iran conflict."
+    },
+    {
+     "outlet": "Newsmax",
+     "region": "US",
+     "headline": "Sources: Trump May Hold Off on Iran Strikes Absent New Provocations",
+     "url": "https://www.newsmax.com/newsfront/donald-trump-iran-military-strikes/2026/11/14/id/1276291/",
+     "published": "2026-11-14T14:01:01Z",
+     "context": "References Qatar in coverage of Trump's Iran strategy."
+    }
+   ]
+  },
+  {
    "id": "2026-11-14-am",
    "runAt": "2026-11-14T11:50:00Z",
    "label": "Sat 14 Nov · Morning",
