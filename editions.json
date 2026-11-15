@@ -1,6 +1,35 @@
 {
  "editions": [
   {
+   "id": "2026-11-15-pm",
+   "runAt": "2026-11-15T12:20:00Z",
+   "label": "Sun 15 Nov · Afternoon",
+   "brief": "Qatar coverage was light. An Israeli analysis in Ynet examined how Qatar's intelligence services use money, media influence and quiet channels, including the exposure of an Iranian spy network aimed at Al Udeid. US reporting touched on Qatar mainly through Gulf states urging Washington to hold off on renewed strikes on Iran.",
+   "stories": [
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Money, spies and Al Jazeera: How Qatar's intelligence services wield power",
+     "url": "https://www.ynetnews.com/article/syqkfq80gx",
+     "published": "2026-11-15T02:51:07Z",
+     "summary": "An analysis describes Qatari intelligence as relying on money and influence more than field operations, answering to the emir, and touches on the exposed Iranian spy network targeting Al Udeid and ties with Mossad.",
+     "kind": "analysis",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Breitbart",
+     "region": "US",
+     "headline": "Report: Trump May Hold off on Renewed Iran Strikes Unless Tehran Provokes U.S.",
+     "url": "https://www.breitbart.com/politics/2026/11/15/report-trump-may-hold-off-on-renewed-iran-strikes-unless-tehran-provokes-u-s/",
+     "published": "2026-11-15T11:11:04Z",
+     "context": "Qatar is named as one of five Gulf countries that Trump said are asking him to hold off on escalating against Iran over fears of retaliation."
+    }
+   ]
+  },
+  {
    "id": "2026-11-14-pm",
    "runAt": "2026-11-14T20:56:00Z",
    "label": "Sat 14 Nov · Evening",
