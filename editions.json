@@ -1,6 +1,52 @@
 {
  "editions": [
   {
+   "id": "2026-11-16-pm",
+   "runAt": "2026-11-16T13:07:12Z",
+   "label": "Mon 16 Nov · Afternoon",
+   "brief": "Qatar coverage was light, dominated by the Iran war's spillover into the Gulf. Israeli outlet Ynet focused on the domestic fallout of the Qatargate affair, with Avigdor Liberman set to take it up in a Knesset committee despite his declared friendship with a key suspect. US and wire outlets mentioned Qatar mainly within reporting on Iranian strikes on Bahrain, Hormuz security and LNG markets.",
+   "stories": [
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Liberman says he will hold a discussion on the \"Qatargate\" affair despite declared friendship with a main suspect",
+     "original_headline": "ליברמן הודיע שידון בפרשת \"קטאר-גייט\" - חרף הצהרה על חברות עם חשוד מרכזי",
+     "url": "https://www.ynet.co.il/news/article/r1duwodrme",
+     "published": "2026-11-16T12:55:08Z",
+     "summary": "Knesset committee chair Avigdor Liberman scheduled a session with defense officials that covers the Qatargate affair, although he had earlier declared a close friendship with the affair's main suspect.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Iran Targets Bahrain Base But Says Path to US Deal Is Open",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-15/iran-strikes-bahrain-base-repeats-path-to-us-deal-remains-open",
+     "published": "2026-11-16T09:17:06Z",
+     "context": "Covers Iran's strike on a Bahrain base in the Gulf security crisis in which Qatar is a regional party."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Gulf stocks dip as Bahrain attacks, Hormuz security concerns weigh",
+     "url": "https://www.reuters.com/world/middle-east/gulf-stocks-dip-bahrain-attacks-hormuz-security-concerns-weigh-2026-11-16/",
+     "published": "2026-11-16T08:49:43Z",
+     "context": "References Gulf markets, including Qatar, in coverage of Bahrain attacks and Hormuz security concerns."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Europe draws LNG from Asia, but not fast enough",
+     "url": "https://www.reuters.com/commentary/reuters-open-interest/europe-draws-lng-asia-not-fast-enough-2026-11-16/",
+     "published": "2026-11-15T16:00:00Z",
+     "context": "References Qatar in commentary on global LNG supply and Europe's gas needs."
+    }
+   ]
+  },
+  {
    "id": "2026-11-16-am",
    "runAt": "2026-11-15T21:20:00Z",
    "label": "Sun 15 Nov · Evening",
