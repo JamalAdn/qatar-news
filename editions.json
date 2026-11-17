@@ -1,6 +1,112 @@
 {
  "editions": [
   {
+   "id": "2026-11-17-pm",
+   "runAt": "2026-11-17T13:48:00Z",
+   "label": "Tue 17 Nov · Afternoon",
+   "brief": "Qatar's mediation between the US and Iran was the main thread, with Doha saying it would meet Iranian officials and urging restraint after Iran struck a US target in Bahrain. Separately, Netanyahu testified in his defamation suit against Yigal Carmon and denied taking money from Qatar. Israeli outlets focused on the Netanyahu court appearance, while US and wire outlets framed Qatar mainly through the Iran war.",
+   "stories": [
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar: We will meet with Iranians today as part of mediation efforts with US",
+     "url": "https://www.ynetnews.com/article/fnxdtqurt",
+     "published": "2026-11-17T10:44:31Z",
+     "summary": "Qatar said it would meet Iranian officials the same day as part of its efforts to mediate between Tehran and Washington.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar calls for restraint after Iranian attack on US military target in Bahrain",
+     "url": "https://www.timesofisrael.com/liveblog_entry/qatar-calls-for-restraint-after-iranian-attack-on-us-military-target-in-bahrain/",
+     "published": "2026-11-17T12:08:01Z",
+     "summary": "Doha urged restraint after Iran struck a US military target in Bahrain, as it continues to act as a go-between.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Netanyahu appears in court for defamation suit over allegations Likud took money from Qatar",
+     "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-appears-in-court-for-defamation-suit-over-allegations-likud-took-money-from-qatar/",
+     "published": "2026-11-17T10:08:01Z",
+     "summary": "Netanyahu appeared in court in his defamation suit over claims that Likud received money from Qatar.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Netanyahu testifies in lawsuit against Yigal Carmon: 'I didn't receive a penny from Qatar, this is a shameful statement'",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51Zk0wWDZBeW1OTkhPRDFMMHJpeC04NEp1dlM4VzA5NktYZXMxN2dyWV9UNVBmc3FDVU9GMzhmellnVThjR292SzRaUkFnUnFycnpSMg?oc=5",
+     "published": "2026-11-17T08:21:50Z",
+     "summary": "Netanyahu testified in his suit against Yigal Carmon and denied receiving any money from Qatar.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Netanyahu appears at defamation hearing: 'Am I afraid of Qatar? I bombed them'",
+     "original_headline": "נתניהו התייצב לדיון על תביעת דיבה: ״אני מפחד מקטאר? אני הפצצתי אותם״",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWaThnaFFjbFktRTdpMDNWSXF5dzM0NmVIdTRvUHJzSWgzRGRiRmwyUFppUno3UU10aFBwNjB4UHd4OGdvRFVIdU9ZeUotWVFVdXd0MWNLUFB2ZUhOSUIzR2FMT2JGZw?oc=5",
+     "published": "2026-11-17T08:06:37Z",
+     "summary": "Netanyahu told the court he is not afraid of Qatar and pointed to Israel's strike on it.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Financial Times",
+     "region": "UK",
+     "headline": "Iran attacks US air base in Bahrain",
+     "url": "https://www.ft.com/content/e79991c9-3f45-461a-9e3a-9c9f15ec029a?syn-25a6b1a6=1",
+     "published": "2026-11-17T13:02:19Z",
+     "context": "References Qatar in coverage of Iran's attack on a US air base in Bahrain."
+    },
+    {
+     "outlet": "JNS",
+     "region": "US",
+     "headline": "Rubio denounces Iranian attacks on Bahrain",
+     "url": "https://www.jns.org/news/u-s-news/rubio-denounces-iranian-attacks-on-bahrain",
+     "published": "2026-11-17T11:14:34Z",
+     "context": "References Qatar in coverage of US condemnation of Iranian attacks on Bahrain."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington",
+     "url": "https://www.reuters.com/world/middle-east/tehran-denies-report-potential-iranian-plan-detonate-dirty-bomb-washington-2026-11-17/",
+     "published": "2026-11-17T13:01:07Z",
+     "context": "References Qatar in coverage of the Iran conflict and a reported dirty bomb plot."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Europe Gas Edges Higher on Middle East Tensions, Weather Outlook",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-17/europe-gas-edges-higher-on-middle-east-tensions-weather-outlook",
+     "published": "2026-11-17T11:34:01Z",
+     "context": "References Qatar in coverage of European gas markets and Middle East tensions."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Iraqi leader's planned crackdown on pro-Iran militias is riskiest move yet",
+     "url": "https://www.reuters.com/world/middle-east/iraqi-leaders-planned-crackdown-pro-iran-militias-is-riskiest-move-yet-2026-11-17/",
+     "published": "2026-11-17T13:29:35Z",
+     "context": "References Qatar in coverage of Iraq's pro-Iran militias and regional tensions."
+    }
+   ]
+  },
+  {
    "id": "2026-11-17-am",
    "runAt": "2026-11-17T00:30:00Z",
    "label": "Tue 17 Nov · Morning",
