@@ -1,6 +1,100 @@
 {
  "editions": [
   {
+   "id": "2026-11-18-am",
+   "runAt": "2026-11-17T23:45:00Z",
+   "label": "Wed 18 Nov · Morning",
+   "brief": "Qatar's coverage centered on its mediation between Washington and Tehran while US and Iranian forces kept exchanging fire around Bahrain and the Gulf. Israeli outlets also covered Netanyahu's court testimony denying that he took Qatari money. US outlets framed Qatar mainly through the Iran war and Gulf security, while Israeli coverage tied it more to domestic politics.",
+   "stories": [
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar: We will meet with Iranians today as part of mediation efforts with US",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BUU5XOTFudExIdXRPbkF5QUhHTGMzLWxxYVdJQTVFSU1YNG81Y3NJLVY2aWoyTEY2WFV3ZmRXUXFDVVVyMGp6VV9iVEFJRU5nN0lGYw?oc=5",
+     "published": "2026-11-17T10:44:31Z",
+     "summary": "Qatar said it would meet Iranian officials as part of its mediation efforts between Washington and Tehran.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Haaretz",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Iran Attacks U.S. Military Radar System in Bahrain Despite Talks With Mediators",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVlpjY09jcWhQN1JXUGh4aFl0ekR5VDRjWHg3a2VDMXdKV2NEWW1vMkNOS0FLTS0zT0VGQWtVbm9NZXlvWkFRblVMTTRnWmdibEU1blFLeFNLS0M5TklIQ2pxaGZBWERQVFRzRmJhREZQYTVYRUdrcE1XSDJYbmhPSXJZU1NFN2R6MUdKRU1QV0ZpRGxXUEYzek0zSGIwSllON1E3UGsyNTIzQmtTWENzc2lJZk5jcU5aMXJSMnBEYzhYUGFPalB2ZFZuU3c1RnF4emttZnlfVWhwbU1OTzN6ZDBhd1czZ1NYaHV3TzlnRVBpd18yUWJGUi1yRDFrMXozOHU4Xy1URF9ORlp1NS15Yg?oc=5",
+     "published": "2026-11-17T17:00:00Z",
+     "summary": "Iran struck a US radar system in Bahrain while mediators were still working to keep US-Iran talks alive.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "US, Iran exchange fire despite talks with mediators",
+     "url": "https://www.reuters.com/world/middle-east/oman-iran-foreign-ministers-discuss-safeguarding-maritime-corridors-2026-11-17/",
+     "published": "2026-11-17T05:45:00Z",
+     "summary": "Reuters reported US and Iranian forces trading fire even as mediators continued diplomacy, with Oman and Iran discussing maritime corridors.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Haaretz",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Netanyahu denies receiving Qatari money as he testifies in defamation suit",
+     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQbjhxY1RURzhHX1dnd095MTJ1UGFjTUhhdk5vS2ZZZzlXcDFpUkh5N0ZlblpDaVRmTUQ3WDVpalF6eklxWUNoSXUxOWozSTNQNTJ0YmJkbDRMRFRsOUV1dldZcWh6dl9OU2ptOEluRkl4ZTdOV1M0cnJYZUZpam9BVE1jeV9qMXVTdHBkNGRrVWI0TkNyUFdIeWNISjZFelkyeGhGS0Z0V29FMzQ4QWNCQ0JaVVItTFZ3VUp2Y1o1OUxod2VZbmZqclFuOEpBU3pqeWt3N3N3bUdsblhYR3hqNjhrZ1JnSldmYkZaUTBoU0x1SzVLRHIzaXVIUzJxdm1JNGhRSlZZRm5EajBaUGJQVnl0bW1Ed2N2NTBlV3hxSQ?oc=5",
+     "published": "2026-11-17T13:48:00Z",
+     "summary": "Netanyahu denied in court that he received money from Qatar while testifying in a defamation case over claims about Qatari ties.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The New York Times",
+     "region": "US",
+     "headline": "Opinion | Shock and Dread in the Gulf",
+     "url": "https://www.nytimes.com/2026/11/17/opinion/gulf-iran-israel-war.html",
+     "published": "2026-11-17T22:00:06Z",
+     "context": "References Qatar in coverage of Gulf states caught in the Iran war."
+    },
+    {
+     "outlet": "Newsmax",
+     "region": "US",
+     "headline": "Iran Emboldened by GOP Losses",
+     "url": "https://www.newsmax.com/world/globaltalk/iran-negotiations-iran-war-republican-midterm-losses/2026/11/17/id/1276642/",
+     "published": "2026-11-17T22:30:03Z",
+     "context": "References Qatar in coverage of Iran's negotiating stance with the US."
+    },
+    {
+     "outlet": "The Daily Caller",
+     "region": "US",
+     "headline": "US Deploys Third Aircraft Carrier",
+     "url": "https://dailycaller.com/2026/11/17/us-deploys-third-aircraft-carrier-as-iran-war-stretches-navy-to-its-limits",
+     "published": "2026-11-17T21:10:00Z",
+     "context": "References Qatar in coverage of US military posture in the Gulf during the Iran war."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Prices Extend Decline",
+     "url": "https://www.wsj.com/business/energy-oil/oil-prices-extend-decline-after-trump-signals-restraint-on-iran-0441437f",
+     "published": "2026-11-17T22:50:10Z",
+     "context": "References Qatar in coverage of oil and energy markets amid the Iran standoff."
+    },
+    {
+     "outlet": "JNS",
+     "region": "US",
+     "headline": "US strikes Iran’s Qeshm Island",
+     "url": "https://www.jns.org/news/u-s-news/us-strikes-irans-qeshm-island",
+     "published": "2026-11-17T21:58:56Z",
+     "context": "References Qatar in coverage of US-Iran exchanges of fire in the Gulf."
+    }
+   ]
+  },
+  {
    "id": "2026-11-17-pm",
    "runAt": "2026-11-17T13:48:00Z",
    "label": "Tue 17 Nov · Afternoon",
