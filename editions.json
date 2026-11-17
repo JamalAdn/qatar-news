@@ -1,6 +1,39 @@
 {
  "editions": [
   {
+   "id": "2026-11-17-am",
+   "runAt": "2026-11-17T00:30:00Z",
+   "label": "Tue 17 Nov · Morning",
+   "brief": "Qatar coverage was quiet overnight, with no standalone stories from tracked outlets centred on Doha. Qatar appeared mainly as background in US, UK and wire reporting on the Iran war, including the arrival of a third US aircraft carrier in the region, and in outlook pieces on Middle East security. No notable difference in framing between US and Israeli outlets emerged in this period.",
+   "stories": [],
+   "mentions": [
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "headline": "Third US aircraft carrier arrives in the Middle East as Trump keeps options open in the Iran war",
+     "url": "https://www.washingtonpost.com/politics/2026/11/16/us-iran-war-aircraft-carrier-middle-east/c96d8e84-e1d6-11f1-a99e-b3e3805c6b8b_story.html",
+     "published": "2026-11-16T11:34:00Z",
+     "context": "References Qatar in coverage of the US military buildup and the Iran war."
+    },
+    {
+     "outlet": "The Guardian",
+     "region": "UK",
+     "headline": "Third US aircraft carrier brings thousands more troops to Middle East",
+     "url": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
+     "published": "2026-11-16T13:47:00Z",
+     "context": "References Qatar in coverage of the US military buildup in the Gulf region."
+    },
+    {
+     "outlet": "The Economist",
+     "region": "UK",
+     "headline": "There will be less war in the Middle East in 2027, but little real peace",
+     "url": "https://www.economist.com/the-world-ahead/2026/11/17/there-will-be-less-war-in-the-middle-east-in-2027-but-little-real-peace",
+     "published": "2026-11-16T16:00:00Z",
+     "context": "References Qatar in an outlook on Middle East conflict and diplomacy."
+    }
+   ]
+  },
+  {
    "id": "2026-11-16-pm",
    "runAt": "2026-11-16T13:07:12Z",
    "label": "Mon 16 Nov · Afternoon",
