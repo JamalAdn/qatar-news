@@ -1,6 +1,84 @@
 {
  "editions": [
   {
+   "id": "2026-11-19-am",
+   "runAt": "2026-11-18T23:05:00Z",
+   "label": "Thu 19 Nov · Morning",
+   "brief": "Qatar coverage centred on energy and money. Reuters reported that Poland's Orlen and QatarEnergy are talking about a new LNG deal just days after the old contract was cancelled, while another Reuters piece looked at a Trump-branded project in Qatar going ahead despite the Iran war. US outlet the Free Beacon framed Qatar through a hostile lens, focusing on its lobbying over disclosure of Qatari funding at Alabama universities, while Israeli outlets in this window focused on the Iran escalation in the Gulf rather than Qatar itself.",
+   "stories": [
+    {
+     "outlet": "The Washington Free Beacon",
+     "region": "US",
+     "lang": "en",
+     "headline": "Hamas-Friendly Qatar Launches Lobbying Campaign To Roll Back Legislation Requiring Alabama Universities To Disclose Qatari Funding",
+     "url": "https://freebeacon.com/national-security/hamas-friendly-qatar-launches-lobbying-campaign-to-roll-back-legislation-requiring-alabama-universities-to-disclose-qatari-funding/",
+     "published": "2026-11-18T22:13:36Z",
+     "summary": "The outlet reports that Qatar has begun lobbying against an Alabama law that would require universities to disclose Qatari funding.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "EXCLUSIVE: Orlen, QatarEnergy in talks on new LNG deal days after contract termination, sources say",
+     "url": "https://www.reuters.com/business/energy/orlen-qatarenergy-talks-new-lng-deal-days-after-contract-termination-sources-say-2026-11-18/",
+     "published": "2026-11-18T20:57:46Z",
+     "summary": "Sources say Poland's Orlen and QatarEnergy are discussing a fresh LNG supply arrangement only days after the earlier contract was cancelled.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Dar Global presses ahead with Trump golf and villa project in Qatar despite Iran war",
+     "url": "https://www.reuters.com/world/middle-east/dar-global-presses-ahead-with-trump-golf-villa-project-qatar-despite-iran-war-2026-11-18/",
+     "published": "2026-11-18T16:23:01Z",
+     "summary": "The developer is continuing its Trump-branded golf and villa project in Qatar even as the Iran war goes on.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Financial Times",
+     "region": "UK",
+     "lang": "en",
+     "headline": "Deutsche Bank hired a Qatari royal. Why?",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQWNPWC1QTWZGZmM2SGU5WGZUOXVVZ3NGY1ZPU1I1bXQzQXJHck05SWlBblpoX3dkTXpQRVlMYkJUdDBnX0Fib3dWbVRFUkhQV2JGWFlRbVdJMUFPbmwzQ1RRV3JWRExyVGpaZTRDYXJ1MWNQWTZxU21KQ0pUakxDU0t0dHk?oc=5",
+     "published": "2026-11-18T06:03:18Z",
+     "summary": "The piece asks why Deutsche Bank has brought on a member of Qatar's royal family.",
+     "kind": "analysis",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Washington Post (AP)",
+     "region": "US",
+     "headline": "Iran widens Gulf attacks by targeting a US air base in Kuwait and sites in Bahrain",
+     "url": "https://apnews.com/article/iran-us-kuwait-gulf-attacks-bahrain-b1f0b530cffe951e6fcc1e27b2e1af94",
+     "published": "2026-11-18T20:13:15Z",
+     "context": "References Qatar in coverage of Iran's attacks on Gulf states."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Gulf conflict end date? Depends on who you ask",
+     "url": "https://www.reuters.com/world/middle-east/gulf-conflict-end-date-depends-who-you-ask-2026-11-18/",
+     "published": "2026-11-18T12:29:00Z",
+     "context": "References Qatar in coverage of the Gulf conflict and its possible end."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Prices Fall Amid Supply Surplus Expectations, Middle East Tensions",
+     "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-amid-supply-surplus-expectations-middle-east-tensions-99aeabd5",
+     "published": "2026-11-18T21:02:00Z",
+     "context": "References Qatar in coverage of oil and energy markets amid Middle East tensions."
+    }
+   ]
+  },
+  {
    "id": "2026-11-18-pm",
    "runAt": "2026-11-18T13:25:00Z",
    "label": "Wed 18 Nov · Evening",
