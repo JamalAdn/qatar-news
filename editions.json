@@ -1,6 +1,147 @@
 {
  "editions": [
   {
+   "id": "2026-11-18-pm",
+   "runAt": "2026-11-18T13:25:00Z",
+   "label": "Wed 18 Nov · Evening",
+   "brief": "Qatar coverage focused on energy and diplomacy: Poland's Orlen ended a Qatari LNG deal after months of force majeure, and analysts questioned how exposed QatarEnergy's expansion is to Hormuz disruption. Israeli outlets covered Netanyahu's court denial of Qatari funding and Qatari pressure on Israel, while US outlets placed Qatar within the wider Iran war and Gulf security story. Iran's new attacks on Bahrain and Kuwait continued even as mediators kept talking.",
+   "stories": [
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "lang": "en",
+     "headline": "Poland's Orlen cancels Qatar LNG supply deal after months of force majeure",
+     "url": "https://www.wsj.com/finance/commodities-futures/polands-orlen-cancels-qatar-lng-supply-deal-after-months-of-force-majeure-88f37e7b",
+     "published": "2026-11-18T10:32:13Z",
+     "summary": "Poland's Orlen has terminated its Qatari LNG supply agreement after Qatar declared force majeure on cargoes for several months.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "QatarEnergy's LNG expansion may leave it bigger but not less exposed",
+     "url": "https://www.reuters.com/business/energy/qatarenergys-lng-expansion-may-leave-it-bigger-not-less-exposed-2026-11-18/",
+     "published": "2026-11-18T09:02:32Z",
+     "summary": "The analysis argues that Qatar's planned LNG capacity growth leaves it dependent on Hormuz shipping and exposed to regional disruption.",
+     "kind": "analysis",
+     "major": false
+    },
+    {
+     "outlet": "Maariv",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Qatar steps up pressure on Israel: contacts raise questions about coordination",
+     "original_headline": "קטאר מגבירה לחץ על ישראל: המגעים שמעלים שאלות על תיאום",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvTlBGdVphUGdYV2t5WGNqYzJ3VmpLN29QUVBTWmZ0Y1lRZll1b3RoYlI4RXpNU1BtdHgtRkNXTmNsMk45Q1dxZl9sR1FBOUlYZVJOcTYwc1FIWUZFOU1MNnZCTFo?oc=5",
+     "published": "2026-11-17T19:21:29Z",
+     "summary": "Maariv reports on Qatari pressure on Israel and on contacts that raise questions about coordination.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Haaretz",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Netanyahu denies receiving Qatari money as he testifies in defamation suit",
+     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQbjhxY1RURzhHX1dnd095MTJ1UGFjTUhhdk5vS2ZZZzlXcDFpUkh5N0ZlblpDaVRmTUQ3WDVpalF6eklxWUNoSXUxOWozSTNQNTJ0YmJkbDRMRFRsOUV1dldZcWh6dl9OU2ptOEluRkl4ZTdOV1M0cnJYZUZpam9BVE1jeV9qMXVTdHBkNGRrVWI0TkNyUFdIeWNISjZFelkyeGhGS0Z0V29FMzQ4QWNCQ0JaVVItTFZ3VUp2Y1o1OUxod2VZbmZqclFuOEpBU3pqeWt3N3N3bUdsblhYR3hqNjhrZ1JnSldmYkZaUTBoU0x1SzVLRHIzaXVIUzJxdm1JNGhRSlZZRm5EajBaUGJQVnl0bW1Ed2N2NTBlV3hxSQ?oc=5",
+     "published": "2026-11-17T13:48:00Z",
+     "summary": "Haaretz reports that Netanyahu denied in court that he or his circle took money from Qatar, during testimony in a defamation case.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Haaretz",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Iran attacks US military radar system in Bahrain despite talks with mediators",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVlpjY09jcWhQN1JXUGh4aFl0ekR5VDRjWHg3a2VDMXdKV2NEWW1vMkNOS0FLTS0zT0VGQWtVbm9NZXlvWkFRblVMTTRnWmdibEU1blFLeFNLS0M5TklIQ2pxaGZBWERQVFRzRmJhREZQYTVYRUdrcE1XSDJYbmhPSXJZU1NFN2R6MUdKRU1QV0ZpRGxXUEYzek0zSGIwSllON1E3UGsyNTIzQmtTWENzc2lJZk5jcU5aMXJSMnBEYzhYUGFPalB2ZFZuU3c1RnF4emttZnlfVWhwbU1OTzN6ZDBhd1czZ1NYaHV3TzlnRVBpd18yUWJGUi1yRDFrMXozOHU4Xy1URF9ORlp1NS15Yg?oc=5",
+     "published": "2026-11-17T17:00:00Z",
+     "summary": "Haaretz reports that Iran struck a US radar site in Bahrain even as mediators were still holding talks with Tehran.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Financial Times",
+     "region": "UK",
+     "lang": "en",
+     "headline": "Deutsche Bank hired a Qatari royal. Why?",
+     "url": "https://www.ft.com/content/9edd3730-3a15-4e1a-b33a-629aff00e847?syn-25a6b1a6=1",
+     "published": "2026-11-18T06:03:18Z",
+     "summary": "The FT examines why Deutsche Bank brought a member of Qatar's royal family into its business, as part of a wider investigation of the bank.",
+     "kind": "analysis",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war",
+     "url": "https://www.reuters.com/world/middle-east/trumps-board-peace-faults-israel-hamas-failure-end-gaza-war-2026-11-18/",
+     "published": "2026-11-18T12:36:03Z",
+     "context": "References Qatar in coverage of Gaza ceasefire diplomacy, where Qatar is one of the mediators."
+    },
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "headline": "Trump is trying to put the Iran war behind him, but it's not over",
+     "url": "https://www.washingtonpost.com/world/2026/11/18/trump-is-trying-put-iran-war-behind-him-its-not-over/",
+     "published": "2026-11-18T12:55:56Z",
+     "context": "References Qatar in coverage of the Iran war and the Gulf diplomacy around it."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
+     "url": "https://www.wsj.com/world/middle-east/iran-attacks-kuwait-and-bahrain-further-escalating-fight-over-strait-08f3a436",
+     "published": "2026-11-18T11:17:00Z",
+     "context": "References Qatar in coverage of Iranian attacks on Gulf states and the fight over Hormuz."
+    },
+    {
+     "outlet": "Breitbart",
+     "region": "US",
+     "headline": "Iran widens Gulf attacks by targeting a US air base in Kuwait and sites in Bahrain",
+     "url": "https://www.breitbart.com/news/iran-widens-gulf-attacks-by-targeting-a-us-air-base-in-kuwait-and-sites-in-bahrain/",
+     "published": "2026-11-18T13:05:18Z",
+     "context": "References Qatar in coverage of Gulf security and the Iran war."
+    },
+    {
+     "outlet": "Breitbart",
+     "region": "US",
+     "headline": "Gulf countries under fire after US hits Iran island",
+     "url": "https://www.breitbart.com/news/gulf-countries-under-fire-after-us-hits-iran-island/",
+     "published": "2026-11-18T11:47:36Z",
+     "context": "References Qatar in coverage of Gulf states caught in the US-Iran fighting."
+    },
+    {
+     "outlet": "BBC",
+     "region": "UK",
+     "headline": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+     "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o",
+     "published": "2026-11-18T13:04:48Z",
+     "context": "References Qatar in coverage of Gulf security and the Iran war."
+    },
+    {
+     "outlet": "The Economist",
+     "region": "UK",
+     "headline": "The new shape of the Middle East",
+     "url": "https://www.economist.com/the-world-ahead/2026/11/18/the-new-shape-of-the-middle-east",
+     "published": "2026-11-18T11:47:20Z",
+     "context": "References Qatar in analysis of Gulf and regional power shifts."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "EXCLUSIVE: Saudis preparing for Yemen campaign to last well into 2027",
+     "url": "https://www.reuters.com/world/middle-east/saudis-preparing-yemen-campaign-last-well-into-2027-2026-11-18/",
+     "published": "2026-11-18T13:10:15Z",
+     "context": "References Qatar in coverage of Gulf security and the Yemen conflict."
+    }
+   ]
+  },
+  {
    "id": "2026-11-18-am",
    "runAt": "2026-11-17T23:45:00Z",
    "label": "Wed 18 Nov · Morning",
