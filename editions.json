@@ -1,6 +1,82 @@
 {
  "editions": [
   {
+   "id": 13,
+   "runAt": "2026-11-19T13:50:00Z",
+   "label": "Thu 19 Nov · Afternoon",
+   "brief": "Qatar coverage centered on energy and the Gulf war. Poland's Orlen cancelled one of its long-term Qatari LNG contracts, though talks on a new deal were reported, and traders were said to be seeking long-term supply from QatarEnergy while Hormuz LNG shipping slowed after new attacks. An Israeli columnist in Maariv framed Qatar as hedging its security with Turkey and pressing for a ceasefire, while the US outlets focused on the commercial and supply effects.",
+   "stories": [
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "lang": "en",
+     "headline": "Poland's Orlen Cancels Qatar LNG Supply Deal After Months of Force Majeure",
+     "url": "https://www.wsj.com/finance/commodities-futures/polands-orlen-cancels-qatar-lng-supply-deal-after-months-of-force-majeure-88f37e7b",
+     "published": "2026-11-19T13:12:51Z",
+     "summary": "Poland's Orlen ended one of its long-term QatarEnergy LNG contracts after months in which Qatar could not meet deliveries because of the Gulf war.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Orlen, QatarEnergy in talks on new LNG deal days after contract termination, sources say",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN09ma2xvQVVUbWJDcFlLNWNXVUZJQmk4YnJNRkZIODF5VkNxX1BMemVKR3FxYTNMeEM1MEtGemYtQ0NrY2QwbWlDbV9YcGVrX3VuaUtXX040X2xET1JqckxHSWdUdUhXTE1YVE1lMUZabWotTnBlM2NFMDZrSFRZOGR4RTllNm5sUzM5ZkEwUm9jc0tYajk4U0RYYWxqaXJodW5rN1hMcWZ1WEtTZE5FQWRXQ2dMWVZYSWk0OTBCX2VUWkNONHQ0NWJYeWQ?oc=5",
+     "published": "2026-11-18T20:57:46Z",
+     "summary": "Sources say Orlen and QatarEnergy are discussing a new LNG arrangement shortly after the Polish company terminated an existing contract.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "Oil Traders in Talks With QatarEnergy for Long-Term Supplies",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-19/oil-traders-in-talks-with-qatarenergy-for-long-term-supplies",
+     "published": "2026-11-19T07:32:00Z",
+     "summary": "Oil trading houses are negotiating long-term supply arrangements with QatarEnergy.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "LNG Exports Through Hormuz Appear to Slow After More Attacks",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZVVmUlp0SE1pVzk3dDlYdnczRllkU2lJWXpxc1VNUGFDLV9WSGxGSUFJSlQ5ZnhEcTgtN0RFdlBQak4zYnM1dG9MRVFzNk1oZTBQR3k3NVdSX2xQX3V6SDJEQnFDUWZScGtYaGtZUXh5RDVRQjBrTjdsS0tFcVpuVVBnQlVrRDItX0xiWlNHb1hpSEJtbFdxV0FhaS1vMkw2R2hqN3Q2ZkxTaWtrbFd2UQ?oc=5",
+     "published": "2026-11-19T01:23:00Z",
+     "summary": "LNG shipments through the Strait of Hormuz appear to have slowed again after fresh attacks in the Gulf.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Dar Global presses ahead with Trump golf and villa project in Qatar despite Iran war",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa2hfelhncGZ2YmJUc1ZsV1BCLWVhSWZFTFk2ZXRJNUZ3bG05clRQMXFkQVB6cmRUblBMV3VxWm15dnNFVWtCbFN4SnVjSm5tN3JodzZ3Z3lZNmRMNDItUU5QWE56XzFWMVFhZTlTTHpwRGd2YUFJU2pvY0I2Z1cxdmI3WFpBbkY0aTctc1JQbDlKbnNiNnFvOW5JSno1R2lrbHlBcGo0S0ppaXY2SGZ6QWpwOGxXaWhwVk1OUlUyYzN3TGhweWpwWUZBZw?oc=5",
+     "published": "2026-11-18T16:23:01Z",
+     "summary": "Developer Dar Global says it is continuing its Trump-branded golf and villa development in Qatar despite the regional war.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Maariv",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Arab states change course on Iran: what is really happening in the Gulf | Amit Yagur",
+     "original_headline": "מדינות ערב משנות כיוון מול איראן - מה באמת קורה במפרץ | עמית יגור",
+     "url": "https://www.maariv.co.il/news/opinions/article-1390108",
+     "published": "2026-11-19T08:26:22Z",
+     "summary": "The columnist argues Gulf states are tightening military cooperation against Iran and says Qatar, which hosts a large US base, signed a defense deal with Turkey and is seeking a ceasefire with Washington to protect its economy.",
+     "kind": "opinion",
+     "major": false
+    }
+   ],
+   "mentions": []
+  },
+  {
    "id": "2026-11-19-am",
    "runAt": "2026-11-18T23:05:00Z",
    "label": "Thu 19 Nov · Morning",
