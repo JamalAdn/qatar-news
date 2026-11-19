@@ -1,6 +1,78 @@
 {
  "editions": [
   {
+   "id": "2026-11-20-am",
+   "runAt": "2026-11-19T23:15:00Z",
+   "label": "Fri 20 Nov · Morning",
+   "brief": "Coverage of Qatar centered on the first anniversary of the Israeli strike in Doha, with Qatar pressing a UN resolution to protect mediators. Israeli outlets framed this as Qatari pressure and retaliation against Israel, while the US pieces focused on Al Jazeera's lobbying push and on Qatar's place in the wider Iran war coverage.",
+   "stories": [
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Over a year after Israeli Doha strike, Qatar advancing UN resolution to protect mediators",
+     "url": "https://www.timesofisrael.com/liveblog_entry/over-a-year-after-israeli-doha-strike-qatar-advancing-un-resolution-to-protect-mediators/",
+     "published": "2026-11-19T17:09:31Z",
+     "summary": "Qatar is pushing a UN resolution meant to protect mediators, more than a year after Israel's strike on Doha.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "A year after the strike: Qatar demands \"immunity\" from the UN",
+     "original_headline": "שנה לתקיפה: קטאר דורשת \"חסינות\" מהאו\"ם",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21894632",
+     "published": "2026-11-19T20:42:40Z",
+     "summary": "The report covers Qatar's UN initiative seeking protection for mediators, tied to the anniversary of the Israeli strike in Doha.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Washington Free Beacon",
+     "region": "US",
+     "lang": "en",
+     "headline": "Al Jazeera Hires Elite US PR Firm as Foreign Agent To Reach More US Viewers, Fix Its Reputation",
+     "url": "https://freebeacon.com/media/al-jazeera-hires-elite-us-pr-firm-as-foreign-agent-to-reach-more-us-viewers-fix-its-reputation-veterans-of-cbs-news-state-department-will-advise-qatari-network/",
+     "published": "2026-11-19T18:37:13Z",
+     "summary": "The Qatari-funded network has registered a US public relations firm as a foreign agent to widen its American audience and improve its image.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Maariv",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "A year after the IDF strike in Doha: Qatar's revenge on Israel",
+     "original_headline": "שנה לאחר התקיפה של צה\"ל בדוחה: הנקמה של קטאר בישראל",
+     "url": "https://www.maariv.co.il/news/politics/article-1390377",
+     "published": "2026-11-19T19:29:37Z",
+     "summary": "The piece examines how Qatar has acted against Israel in the year since the Doha strike.",
+     "kind": "analysis",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Breitbart",
+     "region": "US",
+     "headline": "Iran Rails Against 'Foreign Interference' After China, Russia, U.S. Unite on Oil and Nuclear",
+     "url": "https://www.breitbart.com/middle-east/2026/11/19/iran-rails-against-foreign-interference-after-china-russia-u-s-unite-on-oil-and-nuclear/",
+     "published": "2026-11-19T22:24:43Z",
+     "context": "Names Qatar, with Bahrain, as a neighbor targeted by Iranian missile and drone attacks."
+    },
+    {
+     "outlet": "The Daily Caller",
+     "region": "US",
+     "headline": "Top US General Huddles With Israel As Iran War Clouds Gather",
+     "url": "https://dailycaller.com/2026/11/19/brad-cooper-centcom-idf-mossad-meeting-iran-war",
+     "published": "2026-11-19T20:01:00Z",
+     "context": "Notes that Trump held off on strikes on Iran after a Nov. 9 meeting with Qatar, per Reuters."
+    }
+   ]
+  },
+  {
    "id": 13,
    "runAt": "2026-11-19T13:50:00Z",
    "label": "Thu 19 Nov · Afternoon",
