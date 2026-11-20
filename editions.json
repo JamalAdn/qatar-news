@@ -1,6 +1,39 @@
 {
  "editions": [
   {
+   "id": "2026-11-20-pm",
+   "runAt": "2026-11-20T13:35:00Z",
+   "label": "Fri 20 Nov · Evening",
+   "brief": "Qatar coverage was quiet in the past day, with no new stories centered on Doha beyond those already reported this morning. Qatar appeared mainly in the background of US and Israeli coverage of the Iran war, oil markets and Gulf security, with Israeli outlets stressing the threat from Iran and US outlets focusing on strike policy and costs.",
+   "stories": [],
+   "mentions": [
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Prices Retreat as Traders Assess Supply Outlook, Middle East Risks",
+     "url": "https://www.wsj.com/business/energy-oil/oil-prices-edge-higher-as-traders-assess-middle-east-shipping-risks-supply-outlook-faf8f60a",
+     "published": "2026-11-20T12:37:00Z",
+     "context": "References Gulf energy supply risks in coverage of oil markets and the Middle East."
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "headline": "Oil Set for Third Weekly Drop as Ample Supply Outweighs War Risk",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-19/latest-oil-market-news-and-analysis-for-nov-20",
+     "published": "2026-11-20T08:52:37Z",
+     "context": "References Gulf supply risks in coverage of oil markets and the Iran war."
+    },
+    {
+     "outlet": "Breitbart",
+     "region": "US",
+     "headline": "Trump Signals No More Major Iran Strikes in 2026 — Economic Pressure Mounts on Tehran",
+     "url": "https://www.breitbart.com/politics/2026/11/19/trump-signals-no-more-major-iran-strikes-in-2026-economic-pressure-mounts-on-tehran/",
+     "published": "2026-11-20T07:26:20Z",
+     "context": "References Qatar in coverage of Iran and US strike policy."
+    }
+   ]
+  },
+  {
    "id": "2026-11-20-am",
    "runAt": "2026-11-19T23:15:00Z",
    "label": "Fri 20 Nov · Morning",
