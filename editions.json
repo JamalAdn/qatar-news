@@ -1,6 +1,160 @@
 {
  "editions": [
   {
+   "id": "2026-11-21-am",
+   "runAt": "2026-11-20T22:50:00Z",
+   "label": "Fri 20 Nov · Evening",
+   "brief": "Qatar coverage centered on its mediation role, with US envoys Witkoff and Kushner meeting Qatari officials on Iran talks, and on a reported 15 billion euro Qatari investment pledge in Germany. Israeli outlets also gave attention to a Qatar-backed UN resolution on protecting mediators, which Israel fears could limit strikes on Hamas, and to a probe in Israel over Qatar links. US outlets focused more on diplomacy and deal-making.",
+   "stories": [
+    {
+     "outlet": "Axios",
+     "region": "US",
+     "lang": "en",
+     "headline": "Scoop: Witkoff and Kushner meet Qatari mediators to discuss Iran negotiations",
+     "url": "https://www.axios.com/2026/11/20/witkoff-kushner-meet-qatari-mediators-iran",
+     "published": "2026-11-20T18:58:04Z",
+     "summary": "Axios reports that US envoys Steve Witkoff and Jared Kushner met Qatari mediators to discuss talks with Iran.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "No progress reported after Trump envoys meet with Qatari mediators to discuss Iran deal",
+     "url": "https://www.timesofisrael.com/liveblog_entry/no-progress-reported-after-trump-envoys-meet-with-qatari-mediators-to-discuss-iran-deal/",
+     "published": "2026-11-20T19:09:34Z",
+     "summary": "The Times of Israel reports that no progress was announced after Trump's envoys met Qatari mediators on an Iran deal.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Report: Trump's envoys met with senior Qatari officials in Berlin",
+     "url": "https://www.ynetnews.com/article/ior44av7w",
+     "published": "2026-11-20T19:10:58Z",
+     "summary": "Ynet reports that Trump's envoys met senior Qatari officials in Berlin.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Report: Trump's envoys met with senior Qataris in Berlin",
+     "original_headline": "דיווח: שליחיו של טראמפ נפגשו עם בכירים קטאריים בברלין",
+     "url": "https://www.ynet.co.il/news/article/s1xg9macze",
+     "published": "2026-11-20T19:10:52Z",
+     "summary": "Ynet's Hebrew edition reports that Trump's envoys met senior Qatari officials in Berlin.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "N12",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Trump envoys' meeting with senior Qatari officials",
+     "original_headline": "פגישת שליחי טראמפ עם הבכירים הקטארים",
+     "url": "https://www.mako.co.il/news-world/2026_q4/Article-be5210dd14af1a1027.htm",
+     "published": "2026-11-20T20:29:00Z",
+     "summary": "N12 covers the meeting between Trump's envoys and senior Qatari officials.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Germany's Merz says Qatar pledged €15 billion in investments",
+     "url": "https://www.reuters.com/world/middle-east/germanys-merz-says-qatar-pledged-15-billion-investments-2026-11-20/",
+     "published": "2026-11-20T15:14:59Z",
+     "summary": "Reuters reports German Chancellor Friedrich Merz saying Qatar has pledged 15 billion euros in investments in Germany.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "QIA, Brookfield Target Investing €15 Billion for German Defense",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWHdZSlFjaHFDUHZ1UXVWNDdQanNRdGNiR3VqS0xsdXFkNXhuQkNDbFZBX1oxbTlmeTE1VlFKMkhMa0dUTmNVQ1hxUjc5Rmcxc282WWs1TWVuTXlHNVowT0Y5VDh0WnNqd2JtaURwV1JDUUkwVmxIRThTLWFVWVdjdklSVzQ5ekNQX19nYVdXaXk0N1V0Z3YyblJaYnBxVFRFQnl2YkNRd3luUWZXcUQxS2p3?oc=5",
+     "published": "2026-11-20T15:28:06Z",
+     "summary": "Bloomberg reports that the Qatar Investment Authority and Brookfield are aiming to invest 15 billion euros in German defense.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatar advances UN resolution protecting conflict mediators",
+     "url": "https://www.jpost.com/international/article-915607",
+     "published": "2026-11-20T19:55:54Z",
+     "summary": "The Jerusalem Post reports Qatar is pushing a UN resolution to protect conflict mediators.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Jerusalem Post",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Israel warns Qatari-backed UN mediator resolution could restrict strikes on Hamas",
+     "url": "https://www.jpost.com/international/article-915607",
+     "published": "2026-11-20T13:54:00Z",
+     "summary": "The Jerusalem Post reports Israel warns that the Qatari-backed UN resolution on mediators could restrict strikes on Hamas.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "While believing Qatar is dangerous, Zini said refusing to say so in probe involving PM's aides",
+     "url": "https://www.timesofisrael.com/liveblog_entry/while-believing-qatar-is-dangerous-zini-said-refusing-to-say-so-in-probe-involving-pms-aides/",
+     "published": "2026-11-20T20:10:22Z",
+     "summary": "The Times of Israel reports on testimony in a probe involving the prime minister's aides about whether Qatar is dangerous.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "headline": "Trump insists Iran won't make an 'acceptable' deal as concerns grow about next steps",
+     "url": "https://www.washingtonpost.com/politics/2026/11/20/iran-war-trump-diplomacy-attacks/1a61ced2-e52d-11f1-a99e-b3e3805c6b8b_story.html",
+     "published": "2026-11-20T22:19:56Z",
+     "context": "References Qatar in coverage of Trump's stance on an Iran deal and diplomacy."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "ATP to 'wait and see' on Middle East tournaments amid conflict, says chairman Gaudenzi",
+     "url": "https://www.reuters.com/sports/tennis/atp-wait-see-middle-east-tournaments-amid-conflict-says-chairman-gaudenzi-2026-11-20/",
+     "published": "2026-11-20T19:35:43Z",
+     "context": "References Qatar in coverage of sport and the Middle East conflict."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Futures Fall for Third Straight Week on Supply Outlook",
+     "url": "https://www.wsj.com/business/energy-oil/oil-prices-edge-higher-as-traders-assess-middle-east-shipping-risks-supply-outlook-faf8f60a",
+     "published": "2026-11-20T21:16:00Z",
+     "context": "References Qatar in coverage of oil markets and Middle East shipping risks."
+    },
+    {
+     "outlet": "Breitbart",
+     "region": "US",
+     "headline": "Trump: Iran Wants Deal but Not One He’ll Accept — Demands ‘Real Deal,’ Slams 51 Years of ‘Bullsh–ting’",
+     "url": "https://www.breitbart.com/politics/2026/11/20/trump-iran-wants-deal-but-not-one-hell-accept-demands-real-deal-slams-51-years-of-bullsh-ting/",
+     "published": "2026-11-20T22:27:04Z",
+     "context": "References Qatar in coverage of Trump's comments on an Iran deal."
+    }
+   ]
+  },
+  {
    "id": "2026-11-20-pm",
    "runAt": "2026-11-20T13:35:00Z",
    "label": "Fri 20 Nov · Evening",
