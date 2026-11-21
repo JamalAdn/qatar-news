@@ -1,6 +1,31 @@
 {
  "editions": [
   {
+   "id": "2026-11-21-pm",
+   "runAt": "2026-11-21T12:57:38Z",
+   "label": "Sat 21 Nov · Midday",
+   "brief": "Qatar coverage was quiet in the last day, with most attention still on the earlier meeting between Trump envoys and Qatari mediators over Iran and on Qatar's UN push to protect mediators. Both US and Israeli outlets continued to treat Qatar mainly through the lens of the Iran war and Gaza diplomacy, and no new major developments were reported.",
+   "stories": [],
+   "mentions": [
+    {
+     "outlet": "Financial Times",
+     "region": "UK",
+     "headline": "Oil shipped through Hormuz falls as Iranian strikes increase",
+     "url": "https://www.ft.com/content/5fbc2b9d-0360-4a1f-9e4a-3e86168cbbc5?syn-25a6b1a6=1",
+     "published": "2026-11-21T05:00:35Z",
+     "context": "References Qatar in coverage of falling oil shipments through the Strait of Hormuz."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Dubai Airport Traffic Falls But Shows Signs of Recovery Amid Iran War",
+     "url": "https://www.wsj.com/business/airlines/dubai-airport-traffic-falls-but-shows-signs-of-recovery-amid-iran-war-e415ae82",
+     "published": "2026-11-21T10:10:05Z",
+     "context": "References Qatar in coverage of how the Iran war is affecting Gulf aviation."
+    }
+   ]
+  },
+  {
    "id": "2026-11-21-am",
    "runAt": "2026-11-20T22:50:00Z",
    "label": "Fri 20 Nov · Evening",
