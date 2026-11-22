@@ -1,6 +1,84 @@
 {
  "editions": [
   {
+   "id": "2026-11-22-pm",
+   "runAt": "2026-11-22T12:55:00Z",
+   "label": "Sun 22 Nov · Afternoon",
+   "brief": "Coverage centered on Qatar's renewed mediation push, with a Qatari delegation reported in Tehran for talks as tanker attacks in the Strait of Hormuz continued. US and Israeli outlets both framed Qatar as a go-between in the Iran standoff, while the conservative US press also discussed how Washington might use Qatar's hunt for new LNG supplies as leverage.",
+   "stories": [
+    {
+     "outlet": "Newsmax",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatari Delegation Visits Tehran for Talks, Iranian Official Says",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaHVFQ0htWmFVWmpMOTNFNW01Y1B0NlVVbVd2VVNMR1cyaE92OVNJZDlSMDE0bXVpX192VWhfMV9xd1BEeDVjU0IwY01FLUlRa2RRc3gzU3gyUkxycDJpWWsxN1p4Z0JWVWZLdVRocTlzNWhGT1pmWnNLUFNvaUM5SWV1WTA4TzlR?oc=5",
+     "published": "2026-11-21T15:01:17Z",
+     "summary": "An Iranian official said a Qatari delegation traveled to Tehran for talks, as mediators try to move US-Iran diplomacy forward.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Iranian Foreign Ministry: Qatari delegation arrived in Tehran last night",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0X1g2WHZuSkpTdVZaZkdnOVRaSGpNNGttdXFiMUtEZ2hpMUZHSVY2MnVFS3VtVXRGM2lDSGFnZjFZb29iODNqWm1FRnNCemd0TjVzVA?oc=5",
+     "published": "2026-11-21T14:29:04Z",
+     "summary": "Iran's Foreign Ministry confirmed that a Qatari delegation arrived in Tehran overnight for mediation-related discussions.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Qatari delegation visited Tehran last night for talks, Iranian official says",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbzRWQUtjR1RwakljendEUmhrcXRqQ1pqWUdiR01lWHZWYWxVejRmSDFDRzNCYWZEWHY0SGp4LWFScDA0Z0QwN2huaFJVSExJcFRiVElvMG5CN09Ddko4Z0pQTW40X0hmS1piR3hhTEVrNzlUUmEtVDhFSkNGVVV1S2JnejhzSTRpcjB2c3J4OVlodlpoWUxiMkpFaXNxazA0Vl90Y3RabzNkbUUteUs1VEpnb2xZMDl3U2x1RVBn?oc=5",
+     "published": "2026-11-21T16:30:25Z",
+     "summary": "An Iranian official said Qatari representatives held talks in Tehran the previous night.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "National Review",
+     "region": "US",
+     "lang": "en",
+     "headline": "How Washington Could Exploit Qatar's LNG Shopping Spree",
+     "url": "https://www.nationalreview.com/article/how-washington-could-exploit-qatar-s-lng-shopping-spree",
+     "published": "2026-11-22T11:00:00Z",
+     "summary": "The piece argues that Qatar's search for new LNG supplies gives Washington an opening to advance US interests.",
+     "kind": "opinion",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Washington Post (AP)",
+     "region": "Wire",
+     "headline": "F1 presses on with Qatar and Abu Dhabi finale despite rising Middle East tensions",
+     "url": "https://apnews.com/article/formula-1-f1-las-vegas-qatar-abu-dhabi-14a805b50b5b0f4cdde4f71f",
+     "published": "2026-11-22T11:47:00Z",
+     "context": "Covers the Qatar Grand Prix going ahead in the Gulf despite regional tensions from the Iran war."
+    },
+    {
+     "outlet": "Newsmax",
+     "region": "US",
+     "headline": "Hormuz Attacks Surge to Highest Levels Since Iran War Began",
+     "url": "https://www.newsmax.com/newsfront/strait-of-hormuz-iran-oil-tankers/2026/11/22/id/1277144/",
+     "published": "2026-11-22T11:18:00Z",
+     "context": "References Qatar in coverage of Hormuz shipping attacks during the Iran war."
+    },
+    {
+     "outlet": "Breitbart",
+     "region": "US",
+     "headline": "Bahrain says Iran struck industrial site as tankers hit in Hormuz",
+     "url": "https://www.breitbart.com/news/bahrain-says-iran-struck-industrial-site-as-tankers-hit-in-hormuz/",
+     "published": "2026-11-22T03:34:00Z",
+     "context": "References Qatar in coverage of Iranian attacks on Gulf targets and tankers."
+    }
+   ]
+  },
+  {
    "id": "2026-11-22-am",
    "runAt": "2026-11-21T21:50:04Z",
    "label": "Sat 21 Nov · Evening",
