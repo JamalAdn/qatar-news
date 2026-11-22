@@ -1,6 +1,37 @@
 {
  "editions": [
   {
+   "id": "2026-11-23-am",
+   "runAt": "2026-11-22T22:05:00Z",
+   "label": "Sun 22 Nov · Evening",
+   "brief": "Qatar featured in coverage of the Gulf's escalating tensions with Iran, as Doha joined Saudi Arabia in condemning an Iranian strike on a civilian site in Bahrain. Conservative US outlet The Daily Wire also reported on operatives for Qatar's state-run broadcaster registering as foreign agents in America, continuing a theme of scrutiny of Qatari influence. Israeli outlets framed Qatar mainly through the regional security picture, while US conservative outlets focused on influence and lobbying.",
+   "stories": [
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Saudi Arabia, Qatar blast 'heinous' Iranian attack on civilian Bahraini site",
+     "url": "https://www.timesofisrael.com/liveblog_entry/saudi-arabia-qatar-blast-heinous-iranian-attack-on-civilian-bahraini-site/",
+     "published": "2026-11-22T14:09:38Z",
+     "summary": "Saudi Arabia and Qatar condemned an Iranian attack on an industrial site in Bahrain, with Doha calling it a violation of Bahraini sovereignty and international law.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Daily Wire",
+     "region": "US",
+     "lang": "en",
+     "headline": "Operatives For Qatar's State-Run TV Channel Register As Foreign Influencers In America",
+     "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxORGEtNXZ3TjVSaUEwUTY0aE9pV2NTeXU5aFRBY01mQmJxdkVFQXBlY0o5eXoybFFXVVpsdmtaaGhGZjNrVms4cHFRdUhKeG8wYmNMMloxaXpPYmZaUGp1SGpFZG80eGZwZlFrSnVoRC1neWVUYmM4SXExem5ZUHc2WEZkV0NnWXI1RE1nWFFlQm8ybzcxR0RCeGljYnJ6R3ZxWGxWNHVKcDNjZFdfTFFxdVlLdWMwNDhlRnRKMnQ3NXgyZU5tLVZvVDBYQjBNNzhIcTFRSlhDT0x2LUJLcFgwU1cyMzhPbzJlUHZHTUdjaUh5VEV2WHlldEZNUmF2VGJWNER4QVpxbUw2X2FZUDdpUEVueVQzWXpsR2V5cTF0b3RZdnVjcUZoTGx1WFJEXy1IRGhSOVpsZWM1LU5GTWR3QWoyTFNhanBUR1pDUUNiN2xfQTBkNjdVV2FVR2E1YlROeldnU2dQbzEyQU9TUk91LWR0X1VoOUFNR3FJb2U5NU1tQmtUTXJNSENsdkxnWGRoS2tqWHpmVFF5YXBHM3hpWEhDaUZ4WWkyM0RwMEV3c3gzM19FTlMw?oc=5",
+     "published": "2026-11-22T13:01:00Z",
+     "summary": "The report says operatives working for Qatar's state-funded television network have filed foreign agent registrations in the United States.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": []
+  },
+  {
    "id": "2026-11-22-pm",
    "runAt": "2026-11-22T12:55:00Z",
    "label": "Sun 22 Nov · Afternoon",
