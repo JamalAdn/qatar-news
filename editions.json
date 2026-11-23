@@ -1,6 +1,51 @@
 {
  "editions": [
   {
+   "id": "2026-11-23-pm",
+   "runAt": "2026-11-23T15:20:00Z",
+   "label": "Mon 23 Nov · Afternoon",
+   "brief": "Qatar coverage was light this cycle. The main item was Formula One's decision to keep its Qatar and Abu Dhabi finale on the calendar despite rising Middle East tensions. Qatar also appeared in wider US and wire coverage of Gulf markets, oil prices and the region's security outlook around the Iran standoff, with Israeli outlets focused mainly on pressure for an Iran strike rather than on Qatar.",
+   "stories": [
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "lang": "en",
+     "headline": "F1 presses on with Qatar and Abu Dhabi finale despite rising Middle East tensions",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObF9pS3F3bVRhWHJUMUg0alFqQTI3eTJvd3NNXzFyN1AxNE81S3g0OTl6SV9TZnhMcUM3YTVSX2ZQb3QzMlBWQmZ2cEVmblZNNmZ0aHJCUElaZm5tbkk3ZDU3eWc0dXgyWFdHajV0TFp3UkNxZHliSTgtT216Q0EwX3ZQMUZoc3BOb3BzSFpkamJZZFFpenZZUVVaSU1hVzhlbk9OSnVhanlMOS1ZTWY2MnVkOFpxT1Q3cF9tajJoNzlucjZSQ2tZZ0x5M3Fpd05UZzRhRi1KNi1xRi1OSDBScw?oc=5",
+     "published": "2026-11-22T23:17:20Z",
+     "summary": "Formula One is keeping the season-ending races in Qatar and Abu Dhabi on schedule even as regional tensions over Iran grow.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Most Gulf bourses end higher, buoyed by diplomatic momentum",
+     "url": "https://www.reuters.com/world/middle-east/gulf-bourses-open-higher-buoyed-by-diplomatic-momentum-2026-11-23/",
+     "published": "2026-11-23T13:34:27Z",
+     "context": "Reports on Gulf stock markets, a regional roundup that typically includes Qatar's index, amid diplomatic efforts over Iran."
+    },
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Prices Edge Lower as Traders Weigh Supply Surplus, Gulf Attacks",
+     "url": "https://www.wsj.com/business/energy-oil/oil-prices-edge-lower-as-traders-weigh-supply-surplus-gulf-attacks-6861119f",
+     "published": "2026-11-23T12:58:00Z",
+     "context": "References Gulf energy supply risks in oil market coverage, a theme tied to Qatar's LNG and Hormuz exposure."
+    },
+    {
+     "outlet": "Financial Times",
+     "region": "UK",
+     "headline": "The Gulf's 'new normal'",
+     "url": "https://www.ft.com/content/770e588c-9d85-4999-a25a-c01b8c3078d3?syn-25a6b1a6=1",
+     "published": "2026-11-23T05:00:03Z",
+     "context": "References the Gulf states, including Qatar, in coverage of the region's security and economic outlook after the Iran war."
+    }
+   ]
+  },
+  {
    "id": "2026-11-23-am",
    "runAt": "2026-11-22T22:05:00Z",
    "label": "Sun 22 Nov · Evening",
