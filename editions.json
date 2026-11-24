@@ -1,6 +1,79 @@
 {
  "editions": [
   {
+   "id": "2026-11-24-am",
+   "runAt": "2026-11-24T03:02:10Z",
+   "label": "Tue 24 Nov · Early Morning",
+   "brief": "Coverage centered on Vice President Vance and Secretary of State Rubio meeting Qatar's prime minister in Washington while Iran talks stay stalled. US outlets stressed uncertainty over Trump's intentions on Iran, while Israeli coverage noted the brevity of the meetings and Iran's limited place on the agenda. Reuters also reported that Canada and Qatar are set to sign an investment pact.",
+   "stories": [
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "lang": "en",
+     "headline": "Vance and Rubio meet with Qatari PM as uncertainty mounts over Trump's intentions with Iran",
+     "url": "https://apnews.com/article/vance-rubio-qatar-iran-war-16e0c2cb05347cfcac068ec4aebb363f",
+     "published": "2026-11-24T01:59:15Z",
+     "summary": "Vice President Vance and Secretary of State Rubio met Qatar's prime minister in Washington as Iran negotiations remain stalled and Trump's plans are unclear.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Vance meets briefly with Qatari mediators, over a week after Trump said he should shift focus off Iran",
+     "url": "https://www.timesofisrael.com/liveblog_entry/vance-meets-with-qatari-mediators-over-a-week-after-trump-said-he-should-shift-focus-off-iran/",
+     "published": "2026-11-24T00:55:09Z",
+     "summary": "Vance held a short meeting with Qatari mediators, days after Trump reportedly told him to step back from the Iran file.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Rubio, Qatari PM meet in Washington, with Iran coming up briefly",
+     "url": "https://www.timesofisrael.com/liveblog_entry/rubio-qatari-pm-meet-in-washington-with-iran-on-the-agenda/",
+     "published": "2026-11-23T20:49:41Z",
+     "summary": "Rubio met the Qatari prime minister in Washington, with Iran on the agenda only briefly.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Newsmax",
+     "region": "US",
+     "lang": "en",
+     "headline": "Vance, Rubio Meet With Qatari PM Amid Iran War Uncertainty",
+     "url": "https://www.newsmax.com/world/globaltalk/jd-vance-marco-rubio-donald-trump/2026/11/23/id/1277317/",
+     "published": "2026-11-23T18:29:00Z",
+     "summary": "Vance and Rubio met the Qatari prime minister while the future of Iran talks remains uncertain.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Canada and Qatar to sign investment pact on Tuesday, source says",
+     "url": "https://www.reuters.com/world/middle-east/canada-qatar-sign-investment-pact-tuesday-source-says-2026-11-23/",
+     "published": "2026-11-23T08:04:00Z",
+     "summary": "A source said Canada and Qatar will sign an investment pact on Tuesday.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Guardian",
+     "region": "UK",
+     "headline": "Gas prices in Europe surge as forecast cold snap feeds supply shortage fears",
+     "url": "https://www.theguardian.com/business/2026/nov/23/gas-prices-in-europe-surge-as-forecast-cold-snap-feeds-supply-shortage-fears",
+     "published": "2026-11-24T02:30:00Z",
+     "context": "Covers a European gas price surge; Qatar is a major LNG supplier to Europe, though how the piece treats Qatar could not be confirmed."
+    }
+   ]
+  },
+  {
    "id": "2026-11-23-pm",
    "runAt": "2026-11-23T15:20:00Z",
    "label": "Mon 23 Nov · Afternoon",
