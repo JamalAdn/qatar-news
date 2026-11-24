@@ -1,6 +1,94 @@
 {
  "editions": [
   {
+   "id": "2026-11-24-pm",
+   "runAt": "2026-11-24T15:15:00Z",
+   "label": "Tue 24 Nov · Evening",
+   "brief": "Coverage centered on Qatar's role as Iran mediator, with US outlets reporting on meetings between Qatar's prime minister and Vice President Vance and Secretary of State Rubio amid stalled talks. Israeli outlets focused more on Qatari proposals and on Qatar's media and investment influence, while a UAE statement of solidarity followed the death of a Qatari defense ministry member on duty.",
+   "stories": [
+    {
+     "outlet": "CNN",
+     "region": "US",
+     "lang": "en",
+     "headline": "UAE expresses solidarity with Qatar after a Defense Ministry member is killed on duty",
+     "url": "https://arabic.cnn.com/middle-east/article/2026/11/24/uae-expresses-solidarity-qatar-amid-soldier-killed",
+     "published": "2026-11-24T02:14:00Z",
+     "summary": "The UAE voiced solidarity with Qatar after a member of its Ministry of Defense was killed while carrying out military duty.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Breitbart",
+     "region": "US",
+     "lang": "en",
+     "headline": "Report: JD Vance meets Qatari leaders on stalled Iran negotiations",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaXBNY2dwblQ2ajRXOHZqQjJPOXVpTlRpLW80aFZackZ6UmJJeDRUWHFMOGNtMWZialgxa3JxU0hVMDRIODM4UWE1ZHBPenFZc1VtMzVLLVJxLVdycThvZjNSR2g5LTF3d1U1NFlJdkVXc1MtMjhLVHlxTG1uY2FUTjJFaDBWaDVONldTRnZRRktjRHFxU05hNFFPUXE0aVY4WWVRelZETnVLcU1qeTdJRDJQTGZFZnox?oc=5",
+     "published": "2026-11-24T00:22:56Z",
+     "summary": "Breitbart reports that the vice president met Qatari officials as the mediated talks with Iran remain stuck.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Washington Times",
+     "region": "US",
+     "lang": "en",
+     "headline": "Rubio meets Qatari prime minister amid diplomatic slowdown on Iran",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRjJBa0EwcU1qVUhOeFpKU0VQcmRaS1RjUExjZWNQVjZWekF0dDNwYUJUV1NLRkRqMERqT3NEMVJIZk9mVEIyejdXNkY5ZHZrd3ZmUmVobm5kRXJKR0Z2NmpvRUFLeFVtdDNfNnhHOHdJUEVmclJROFRBWXFDNGFPRkRVbGQxdl9aNGdJYTNlTlh0cFJEYlcwTlVTdjNjUjVtNXBSLWhzeEFOVEI0ZXVvb2Vlb1RQWmIyckZN?oc=5",
+     "published": "2026-11-23T19:57:00Z",
+     "summary": "The secretary of state held talks with Qatar's prime minister while diplomacy with Iran has lost momentum.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "JNS",
+     "region": "US",
+     "lang": "en",
+     "headline": "Rubio, Qatari PM convene to strengthen Washington-Doha partnership",
+     "url": "https://www.jns.org/news/u-s-news/rubio-qatari-pm-convene-to-strengthen-washington-doha-partnership",
+     "published": "2026-11-24T09:54:54Z",
+     "summary": "Rubio and the Qatari prime minister discussed deepening ties between Washington and Doha.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Maariv",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "\"The Qataris are putting a new proposal on the table\"",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYlp0QWlkM0k3U291Uk12dWRXTWJRZHhOQ0VCeXpMZTdpemhoMUxnVDNZaFFtTk8zVC00eElGV0J3WW9BeTZxRmdsWXNWTi1lam03a2c3M1NDYjV0dzBITkt1VmZfUWt1cGJ0Nm5RcU5YeEtBQkU3eWdJdFVaUUxwUw?oc=5",
+     "published": "2026-11-24T05:21:32Z",
+     "summary": "Israeli radio reports that Qatar has presented a new proposal in the ongoing mediation efforts.",
+     "kind": "news",
+     "major": false,
+     "original_headline": "\"הקטארים מניחים הצעה חדשה על השולחן\""
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Ayelet Shaked calls on the West to set up a rival channel to Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51eElIUnUycVNPRGFvODVBWU0tcDV6bkZSbXE4SElrUmgxXzQtenBqRmZxNzhKTDhVdGRtNjZuN095dmFTQ0hHZUlSS1g4TW9iaTN2RVRoUVNRU2Y4ajJBSGZSeF96eUE?oc=5",
+     "published": "2026-11-23T16:55:44Z",
+     "summary": "The former minister urged Western countries to create a competitor to the Qatar-based Al Jazeera network.",
+     "kind": "opinion",
+     "major": false,
+     "original_headline": "איילת שקד קוראת למערב להקים ערוץ מתחרה לאל-ג'זירה"
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "The Gulf's defense map is now an investment map",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyUkpKTVFaN293bDFqWmduZjZnOENkby0zMkdad09BX3RyQUJJaWNDc2JFTlVlVElFR3RCbVNmcVREU2ZfNXlOYWN5U25qa05kaFN0TGtzck9jWVpXZ2NVSW5lWHhYVmJxdGtka0dR?oc=5",
+     "published": "2026-11-23T17:14:43Z",
+     "summary": "The piece argues that Gulf states' security needs are increasingly shaping their investment decisions.",
+     "kind": "analysis",
+     "major": false
+    }
+   ],
+   "mentions": []
+  },
+  {
    "id": "2026-11-24-am",
    "runAt": "2026-11-24T03:02:10Z",
    "label": "Tue 24 Nov · Early Morning",
