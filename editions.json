@@ -1,6 +1,96 @@
 {
  "editions": [
   {
+   "id": 13,
+   "runAt": "2026-11-25T01:05:00Z",
+   "label": "Tue 24 Nov · Evening",
+   "brief": "Coverage centred on Qatar's role as a go-between in the US-Iran talks, after Qatar's prime minister met senior American officials in Washington, and on Doha's wider economic and diplomatic footprint. Canada signed an investment pact with Qatar, while critical pieces from The Times of Israel and The Daily Wire questioned a Qatari envoy in Geneva and Al Jazeera's use of Google AI. Israeli outlets framed Qatar mainly through Gaza and Israeli-American friction, whereas US outlets focused on the Iran diplomacy.",
+   "stories": [
+    {
+     "outlet": "The Washington Post",
+     "region": "US",
+     "lang": "en",
+     "headline": "Vance and Rubio meet with Qatari PM as uncertainty mounts over Trump's intentions with Iran",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZUt4NmUzYzNVUS1DaHhxTXZ2VDVOaUU5eUdyU3h0ZDA5aUg3Z3BpaEhmYjBNZzdCNTBiLUloYmZJWDQtVmZRZmtTV1QzMFRHeVFTc2QzTlZycmdOX3NSSGFYbEJKMkZjYURCN2FndGVCR1RkMzV",
+     "published": "2026-11-24T04:28:00Z",
+     "summary": "Qatar's prime minister met senior US officials while doubts grew over what the administration intends to do about Iran.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "Canada Signs Foreign Investment Deal With Qatar to Lure Capital",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-24/canada-signs-foreign-investment-deal-with-qatar-to-lure-capital",
+     "published": "2026-11-24T21:35:46Z",
+     "summary": "Canada and Qatar signed a foreign investment agreement aimed at drawing Qatari capital into the Canadian economy.",
+     "kind": "news",
+     "major": true
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "US ambassador in Geneva praises Qatari envoy who has history of antisemitism, homophobia",
+     "url": "https://www.timesofisrael.com/liveblog_entry/us-ambassador-in-geneva-praises-qatari-envoy-who-has-history-of-antisemitism-homophobia/",
+     "published": "2026-11-24T18:04:41Z",
+     "summary": "The US mission in Geneva publicised the ambassador's meeting with Qatar's envoy Hend Al-Muftah, whose past social media posts about Jews, Israel and gay people had cost her a UN rights post bid in 2022.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Maariv",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "\"The Qataris are putting a new proposal on the table\"",
+     "original_headline": "\"הקטארים מניחים הצעה חדשה על השולחן\"",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYlp0QWlkM0k3U291Uk12dWRXTWJRZHhOQ0VCeXpMZTdpemhoMUxnVDNZaFFtTk8zVC00eElGV0J3WW9BeTZxRmdsWXNWTi1lam03a2c3M1NDYjV0dzBITkt1VmZfUWt1cGJ0Nm5RcU5YeEtBQkU",
+     "published": "2026-11-24T05:21:32Z",
+     "summary": "A 103FM segment carried by Maariv says Qatar is presenting a new proposal in the ongoing diplomacy.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Daily Wire",
+     "region": "US",
+     "lang": "en",
+     "headline": "Google Helps Qatar's Al Jazeera Build Its News Machine",
+     "url": "https://www.dailywire.com/news/google-helps-qatars-al-jazeera-build-its-news-machine",
+     "published": "2026-11-24T21:56:45Z",
+     "summary": "The report says Al Jazeera is deploying an AI system called The Core built with Google Cloud and cites analysts worried about unattributed AI-generated content and foreign influence.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Daily Caller",
+     "region": "US",
+     "headline": "Why Europe Suddenly Spends So Much On American Energy",
+     "url": "https://dailycaller.com/2026/11/24/europe-american-energy-exports-iran-war-prices-crude-lng-chris-wright",
+     "published": "2026-11-24T21:44:00Z",
+     "context": "Cites Qatar as the main source of LNG lost when Iran restricted Hormuz traffic, pushing Asian buyers toward American cargoes."
+    },
+    {
+     "outlet": "Ynet",
+     "region": "Israel",
+     "headline": "A 'pariah state' warning and a stalled Gaza plan: inside the growing rift between Israel and the US",
+     "url": "https://www.ynetnews.com/article/sk0s11pxk7x",
+     "published": "2026-11-24T19:57:57Z",
+     "context": "Reports Board of Peace officials disputing Israel's claim that Qatar and Turkey are driving the Gaza stabilization force and reconstruction."
+    },
+    {
+     "outlet": "The Economist",
+     "region": "UK",
+     "headline": "The Gulf survived a short, hot war. A long, cold one will be harder",
+     "url": "https://www.economist.com/middle-east-and-africa/2026/11/24/the-gulf-survived-a-short-hot-war-a-long-cold-one-will-be-harder",
+     "published": "2026-11-24T22:09:57Z",
+     "context": "References Gulf states including Qatar in coverage of the region's strain after the Iran war."
+    }
+   ]
+  },
+  {
    "id": "2026-11-24-pm",
    "runAt": "2026-11-24T15:15:00Z",
    "label": "Tue 24 Nov · Evening",
