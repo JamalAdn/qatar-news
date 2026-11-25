@@ -1,6 +1,46 @@
 {
  "editions": [
   {
+   "id": "2026-11-25-pm",
+   "runAt": "2026-11-25T14:55:00Z",
+   "label": "Wed 25 Nov · Afternoon",
+   "brief": "Qatar coverage was light after a busy start to the week, with energy and diplomacy the main threads. Reuters reported a new Japan-Qatar energy security agreement, while a Times of Israel blog questioned why Washington trusts Doha given its ties to Hamas. US and Israeli outlets continued to frame Qatar mostly through the Iran war and Gaza.",
+   "stories": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "Japan's JBIC, QatarEnergy sign MOU to strengthen energy security",
+     "url": "https://www.reuters.com/business/energy/japans-jbic-qatarenergy-sign-mou-strengthen-energy-security-2026-11-25/",
+     "published": "2026-11-25T08:03:45Z",
+     "summary": "Japan's state-backed lender JBIC and QatarEnergy signed a memorandum aimed at strengthening energy security cooperation.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "The Qatar Paradox: Why Does Washington Trust Doha?",
+     "url": "https://blogs.timesofisrael.com/the-qatar-paradox-why-does-washington-trust-doha/",
+     "published": "2026-11-25T13:40:00Z",
+     "summary": "A blog post questions Washington's deepening security ties with Qatar given Doha's hosting of Hamas leaders, its US lobbying and its mediator role.",
+     "kind": "opinion",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Most Gulf stocks slide as Saudi strikes weigh on markets; Fed eyed",
+     "url": "https://www.reuters.com/world/middle-east/gulf-bourses-mixed-after-saudi-attacks-us-inflation-data-focus-2026-11-25/",
+     "published": "2026-11-25T13:13:00Z",
+     "context": "References Qatar in coverage of Gulf stock markets reacting to Saudi strikes."
+    }
+   ]
+  },
+  {
    "id": 13,
    "runAt": "2026-11-25T01:05:00Z",
    "label": "Tue 24 Nov · Evening",
