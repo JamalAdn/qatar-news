@@ -1,6 +1,43 @@
 {
  "editions": [
   {
+   "id": "2026-11-26-pm",
+   "runAt": "2026-11-26T14:16:11Z",
+   "label": "Thu 26 Nov · Afternoon",
+   "brief": "Qatar coverage was light this cycle, led by Bloomberg's report that Qatar has lifted its LNG exports to the highest level since February just as winter demand nears its peak. Qatar also featured in wider reporting on Gulf markets and shipping risks around Hormuz, with no distinct difference in framing between US and Israeli outlets.",
+   "stories": [
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatar Is Boosting LNG Exports Just as Winter Demand Nears Its Peak",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-26/qatar-has-boosted-lng-exports-to-their-highest-since-february",
+     "published": "2026-11-26T07:08:00Z",
+     "summary": "Qatar has raised its liquefied natural gas shipments to their highest level since February as seasonal demand approaches its peak.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Most Gulf markets muted on Saudi energy strikes, maritime dangers",
+     "url": "https://www.reuters.com/world/middle-east/most-gulf-markets-muted-saudi-energy-strikes-maritime-dangers-2026-11-26/",
+     "published": "2026-11-26T08:50:09Z",
+     "context": "References Qatar in coverage of Gulf stock markets reacting to regional energy strikes and shipping risks."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Iran's Revolutionary Guards say two oil tankers hit sea mines near Oman's Khasab",
+     "url": "https://www.reuters.com/world/middle-east/irans-revolutionary-guards-say-two-oil-tankers-hit-sea-mines-near-omans-khasab-2026-11-26/",
+     "published": "2026-11-26T12:06:18Z",
+     "context": "References Qatar in coverage of Gulf maritime security and the Iran war."
+    }
+   ]
+  },
+  {
    "id": "2026-11-26-am",
    "runAt": "2026-11-26T00:40:00Z",
    "label": "Thu 26 Nov · Morning",
