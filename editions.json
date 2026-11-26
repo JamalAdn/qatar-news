@@ -1,6 +1,39 @@
 {
  "editions": [
   {
+   "id": "2026-11-26-am",
+   "runAt": "2026-11-26T00:40:00Z",
+   "label": "Thu 26 Nov · Morning",
+   "brief": "Qatar coverage was quiet overnight, with no new major developments from the tracked outlets. Qatar appeared mainly as a background player in wider reporting on the Iran war, Gulf investment pledges and US peace diplomacy, with US and Israeli outlets continuing to frame it through Iran and Gaza.",
+   "stories": [],
+   "mentions": [
+    {
+     "outlet": "Associated Press",
+     "region": "Wire",
+     "headline": "AP video report on the Iran war and Trump",
+     "url": "https://apnews.com/article/iran-us-war-trump-qatar-c38770b168faf5e094e96c1e1e212cff",
+     "published": "2026-11-25T22:07:58Z",
+     "context": "References Qatar in coverage of the US-Iran war and Trump's diplomacy."
+    },
+    {
+     "outlet": "Politico",
+     "region": "US",
+     "headline": "'This isn't about fairness or who's right or wrong': How Jared Kushner views the U.S. role in brokering peace",
+     "url": "https://www.politico.com/news/2026/11/25/this-isnt-about-fairness-or-whos-right-or-wrong-how-jared-kushner-views-the-u-s-role-in-brokering-peace-01183055",
+     "published": "2026-11-25T20:37:00Z",
+     "context": "References Qatar in coverage of Kushner's peace-brokering role, where Qatar is both a mediator and an investor in his firm."
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Where are the Gulf's pledged trillions?",
+     "url": "https://www.reuters.com/world/middle-east/where-are-gulfs-pledged-trillions-2026-11-25/",
+     "published": "2026-11-25T08:47:00Z",
+     "context": "Looks at Gulf investment pledges to the US, a theme that includes Qatar's large commitments, as the Iran war strains finances."
+    }
+   ]
+  },
+  {
    "id": "2026-11-25-pm",
    "runAt": "2026-11-25T14:55:00Z",
    "label": "Wed 25 Nov · Afternoon",
