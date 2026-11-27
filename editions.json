@@ -1,6 +1,82 @@
 {
  "editions": [
   {
+   "id": "2026-11-27-pm",
+   "runAt": "2026-11-27T14:13:16Z",
+   "label": "Fri 27 Nov · Afternoon",
+   "brief": "Qatar coverage centred on energy and Gaza funding. Bloomberg reported that Qatar's push to raise LNG exports is giving South Asian buyers a lifeline, while an Israeli outlet repeated the Iranian foreign minister's remark that Qatari and Pakistani mediators are still relaying messages between Tehran and Washington. A JNS analysis took a critical line on Qatari money flowing to Gaza and its link to Netanyahu and Hamas, a framing that reflects the sharper scepticism of Qatar common in US and Israeli commentary.",
+   "stories": [
+    {
+     "outlet": "Bloomberg",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatar's LNG Export Push Provides Lifeline to South Asian Buyers",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-27/qatar-s-lng-export-push-provides-lifeline-to-south-asian-buyers",
+     "published": "2026-11-27T08:16:09Z",
+     "summary": "Qatar's drive to raise liquefied natural gas shipments is easing supply worries for buyers in South Asia.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Israel Hayom",
+     "region": "Israel",
+     "lang": "he",
+     "headline": "Iranian foreign minister: Qatar and Pakistan continue their mediation efforts",
+     "original_headline": "שר החוץ האיראני: קטאר ופקיסטן ממשיכות במאמצי התיווך",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOMzBZNFdzSXZJcVdQMTJZaF9rcnNNM0hWNUVnWVlGR1Bha1JaZHp2ME1oaVYxMmxORjRKSXVwbG9MdkJ6bWdSdTR6TFp6UE5FVEFlekhhZ2MzSDlicExCZHRnSzYySmM?oc=5",
+     "published": "2026-11-26T15:03:28Z",
+     "summary": "Iran's foreign minister said Qatari and Pakistani mediators are still passing messages between Tehran and Washington.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "JNS",
+     "region": "US",
+     "lang": "en",
+     "headline": "Qatar's money for Gaza: The truth about Netanyahu, Hamas and humanitarian aid",
+     "url": "https://www.jns.org/analysis/qatars-money-for-gaza-the-truth-about-netanyahu-hamas-and-humanitarian-aid",
+     "published": "2026-11-27T06:09:15Z",
+     "summary": "The analysis examines the history of Qatari funds sent to Gaza and how they relate to Israeli government policy toward Hamas.",
+     "kind": "analysis",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "The Wall Street Journal",
+     "region": "US",
+     "headline": "Oil Prices Mixed Ahead of OPEC+ Meeting as Middle East Supply Risks Persist",
+     "url": "https://www.wsj.com/business/energy-oil/oil-prices-rise-ahead-of-opec-meeting-as-middle-east-supply-risks-persist-63fbb550",
+     "published": "2026-11-27T12:50:00Z",
+     "context": "References Qatar in coverage of Gulf energy supply risks ahead of the OPEC+ meeting."
+    },
+    {
+     "outlet": "National Review",
+     "region": "US",
+     "headline": "Iran War: Task Force Iron Gate Targets Tehran's Remaining Trade Routes",
+     "url": "https://www.nationalreview.com/article/iran-overland-scramble-is-a-turning-point",
+     "published": "2026-11-27T11:00:00Z",
+     "context": "References Qatar in coverage of the Iran war and pressure on Tehran's trade routes."
+    },
+    {
+     "outlet": "Newsmax",
+     "region": "US",
+     "headline": "Pakistan set to host talks with Saudi Arabia and Turkey under trilateral defense pact",
+     "url": "https://www.newsmax.com/world/globaltalk/pakistan-saudi-turkey-meeting-trilateral-alliance/2026/11/27/id/1277675/",
+     "published": "2026-11-27T11:09:43Z",
+     "context": "References Qatar in coverage of regional defense diplomacy involving Pakistan, Saudi Arabia and Turkey."
+    },
+    {
+     "outlet": "Newsmax",
+     "region": "US",
+     "headline": "UN Warns Hunger Will Deepen in the Middle East as War, Fuel Costs and Aid Cuts Collide",
+     "url": "https://www.newsmax.com/world/globaltalk/un-hunger-famine-food-war-sudan-yemen/2026/11/27/id/1277676/",
+     "published": "2026-11-27T10:00:56Z",
+     "context": "References Qatar in coverage of the regional humanitarian impact of the Iran war."
+    }
+   ]
+  },
+  {
    "id": "2026-11-27-am",
    "runAt": "2026-11-27T00:50:00Z",
    "label": "Fri 27 Nov · Early Morning",
