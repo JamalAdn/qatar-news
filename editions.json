@@ -1,6 +1,37 @@
 {
  "editions": [
   {
+   "id": "2026-11-27-am",
+   "runAt": "2026-11-27T00:50:00Z",
+   "label": "Fri 27 Nov · Early Morning",
+   "brief": "Qatar featured in diplomacy and finance stories this cycle. Reuters reported that the US and Qatar are preparing to help Venezuela clear its arrears to a regional development bank, while Iran's foreign minister said Qatari and Pakistani mediators are still passing messages between Tehran and Washington. Coverage of the wider Iran and Gaza fighting, from US and Israeli outlets alike, mostly mentioned Qatar only in passing.",
+   "stories": [
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Iran's FM: Qatari and Pakistani mediators still transmitting messages between Iran and US",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTjFQUEt2M1dpQ3hHcU02ank3dF9YUEh5emJseTR3ZzlfNnpDOFdIUWx5Y1dVUFBHQUVkMk9tNGdCa2F1cDRjSkFKS1NIb3NZcUU5RHRhVWhkekV3V0o3V3VhUzd2Q0ZVam5SaVpucExreERFVk50ZC01UzAxUmM0LXUwZThfQnJpQnQ0S3pqc2o1eXVmM1dwT1UybGFvNXFpU29HM3RnRmRkNzRmNS1UZFdvZG9UQm5yY196Z0VxUlJ0LTNxdGFKWjBVNWg5QQ?oc=5",
+     "published": "2026-11-26T16:00:53Z",
+     "summary": "Iran's foreign minister said Qatar and Pakistan continue to relay messages between Tehran and Washington.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "lang": "en",
+     "headline": "US, Qatar to help Venezuela clear regional development bank arrears, sources say",
+     "url": "https://www.reuters.com/world/middle-east/us-qatar-help-venezuela-clear-regional-development-bank-arrears-sources-say-2026-11-26/",
+     "published": "2026-11-26T21:29:03Z",
+     "summary": "Sources say Washington and Doha plan to help Venezuela settle its overdue debts to a regional development bank.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": []
+  },
+  {
    "id": "2026-11-26-pm",
    "runAt": "2026-11-26T14:16:11Z",
    "label": "Thu 26 Nov · Afternoon",
