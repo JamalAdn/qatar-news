@@ -1,6 +1,54 @@
 {
  "editions": [
   {
+   "id": "2026-11-28-am",
+   "runAt": "2026-11-28T00:15:00Z",
+   "label": "Sat 28 Nov · Morning",
+   "brief": "Qatar's role as a go-between in the US-Iran standoff dominated the coverage. Iran's foreign minister said Qatari and Pakistani mediators are still passing messages to Washington, and Qatar's own foreign minister said mediation continues despite friction with Tehran. The Israeli report stuck to the facts of the mediation, while the US outlet framed it as Iran admitting to negotiations it had downplayed.",
+   "stories": [
+    {
+     "outlet": "Breitbart",
+     "region": "US",
+     "lang": "en",
+     "headline": "Iran Admits to Negotiations with U.S. Via Qatar and Pakistan",
+     "url": "https://www.breitbart.com/national-security/2026/11/27/iran-admits-to-negotiations-with-u-s-via-qatar-and-pakistan/",
+     "published": "2026-11-27T22:17:53Z",
+     "summary": "Iran's foreign minister confirmed Tehran is weighing proposals relayed by Qatar and Pakistan, even as Iran summoned Qatar's charge d'affaires over a joint statement with Germany, while Doha says mediation is ongoing.",
+     "kind": "news",
+     "major": false
+    },
+    {
+     "outlet": "The Times of Israel",
+     "region": "Israel",
+     "lang": "en",
+     "headline": "Iran's FM: Qatari and Pakistani mediators still transmitting messages between Iran and US",
+     "url": "https://www.timesofisrael.com/liveblog_entry/irans-fm-qatari-and-pakistani-mediators-still-transmitting-messages-between-iran-and-us",
+     "published": "2026-11-27T00:52:32Z",
+     "summary": "Abbas Araghchi said Qatari and Pakistani mediators are carrying ideas between Tehran and Washington, while Iran's core position is unchanged.",
+     "kind": "news",
+     "major": false
+    }
+   ],
+   "mentions": [
+    {
+     "outlet": "Reuters",
+     "region": "Wire",
+     "headline": "Son of Hamas chief survives Israeli strike, Hamas says",
+     "url": "https://www.reuters.com/world/middle-east/son-hamas-chief-survives-israeli-strike-hamas-says-2026-11-27/",
+     "published": "2026-11-27T23:26:36Z",
+     "context": "References Qatar in coverage of an Israeli strike targeting the family of a Hamas leader."
+    },
+    {
+     "outlet": "Newsmax",
+     "region": "US",
+     "headline": "Iran Reviews US Peace Proposals as Blockade Pressure Mounts",
+     "url": "https://www.newsmax.com/globaltalk/iran-united-states-negotiations/2026/11/27/id/1277722/",
+     "published": "2026-11-27T20:39:45Z",
+     "context": "References Qatar in coverage of Iran's review of US proposals during the naval blockade."
+    }
+   ]
+  },
+  {
    "id": "2026-11-27-pm",
    "runAt": "2026-11-27T14:13:16Z",
    "label": "Fri 27 Nov · Afternoon",
